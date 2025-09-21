@@ -1,23 +1,11 @@
 {
-  "id": "com.kiritoying.french.v85.optimized",
-  "version": "8.5.4",
-  "name": "🇫🇷 KiritoYing V85 FINALE OPTIMISÉE",
-  "description": "🎬 Films envies françaises + 📺 Séries envies | 100% TMDB métadonnées | Affiches françaises + logos | Déduplication optimisée URL directe | ⚡ ULTRA RAPIDE",
-  "logo": "https://i.postimg.cc/MKcvDz4L/kiritoying-v85-optimized.png",
-  "background": "https://i.postimg.cc/3RvMg3dC/kiritoying-bg.jpg",
+  "id": "com.kiritoying.v85.final.working",
+  "version": "8.5.11",
+  "name": "🇫🇷 KiritoYing V85 Final Working",
+  "description": "🎬 Films + 📺 Séries envies | Notes SPECTATEURS | Tri par qualité | Basé V75 qui marche",
   "resources": [
     {
       "name": "catalog",
-      "types": [
-        "movie",
-        "series"
-      ],
-      "idPrefixes": [
-        "tmdb:"
-      ]
-    },
-    {
-      "name": "meta",
       "types": [
         "movie",
         "series"
@@ -33,51 +21,16 @@
   ],
   "catalogs": [
     {
-      "id": "kiritoying_films_envies_v85_optimized",
+      "id": "films_tri",
       "type": "movie",
-      "name": "🎬 MES FILMS ENVIES (Optimisé Ultra-Rapide)",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "action",
-            "aventure",
-            "comédie",
-            "drame",
-            "fantaisie",
-            "thriller",
-            "crime",
-            "horreur",
-            "romance",
-            "science-fiction"
-          ]
-        }
-      ]
+      "name": "🎬 FILMS ENVIES (Triés par Notes)",
+      "extra": []
     },
     {
-      "id": "kiritoying_series_envies_v85_optimized",
+      "id": "series_tri",
       "type": "series",
-      "name": "📺 MES SÉRIES ENVIES (Optimisé Ultra-Rapide)",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "action",
-            "aventure",
-            "comédie",
-            "drame",
-            "fantaisie",
-            "thriller",
-            "crime",
-            "mystère"
-          ]
-        }
-      ]
+      "name": "📺 SÉRIES ENVIES (Triées par Notes)",
+      "extra": []
     }
-  ],
-  "behaviorHints": {
-    "adult": false,
-    "configurable": false,
-    "configurationRequired": false
-  }
+  ]
 }
