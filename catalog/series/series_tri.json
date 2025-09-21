@@ -2,7 +2,7 @@
   "metas": [
     {
       "id": "tmdb:1396",
-      "type": "tv",
+      "type": "series",
       "name": "Breaking Bad",
       "poster": "https://image.tmdb.org/t/p/w500/tP2wgZfzkZxL18jImD2YXqEUXQA.jpg",
       "background": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
@@ -3117,4 +3117,5 @@
       "description": "Dans les champs gelés du Wisconsin rural des années 1950, un reclus amical et doux nommé Eddie Gein vivait tranquillement dans une ferme en ruine - cachant une maison d'horreurs si épouvantables qu'elles allaient redéfinir le cauchemar américain. Poussé par l'isolement, la psychose et une obsession dévorante pour sa mère, les crimes pervers de Gein ont donné naissance à un nouveau type de monstre qui allait hanter Hollywood pendant des décennies."
     }
   ]
+
 }
