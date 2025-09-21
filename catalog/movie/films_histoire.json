@@ -1,0 +1,1636 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:857",
+      "type": "movie",
+      "name": "Il faut sauver le soldat Ryan",
+      "poster": "https://image.tmdb.org/t/p/w500/mlSsQWIQV0NKIqqRQRI0yi9gqk8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+      "year": "1998",
+      "imdbRating": "4.4",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Tom Sizemore",
+        "Edward Burns",
+        "Barry Pepper",
+        "Adam Goldberg",
+        "Vin Diesel"
+      ],
+      "description": "Vue à travers le regard d’une escouade de soldats américains, l’histoire débute le jour du Débarquement au cours de la 2ème Guerre Mondiale, le long des plages de Normandie. Le capitaine John Miller a pour mission de retrouver le soldat James Ryan, dont les trois frères sont morts au combat et il s’expose ainsi à de nombreux risques. Confrontés à une situation périlleuse, les hommes discutent les ordres. Pourquoi huit hommes risqueraient-ils leur vie pour un seul homme ? Rattrapés par la brutalité de la guerre, chacun cherche sa propre réponse ainsi que la force de vaincre un futur incertain avec honneur, décence et courage.",
+      "logo": "https://image.tmdb.org/t/p/w500/Acfr0s5zTzGSCaKHiEHIvrhunea.png"
+    },
+    {
+      "id": "tmdb:324786",
+      "type": "movie",
+      "name": "Tu ne tueras point",
+      "poster": "https://image.tmdb.org/t/p/w500/zyxSZvaA7mU7mwnO1lR2cXUdQdV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+      "year": "2016",
+      "imdbRating": "4.4",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Mel Gibson"
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Sam Worthington",
+        "Vince Vaughn",
+        "Teresa Palmer",
+        "Luke Bracey",
+        "Hugo Weaving"
+      ],
+      "description": "Quand la Seconde Guerre mondiale a éclaté, Desmond, un jeune américain, s’est retrouvé confronté à un dilemme: comme n’importe lequel de ses compatriotes, il voulait servir son pays, mais la violence était incompatible avec ses croyances et ses principes moraux. Il s’opposait ne serait-ce qu’à tenir une arme et refusait d’autant plus de tuer. Il s’engagea tout de même dans l’infanterie comme médecin. Son refus d’infléchir ses convictions lui valut d’être rudement mené par ses camarades et sa hiérarchie, mais c’est armé de sa seule foi qu’il est entré dans l’enfer de la guerre pour en devenir l’un des plus grands héros. Lors de la bataille d’Okinawa sur l’imprenable falaise de Maeda, il a réussi à sauver des dizaines de vies seul sous le feu de l’ennemi, ramenant en sureté, du champ de bataille, un à un les soldats blessés.",
+      "logo": "https://image.tmdb.org/t/p/w500/l9s1f81O73NdgRbiqYh0XQ6VYNh.png"
+    },
+    {
+      "id": "tmdb:1955",
+      "type": "movie",
+      "name": "Elephant Man",
+      "poster": "https://image.tmdb.org/t/p/w500/zf9GBMbvU2KA8dDpZ2MaApUsFX8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1YlaU9vXlD4K5EBGZKjaCb9rJb9.jpg",
+      "year": "1980",
+      "imdbRating": "4.4",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "David Lynch"
+      ],
+      "cast": [
+        "Anthony Hopkins",
+        "John Hurt",
+        "Anne Bancroft",
+        "John Gielgud",
+        "Wendy Hiller",
+        "Freddie Jones"
+      ],
+      "description": "Londres, 1884. Le chirurgien Frederick Treves découvre un homme complètement défiguré et difforme, devenu une attraction de foire. John Merrick, «le monstre», doit son nom de Elephant Man au terrible accident que subit sa mère. Alors enceinte de quelques mois, elle est renversée par un éléphant. Impressionné par de telles difformités, le Dr. Treves achète Merrick, l'arrachant ainsi à la violence de son propriétaire, et à l'humiliation quotidienne d'être mis en spectacle. Le chirurgien pense alors que «le monstre» est un idiot congénital. Il découvre rapidement en Merrick un homme meurtri, intelligent et doté d'une grande sensibilité.",
+      "logo": "https://image.tmdb.org/t/p/w500/7rYEC20uKXsHRQs3Hn0qaV1Tzln.png"
+    },
+    {
+      "id": "tmdb:396194",
+      "type": "movie",
+      "name": "Ennio",
+      "poster": "https://image.tmdb.org/t/p/w500/m66if44yZhydj4Eh3DNj04NaGEy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iytQNneOp4lNSKktRh9T6Fo3UXk.jpg",
+      "year": "2022",
+      "imdbRating": "4.4",
+      "genres": [
+        "Documentaire",
+        "Musique",
+        "Histoire"
+      ],
+      "director": [
+        "Giuseppe Tornatore"
+      ],
+      "cast": [
+        "Ennio Morricone",
+        "Silvano Agosti",
+        "Alessandro Alessandroni",
+        "Fausto Ancillai",
+        "Dario Argento",
+        "Joan Baez"
+      ],
+      "description": "A l’âge de 8 ans, Ennio Morricone rêve de devenir médecin. Mais son père décide qu’il sera trompettiste, comme lui. Du conservatoire de musique à l’Oscar du meilleur compositeur, l’itinéraire d’un des plus grands musiciens du 20ème siècle.",
+      "logo": "https://image.tmdb.org/t/p/w500/jNOVOq1knEolySi0CtXr54XN90l.png"
+    },
+    {
+      "id": "tmdb:411003",
+      "type": "movie",
+      "name": "Lumière ! L'aventure commence",
+      "poster": "https://image.tmdb.org/t/p/w500/1HM3oWIjC6W5bViy69uEfQHsTv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/42mJ1tutVUa4Le7iwiJAQhAllNz.jpg",
+      "year": "2016",
+      "imdbRating": "4.4",
+      "genres": [
+        "Documentaire",
+        "Histoire"
+      ],
+      "director": [
+        "Thierry Frémaux"
+      ],
+      "cast": [
+        "Thierry Frémaux",
+        "Martin Scorsese"
+      ],
+      "description": "En 1895, les frères Lumière inventent le Cinématographe et tournent parmi les tout-premiers films de l’histoire du cinéma. Mise en scène, travelling, trucage ou remake, ils inventent aussi l’art de filmer. Chefs-d’œuvre mondialement célèbres ou pépites méconnues, cette sélection de films restaurés offre un voyage aux origines du cinéma.  Ces images inoubliables sont un regard unique sur la France et le Monde qui s’ouvrent au 20e siècle.  Lumière, l’aventure du cinéma commence !"
+    },
+    {
+      "id": "tmdb:205596",
+      "type": "movie",
+      "name": "Imitation Game",
+      "poster": "https://image.tmdb.org/t/p/w500/gBxCZuieAe8KClWWP1vVijXBlTp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+      "year": "2014",
+      "imdbRating": "4.3",
+      "genres": [
+        "Histoire",
+        "Drame",
+        "Thriller",
+        "Guerre"
+      ],
+      "director": [
+        "Morten Tyldum"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Keira Knightley",
+        "Matthew Goode",
+        "Rory Kinnear",
+        "Allen Leech",
+        "Matthew Beard"
+      ],
+      "description": "1940 : Alan Turing, mathématicien, cryptologue, est chargé par le gouvernement Britannique de percer le secret de la célèbre machine de cryptage allemande Enigma, réputée inviolable. À la tête d'une équipe improbable de savants, linguistes, champions d'échecs et agents du renseignement, Turing s'attaque au chef-d'œuvre de complexité dont la clef peut conduire à la victoire. IMITATION GAME relate la façon dont Alan Turing, soumis à une intense pression, contribua à changer le cours de la Seconde Guerre mondiale et de l'Histoire. C'est aussi le portrait d'un homme qui se retrouva condamné par la société de l'époque en raison de son homosexualité et en mourut.",
+      "logo": "https://image.tmdb.org/t/p/w500/aouMBqB20VBFM3J8V02hBkfWVq6.png"
+    },
+    {
+      "id": "tmdb:45269",
+      "type": "movie",
+      "name": "Le Discours d'un roi",
+      "poster": "https://image.tmdb.org/t/p/w500/qFkRDGzibEqOzkT387FZGWplW12.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
+      "year": "2010",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Tom Hooper"
+      ],
+      "cast": [
+        "Colin Firth",
+        "Geoffrey Rush",
+        "Helena Bonham Carter",
+        "Guy Pearce",
+        "Timothy Spall",
+        "Michael Gambon"
+      ],
+      "description": "D’après l’histoire vraie et méconnue du père de la reine Élisabeth II, qui va devenir, contraint et forcé, le roi George VI, suite à l’abdication de son frère Édouard VIII. D’apparence fragile, incapable de s’exprimer en public, considéré par certains comme inapte à la fonction, George VI tentera de surmonter son handicap grâce au soutien indéfectible de sa femme et d’affronter ses peurs avec l’aide d’un thérapeute du langage aux méthodes peu conventionnelles. Il devra vaincre son bégaiement pour assumer pleinement son rôle, et faire de son empire le premier rempart contre l’Allemagne nazie.",
+      "logo": "https://image.tmdb.org/t/p/w500/FPjrkyEFu29oqeiz5O3oESUU4m.png"
+    },
+    {
+      "id": "tmdb:152532",
+      "type": "movie",
+      "name": "Dallas Buyers Club",
+      "poster": "https://image.tmdb.org/t/p/w500/euuPpXZhVBZzD0JLghTX7foFY70.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sbVKj98cq0FztCukzu47bu0H8o7.jpg",
+      "year": "2013",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Jean-Marc Vallée"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Jennifer Garner",
+        "Jared Leto",
+        "Denis O'Hare",
+        "Steve Zahn",
+        "Michael O'Neill"
+      ],
+      "description": "1986, Dallas, Texas. Ron Woodroof, cow‐boy de 35 ans, des bottes, un Stetson. Sa vie: sexe, drogue et rodéo. Tout bascule quand le sida (VIH) est diagnostiqué avec une espérance de vie de trente jours. Soulevé par l’impuissance du corps médical qui n'a le droit qu'à l'inefficace AZT, il recourt à des traitements alternatifs de l'Étranger non officiels. Au fil du temps, il rassemble d’autres malades en quête de guérison : le « Dallas Buyers Club » est né. Mais son succès gêne les lobbies, Ron doit s’engager dans une bataille contre les laboratoires et les autorités fédérales. C’est son combat pour une nouvelle cause et pour sa propre vie.  Film librement inspiré de la vie de Ron Woodroof (1950 - 1992).",
+      "logo": "https://image.tmdb.org/t/p/w500/n1e0BAQNRQzkj4BDyILlelhZHVy.png"
+    },
+    {
+      "id": "tmdb:359724",
+      "type": "movie",
+      "name": "Le Mans 66",
+      "poster": "https://image.tmdb.org/t/p/w500/2KQI0x6AEdbiN6z4LWjKZHukMzZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+      "year": "2019",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Action",
+        "Histoire"
+      ],
+      "director": [
+        "James Mangold"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Christian Bale",
+        "Jon Bernthal",
+        "Caitríona Balfe",
+        "Josh Lucas",
+        "Noah Jupe"
+      ],
+      "description": "Relate l’histoire vraie qui a conduit l’ingénieur automobile visionnaire américain Caroll Shelby à faire équipe avec le pilote de course britannique surdoué Ken Miles. Bravant l’ordre établi, défiant les lois de la physique et luttant contre leurs propres démons, les deux hommes n’avaient qu’un seul but : construire pour le compte de Ford Motor Company un bolide révolutionnaire capable de renverser la suprématie de l’écurie d’Enzo Ferrari sur le mythique circuit des 24 heures du Mans en 1966…",
+      "logo": "https://image.tmdb.org/t/p/w500/bH8b2sHYmoCO9GlJtzKTVpYWPqa.png"
+    },
+    {
+      "id": "tmdb:117",
+      "type": "movie",
+      "name": "Les Incorruptibles",
+      "poster": "https://image.tmdb.org/t/p/w500/xrdMy48NrJSJYRplKfuQT0sDfSI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qJbMgG2ZkWOk7zdMfC4JVfEk10N.jpg",
+      "year": "1987",
+      "imdbRating": "4.3",
+      "genres": [
+        "Crime",
+        "Histoire",
+        "Thriller"
+      ],
+      "director": [
+        "Brian De Palma"
+      ],
+      "cast": [
+        "Kevin Costner",
+        "Sean Connery",
+        "Robert De Niro",
+        "Charles Martin Smith",
+        "Andy García",
+        "Richard Bradford"
+      ],
+      "description": "À Chicago en 1930, à l’époque de la prohibition, le trafic d’alcool bat son plein et permet à des truands de bâtir des fortunes colossales. Eliot Ness, jeune policier frais émoulu du FBI, est chargé de démanteler un réseau de contrebande d’alcool. L’ennemi est facilement identifiable : Al Capone, inattaquable officiellement, est pourtant impliqué dans les affaires les plus sordides. La première mission de Ness, maladroitement conduite, se solde par un échec humiliant. Loin de se laisser décourager par ce premier affront, Ness décide de s’entourer de personnes de confiance. Il recrute ainsi Jim Malone, un flic qui connaît bien le monde des truands…",
+      "logo": "https://image.tmdb.org/t/p/w500/asO4rfQboDFWGeznuDYk1oV1esT.png"
+    },
+    {
+      "id": "tmdb:544510",
+      "type": "movie",
+      "name": "Edmond",
+      "poster": "https://image.tmdb.org/t/p/w500/gNgoOz7aceNllJnXpZ7H9ttUytb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/flqONlzGNUkGCJr9BfBhGNLYo6B.jpg",
+      "year": "2018",
+      "imdbRating": "4.3",
+      "genres": [
+        "Comédie",
+        "Histoire"
+      ],
+      "director": [
+        "Alexis Michalik"
+      ],
+      "cast": [
+        "Thomas Solivérès",
+        "Olivier Gourmet",
+        "Mathilde Seigner",
+        "Tom Leeb",
+        "Lucie Boujenah",
+        "Alice de Lencquesaing"
+      ],
+      "description": "Paris, Décembre 1897. Edmond Rostand n’a pas encore trente ans mais déjà deux enfants et beaucoup d’angoisses. Il n’a rien écrit depuis deux ans. En désespoir de cause, il propose au grand Constant Coquelin une pièce nouvelle, une comédie héroïque, en vers, pour les fêtes. Seul souci : elle n’est pas encore écrite.",
+      "logo": "https://image.tmdb.org/t/p/w500/xc1TME5dUvSxUeTyEdumf2Hgm3X.png"
+    },
+    {
+      "id": "tmdb:197",
+      "type": "movie",
+      "name": "Braveheart",
+      "poster": "https://image.tmdb.org/t/p/w500/cteCb7HgeNmx8aeu5drpTb7N8fB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+      "year": "1995",
+      "imdbRating": "4.2",
+      "genres": [
+        "Action",
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Mel Gibson"
+      ],
+      "cast": [
+        "Mel Gibson",
+        "Catherine McCormack",
+        "Sophie Marceau",
+        "Patrick McGoohan",
+        "Angus Macfadyen",
+        "Brendan Gleeson"
+      ],
+      "description": "À la fin du XIIIe siècle, le roi Edward 1er d'Angleterre s'empare du trône d’Écosse, réduisant son peuple à la misère. William Wallace donne le signe de la révolte et, à la tête d'une armée de gueux, parvient à reconquérir plusieurs places fortes. Mais les nobles écossais sont lâchés et par deux fois trahissent le héros de leur peuple…",
+      "logo": "https://image.tmdb.org/t/p/w500/pR5G2Uac1QcbTUY4zJa3NEexlYb.png"
+    },
+    {
+      "id": "tmdb:314365",
+      "type": "movie",
+      "name": "Spotlight",
+      "poster": "https://image.tmdb.org/t/p/w500/bY4K4gkDjJCNsNLHhdDPApTZiE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+      "year": "2015",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Tom McCarthy"
+      ],
+      "cast": [
+        "Mark Ruffalo",
+        "Michael Keaton",
+        "Rachel McAdams",
+        "Liev Schreiber",
+        "John Slattery",
+        "Brian d'Arcy James"
+      ],
+      "description": "Une équipe de journalistes d’investigation, baptisée Spotlight, a enquêté pendant 12 mois sur des suspicions d’abus sexuels au sein d’une des institutions les plus anciennes et les plus respectées au monde. L’enquête révèlera que L’Eglise Catholique a protégé pendant des décennies les personnalités religieuses, juridiques et politiques les plus en vue de Boston, et déclenchera par la suite une vague de révélations dans le monde entier.",
+      "logo": "https://image.tmdb.org/t/p/w500/wRlB5hzbORpwGlrpAySS9nVt01n.png"
+    },
+    {
+      "id": "tmdb:14574",
+      "type": "movie",
+      "name": "Le Garçon au pyjama rayé",
+      "poster": "https://image.tmdb.org/t/p/w500/9OlMcVcuFl2cjUKLvLYBael6kkX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/A63giQFJP4ABqNk4sLzegVeqVdl.jpg",
+      "year": "2008",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Guerre",
+        "Histoire"
+      ],
+      "director": [
+        "Mark Herman"
+      ],
+      "cast": [
+        "Asa Butterfield",
+        "Vera Farmiga",
+        "David Thewlis",
+        "Jack Scanlon",
+        "Amber Beattie",
+        "Rupert Friend"
+      ],
+      "description": "Seconde Guerre mondiale. Bruno a tout juste 9 ans lorsque son père, un officier nazi remarqué par le Führer, se voit confier le commandement du camp de concentration polonais d'Auschwitz. Le petit garçon n'apprécie guère de devoir quitter la belle et grande maison de Berlin pour se retrouver dans une demeure isolée et triste. De sa chambre, il aperçoit des hommes, des femmes et des enfants tous vêtus de pyjamas rayés. Personne ne lui explique qui ils sont, mais l'innocence aidant, il va se lier d'amitié avec un enfant juif…",
+      "logo": "https://image.tmdb.org/t/p/w500/8JtfpYqBprvqPYfrdGZ9ONiVh0p.png"
+    },
+    {
+      "id": "tmdb:906126",
+      "type": "movie",
+      "name": "Le Cercle des neiges",
+      "poster": "https://image.tmdb.org/t/p/w500/nDbV9AUeUc7Zf5vUAqoagF7O8M7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/md848EEPm3dHZOqwGxxTVwH2vu5.jpg",
+      "year": "2023",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "J. A. Bayona"
+      ],
+      "cast": [
+        "Enzo Vogrincic",
+        "Agustín Pardella",
+        "Matías Recalt",
+        "Esteban Bigliardi",
+        "Diego Vegezzi",
+        "Fernando Contigiani García"
+      ],
+      "description": "Le 13 octobre 1972, le vol 571 de l'armée de l'air uruguayenne, affrété pour transporter une équipe de rugby au Chili, s'écrase sur un glacier au cœur des Andes.",
+      "logo": "https://image.tmdb.org/t/p/w500/tGXrh5qHzJiIxS7MYxpZ74omnTL.png"
+    },
+    {
+      "id": "tmdb:842859",
+      "type": "movie",
+      "name": "La plus précieuse des marchandises",
+      "poster": "https://image.tmdb.org/t/p/w500/tPakN7T2T6VHd3Q7kPmASbHfq9P.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bKhhWhoV6B1Kq1wKRSWGDBhLv9Z.jpg",
+      "year": "2024",
+      "imdbRating": "4.2",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Michel Hazanavicius"
+      ],
+      "cast": [
+        "Dominique Blanc",
+        "Grégory Gadebois",
+        "Denis Podalydès",
+        "Jean-Louis Trintignant",
+        "Serge Hazanavicius",
+        "Antonin Maurel"
+      ],
+      "description": "Il était une fois une pauvre bûcheronne et un pauvre bûcheron qui vivaient au fond d’une forêt polonaise. Pauvre bûcheronne se lamentait de ne pas avoir d'enfants. Il était une fois une famille juive, deux jumeaux nouveau-nés et leurs parents, qui se fit arrêter à Paris puis déporter vers le camp d'Auschwitz. Dans le train qui les emportait vers une mort certaine, le père fit un geste insensé. Dans un ultime et dérisoire espoir, il lança un de ses jumeaux hors du train. Un jour que pauvre bûcheronne regardait passer un train qu'elle croyait être de marchandises, un paquet en fut éjecté et tomba dans la neige. Comme un don du ciel, cette petite marchandise s'avéra être celle qu'elle attendait avec tant de ferveur. Une enfant.",
+      "logo": "https://image.tmdb.org/t/p/w500/g58GqoCC1OWeDvY1Np7PspDZJKE.png"
+    },
+    {
+      "id": "tmdb:22954",
+      "type": "movie",
+      "name": "Invictus",
+      "poster": "https://image.tmdb.org/t/p/w500/4zpsqUf8XFzk4sYbGSXBap1bQKh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vHwrJiFc74Lb8D0Trvdc0v04gRK.jpg",
+      "year": "2009",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Clint Eastwood"
+      ],
+      "cast": [
+        "Morgan Freeman",
+        "Matt Damon",
+        "Tony Kgoroge",
+        "Patrick Mofokeng",
+        "Matt Stern",
+        "Julian Lewis Jones"
+      ],
+      "description": "En 1994, l'élection de Nelson Mandela consacre la fin de l'Apartheid, mais l'Afrique du Sud reste une nation profondément divisée sur le plan racial et économique. Pour unifier le pays et donner à chaque citoyen un motif de fierté, Mandela mise sur le sport, et fait cause commune avec le capitaine de la modeste équipe de rugby sud-africaine. Leur pari: se présenter à la coupe du monde de rugby de 1995...",
+      "logo": "https://image.tmdb.org/t/p/w500/uNtRshiFXP2b8nfRRf2AqShsYO2.png"
+    },
+    {
+      "id": "tmdb:466420",
+      "type": "movie",
+      "name": "Killers of the Flower Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/t51ReMWxWcAOqKrGKw29OK2WhNz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+      "year": "2023",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Histoire",
+        "Drame"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Robert De Niro",
+        "Lily Gladstone",
+        "Jesse Plemons",
+        "Tantoo Cardinal",
+        "John Lithgow"
+      ],
+      "description": "Au début du XXe siècle, le pétrole a apporté la fortune au peuple osage qui, du jour au lendemain, est devenu l’un des plus riches du monde. La richesse de ces Amérindiens attire aussitôt la convoitise de Blancs peu recommandables qui intriguent, soutirent et volent autant d’argent osage que possible avant de recourir au meurtre…",
+      "logo": "https://image.tmdb.org/t/p/w500/xN6IF4M8cvOqimjJrIomiOszqr7.png"
+    },
+    {
+      "id": "tmdb:617653",
+      "type": "movie",
+      "name": "Le Dernier Duel",
+      "poster": "https://image.tmdb.org/t/p/w500/unyzsu5GEYOsNhsCTtynAmvm0mk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4BOgSGwEEHZuDhiHUOsrXaJBqoc.jpg",
+      "year": "2021",
+      "imdbRating": "4.1",
+      "genres": [
+        "Histoire",
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Adam Driver",
+        "Jodie Comer",
+        "Ben Affleck",
+        "Harriet Walter",
+        "Marton Csokas"
+      ],
+      "description": "Basé sur des événements réels, le film dévoile d’anciennes hypothèses sur le dernier duel judiciaire connu en France - également nommé « Jugement de Dieu » - entre Jean de Carrouges et Jacques Le Gris, deux amis devenus au fil du temps des rivaux acharnés. Carrouges est un chevalier respecté, connu pour sa bravoure et son habileté sur le champ de bataille. Le Gris est un écuyer normand dont l'intelligence et l'éloquence font de lui l'un des nobles les plus admirés de la cour. Lorsque Marguerite, la femme de Carrouges, est violemment agressée par Le Gris - une accusation que ce dernier récuse - elle refuse de garder le silence, n’hésitant pas à dénoncer son agresseur et à s’imposer dans un acte de bravoure et de défi qui met sa vie en danger. L'épreuve de combat qui s'ensuit - un éprouvant duel à mort - place la destinée de chacun d’eux entre les mains de Dieu.",
+      "logo": "https://image.tmdb.org/t/p/w500/btXyn1yTCtc9iUdh6PyOLuGlPo9.png"
+    },
+    {
+      "id": "tmdb:319888",
+      "type": "movie",
+      "name": "Eddie the Eagle",
+      "poster": "https://image.tmdb.org/t/p/w500/9YCtoha3EiI1jcG7A2e5SprifSK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+      "year": "2016",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Histoire",
+        "Aventure"
+      ],
+      "director": [
+        "Dexter Fletcher"
+      ],
+      "cast": [
+        "Taron Egerton",
+        "Hugh Jackman",
+        "Christopher Walken",
+        "Ania Sowinski",
+        "Mads Sjøgård Pettersen",
+        "Iris Berben"
+      ],
+      "description": "Michael «Eddie» Edwards a toujours eu un seul rêve, participer aux Jeux Olympiques. Le problème, c’est qu’il n’a jamais réussi à briller dans aucun sport. Touché par la persévérance d’Eddie, un ancien champion américain va devenir son coach afin de l’aider à prendre part aux J.O. d’Hiver de Calgary dans la discipline dangereuse du saut à ski. L’histoire vraie de cet anti‐héros qui n’a jamais cessé de croire en lui‐même quand la Grande Bretagne toute entière n’y croyait pas.",
+      "logo": "https://image.tmdb.org/t/p/w500/rvhE1kZ1j4lsob5uT6jTv20vUsr.png"
+    },
+    {
+      "id": "tmdb:318781",
+      "type": "movie",
+      "name": "Colonia",
+      "poster": "https://image.tmdb.org/t/p/w500/ezwSsnWQUbMG5ouC3f3chUlCLHC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6gtlv8NYhzEeRyfbIbfeXp5KVJR.jpg",
+      "year": "2015",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Florian Gallenberger"
+      ],
+      "cast": [
+        "Emma Watson",
+        "Daniel Brühl",
+        "Michael Nyqvist",
+        "Richenda Carey",
+        "Vicky Krieps",
+        "Jeanne Werner"
+      ],
+      "description": "Chili, 1973. Le Général Pinochet s’empare du pouvoir par la force. Les opposants au coup d’État descendent dans la rue. Parmi les manifestants, un jeune couple, Daniel et Lena. Daniel est arrêté par la nouvelle police politique. Il est conduit dans un camp secret, caché dans un lieu reculé au sein d’une secte dirigée par un ancien nazi. Une prison dont personne n’est jamais sorti. Pour retrouver son amant, Lena va pourtant rentrer dans la Colonia Dignidad.",
+      "logo": "https://image.tmdb.org/t/p/w500/jDOeqFwmhw31gBdazNiGjfrUMro.png"
+    },
+    {
+      "id": "tmdb:407448",
+      "type": "movie",
+      "name": "Detroit",
+      "poster": "https://image.tmdb.org/t/p/w500/3QXRmgspZsTtlObSZGWNPcD69b7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+      "year": "2017",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller",
+        "Histoire"
+      ],
+      "director": [
+        "Kathryn Bigelow"
+      ],
+      "cast": [
+        "John Boyega",
+        "Will Poulter",
+        "Anthony Mackie",
+        "Algee Smith",
+        "Hannah Murray",
+        "Jason Mitchell"
+      ],
+      "description": "Été 1967. Les États-Unis connaissent une vague d’émeutes sans précédent. La guerre du Vietnam, vécue comme une intervention néocoloniale, et la ségrégation raciale nourrissent la contestation. À Detroit, alors que le climat est insurrectionnel depuis deux jours, des coups de feu sont entendus en pleine nuit à proximité d’une base de la Garde nationale. Les forces de l’ordre encerclent l’Algiers Motel d’où semblent provenir les détonations. Bafouant toute procédure, les policiers soumettent une poignée de clients de l’hôtel à un interrogatoire sadique pour extorquer leurs aveux. Le bilan sera très lourd: trois hommes, non armés, seront abattus à bout portant, et plusieurs autres blessés…",
+      "logo": "https://image.tmdb.org/t/p/w500/w9yeYLp48rb0xiNVtBEsGkESM39.png"
+    },
+    {
+      "id": "tmdb:487558",
+      "type": "movie",
+      "name": "BlacKkKlansman : J'ai infiltré le Ku Klux Klan",
+      "poster": "https://image.tmdb.org/t/p/w500/z8vDfDI7SOVasPlqUT38Pm0wyEZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+      "year": "2018",
+      "imdbRating": "4.0",
+      "genres": [
+        "Crime",
+        "Comédie",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Spike Lee"
+      ],
+      "cast": [
+        "John David Washington",
+        "Adam Driver",
+        "Topher Grace",
+        "Laura Harrier",
+        "Alec Baldwin",
+        "Jasper Pääkkönen"
+      ],
+      "description": "Au début des années 70, au plus fort de la lutte pour les droits civiques, plusieurs émeutes raciales éclatent dans les grandes villes des États-Unis. Ron Stallworth devient le premier officier Noir américain du Colorado Springs Police Department, mais son arrivée est accueillie avec scepticisme, voire avec une franche hostilité, par les agents les moins gradés du commissariat. Prenant son courage à deux mains, Stallworth va tenter de faire bouger les lignes et, peut-être, de laisser une trace dans l'histoire. Il se fixe alors une mission des plus périlleuses : infiltrer le Ku Klux Klan pour en dénoncer les exactions.",
+      "logo": "https://image.tmdb.org/t/p/w500/rWN88a9qSd0sOTEStoB4NdlVfns.png"
+    },
+    {
+      "id": "tmdb:3131",
+      "type": "movie",
+      "name": "Gangs of New York",
+      "poster": "https://image.tmdb.org/t/p/w500/UYbOQyJkfHWejmIq0k10hPb7w8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+      "year": "2002",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Crime"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Daniel Day-Lewis",
+        "Cameron Diaz",
+        "Jim Broadbent",
+        "John C. Reilly",
+        "Henry Thomas"
+      ],
+      "description": "En 1846, le quartier de Five Points, un faubourg pauvre de New York, est le théâtre d'une guerre des gangs entre émigrants irlandais d'un côté, les Dead Rabbits menés par Père Vallon, et les Native Americans de l'autre, dirigés par le sanguinaire Bill le Boucher. Ce dernier met rapidement en déroute les Dead Rabbits en assassinant leur chef, et prend par la même occasion le contrôle exclusif des rues de la \"grosse pomme\". Afin de renforcer ses pouvoirs, Bill s'allie avec Boss Tweed, un politicien influent. Seize ans plus tard, le gang des Native Americans règne toujours en maître dans New York. Devenu adulte, Amsterdam Vallon souhaite venger la mort de son père en éliminant Bill. Mais sa rencontre avec Jenny Everdeane, une énigmatique pickpocket dont l'indépendance et la beauté le fascinent, va compliquer les choses...",
+      "logo": "https://image.tmdb.org/t/p/w500/gPduLazH0Tq61ZJxqX52rtTPamE.png"
+    },
+    {
+      "id": "tmdb:369972",
+      "type": "movie",
+      "name": "First Man - Le Premier Homme sur la Lune",
+      "poster": "https://image.tmdb.org/t/p/w500/txUD2EzyNnPIX3dFb7jbKqAQTbm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+      "year": "2018",
+      "imdbRating": "4.0",
+      "genres": [
+        "Histoire",
+        "Drame"
+      ],
+      "director": [
+        "Damien Chazelle"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Claire Foy",
+        "Jason Clarke",
+        "Kyle Chandler",
+        "Corey Stoll",
+        "Patrick Fugit"
+      ],
+      "description": "L’histoire fascinante de la mission de la NASA d’envoyer un homme sur la lune, centrée sur Neil Armstrong et les années 1961‐1969. Inspiré du livre de James R. Hansen, le film explore les sacrifices et coûts – d’Armstrong et de la nation – d’une des plus dangereuses missions de l’Histoire.",
+      "logo": "https://image.tmdb.org/t/p/w500/iCUNX5H4ba9aiMlNZ5jCtbOQvcY.png"
+    },
+    {
+      "id": "tmdb:302401",
+      "type": "movie",
+      "name": "Snowden",
+      "poster": "https://image.tmdb.org/t/p/w500/ev8fOrdeuf8zQyzhtOA3I6bBPCj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+      "year": "2016",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Oliver Stone"
+      ],
+      "cast": [
+        "Joseph Gordon-Levitt",
+        "Shailene Woodley",
+        "Melissa Leo",
+        "Zachary Quinto",
+        "Tom Wilkinson",
+        "Scott Eastwood"
+      ],
+      "description": "Patriote idéaliste et enthousiaste, le jeune Edward Snowden semble réaliser son rêve quand il rejoint les équipes de la CIA puis de la NSA. Il découvre alors au cœur des Services de Renseignements américains l'ampleur insoupçonnée de la cyber-surveillance. Violant la Constitution, soutenue par de grandes entreprises, la NSA collecte des montagnes de données et piste toutes les formes de télécommunications à un niveau planétaire.  Choqué par cette intrusion systématique dans nos vies privées, Snowden décide de rassembler des preuves et de tout divulguer. Devenu lanceur d'alerte, il sacrifiera sa liberté et sa vie privée.  En juin 2013, deux journalistes prennent le risque de le rencontrer dans une chambre d'hôtel à Hong Kong. Une course contre la montre s'engage pour analyser les preuves irréfutables présentées par Snowden avant leur publication.  Les révélations qui vont être faites dans cette pièce seront au cœur du plus grand scandale d'espionnage de l'histoire des États-Unis.",
+      "logo": "https://image.tmdb.org/t/p/w500/4ktlhrlRshmDpi72AmvJZgFJ76y.png"
+    },
+    {
+      "id": "tmdb:614917",
+      "type": "movie",
+      "name": "La Méthode Williams",
+      "poster": "https://image.tmdb.org/t/p/w500/uJp66jFj6a0eUu7Cf20xFwJd4l3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7EazpcvoCfNZZysgljUAkQCBvW.jpg",
+      "year": "2021",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Reinaldo Marcus Green"
+      ],
+      "cast": [
+        "Will Smith",
+        "Aunjanue Ellis-Taylor",
+        "Saniyya Sidney",
+        "Demi Singleton",
+        "Jon Bernthal",
+        "Mikayla LaShae Bartholomew"
+      ],
+      "description": "Focus sur la personnalité de l'entraîneur de tennis Richard Williams, père des joueuses mondiales Venus et Serena. Il n'avait aucune expérience dans le sport mais lorsque ses filles ont eu quatre ans, il a élaboré un plan de 78 pages décrivant l'entraînement des futures championnes. Les sœurs Williams sont devenues deux des plus grandes joueuses de l'histoire du tennis. Serena est sans conteste la meilleure tenniswoman de tous les temps, avec 23 victoires en tournois du Grand Chelem. Venus Williams a remporté sept titres en Grand Chelem.",
+      "logo": "https://image.tmdb.org/t/p/w500/tmKHpsOLq3lLr3TqIlkKc4zKg9M.png"
+    },
+    {
+      "id": "tmdb:10139",
+      "type": "movie",
+      "name": "Harvey Milk",
+      "poster": "https://image.tmdb.org/t/p/w500/qyHbqrAQEC7ZprqFa05pqsnxTmI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8rBBojmT5vwkuVh2hFWBkbWtlBX.jpg",
+      "year": "2008",
+      "imdbRating": "4.0",
+      "genres": [
+        "Histoire",
+        "Drame"
+      ],
+      "director": [
+        "Gus Van Sant"
+      ],
+      "cast": [
+        "Sean Penn",
+        "Emile Hirsch",
+        "Josh Brolin",
+        "Diego Luna",
+        "James Franco",
+        "Alison Pill"
+      ],
+      "description": "Le film retrace les 8 dernières années de la vie d'Harvey Milk. Dans les années 70, il fut le premier homme politique américain ouvertement gay à être élu à des fonctions officielles, à San Francisco en Californie. Son combat pour la tolérance et l'intégration des communautés homosexuelles lui coûta la vie. Son action a changé les mentalités, et son engagement a changé l'histoire.",
+      "logo": "https://image.tmdb.org/t/p/w500/lciGQH03aXdrU9miZUwUtKgpFRq.png"
+    },
+    {
+      "id": "tmdb:1883",
+      "type": "movie",
+      "name": "Malcolm X",
+      "poster": "https://image.tmdb.org/t/p/w500/rIwqavVc721XzK7vR7uKrr0w2BG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/42mSR48e4h6Zp5BkTUyWPYsAA1X.jpg",
+      "year": "1992",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Spike Lee"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Angela Bassett",
+        "Albert Hall",
+        "Al Freeman Jr.",
+        "Delroy Lindo",
+        "Spike Lee"
+      ],
+      "description": "Biopic retraçant la vie de Malcolm X, leader du mouvement noir américain Nation of Islam : de son enfance difficile, à sa jeunesse délinquante, à son séjour en prison où il apprend à cultiver la fierté de sa race, à sa rencontre avec l'islam, à son pèlerinage à la Mecque jusqu’à son assassinat le 21 février 1965, à New-York en plein meeting.",
+      "logo": "https://image.tmdb.org/t/p/w500/8wIeFYyPo5NcLXdak0bzYBELvhl.png"
+    },
+    {
+      "id": "tmdb:416144",
+      "type": "movie",
+      "name": "Attaque à Mumbai",
+      "poster": "https://image.tmdb.org/t/p/w500/7WTNW5lTPkQv9ZwrPdp8DPallie.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tdK6A1wJVOze1zuiCwFQMR228k5.jpg",
+      "year": "2019",
+      "imdbRating": "4.0",
+      "genres": [
+        "Thriller",
+        "Histoire",
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "Anthony Maras"
+      ],
+      "cast": [
+        "Dev Patel",
+        "Armie Hammer",
+        "نازنین بنیادی",
+        "Tilda Cobham-Hervey",
+        "Anupam Kher",
+        "Jason Isaacs"
+      ],
+      "description": "Inspiré de faits réels.  Novembre 2008, une série d’attaques terroristes a lieu dans la ville de Mumbai. Durant trois jours, des hommes armés prennent d’assaut le légendaire Taj Mahal Palace Hôtel en retenant les clients et les employés qui s’y trouvent. Au milieu de ce chaos, le Chef du restaurant et un serveur vont risquer leur vie pour protéger leurs clients. Parmi eux, un couple va tout faire pour protéger leur nouveau-né. Alors que le monde entier découvre ces évènements tragiques, ce qui se déroule à l’intérieur dépasse l’inimaginable. L'histoire vraie des attaques terroristes qui se sont déroulées à Bombay en novembre 2008.",
+      "logo": "https://image.tmdb.org/t/p/w500/vFAwRAFukWr0UGj7RIywygQW93E.png"
+    },
+    {
+      "id": "tmdb:549509",
+      "type": "movie",
+      "name": "The Brutalist",
+      "poster": "https://image.tmdb.org/t/p/w500/qta0JRXb7JkJD8nSlUSUpLtSvZQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+      "year": "2024",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Brady Corbet"
+      ],
+      "cast": [
+        "Adrien Brody",
+        "Felicity Jones",
+        "Guy Pearce",
+        "Joe Alwyn",
+        "Raffey Cassidy",
+        "Stacy Martin"
+      ],
+      "description": "Pour échapper à l’Europe de l’après-guerre, l’architecte visionnaire László Tóth émigre aux États-Unis. Il veut y reconstruire sa vie, son travail et son mariage avec sa femme Erzsébet, dont il a été séparé pendant la guerre par suite des modifications de frontières et de régimes. Seul dans ce nouveau pays, László s’installe en Pennsylvanie, où le riche industriel Harrison Lee Van Buren remarque son talent pour la construction. Mais le pouvoir et l’héritage se paient au prix fort…",
+      "logo": "https://image.tmdb.org/t/p/w500/t5mbFmw6IH69nqi2Xdt0zSaikeG.png"
+    },
+    {
+      "id": "tmdb:398978",
+      "type": "movie",
+      "name": "The Irishman",
+      "poster": "https://image.tmdb.org/t/p/w500/W9xPACmHuhFC0xHwpyFvGbapUT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+      "year": "2019",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Al Pacino",
+        "Joe Pesci",
+        "Harvey Keitel",
+        "Ray Romano",
+        "Bobby Cannavale"
+      ],
+      "description": "Cette saga sur le crime organisé dans l'Amérique de l'après-guerre est racontée du point de vue de Frank Sheeran, un ancien soldat de la Seconde Guerre mondiale devenu escroc et tueur à gages ayant travaillé aux côtés de quelques-unes des plus grandes figures du 20e siècle. Couvrant plusieurs décennies, le film relate l'un des mystères insondables de l'histoire des États-Unis : la disparition du légendaire dirigeant syndicaliste Jimmy Hoffa. Il offre également une plongée monumentale dans les arcanes de la mafia en révélant ses rouages, ses luttes internes et ses liens avec le monde politique.",
+      "logo": "https://image.tmdb.org/t/p/w500/bGpCp6uET96fjnqOMPmalWFSGRE.png"
+    },
+    {
+      "id": "tmdb:855",
+      "type": "movie",
+      "name": "La Chute du faucon noir",
+      "poster": "https://image.tmdb.org/t/p/w500/8PbLgvdfcdBad3sie9cfIBHq2Xz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+      "year": "2001",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Guerre",
+        "Histoire"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Josh Hartnett",
+        "Eric Bana",
+        "Ewan McGregor",
+        "Tom Sizemore",
+        "William Fichtner",
+        "Sam Shepard"
+      ],
+      "description": "Le 3 octobre 1993, avec l'appui des Nations Unies, une centaine de marines américains de la Task Force Ranger est envoyée en mission à Mogadiscio, en Somalie, pour assurer le maintien de la paix et capturer les deux principaux lieutenants et quelques autres associés de Mohamed Farrah Aidïd, un chef de guerre local. Cette opération de routine vire rapidement au cauchemar lorsque les militaires sont pris pour cibles par les factions armées rebelles et la population, résolument hostiles à toute présence étrangère sur leur territoire.",
+      "logo": "https://image.tmdb.org/t/p/w500/tny6YcKWXWUHbFkr9aYzYE761HB.png"
+    },
+    {
+      "id": "tmdb:253412",
+      "type": "movie",
+      "name": "Everest",
+      "poster": "https://image.tmdb.org/t/p/w500/2I2PAUAEPN6To7B501lBs2RbdWL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/P7d3lyBaYbAXVor6iB2avLvc4K.jpg",
+      "year": "2015",
+      "imdbRating": "3.9",
+      "genres": [
+        "Aventure",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Baltasar Kormákur"
+      ],
+      "cast": [
+        "Jason Clarke",
+        "Josh Brolin",
+        "Jake Gyllenhaal",
+        "Elizabeth Debicki",
+        "Keira Knightley",
+        "Sam Worthington"
+      ],
+      "description": "Inspiré d'une désastreuse tentative d'ascension de la plus haute montagne du monde, Everest suit deux expéditions distinctes confrontées aux plus violentes tempêtes de neige que l'homme ait connues. Luttant contre l'extrême sévérité des éléments, le courage des grimpeurs est mis à l'épreuve par des obstacles toujours plus difficiles à surmonter alors que leur rêve de toute une vie se transforme en un combat acharné pour leur salut.",
+      "logo": "https://image.tmdb.org/t/p/w500/l8jzV76x3MoUaCpwy72ekfiEHA6.png"
+    },
+    {
+      "id": "tmdb:446354",
+      "type": "movie",
+      "name": "Pentagon Papers",
+      "poster": "https://image.tmdb.org/t/p/w500/jgu4HVfj9P2K4fByb90EivJg2AX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/h5jqLrIv1tlszezv2UEWq9KBuoj.jpg",
+      "year": "2017",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Meryl Streep",
+        "Tom Hanks",
+        "Sarah Paulson",
+        "Bob Odenkirk",
+        "Tracy Letts",
+        "Bradley Whitford"
+      ],
+      "description": "Première femme directrice de la publication d’un grand journal américain, le Washington Post, Katharine Graham s'associe à son rédacteur en chef Ben Bradlee pour dévoiler un scandale d'État monumental et combler son retard par rapport au New York Times qui mène ses propres investigations. Ces révélations concernent les manœuvres de quatre présidents américains, sur une trentaine d'années, destinées à étouffer des affaires très sensibles… Au péril de leur carrière et de leur liberté, Katharine et Ben vont devoir surmonter tout ce qui les sépare pour révéler au grand jour des secrets longtemps enfouis…",
+      "logo": "https://image.tmdb.org/t/p/w500/npXUNgnyaOJVvTF8gPRmB5iVeax.png"
+    },
+    {
+      "id": "tmdb:314095",
+      "type": "movie",
+      "name": "The Lost City of Z",
+      "poster": "https://image.tmdb.org/t/p/w500/arm7E7iinAikQauyGkc0BzYiwZP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2FT6JiYzHXe4taq3iWjNoDgrOEP.jpg",
+      "year": "2017",
+      "imdbRating": "3.9",
+      "genres": [
+        "Aventure",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "James Gray"
+      ],
+      "cast": [
+        "Charlie Hunnam",
+        "Robert Pattinson",
+        "Sienna Miller",
+        "Tom Holland",
+        "Angus Macfadyen",
+        "Edward Ashley"
+      ],
+      "description": "Percy Fawcett est un colonel britannique reconnu et un mari aimant. En 1906, alors qu’il s’apprête à devenir père, la Société géographique royale d'Angleterre lui propose de partir en Amazonie afin de cartographier les frontières entre le Brésil et la Bolivie. Sur place, l’homme se prend de passion pour l’exploration et découvre des traces de ce qu’il pense être une cité perdue très ancienne. De retour en Angleterre, Fawcett n’a de cesse de penser à cette mystérieuse civilisation, tiraillé entre son amour pour sa famille et sa soif d’exploration et de gloire…",
+      "logo": "https://image.tmdb.org/t/p/w500/nlFDsRE6DDjrcyFk9WJf03HctgF.png"
+    },
+    {
+      "id": "tmdb:921",
+      "type": "movie",
+      "name": "De l'ombre à la lumière",
+      "poster": "https://image.tmdb.org/t/p/w500/3WFqefpOIBmj6kqZ5zvnZw8Dy6M.jpg",
+      "background": "https://image.tmdb.org/t/p/original/huf42HJE04aFDr6RZEGw1Xxb6Pv.jpg",
+      "year": "2005",
+      "imdbRating": "3.9",
+      "genres": [
+        "Romance",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Ron Howard"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Renée Zellweger",
+        "Paul Giamatti",
+        "Craig Bierko",
+        "Paddy Considine",
+        "Bruce McGill"
+      ],
+      "description": "Autrefois boxeur prometteur, Jim Braddock s'est vu contraint d'abandonner la compétition après une série de défaites. Alors que l'Amérique sombre dans la `Grande Dépression', Jim accepte n'importe quel petit boulot pour faire vivre sa femme Mae et leurs enfants. Il n'abandonne pourtant pas l'espoir de remonter un jour sur le ring. Grâce à une annulation de dernière minute, Jim est appelé à combattre le deuxième challenger mondial, à la stupéfaction générale il gagne au troisième round.",
+      "logo": "https://image.tmdb.org/t/p/w500/qJyLTfIq65XFCqRZ7MY4MXH7ySM.png"
+    },
+    {
+      "id": "tmdb:9665",
+      "type": "movie",
+      "name": "Glory",
+      "poster": "https://image.tmdb.org/t/p/w500/o7sePmQCAmlgfF50vDb3n7MZgf9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wwZoJCpz9sJIXOiP4LW5iKHZvIe.jpg",
+      "year": "1989",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Edward Zwick"
+      ],
+      "cast": [
+        "Matthew Broderick",
+        "Denzel Washington",
+        "Cary Elwes",
+        "Morgan Freeman",
+        "Jihmi Kennedy",
+        "Andre Braugher"
+      ],
+      "description": "1863. La guerre de Sécession ravage l'Amérique et tourne à l'avantage du Sud. Lincoln proclame l'émancipation officielle des noirs et décide que les volontaires noirs pourront s'engager sous les ordres d'officiers blancs. Un régiment de volontaires noirs est alors créé et le jeune Robert Gould Shaw est nommé colonel de ces soldats méprisés. Les volontaires sont nombreux et parmi eux Searles, un ami de Shaw, et Trip, une tête brûlée qui refuse l'autorité. En s'engageant, ces hommes veulent enfin conquérir une dignité qu'ils n'ont jamais connue. Aidé par Forbes, un de ses camarades nommé commandant, Shaw commence à former ses recrues pour le combat.",
+      "logo": "https://image.tmdb.org/t/p/w500/qrcLJEEPZkNMbr7mwe1jSBnyipG.png"
+    },
+    {
+      "id": "tmdb:353326",
+      "type": "movie",
+      "name": "L'homme qui défiait l'infini",
+      "poster": "https://image.tmdb.org/t/p/w500/xONOvNAPhlNBWmPruGdKWzMbRzb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cJ6dqrHhts085zJTMaXECjp0RfX.jpg",
+      "year": "2016",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Matt Brown"
+      ],
+      "cast": [
+        "Dev Patel",
+        "Jeremy Irons",
+        "Toby Jones",
+        "Devika Bhise",
+        "Stephen Fry",
+        "Kevin McNally"
+      ],
+      "description": "1913. Modeste fonctionnaire de l'administration indienne, Srinivasa Ramanujan décide d'écrire à Geoffrey H. Hardy, l'un des plus célèbres mathématiciens de l'époque. Ce dernier, étonné par le talent spectaculaire de Ramanujan, décide de le faire venir en Grande-Bretagne. Il débarque à Cambridge et va devoir prouver aux plus grands mathématiciens de l'histoire, la véracité de ses recherches...",
+      "logo": "https://image.tmdb.org/t/p/w500/ucpsDEZTEbagadJigylX8WTuhg3.png"
+    },
+    {
+      "id": "tmdb:522241",
+      "type": "movie",
+      "name": "Un espion ordinaire",
+      "poster": "https://image.tmdb.org/t/p/w500/8jYLrLAEC9nwKkqU6wcGdm0rzE7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3pIqd1hgZ2xqzWEyiYp4blqE9Fi.jpg",
+      "year": "2020",
+      "imdbRating": "3.9",
+      "genres": [
+        "Thriller",
+        "Histoire",
+        "Drame"
+      ],
+      "director": [
+        "Dominic Cooke"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Merab Ninidze",
+        "Rachel Brosnahan",
+        "Jessie Buckley",
+        "Angus Wright",
+        "Кирилл Пирогов"
+      ],
+      "description": "1960. Modeste représentant de commerce anglais, Greville Wynne se retrouve plongé au cœur de la guerre froide. À la demande du MI-6 et de la CIA, il noue une alliance aussi secrète que périlleuse avec le colonel soviétique Oleg Penkovsky. Objectif : fournir les renseignements nécessaires aux Occidentaux pour éviter un affrontement nucléaire et désamorcer la crise des missiles de Cuba. Il entame alors une série d'allers-retours entre Londres et Moscou en prenant de plus en plus de risques…",
+      "logo": "https://image.tmdb.org/t/p/w500/ezIYI3nsAo32tDnjaTN1kmWYPQa.png"
+    },
+    {
+      "id": "tmdb:331482",
+      "type": "movie",
+      "name": "Les Filles du docteur March",
+      "poster": "https://image.tmdb.org/t/p/w500/A1OAKgItnKEilZkInZxUiKADhmZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
+      "year": "2019",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Histoire"
+      ],
+      "director": [
+        "Greta Gerwig"
+      ],
+      "cast": [
+        "Saoirse Ronan",
+        "Emma Watson",
+        "Florence Pugh",
+        "Eliza Scanlen",
+        "Laura Dern",
+        "Timothée Chalamet"
+      ],
+      "description": "Aux États-Unis, pendant la guerre de Sécession, 4 sœurs issues de la classe moyenne font face aux difficultés de la vie quotidienne en ce temps de conflit. La raisonnable Mege, l’intrépide Jo, la charitable Beth et l’orgueilleuse May vivent dans l’ombre protectrice et bienveillante de leur mère Marnee et de sa tante March. Mais la rencontre de leur voisin Laurie va transformer les premiers émois du bal des débutantes en véritables histoires d’amour…  Une nouvelle adaptation du classique de Louisa May Alcott.",
+      "logo": "https://image.tmdb.org/t/p/w500/nebg9PPasOPUctGCmMLUwycstaw.png"
+    },
+    {
+      "id": "tmdb:1579",
+      "type": "movie",
+      "name": "Apocalypto",
+      "poster": "https://image.tmdb.org/t/p/w500/5xR5OjvGQfaRZNL7GTuPAZy8tdr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/l7XRMURNroPYajcqLlWxyzUlucW.jpg",
+      "year": "2006",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Mel Gibson"
+      ],
+      "cast": [
+        "Rudy Youngblood",
+        "Raoul Max Trujillo",
+        "Gerardo Taracena",
+        "Iazua Larios",
+        "Antonio Monroy",
+        "María Isabel Díaz Lago"
+      ],
+      "description": "Dans les temps turbulents précédant la chute de la légendaire civilisation Maya. Jeune père porteur de grandes espérances, chef de son petit village, Patte de Jaguar vit une existence idyllique brusquement perturbée par une violente invasion. Capturé et emmené lors d'un périlleux voyage à travers la jungle pour être offert en sacrifice aux Dieux de la Cité Maya, il découvre un monde régi par la peur et l'oppression, dans lequel une fin déchirante l'attend inéluctablement. Poussé par l'amour qu'il porte à sa femme, à sa famille et à son peuple, il devra affronter ses plus grandes peurs en une tentative désespérée pour retourner chez lui et tenter de sauver ce qui lui tient le plus à cœur.",
+      "logo": "https://image.tmdb.org/t/p/w500/7m2ZkIViPzc7U4WAKsB4XqyVFqn.png"
+    },
+    {
+      "id": "tmdb:375262",
+      "type": "movie",
+      "name": "La Favorite",
+      "poster": "https://image.tmdb.org/t/p/w500/bZC5VeHX39PfhsZEcdjD7RHKFSH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+      "year": "2018",
+      "imdbRating": "3.8",
+      "genres": [
+        "Histoire",
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Yorgos Lanthimos"
+      ],
+      "cast": [
+        "Emma Stone",
+        "Olivia Colman",
+        "Rachel Weisz",
+        "Nicholas Hoult",
+        "Joe Alwyn",
+        "Mark Gatiss"
+      ],
+      "description": "Début du XVIIIème siècle. L’Angleterre et la France sont en guerre. Toutefois, à la cour, la mode est aux courses de canards et à la dégustation d’ananas. La reine Anne, à la santé fragile et au caractère instable, occupe le trône tandis que son amie Lady Sarah gouverne le pays à sa place. Lorsqu’une nouvelle servante, Abigail Hill, arrive à la cour, Lady Sarah la prend sous son aile, pensant qu’elle pourrait être une alliée. Abigail va y voir l’opportunité de renouer avec ses racines aristocratiques. Alors que les enjeux politiques de la guerre absorbent Sarah, Abigail quant à elle parvient à gagner la confiance de la reine et devient sa nouvelle confidente. Cette amitié naissante donne à la jeune femme l’occasion de satisfaire ses ambitions, et elle ne laissera ni homme, ni femme, ni politique, ni même un lapin se mettre en travers de son chemin.",
+      "logo": "https://image.tmdb.org/t/p/w500/w7EjwuDv83cIlfj70d7gtwyTK9U.png"
+    },
+    {
+      "id": "tmdb:285783",
+      "type": "movie",
+      "name": "The Walk : Rêver plus haut",
+      "poster": "https://image.tmdb.org/t/p/w500/j35yXSjOAKvVbpRNGGtOWaThs0n.jpg",
+      "background": "https://image.tmdb.org/t/p/original/q2Ev0aXGXm5Hnm12TVtvdgNhMnv.jpg",
+      "year": "2015",
+      "imdbRating": "3.8",
+      "genres": [
+        "Histoire",
+        "Drame",
+        "Aventure"
+      ],
+      "director": [
+        "Robert Zemeckis"
+      ],
+      "cast": [
+        "Joseph Gordon-Levitt",
+        "Ben Kingsley",
+        "Charlotte Le Bon",
+        "James Badge Dale",
+        "Clément Sibony",
+        "César Domboy"
+      ],
+      "description": "Douze hommes ont marché sur la lune, mais un seul homme, Philippe Petit réussira à traverser l'immense vide entre les tours du World Trade Center. Guidé par son mentor, Papa Rudy, et avec l'aide d'un groupe international de recrues, Petit et son entourage surmonteront contre toute attente trahisons, discorde et multiples dangers afin de mener à terme leur incroyable projet.",
+      "logo": "https://image.tmdb.org/t/p/w500/291yp4wiq8wkSmhCxqWFsbRoWFu.png"
+    },
+    {
+      "id": "tmdb:388399",
+      "type": "movie",
+      "name": "Traque à Boston",
+      "poster": "https://image.tmdb.org/t/p/w500/3HSCwieOOCsw4294NbbLNCU7zF5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lWcNlDMmZ6xJVoCZjhFxqVl0TIa.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame",
+        "Histoire",
+        "Thriller"
+      ],
+      "director": [
+        "Peter Berg"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "John Goodman",
+        "J.K. Simmons",
+        "Kevin Bacon",
+        "Michelle Monaghan",
+        "Alex Wolff"
+      ],
+      "description": "Alors que la ville de Boston est sous le choc de multiples explosions, le sergent de police Tommy Saunders rejoint les enquêteurs sur le terrain dans une course contre la montre pour traquer et arrêter les auteurs avant qu'ils ne frappent à nouveau. Croisant les parcours de l'agent spécial Richard Deslauriers, du commissaire Ed Davis, du sergent Jeffrey Pugliese et de l'infirmière Carol Saunders, ce récit sans concession évoque la chasse à l'homme la plus complexe jamais mise en œuvre par la police américaine – et rend un vibrant hommage aux héros du quotidien.",
+      "logo": "https://image.tmdb.org/t/p/w500/5mWkitK7fzY3Bsq8X1TF9FwUCAj.png"
+    },
+    {
+      "id": "tmdb:502425",
+      "type": "movie",
+      "name": "Escape from Pretoria",
+      "poster": "https://image.tmdb.org/t/p/w500/oXKRJo56vfKExd0B2kPKTVFgEDf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vwbmp3vvX4U0VjinaQktYOBt5kW.jpg",
+      "year": "2020",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Thriller"
+      ],
+      "director": [
+        "Francis Annan"
+      ],
+      "cast": [
+        "Daniel Radcliffe",
+        "Daniel Webber",
+        "Ian Hart",
+        "Mark Leonard Winter",
+        "Nathan Page",
+        "Grant Piro"
+      ],
+      "description": "L'histoire vraie de l'incarcération et de l'évasion de deux activistes anti-Apartheid, Tim Jenkin et Stephen Lee, en Afrique du Sud en 1978. Incarcérés dans la prison de sécurité maximale de Pretoria, ils décident d'envoyer un message clair au gouvernement et de s'échapper !",
+      "logo": "https://image.tmdb.org/t/p/w500/nDqLMhdTOQsRQBWmGzEf24wCNoz.png"
+    },
+    {
+      "id": "tmdb:347026",
+      "type": "movie",
+      "name": "A United Kingdom",
+      "poster": "https://image.tmdb.org/t/p/w500/cOhXtS0pfgSEL8ANSol6UrDLGO4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cBlKxl2YSRVTLb1szSur8H3BNdZ.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Amma Asante"
+      ],
+      "cast": [
+        "David Oyelowo",
+        "Rosamund Pike",
+        "Tom Felton",
+        "Jack Davenport",
+        "Terry Pheto",
+        "Laura Carmichael"
+      ],
+      "description": "Dans les années 1940, le prince du Botswana Seretse Khama fait scandale en épousant une femme  anglaise, Ruth Williams.",
+      "logo": "https://image.tmdb.org/t/p/w500/c9ZMOUsHeuFcP8NinPgI45hZ9a7.png"
+    },
+    {
+      "id": "tmdb:612",
+      "type": "movie",
+      "name": "Munich",
+      "poster": "https://image.tmdb.org/t/p/w500/2CBk6HS95QGPauf1ht0F9zcJfxh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
+      "year": "2005",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Action",
+        "Histoire",
+        "Thriller"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Eric Bana",
+        "Daniel Craig",
+        "Ciarán Hinds",
+        "Mathieu Kassovitz",
+        "Hanns Zischler",
+        "Ayelet Zurer"
+      ],
+      "description": "Jeux Olympiques de Munich, 5 septembre 1972. Un commando de terroristes palestiniens prend en otages puis exécute 11 membres de l'équipe sportive israélienne, sous l'œil des téléspectateurs du monde entier. Inspiré de faits réels, Munich retrace le parcours de 5 agents israéliens chargés de traquer les 11 palestiniens considérés comme les commanditaires de l'attentat. Pour mener à bien cette mission, les 5 hommes devront renoncer du jour au lendemain à leur identité, et s’exposer à tout moment à la vengeance de leurs cibles.",
+      "logo": "https://image.tmdb.org/t/p/w500/6Rzuck3vBuxWJINLzSx3ACngQlj.png"
+    },
+    {
+      "id": "tmdb:467244",
+      "type": "movie",
+      "name": "La Zone d'intérêt",
+      "poster": "https://image.tmdb.org/t/p/w500/wD2eFNkSLV0ACM9C82qIYfTMFv9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bq9FpkTw9I3s1cSRuZxQibM2xOx.jpg",
+      "year": "2023",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Jonathan Glazer"
+      ],
+      "cast": [
+        "Christian Friedel",
+        "Sandra Hüller",
+        "Johann Karthaus",
+        "Luis Noah Witte",
+        "Nele Ahrensmeier",
+        "Lilli Falk"
+      ],
+      "description": "Le commandant d'Auschwitz Rudolf Höss et son épouse Hedwig réalisent sur un terrain directement adjacent au mur du camp leur vision d'une vie de rêve avec une famille nombreuse, une maison et un grand jardin. Cependant, lorsque Rudolf doit être muté à Oranienburg, leur petite vie idéale menace de s'effondrer et il cache l'information à son épouse. Quand Hedwig l'apprend, elle refuse de quitter sa maison de rêve.",
+      "logo": "https://image.tmdb.org/t/p/w500/1x3KOkzAds7UmHRy53Esc8wBfmi.png"
+    },
+    {
+      "id": "tmdb:454227",
+      "type": "movie",
+      "name": "Outlaw King : Le Roi hors-la-loi",
+      "poster": "https://image.tmdb.org/t/p/w500/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9uIyOsywwi7bDvHxv3QdiimUtd5.jpg",
+      "year": "2018",
+      "imdbRating": "3.7",
+      "genres": [
+        "Action",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "David Mackenzie"
+      ],
+      "cast": [
+        "Chris Pine",
+        "Aaron Taylor-Johnson",
+        "Florence Pugh",
+        "Billy Howle",
+        "Sam Spruell",
+        "Tony Curran"
+      ],
+      "description": "Dans l'Écosse médiévale, Robert Bruce revendique la couronne et mène une révolte féroce pour remporter l'indépendance de son pays contre le joug de l'Angleterre.\r L'histoire vraie et inédite de Robert Bruce, noble vaincu de l'Écosse médiévale devenu roi contre son gré puis héros hors-la-loi en l'espace d'une année. Contraint à se battre pour sauver sa famille, son peuple et son pays de l'envahisseur anglais, Robert Bruce s'empare de la couronne écossaise et rassemble une troupe de soldats hétéroclites. Avec eux, il devra affronter la colère de l'armée la plus puissante au monde, menée par le féroce roi Édouard 1er et son imprévisible fils, le prince de Galles.",
+      "logo": "https://image.tmdb.org/t/p/w500/91K2RrPcygScvsoTCIeaU2wHpaM.png"
+    },
+    {
+      "id": "tmdb:832964",
+      "type": "movie",
+      "name": "Lee Miller",
+      "poster": "https://image.tmdb.org/t/p/w500/toURZvfEnRf3HOPjhERWO3CSxMB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9SvSJJSgufM76vn9ddB0YMF6lzs.jpg",
+      "year": "2024",
+      "imdbRating": "3.7",
+      "genres": [
+        "Histoire",
+        "Drame",
+        "Guerre"
+      ],
+      "director": [
+        "Ellen Kuras"
+      ],
+      "cast": [
+        "Kate Winslet",
+        "Andy Samberg",
+        "Alexander Skarsgård",
+        "Marion Cotillard",
+        "Andrea Riseborough",
+        "Noémie Merlant"
+      ],
+      "description": "L’incroyable vie de Lee Miller, ex-modèle pour Vogue et muse de Man Ray devenue l’une des premières femmes photographes de guerre. Partie sur le front et prête à tout pour témoigner des horreurs de la Seconde Guerre, elle a, par son courage et son refus des conventions, changé la façon de voir le monde.",
+      "logo": "https://image.tmdb.org/t/p/w500/x6cQGVKKQuMIb3QdmlKHGNO84N7.png"
+    },
+    {
+      "id": "tmdb:392794",
+      "type": "movie",
+      "name": "La Danseuse",
+      "poster": "https://image.tmdb.org/t/p/w500/yhRH3XTIyhPwG3iqNriwa2zq2ga.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ki93pD6cBIvzFMw9wW7doZZRwxH.jpg",
+      "year": "2016",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Stéphanie Di Giusto"
+      ],
+      "cast": [
+        "SoKo",
+        "Gaspard Ulliel",
+        "Mélanie Thierry",
+        "Lily-Rose Depp",
+        "François Damiens",
+        "Louis-Do de Lencquesaing"
+      ],
+      "description": "Loïe Fuller est née dans le grand ouest américain. Rien ne destine cette cowgirl très charpentée à devenir la gloire des cabarets parisiens de La Belle Époque et encore moins à danser à l’Opéra de Paris, jusqu’à ce qu’elle invente la danse Serpentine. Cachée sous des mètres de tissus légers, les bras prolongés de longues baguettes en bois, au gré de ses mouvements et des lumières, Loïe devient une fleur, un papillon, un feu ardent, et émerveille chaque soir un peu plus. Cette jeune femme gauche et sans charme a trouvé sa place dans ce monde, elle sera La Danseuse. Même si les efforts physiques doivent lui briser le dos, même si la puissance des éclairages doit lui brûler les yeux.  Mais sa rencontre avec Isadora Duncan, jeune prodige avide de gloire et de célébrité, va précipiter la chute de cette icône du début du 20ème siècle."
+    },
+    {
+      "id": "tmdb:72976",
+      "type": "movie",
+      "name": "Lincoln",
+      "poster": "https://image.tmdb.org/t/p/w500/14qv1Uzxwj6XtOJrQXJVX8J6K9G.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hwOFrwHladQ8FktYn3aJNAt8KA1.jpg",
+      "year": "2012",
+      "imdbRating": "3.6",
+      "genres": [
+        "Histoire",
+        "Drame"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Daniel Day-Lewis",
+        "Sally Field",
+        "David Strathairn",
+        "Joseph Gordon-Levitt",
+        "James Spader",
+        "Hal Holbrook"
+      ],
+      "description": "Les derniers mois tumultueux du mandat du 16ème Président des États-Unis. Dans une nation déchirée par la guerre civile et secouée par le vent du changement, Abraham Lincoln met tout en œuvre pour résoudre le conflit, unifier le pays et abolir l'esclavage. Cet homme doté d'une détermination et d'un courage moral exceptionnels va devoir faire des choix qui bouleverseront le destin des générations à venir.",
+      "logo": "https://image.tmdb.org/t/p/w500/3kXdpWqqxrmtZyWCvc9vyw4saB8.png"
+    },
+    {
+      "id": "tmdb:68730",
+      "type": "movie",
+      "name": "Silence",
+      "poster": "https://image.tmdb.org/t/p/w500/2gmadasZBwXBjyFRqX6dl59gVW9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2tE0A6WjLowwQOUY8se1Xlf3O6U.jpg",
+      "year": "2016",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Adam Driver",
+        "Liam Neeson",
+        "Tadanobu Asano",
+        "Ciarán Hinds",
+        "イッセー尾形"
+      ],
+      "description": "XVIIème siècle, deux prêtres jésuites se rendent au Japon pour retrouver leur mentor, le père Ferreira, disparu alors qu’il tentait de répandre les enseignements du catholicisme.  Au terme d’un dangereux voyage, ils découvrent un pays où le christianisme est décrété illégal et ses fidèles persécutés. Ils devront mener dans la clandestinité cette quête périlleuse qui confrontera leur foi aux pires épreuves.",
+      "logo": "https://image.tmdb.org/t/p/w500/kK21sqsooIBPnUArEhTQcSq2tRz.png"
+    },
+    {
+      "id": "tmdb:369192",
+      "type": "movie",
+      "name": "Battle of the Sexes",
+      "poster": "https://image.tmdb.org/t/p/w500/1pGPf6Yw7sRZhH44wzubzUBvmdp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wCHJuJwEfOrrykgDas8T4m79Bzs.jpg",
+      "year": "2017",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Histoire"
+      ],
+      "director": [
+        "Jonathan Dayton",
+        "Valerie Faris"
+      ],
+      "cast": [
+        "Emma Stone",
+        "Steve Carell",
+        "Andrea Riseborough",
+        "Sarah Silverman",
+        "Bill Pullman",
+        "Elisabeth Shue"
+      ],
+      "description": "1972. La championne de tennis Billie Jean King remporte trois titres du Grand Chelem. Mais loin de se satisfaire de son palmarès, elle s'engage dans un combat pour que les femmes soient aussi respectées que les hommes sur les courts de tennis. C'est alors que l'ancien numéro un mondial Bobby Riggs, profondément misogyne et provocateur, met Billie Jean au défi de l'affronter en match simple…",
+      "logo": "https://image.tmdb.org/t/p/w500/ll2F5c00afiCdGZXmvfrCP76BIm.png"
+    },
+    {
+      "id": "tmdb:418879",
+      "type": "movie",
+      "name": "The Current War",
+      "poster": "https://image.tmdb.org/t/p/w500/Acba45Xekn6sTK7MEiOXSNRfMIH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jypNy38bThNz4K6IWDoE7h0xlP2.jpg",
+      "year": "2018",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Alfonso Gomez-Rejon"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Michael Shannon",
+        "Nicholas Hoult",
+        "Katherine Waterston",
+        "Tom Holland",
+        "Matthew Macfadyen"
+      ],
+      "description": "THE CURRENT WAR est l’histoire épique du duel sans merci entre les plus grands inventeurs de la période industrielle pour déterminer lequel fournirait le système électrique du nouveau siècle. Soutenu par J.P. Morgan, Edison éblouit le monde en illuminant Manhattan. Mais Westinghouse, aidé par Nikola Tesla, a remarqué des défauts irrémédiables dans la conception actuelle d’Edison. Allumant une guerre de courants, Westinghouse et Tesla misent tout sur le courant alternatif, malgré ses risques et ses dangers.",
+      "logo": "https://image.tmdb.org/t/p/w500/dpc4CScrvT624EGTir7A7yBAVZn.png"
+    },
+    {
+      "id": "tmdb:1495",
+      "type": "movie",
+      "name": "Kingdom of Heaven",
+      "poster": "https://image.tmdb.org/t/p/w500/wJDtVqtj6PVjxGYd6dhIED7PS4U.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "year": "2005",
+      "imdbRating": "3.5",
+      "genres": [
+        "Drame",
+        "Action",
+        "Aventure",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Orlando Bloom",
+        "Eva Green",
+        "Jeremy Irons",
+        "David Thewlis",
+        "غسان مسعود",
+        "Liam Neeson"
+      ],
+      "description": "Balian le forgeron découvre que son père est un seigneur Croisé, peu avant que celui-ci ne meure et que ses terres à Jérusalem ne lui reviennent. Parti sur place, il se range au côté des fidèles du roi Baudoin, qui tentent de maintenir un équilibre fragile entre les Croisés et les troupes de Saladin. Mais le roi est mourant et puissants sont ceux qui s'opposent à lui et à la paix.",
+      "logo": "https://image.tmdb.org/t/p/w500/q6AAUGkAQWHwmraSKBC0EiGxUKq.png"
+    },
+    {
+      "id": "tmdb:10360",
+      "type": "movie",
+      "name": "Hunger",
+      "poster": "https://image.tmdb.org/t/p/w500/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+      "background": "https://image.tmdb.org/t/p/original/34N9iKlR8FdXiu8r8pSpKcyFUVh.jpg",
+      "year": "2008",
+      "imdbRating": "3.5",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Steve McQueen"
+      ],
+      "cast": [
+        "Michael Fassbender",
+        "Stuart Graham",
+        "Liam Cunningham",
+        "Helena Bereen",
+        "Laine Megaw",
+        "Brian Milligan"
+      ],
+      "description": "Prison de Maze, Irlande du Nord, 1981. Raymond Lohan est surveillant, affecté au sinistre Quartier H, celui des prisonniers politiques de l'IRA qui ont entamé le \"Blanket and No-Wash Protest\" pour témoigner leur colère.Le jeune Davey Gillen, qui vient d'être incarcéré, refuse de porter l'uniforme car il ne se considère pas comme un criminel de droit commun. Rejoignant le mouvement du Blanket Protest, il partage une cellule répugnante avec Gerry Campbell, autre détenu politique, qui lui montre comment communiquer avec l'extérieur grâce au leader Bobby Sands.Lorsque la direction de la prison propose aux détenus des vêtements civils, une émeute éclate. La violence fait tache d'huile et plus aucun gardien de prison n'est désormais en sécurité. Raymond Lohan est abattu d'une balle dans la tête.",
+      "logo": "https://image.tmdb.org/t/p/w500/psk9EDd9GFAI5EgsZRi27oDMdFY.png"
+    },
+    {
+      "id": "tmdb:245916",
+      "type": "movie",
+      "name": "Secret d'état",
+      "poster": "https://image.tmdb.org/t/p/w500/qAXyXJ7ywrzzw183F1430V8hGFa.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hYVAvYJXE4taTIh2y6F5mGJWfPm.jpg",
+      "year": "2014",
+      "imdbRating": "3.5",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère",
+        "Thriller",
+        "Histoire"
+      ],
+      "director": [
+        "Michael Cuesta"
+      ],
+      "cast": [
+        "Jeremy Renner",
+        "Mary Elizabeth Winstead",
+        "Michael Sheen",
+        "Ray Liotta",
+        "Robert Patrick",
+        "Andy García"
+      ],
+      "description": "L’histoire vraie du journaliste Gary Webb, lauréat du Prix Pullitzer, qui a révélé l’implication de la CIA dans le trafic de drogue organisé par des rebelles du Nicaragua vers la Californie, dans les années 80.",
+      "logo": "https://image.tmdb.org/t/p/w500/sBBlxLzwsgOUEmovSHM4xiqcNML.png"
+    },
+    {
+      "id": "tmdb:614560",
+      "type": "movie",
+      "name": "Mank",
+      "poster": "https://image.tmdb.org/t/p/w500/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hBOH4PNnhcGPgZbZjBwkx9gnNxI.jpg",
+      "year": "2020",
+      "imdbRating": "3.4",
+      "genres": [
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "David Fincher"
+      ],
+      "cast": [
+        "Gary Oldman",
+        "Amanda Seyfried",
+        "Lily Collins",
+        "Arliss Howard",
+        "Tom Pelphrey",
+        "Sam Troughton"
+      ],
+      "description": "Dans ce film qui jette un point de vue caustique sur le Hollywood des années 30, le scénariste Herman J. Mankiewicz, alcoolique invétéré au regard acerbe, tente de boucler à temps le script de Citizen Kane d’Orson Welles.",
+      "logo": "https://image.tmdb.org/t/p/w500/91m0t2LzrTvheshJMcz4G8aVWgZ.png"
+    },
+    {
+      "id": "tmdb:365620",
+      "type": "movie",
+      "name": "Ferrari",
+      "poster": "https://image.tmdb.org/t/p/w500/hE9hrgyMpcAO5ZVpaysPnO70Sm6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/Ac3rRrduoKoXwQ6ZDgWh8euKhN5.jpg",
+      "year": "2023",
+      "imdbRating": "2.9",
+      "genres": [
+        "Histoire",
+        "Drame"
+      ],
+      "director": [
+        "Michael Mann"
+      ],
+      "cast": [
+        "Adam Driver",
+        "Penélope Cruz",
+        "Shailene Woodley",
+        "Gabriel Leone",
+        "Sarah Gadon",
+        "Jack O'Connell"
+      ],
+      "description": "Au cours de l'été 1957, Enzo Ferrari, ancien pilote automobile, est en crise. La faillite guette l'entreprise que lui et sa femme, Laura, ont créée à partir de rien dix ans plus tôt. Leur mariage tumultueux doit faire face au deuil d'un fils et à la reconnaissance d'un autre. Pour tenter d'assurer leur survie, il jette les dés sur une course — 1 000 miles à travers l'Italie, l'emblématique Mille Miglia.",
+      "logo": "https://image.tmdb.org/t/p/w500/yl1ncpM9OXGShAzWDd2cbI3FnKr.png"
+    }
+  ]
+}

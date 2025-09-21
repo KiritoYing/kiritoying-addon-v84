@@ -1,0 +1,2216 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:539",
+      "type": "movie",
+      "name": "Psychose",
+      "poster": "https://image.tmdb.org/t/p/w500/lzF8b44dAvXFagQnB1UZa2AF87q.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+      "year": "1960",
+      "imdbRating": "4.4",
+      "genres": [
+        "Horreur",
+        "Thriller",
+        "Mystère"
+      ],
+      "director": [
+        "Alfred Hitchcock"
+      ],
+      "cast": [
+        "Anthony Perkins",
+        "Janet Leigh",
+        "Vera Miles",
+        "John Gavin",
+        "Martin Balsam",
+        "John McIntire"
+      ],
+      "description": "Marion Crane en a assez de ne pouvoir mener sa vie comme elle l'entend. Son travail ne la passionne plus, son amant ne peut l'épouser car il doit verser une énorme pension alimentaire le laissant sans le sou… Mais un beau jour, son patron lui demande de déposer 40 000 dollars à la banque. La tentation est trop grande, et Marion s'enfuit avec l'argent. Très vite la panique commence à se faire sentir. Partagée entre l'angoisse de se faire prendre et l'excitation de mener une nouvelle vie, Marion roule vers une destination qu'elle n'atteindra jamais. La pluie est battante, la jeune femme s'arrête près d'un motel, tenu par un sympathique gérant nommé Norman Bates, mais qui doit supporter le caractère possessif de sa mère. Après un copieux repas avec Norman, Marion prend toutes ses précautions afin de dissimuler l'argent. Pour se délasser de cette journée, elle prend une douche…",
+      "logo": "https://image.tmdb.org/t/p/w500/gtsnLQQD0l6R8Ai1sojaxokoZrJ.png"
+    },
+    {
+      "id": "tmdb:49797",
+      "type": "movie",
+      "name": "J'ai rencontré le Diable",
+      "poster": "https://image.tmdb.org/t/p/w500/i3x5Fck0BoAoLRbgPKzSESsrcOR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dXDFWWxiEb6tg4ojMWQJrSI0Tun.jpg",
+      "year": "2010",
+      "imdbRating": "4.3",
+      "genres": [
+        "Thriller",
+        "Horreur"
+      ],
+      "director": [
+        "Kim Jee-woon"
+      ],
+      "cast": [
+        "Lee Byung-hun",
+        "Choi Min-sik",
+        "Jeon Kuk-hwan",
+        "Cheon Ho-Jin",
+        "오산하",
+        "김윤서"
+      ],
+      "description": "Kyung-chul est un dangereux psychopathe qui tue pour le plaisir. Il commet des meurtres en série de manière que l’on ne peut même pas imaginer. Ses victimes sont aussi bien des femmes que des enfants. La police le traque depuis un long moment, mais est incapable de l’attraper. Un jour, Joo-yeon, la fille d’un Chef de police à la retraite devient sa proie et est retrouvé morte atrocement mutilée. Son fiancé Dae-hoon, un agent secret, décide de traquer le meurtrier lui-même. Il promet de tout faire pour se venger, même si cela signifie qu’il doit devenir un monstre lui-même.",
+      "logo": "https://image.tmdb.org/t/p/w500/i9I2dppSfhF3QaKL1TjgOEYM2y6.png"
+    },
+    {
+      "id": "tmdb:1091",
+      "type": "movie",
+      "name": "The Thing",
+      "poster": "https://image.tmdb.org/t/p/w500/4CntjBo7aRRnoi4ZwDDTQ0UD54s.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+      "year": "1982",
+      "imdbRating": "4.2",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Science-Fiction"
+      ],
+      "director": [
+        "John Carpenter"
+      ],
+      "cast": [
+        "Kurt Russell",
+        "Keith David",
+        "Wilford Brimley",
+        "T.K. Carter",
+        "David Clennon",
+        "Richard Dysart"
+      ],
+      "description": "Hiver 1982 au cœur de l’Antarctique. Une équipe de recherche composée de 12 hommes, découvre un corps enfoui sous la neige depuis plus de 100 000 ans. Décongelée, la créature retourne à la vie et témoigne très vite de sa capacité à parasiter puis assimiler toute forme de vie. Isolés du monde, ne sachant plus qui est contaminé et qui ne l'est pas, les hommes de l'équipe vont sombrer dans la peur et la paranoïa. Un véritable combat s’engage.",
+      "logo": "https://image.tmdb.org/t/p/w500/241kSJO71T8p1LXXL6R6Wl2XoFI.png"
+    },
+    {
+      "id": "tmdb:6114",
+      "type": "movie",
+      "name": "Dracula",
+      "poster": "https://image.tmdb.org/t/p/w500/scFDS0U5uYAjcVTyjNc7GmcZw1q.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+      "year": "1992",
+      "imdbRating": "4.1",
+      "genres": [
+        "Romance",
+        "Horreur"
+      ],
+      "director": [
+        "Francis Ford Coppola"
+      ],
+      "cast": [
+        "Gary Oldman",
+        "Winona Ryder",
+        "Anthony Hopkins",
+        "Keanu Reeves",
+        "Sadie Frost",
+        "Cary Elwes"
+      ],
+      "description": "En 1492, le prince Vlad Dracul, revenant de combattre les armées turques, trouve sa fiancée suicidée. Fou de douleur, il défie Dieu, et devient le comte Dracula, vampire de son état. Quatre cents ans plus tard, désireux de quitter la Transylvanie pour s’établir en Angleterre, il fait appel à Jonathan Harker, clerc de notaire et fiancé de la jolie Mina Murray. La jeune fille est le sosie d’Elisabeta, l’amour ancestral du comte…",
+      "logo": "https://image.tmdb.org/t/p/w500/pf0yHWRteuDq5z8qaYnqvSfxePf.png"
+    },
+    {
+      "id": "tmdb:805",
+      "type": "movie",
+      "name": "Rosemary's Baby",
+      "poster": "https://image.tmdb.org/t/p/w500/yKtdS5oaHEtBUD1Gq4rdOezzWp6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+      "year": "1968",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Roman Polanski"
+      ],
+      "cast": [
+        "Mia Farrow",
+        "John Cassavetes",
+        "Ruth Gordon",
+        "Sidney Blackmer",
+        "Maurice Evans",
+        "Ralph Bellamy"
+      ],
+      "description": "Malgré les conseils de leur vieil ami Hutch, Guy Woodhouse et sa jeune femme, enceinte, s’installent dans un immeuble new-yorkais vétuste, considéré par leur ami comme une demeure maléfique. Aussitôt, leurs voisins, Minnie et Roman Castevet, vieux couple d’Europe centrale, imposent leur amitié et leurs services. Si Guy accepte facilement ce voisinage, Rosemary s’en inquiète…",
+      "logo": "https://image.tmdb.org/t/p/w500/5Jl0hDyeDhQ8Y0GfFzzkdoSbszR.png"
+    },
+    {
+      "id": "tmdb:31682",
+      "type": "movie",
+      "name": "L'Homme qui rétrécit",
+      "poster": "https://image.tmdb.org/t/p/w500/AuudZCPI3bcRTJWYFw1eTvKmBZr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bd9lxQ4SgnNb6NPIph4pz5HGLpY.jpg",
+      "year": "1957",
+      "imdbRating": "4.1",
+      "genres": [
+        "Science-Fiction",
+        "Horreur"
+      ],
+      "director": [
+        "Jack Arnold"
+      ],
+      "cast": [
+        "Grant Williams",
+        "Randy Stuart",
+        "April Kent",
+        "Paul Langton",
+        "Raymond Bailey",
+        "William Schallert"
+      ],
+      "description": "A la suite d'une contamination radioactive, un homme voit avec effarement son corps diminuer de taille. A tel point qu'il devient la proie d'un chat puis d'une araignée. Courageusement, il part à la découverte de son univers.",
+      "logo": "https://image.tmdb.org/t/p/w500/f2mYJDldt5cCIuel7uLRE7yutbw.png"
+    },
+    {
+      "id": "tmdb:747",
+      "type": "movie",
+      "name": "Shaun of the Dead",
+      "poster": "https://image.tmdb.org/t/p/w500/uZCC0b2AfnLivW5D5RMYf1SROLf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+      "year": "2004",
+      "imdbRating": "4.0",
+      "genres": [
+        "Horreur",
+        "Comédie"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Simon Pegg",
+        "Nick Frost",
+        "Kate Ashfield",
+        "Lucy Davis",
+        "Dylan Moran",
+        "Jessica Hynes"
+      ],
+      "description": "À presque 30 ans, Shaun ne fait pas grand-chose de sa vie. Entre l'appart qu'il partage avec ses potes et le temps qu'il passe avec eux au pub, Liz, sa petite amie, n'a pas beaucoup de place. Elle qui voudrait que Shaun s'engage, ne supporte plus de le voir traîner. Excédée par ses vaines promesses et son incapacité à se consacrer un peu à leur couple, Liz décide de rompre. Shaun est décidé à tout réparer, et tant pis si les zombies déferlent sur Londres, tant pis si la ville devient un véritable enfer. Retranché dans son pub préféré, le temps est venu pour lui de montrer enfin de quoi il est capable…",
+      "logo": "https://image.tmdb.org/t/p/w500/7kIhcIq7WdkWFvTlH6o2SGzSDGY.png"
+    },
+    {
+      "id": "tmdb:1933",
+      "type": "movie",
+      "name": "Les Autres",
+      "poster": "https://image.tmdb.org/t/p/w500/avGVh36bjnw88tDFV41N6Hodybl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/88sRqoxHPS9wnIKqryjUqm60sN6.jpg",
+      "year": "2001",
+      "imdbRating": "4.0",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "Alejandro Amenábar"
+      ],
+      "cast": [
+        "Nicole Kidman",
+        "Alakina Mann",
+        "Fionnula Flanagan",
+        "James Bentley",
+        "Eric Sykes",
+        "Christopher Eccleston"
+      ],
+      "description": "En 1945, la Seconde Guerre mondiale est terminée mais le mari de Grace, parti combattre, n'est pas revenu du front. Dans une immense demeure victorienne isolée sur l'île de Jersey, cette jeune femme pieuse élève seule ses deux enfants, Anne et Nicholas, selon les principes stricts de sa religion. Atteints d'un mal étrange, ces derniers ne peuvent être exposés à la lumière du jour. Ils vivent donc reclus dans ce manoir qui doit constamment rester dans l'obscurité. Lorsque trois nouveaux domestiques viennent habiter avec Grace et ses enfants, ils doivent se plier à une règle vitale : aucune porte ne doit être ouverte avant que la précédente n'ait été fermée. Pourtant, quelqu'un va désobéir à cet ordre. Dès lors, Grace, ses enfants et tous ceux qui les entourent devront en subir les conséquences.",
+      "logo": "https://image.tmdb.org/t/p/w500/pL9GRjp4HYDrMSMjoHh7ngE8N2J.png"
+    },
+    {
+      "id": "tmdb:628",
+      "type": "movie",
+      "name": "Entretien avec un vampire",
+      "poster": "https://image.tmdb.org/t/p/w500/efQVbPAfIchr87GCHsmdZaJ3cGM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+      "year": "1994",
+      "imdbRating": "4.0",
+      "genres": [
+        "Horreur",
+        "Drame",
+        "Fantastique"
+      ],
+      "director": [
+        "Neil Jordan"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Brad Pitt",
+        "Antonio Banderas",
+        "Christian Slater",
+        "Stephen Rea",
+        "Kirsten Dunst"
+      ],
+      "description": "San Francisco dans les années 90. Un jeune journaliste, Malloy, s'entretient dans une chambre avec un homme élégant, à l'allure aristocratique et au visage blafard, Louis, qui lui fait de bien étranges confidences. Malloy, subjugué par la séduction de son interlocuteur lui demande, à l'aube, de le faire pénétrer dans son monde, celui des vampires.",
+      "logo": "https://image.tmdb.org/t/p/w500/wdAFWXuCB3icokg7VrvYYRJA651.png"
+    },
+    {
+      "id": "tmdb:11454",
+      "type": "movie",
+      "name": "Le Sixième Sens",
+      "poster": "https://image.tmdb.org/t/p/w500/veVPDIZ5cKDcxfeflSF0B3vD7qO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xmWBhzDODSmYKON4HMmB0UyQknc.jpg",
+      "year": "1986",
+      "imdbRating": "4.0",
+      "genres": [
+        "Crime",
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Michael Mann"
+      ],
+      "cast": [
+        "William Petersen",
+        "Tom Noonan",
+        "Dennis Farina",
+        "Brian Cox",
+        "Kim Greist",
+        "Joan Allen"
+      ],
+      "description": "Will Graham est un des experts-légistes les plus habiles du F.B.I. Il excelle dans l'art de reconstituer à partir d'éléments quasiment inexistants le profil d'un assassin. Mais son \"sixième sens\" lui a valu de frôler plusieurs fois la mort. Alors qu'il est retiré depuis trois ans, un ancien collègue, Crawford, vient le relancer pour une affaire qui s'annonce complexe : deux paisibles familles de Birminghan et Atlanta ont été, à un mois d'intervalle, sauvagement massacrées par un \"tueur de la pleine lune\".",
+      "logo": "https://image.tmdb.org/t/p/w500/ytg1nZWea5nhrMw4Evkd4bKaLys.png"
+    },
+    {
+      "id": "tmdb:1813",
+      "type": "movie",
+      "name": "L'Associé du diable",
+      "poster": "https://image.tmdb.org/t/p/w500/dwRco8u0IrVfiWzSH8HLUjgRdNR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bHjrGR0Fzn4QEBhvjiwdyMPaYVH.jpg",
+      "year": "1997",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Mystère",
+        "Horreur"
+      ],
+      "director": [
+        "Taylor Hackford"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Al Pacino",
+        "Charlize Theron",
+        "Jeffrey Jones",
+        "Judith Ivey",
+        "Connie Nielsen"
+      ],
+      "description": "Kevin Lomax, jeune et brillant avocat, est approché par l'un des plus puissants cabinets New-Yorkais dirigé par l'étrange John Milton. Assoiffé de pouvoir et d'argent, poussé par une ambition dévorante, prêt à tout pour réussir, il accepte l'offre et gravit les marches de la réussite de façon fulgurante. Mais l'ambition a un prix : sans le savoir, Kevin vient de vendre son âme au diable...",
+      "logo": "https://image.tmdb.org/t/p/w500/rMTVZFBBD38byIOEYriJMc4X7gw.png"
+    },
+    {
+      "id": "tmdb:988402",
+      "type": "movie",
+      "name": "Vampire humaniste cherche suicidaire consentant",
+      "poster": "https://image.tmdb.org/t/p/w500/dbasJMS6qn8OdEQR0E2ZLz4pkLg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7t7IQhdA5rO8jhinE3ig258hqlf.jpg",
+      "year": "2023",
+      "imdbRating": "3.9",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Fantastique",
+        "Horreur"
+      ],
+      "director": [
+        "Ariane Louis-Seize"
+      ],
+      "cast": [
+        "Sara Montpetit",
+        "Félix-Antoine Bénard",
+        "Steve Laplante",
+        "Sophie Cadieux",
+        "Noémie O'Farrell",
+        "Arnaud Vachon"
+      ],
+      "description": "Sasha est une jeune vampire avec un grave problème : elle est trop humaniste pour mordre ! Lorsque ses parents, exaspérés, décident de lui couper les vivres, sa survie est menacée. Heureusement pour elle, Sasha fait la rencontre de Paul, un adolescent solitaire aux comportements suicidaires qui consent à lui offrir sa vie. Ce qui devait être un échange de bons procédés se transforme alors en épopée nocturne durant laquelle les deux nouveaux amis chercheront à réaliser les dernières volontés de Paul avant le lever du soleil.",
+      "logo": "https://image.tmdb.org/t/p/w500/fbhYLr5uRs8eATedrPYubJY3nuM.png"
+    },
+    {
+      "id": "tmdb:10234",
+      "type": "movie",
+      "name": "Funny Games",
+      "poster": "https://image.tmdb.org/t/p/w500/2o0gAuHWIga8QXMt5X1IAOhrlgI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/79SBe1bU30Dy6QPwJ2KQ3LTr1lr.jpg",
+      "year": "1997",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Michael Haneke"
+      ],
+      "cast": [
+        "Susanne Lothar",
+        "Ulrich Mühe",
+        "Arno Frisch",
+        "Frank Giering",
+        "Stefan Clapczynski",
+        "Doris Kunstmann"
+      ],
+      "description": "C'est le début des vacances : Anna, Georg et leur fils Schorschi partent pour leur belle maison au bord du lac. Fred et Eva, les voisins, sont déjà arrivés. On prend rendez-vous pour une partie de golf le lendemain. Il fait très beau. Pendant que le père et le fils s'affairent sur le voilier remis à neuf, Anna prépare le dîner. Soudain, elle se retrouve face à face avec Peter, un courtois jeune homme, invité des voisins. Celui-ci la prie de lui donner quelques œufs. Eva n'en a plus... Anna s'apprête à les lui donner et hésite : comment Peter a t-il pénétré dans la propriété ?",
+      "logo": "https://image.tmdb.org/t/p/w500/rAIdNngzZ7nACOUKkd3lCCHHGBn.png"
+    },
+    {
+      "id": "tmdb:399366",
+      "type": "movie",
+      "name": "Le Secret des Marrowbone",
+      "poster": "https://image.tmdb.org/t/p/w500/tSe3L7n9U7TLDEld4lfoMkD0TyZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mc7w3y83wQU9YAIAmP1hoxqQped.jpg",
+      "year": "2017",
+      "imdbRating": "3.8",
+      "genres": [
+        "Thriller",
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Sergio G. Sánchez"
+      ],
+      "cast": [
+        "George MacKay",
+        "Anya Taylor-Joy",
+        "Charlie Heaton",
+        "Mia Goth",
+        "Matthew Stagg",
+        "Nicola Harrison"
+      ],
+      "description": "Pour ne pas être séparés, Jack, 20 ans, et ses frères et sœurs plus jeunes, décident de cacher à tout le monde le décès de leur mère qui les élevait seule. Ils se retrouvent livrés à eux-mêmes dans la ferme familiale isolée, mais bientôt, d’étranges phénomènes indiqueraient qu’une présence malveillante hante leur unique refuge…",
+      "logo": "https://image.tmdb.org/t/p/w500/3f23j4SzObqv7V7HzX4P57OeNT6.png"
+    },
+    {
+      "id": "tmdb:576845",
+      "type": "movie",
+      "name": "Last Night in Soho",
+      "poster": "https://image.tmdb.org/t/p/w500/v6qAIxWYIUiid71YPWjnVOZ4U6K.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nPWy5KISy7BbUOQcg588dflKzTL.jpg",
+      "year": "2021",
+      "imdbRating": "3.7",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Thomasin McKenzie",
+        "Anya Taylor-Joy",
+        "Matt Smith",
+        "Rita Tushingham",
+        "Michael Ajao",
+        "Synnøve Karlsen"
+      ],
+      "description": "L’histoire d’une jeune femme passionnée de mode et de design qui parvient mystérieusement à retourner dans les années 60 où elle rencontre son idole, une éblouissante jeune star montante. Mais le Londres des années 60 n’est pas ce qu’il paraît, et le temps semble se désagréger entraînant de sombres répercussions.",
+      "logo": "https://image.tmdb.org/t/p/w500/5wWAh2wepdfDfftY5KB7EDRme08.png"
+    },
+    {
+      "id": "tmdb:1284120",
+      "type": "movie",
+      "name": "The Ugly Stepsister",
+      "poster": "https://image.tmdb.org/t/p/w500/hRbaOImESNEJWC2SZ8qHXiRFm4i.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eQV9rSQ6S1ja4lGTwHTnQuVhoG.jpg",
+      "year": "2025",
+      "imdbRating": "3.7",
+      "genres": [
+        "Horreur",
+        "Comédie",
+        "Fantastique",
+        "Drame"
+      ],
+      "director": [
+        "Emilie Blichfeldt"
+      ],
+      "cast": [
+        "Lea Mathilde Skar-Myren",
+        "Ane Dahl Torp",
+        "Thea Sofie Loch Næss",
+        "Flo Fagerli",
+        "Isac Calmroth",
+        "Malte Gårdinger"
+      ],
+      "description": "Dans un royaume où la beauté règne en maître, la jeune Elvira doit faire face à une féroce concurrence pour espérer gagner l’attention du prince. Parmi ses nombreuses rivales, se trouve notamment sa demi-sœur à la beauté insolente. Dans cette course effrénée à l’obtention du physique parfait, Elvira devra avoir recours aux méthodes les plus extrêmes.",
+      "logo": "https://image.tmdb.org/t/p/w500/6giXIEmDZTQi0TfpfBEE9XP0QnR.png"
+    },
+    {
+      "id": "tmdb:333371",
+      "type": "movie",
+      "name": "10 Cloverfield Lane",
+      "poster": "https://image.tmdb.org/t/p/w500/gAw5nJGNDI2hyw2ghBLoD6rSk3Y.jpg",
+      "background": "https://image.tmdb.org/t/p/original/veGaHYcRHFPEoKfqxKbCEXI8tOT.jpg",
+      "year": "2016",
+      "imdbRating": "3.6",
+      "genres": [
+        "Thriller",
+        "Science-Fiction",
+        "Drame",
+        "Horreur"
+      ],
+      "director": [
+        "Dan Trachtenberg"
+      ],
+      "cast": [
+        "John Goodman",
+        "Mary Elizabeth Winstead",
+        "John Gallagher Jr.",
+        "Douglas M. Griffin",
+        "Suzanne Cryer",
+        "Bradley Cooper"
+      ],
+      "description": "Une jeune femme se réveille dans une cave après un accident de voiture. Ne sachant pas comment elle a atterri dans cet endroit, elle pense tout d'abord avoir été kidnappée. Son gardien tente de la rassurer en lui disant qu'il lui a sauvé la vie après une attaque chimique d'envergure. En l'absence de certitude, elle décide de s'échapper…",
+      "logo": "https://image.tmdb.org/t/p/w500/qajIxFfuquI2TxnLf3SD5pt2Zjp.png"
+    },
+    {
+      "id": "tmdb:493922",
+      "type": "movie",
+      "name": "Hérédité",
+      "poster": "https://image.tmdb.org/t/p/w500/5Bz0u7xEyOUnGi4ov3rZKqKYCuH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+      "year": "2018",
+      "imdbRating": "3.6",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "Ari Aster"
+      ],
+      "cast": [
+        "Toni Collette",
+        "Alex Wolff",
+        "Gabriel Byrne",
+        "Milly Shapiro",
+        "Ann Dowd",
+        "Mallory Bechtel"
+      ],
+      "description": "Quand Ellen, la matriarche de la famille Graham, meurt, sa fille revient vivre dans la maison avec sa famille. Ils vont alors découvrir le terrifiant secret de leur ancêtre...",
+      "logo": "https://image.tmdb.org/t/p/w500/m9V139rphsH11OtovxFpuiQlb9o.png"
+    },
+    {
+      "id": "tmdb:82654",
+      "type": "movie",
+      "name": "Warm Bodies",
+      "poster": "https://image.tmdb.org/t/p/w500/yJw1f2xD1evLDzvVO2jnYdSRzWt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/d2nWERbNIKA9dBDWbRReK0cRBD4.jpg",
+      "year": "2013",
+      "imdbRating": "3.6",
+      "genres": [
+        "Horreur",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Jonathan Levine"
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Teresa Palmer",
+        "Lio Tipton",
+        "John Malkovich",
+        "Dave Franco",
+        "Rob Corddry"
+      ],
+      "description": "Ces derniers temps, R s'interroge sur son existence et son avenir. Il est pâle, maladroit, s'exprime avec difficulté et s'ennuie. R est un Zombie en quête de sens. Julie vit dans une cité fortifiée avec les derniers humains du continent. Elle fait partie d'une unité militaire qui protège les survivants. Au cours d'une attaque, contre toute attente, R sauve la jeune fille et lui trouve un abri...",
+      "logo": "https://image.tmdb.org/t/p/w500/roiGmyc6glmfoPXcIiCruoeTJwL.png"
+    },
+    {
+      "id": "tmdb:6537",
+      "type": "movie",
+      "name": "L'Orphelinat",
+      "poster": "https://image.tmdb.org/t/p/w500/8Zig1ATMyD4FPzPW4DfDNt9HrLU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/g6pNnKmvTkNlEvn0ScwstYvhFE.jpg",
+      "year": "2007",
+      "imdbRating": "3.6",
+      "genres": [
+        "Horreur",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "J. A. Bayona"
+      ],
+      "cast": [
+        "Belén Rueda",
+        "Fernando Cayo",
+        "Roger Príncep",
+        "Mabel Rivera",
+        "Montserrat Carulla",
+        "Andrés Gertrúdix"
+      ],
+      "description": "Laura a passé son enfance dans un orphelinat entourée d'autres enfants qu'elle aimait comme ses frères et sœurs. Adulte, elle retourne sur les lieux avec son mari et son fils de sept ans, Simon, avec l'intention de restaurer la vieille maison. La demeure réveille l'imagination de Simon, qui commence à se livrer à d'étranges jeux avec \"ses amis\"... Troublée, Laura se laisse alors aspirer dans l'univers de Simon, convaincue qu'un mystère longtemps refoulé est tapi dans l'orphelinat...",
+      "logo": "https://image.tmdb.org/t/p/w500/gu2ckDPBCoJohceDKXCQaO38dVn.png"
+    },
+    {
+      "id": "tmdb:398173",
+      "type": "movie",
+      "name": "The House That Jack Built",
+      "poster": "https://image.tmdb.org/t/p/w500/phAw0knIPujeRP9TExz8aqMbigK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
+      "year": "2018",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Horreur",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Lars von Trier"
+      ],
+      "cast": [
+        "Matt Dillon",
+        "Bruno Ganz",
+        "Uma Thurman",
+        "Siobhan Fallon Hogan",
+        "Sofie Gråbøl",
+        "Riley Keough"
+      ],
+      "description": "États-Unis, années 70. Nous suivons le très brillant Jack à travers cinq incidents et découvrons les meurtres qui vont marquer son parcours de tueur en série. L’histoire est vécue du point de vue de Jack. Il considère chaque meurtre comme une œuvre d’art en soi. Alors que l’ultime et inévitable intervention de la police ne cesse de se rapprocher (ce qui exaspère Jack et lui met la pression) il décide — contrairement à toute logique — de prendre de plus en plus de risques. Tout au long du film, nous découvrons les descriptions de Jack sur sa situation personnelle, ses problèmes et ses pensées à travers sa conversation avec un inconnu, Verge. Un mélange grotesque de sophismes, d’apitoiement presque enfantin sur soi et d'explications détaillées sur les manœuvres dangereuses et difficiles de Jack.",
+      "logo": "https://image.tmdb.org/t/p/w500/rkOnKVUTZChFAqkBfjAztidSxCb.png"
+    },
+    {
+      "id": "tmdb:395992",
+      "type": "movie",
+      "name": "Life : Origine Inconnue",
+      "poster": "https://image.tmdb.org/t/p/w500/2CeUEc1fHuWR2yYiRMPUGXIIowR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nNh7vHHISVAaziJEqAq0P9iL52w.jpg",
+      "year": "2017",
+      "imdbRating": "3.5",
+      "genres": [
+        "Horreur",
+        "Science-Fiction",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "Daniel Espinosa"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Ryan Reynolds",
+        "Rebecca Ferguson",
+        "Hiroyuki Sanada",
+        "Ольга Дыховичная",
+        "Ariyon Bakare"
+      ],
+      "description": "À bord de la Station Spatiale Internationale, les six membres d’équipage font l’une des plus importantes découvertes de l’histoire de l’humanité : la toute première preuve d’une vie extraterrestre sur Mars. Alors qu’ils approfondissent leurs recherches, leurs expériences vont avoir des conséquences inattendues, et la forme de vie révélée va s’avérer bien plus intelligente que ce qu’ils pensaient…",
+      "logo": "https://image.tmdb.org/t/p/w500/oEvtbZUhFdZ6eUQSL0zC4siNIbi.png"
+    },
+    {
+      "id": "tmdb:530385",
+      "type": "movie",
+      "name": "Midsommar",
+      "poster": "https://image.tmdb.org/t/p/w500/17pvY55Zr60niVovNvgt72mwvES.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+      "year": "2019",
+      "imdbRating": "3.5",
+      "genres": [
+        "Horreur",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Ari Aster"
+      ],
+      "cast": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "William Jackson Harper",
+        "Will Poulter",
+        "Vilhelm Blomgren",
+        "Isabelle Grill"
+      ],
+      "description": "Dani et Christian sont sur le point de se séparer quand la famille de Dani est touchée par une tragédie. Attristé par le deuil de la jeune femme, Christian ne peut se résoudre à la laisser seule et l’emmène avec lui et ses amis à un festival estival qui n’a lieu que tous les 90 ans et se déroule dans un village suédois isolé. Mais ce qui commence comme des vacances insouciantes dans un pays où le soleil ne se couche pas va vite prendre une tournure beaucoup plus sinistre et inquiétante.",
+      "logo": "https://image.tmdb.org/t/p/w500/vOvRZEAeAHOT2bzb6Z5jvVPmZSW.png"
+    },
+    {
+      "id": "tmdb:949423",
+      "type": "movie",
+      "name": "Pearl",
+      "poster": "https://image.tmdb.org/t/p/w500/pe6W1l0MSFUjZYCH3psEkJBXVav.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8rmx3Wh6fQdSL2nzTmdFn9thcK8.jpg",
+      "year": "2022",
+      "imdbRating": "3.5",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Ti West"
+      ],
+      "cast": [
+        "Mia Goth",
+        "David Corenswet",
+        "Tandi Wright",
+        "Matthew Sunderland",
+        "Emma Jenkins-Purro",
+        "Alistair Sewell"
+      ],
+      "description": "Piégée dans la ferme isolée de sa famille, Pearl doit s'occuper de son père malade sous le regard autoritaire de sa mère dévote. Désireuse de mener une vie glamour comme elle l'a vu dans les films, Pearl voit ses ambitions limitées... ce qu'elle n'apprécie pas du tout !",
+      "logo": "https://image.tmdb.org/t/p/w500/k5iez3AjNgx30vQ5K7Jq9bZhXsr.png"
+    },
+    {
+      "id": "tmdb:660942",
+      "type": "movie",
+      "name": "The Innocents",
+      "poster": "https://image.tmdb.org/t/p/w500/6zg7Whcko8szB9mczEBUtqGB5VJ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4hAhZ66n5iasGtSYHTFg6oGdJk0.jpg",
+      "year": "2021",
+      "imdbRating": "3.5",
+      "genres": [
+        "Horreur",
+        "Drame",
+        "Fantastique"
+      ],
+      "director": [
+        "Eskil Vogt"
+      ],
+      "cast": [
+        "Rakel Lenora Fløttum",
+        "Alva Brynsmo Ramstad",
+        "Sam Ashraf",
+        "Mina Yasmin Bremseth Asheim",
+        "Ellen Dorrit Petersen",
+        "Morten Svartveit"
+      ],
+      "description": "Dans la quiétude d’une banlieue assoupie par l’été nordique, quatre enfants se découvrent d’étonnants pouvoirs qu’ils convoquent innocemment dans leurs jeux, loin du regard des adultes. Alors qu'ils explorent leurs nouvelles aptitudes dans la forêt et le parc environnants, leurs distractions prennent peu à peu une tournure inquiétante.",
+      "logo": "https://image.tmdb.org/t/p/w500/dzVQdaIfu8DYdy1DuXgqNiefwkp.png"
+    },
+    {
+      "id": "tmdb:9533",
+      "type": "movie",
+      "name": "Dragon rouge",
+      "poster": "https://image.tmdb.org/t/p/w500/rGNHLRWTsoaGScN1j5k3apXzEsr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7c65xpnYlea6VITznLLRS9cTuwS.jpg",
+      "year": "2002",
+      "imdbRating": "3.4",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Horreur"
+      ],
+      "director": [
+        "Brett Ratner"
+      ],
+      "cast": [
+        "Edward Norton",
+        "Anthony Hopkins",
+        "Ralph Fiennes",
+        "Emily Watson",
+        "Harvey Keitel",
+        "Philip Seymour Hoffman"
+      ],
+      "description": "Trois ans après avoir arrêté le docteur Hannibal Lecter, Will Graham vit paisiblement avec sa femme et son fils en Floride. Les blessures physiques que lui a infligées ce dangereux criminel ont disparu, mais il garde encore quelques séquelles psychologiques de sa rencontre avec lui. Cette mauvaise expérience l’a amené à se retirer du FBI. Un jour, son ancien patron vient lui rendre visite. Il a besoin de son aide pour traquer un tueur en série connu sous le nom de «la petite souris». Ce dernier a déjà massacré deux familles durant des nuits de pleine lune. Le FBI ne dispose que de quelques jours avant qu’il ne frappe à nouveau. Will ne se sent pas prêt à reprendre du service, mais a‐t‐il réellement le choix ? Afin de comprendre les motivations de ce tueur, il se voit contraint de demander l’aide du docteur Lecter, qui se trouve au centre de détention psychiatrique de Baltimore.",
+      "logo": "https://image.tmdb.org/t/p/w500/mZJgXFGBiUWnI2mL2LeOcEl2RB3.png"
+    },
+    {
+      "id": "tmdb:9792",
+      "type": "movie",
+      "name": "La colline a des yeux",
+      "poster": "https://image.tmdb.org/t/p/w500/41oCubeJ4tkEI7r8QZmUTbChFRX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
+      "year": "2006",
+      "imdbRating": "3.4",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Alexandre Aja"
+      ],
+      "cast": [
+        "Vinessa Shaw",
+        "Aaron Stanford",
+        "Ted Levine",
+        "Kathleen Quinlan",
+        "Emilie de Ravin",
+        "Dan Byrd"
+      ],
+      "description": "Pour fêter leur anniversaire de mariage, Big Bob Carter, un ancien policier de Cleveland, et sa femme Ethel ont demandé à leur famille de partir avec eux en Californie. Big Bob est sûr que faire la route tous ensemble les aidera à resserrer des liens familiaux un peu distendus. Même si tout le monde vient, personne n'est vraiment ravi d'être là. Lynn, la fille aînée, s'inquiète du confort de son bébé. Son mari, Doug, redoute de passer trop de temps près de son beau-père. La jeune Brenda regrette de ne pas être allée faire la fête à Cancun avec ses amis. Et Bobby ne s'intéresse qu'aux deux chiens de la famille. Une route désertique va conduire les Carter vers le pire des cauchemars…",
+      "logo": "https://image.tmdb.org/t/p/w500/jB0ufg4Gft6iQY8dVClWVZmZXFo.png"
+    },
+    {
+      "id": "tmdb:1255",
+      "type": "movie",
+      "name": "The Host",
+      "poster": "https://image.tmdb.org/t/p/w500/1KYJYiITzU8rhiJ7CsCJ5I3U89s.jpg",
+      "background": "https://image.tmdb.org/t/p/original/44F22wn408ya0sipaezfRhTiBpQ.jpg",
+      "year": "2006",
+      "imdbRating": "3.4",
+      "genres": [
+        "Horreur",
+        "Drame",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Bong Joon-ho"
+      ],
+      "cast": [
+        "Song Kang-ho",
+        "변희봉",
+        "Park Hae-il",
+        "Bae Doo-na",
+        "Go Ah-seong",
+        "Oh Dal-su"
+      ],
+      "description": "À Séoul, Park Hee-bong tient un petit snack au bord de la rivière Han où il vit avec les siens. Il y a son fils aîné, l'immature Gang-du, sa fille Nam-joo, une championne malchanceuse de tir à l'arc, et Nam-il, son fils cadet éternellement au chômage. Tous idolâtrent la petite Hyun-seo, la fille unique de Gang-du. Un jour, un monstre géant et inconnu jusqu'à présent, surgit des profondeurs de la rivière. Quand la créature atteint les berges, elle se met à piétiner et attaquer la foule sauvagement, détruisant tout sur son passage. Le snack démoli, Gang-du tente de s'enfuir avec sa fille, mais il la perd dans la foule paniquée. Quand il l'aperçoit enfin, Hyun-seo est en train de se faire enlever par le monstre qui disparaît, en emportant la fillette au fond de la rivière. La famille Park décide alors de partir en croisade contre le monstre, pour retrouver Hyun-seo...",
+      "logo": "https://image.tmdb.org/t/p/w500/fqgKDIOGMaPa48KUairFwNHbg07.png"
+    },
+    {
+      "id": "tmdb:13510",
+      "type": "movie",
+      "name": "Eden Lake",
+      "poster": "https://image.tmdb.org/t/p/w500/ldX6jqMf7OcMdGSyG7Uzi64a7ks.jpg",
+      "background": "https://image.tmdb.org/t/p/original/34fIB4TBdYHerdbcXoMVPZiX7q0.jpg",
+      "year": "2008",
+      "imdbRating": "3.4",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "James Watkins"
+      ],
+      "cast": [
+        "Kelly Reilly",
+        "Michael Fassbender",
+        "Jack O'Connell",
+        "Finn Atkins",
+        "Thomas Turgoose",
+        "James Burrows"
+      ],
+      "description": "Jenny est maîtresse d'école. Son petit ami et elle quittent Londres pour passer un week-end romantique au bord d'un lac. La tranquillité du lieu est perturbée par une bande d'adolescents bruyants et agressifs qui s'installent avec leur Rottweiler juste à côté d'eux. A bout de nerfs, ces derniers leur demandent de baisser le son de leur radio. Grosse erreur !",
+      "logo": "https://image.tmdb.org/t/p/w500/Ae8oUUHH6231eexbHjrW7GnLsck.png"
+    },
+    {
+      "id": "tmdb:301804",
+      "type": "movie",
+      "name": "Ne t'endors pas",
+      "poster": "https://image.tmdb.org/t/p/w500/fFuqHF06D8NvC8YOR32Bdbr5cfI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xPbm6DJCn26NHvRwsuG9eGC0b3y.jpg",
+      "year": "2016",
+      "imdbRating": "3.4",
+      "genres": [
+        "Drame",
+        "Fantastique",
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Mike Flanagan"
+      ],
+      "cast": [
+        "Kate Bosworth",
+        "Jacob Tremblay",
+        "Thomas Jane",
+        "Annabeth Gish",
+        "Lance E. Nichols",
+        "Scottie Thompson"
+      ],
+      "description": "Un jeune couple adopte un petit garçon orphelin dont les rêves et cauchemars prennent vie chaque nuit, lorsqu'il dort.",
+      "logo": "https://image.tmdb.org/t/p/w500/hJIkSIE1mTbGNsj3mUdyUYAAx2E.png"
+    },
+    {
+      "id": "tmdb:244458",
+      "type": "movie",
+      "name": "The Voices",
+      "poster": "https://image.tmdb.org/t/p/w500/xGmZksEsxwP4urFNFDsRa05FWQb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/d5tcsjdLw3uxBd318EIcTn9e35X.jpg",
+      "year": "2014",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Horreur",
+        "Fantastique"
+      ],
+      "director": [
+        "Marjane Satrapi"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Gemma Arterton",
+        "Anna Kendrick",
+        "Jacki Weaver",
+        "Ella Smith",
+        "Paul Chahidi"
+      ],
+      "description": "Jerry vit à Milton, petite ville américaine bien tranquille où il travaille dans une usine de baignoires. Célibataire, il n’est pas solitaire pour autant dans la mesure où il s’entend très bien avec son chat, M. Moustache, et son chien, Bosco. Jerry voit régulièrement sa psy, aussi charmante que compréhensive, à qui il révèle un jour qu’il apprécie de plus en plus Fiona - la délicieuse Anglaise qui travaille à la comptabilité de l’usine. Bref, tout se passe bien dans sa vie plutôt ordinaire - du moins tant qu’il n’oublie pas de prendre ses médicaments...",
+      "logo": "https://image.tmdb.org/t/p/w500/76KjqO4s9eqVHqHcadbTwMn1oYb.png"
+    },
+    {
+      "id": "tmdb:11601",
+      "type": "movie",
+      "name": "Hypnose",
+      "poster": "https://image.tmdb.org/t/p/w500/semKtJRnf04TsnRQ6Krs8sMHfHG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/r6tolvqamMPUUZaaPkALU0nwxQb.jpg",
+      "year": "1999",
+      "imdbRating": "3.4",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "David Koepp"
+      ],
+      "cast": [
+        "Kevin Bacon",
+        "Kathryn Erbe",
+        "Illeana Douglas",
+        "Zachary David Cope",
+        "Kevin Dunn",
+        "Conor O'Farrell"
+      ],
+      "description": "Tom Witzky, ouvrier dans la banlieue de Chicago, mène une vie de père de famille tout à fait ordinaire. Lors d'une soirée entre amis, Tom accepte, par jeu, une séance d'hypnose. Plus tard dans la nuit, il est assailli par des visions, des rêves troublants. De jour en jour, il voit toujours davantage de choses qu'il est incapable d'expliquer, entend des voix qu'il ne peut ignorer. Inexorablement, sa vie bascule. Bientôt, les visions de Tom deviennent réalité. Il voit sa famille en danger, il voit la mort...",
+      "logo": "https://image.tmdb.org/t/p/w500/7MlQUznU51Dv0f9JB8gVR55QJjc.png"
+    },
+    {
+      "id": "tmdb:561",
+      "type": "movie",
+      "name": "Constantine",
+      "poster": "https://image.tmdb.org/t/p/w500/wtkbdBdscJqZws61NFuqJmVS0m3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/26OvB15pqk3eiKJG8LrXDVzO7Mw.jpg",
+      "year": "2005",
+      "imdbRating": "3.3",
+      "genres": [
+        "Fantastique",
+        "Action",
+        "Horreur"
+      ],
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Rachel Weisz",
+        "Shia LaBeouf",
+        "Djimon Hounsou",
+        "Max Baker",
+        "Pruitt Taylor Vince"
+      ],
+      "description": "John Constantine, extralucide anticonformiste, qui a littéralement fait un aller-retour aux enfers, doit aider Katelin Dodson, une policière incrédule, à lever le voile sur le suicide mystérieux de sa sœur jumelle. Cette enquête leur fera découvrir l'univers d'anges et de démons qui hantent les sous-sols de Los Angeles d'aujourd'hui.",
+      "logo": "https://image.tmdb.org/t/p/w500/sPRIMmlTCqc4vloDkSffVY3beW.png"
+    },
+    {
+      "id": "tmdb:440021",
+      "type": "movie",
+      "name": "Happy Birthdead",
+      "poster": "https://image.tmdb.org/t/p/w500/rnSMCj8FNqAg240G3yBkxHvECiQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cx3tDVqovnE75mB0n3pxlmpzmc4.jpg",
+      "year": "2017",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie",
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Christopher Landon"
+      ],
+      "cast": [
+        "Jessica Rothe",
+        "Israel Broussard",
+        "Ruby Modine",
+        "Rachel Matthews",
+        "Billy Slaughter",
+        "Charles Aitken"
+      ],
+      "description": "Prisonnière d’une boucle temporelle, Tree, étudiante, revit sans cesse le jour de son meurtre. Une journée apparemment banale qui s’achève systématiquement par sa mort atroce. Finira-t-elle par découvrir l’identité de son tueur ?",
+      "logo": "https://image.tmdb.org/t/p/w500/hXge5A7AEc3JFkwm9wpAHBp7EaV.png"
+    },
+    {
+      "id": "tmdb:184346",
+      "type": "movie",
+      "name": "Délivre-nous du mal",
+      "poster": "https://image.tmdb.org/t/p/w500/4APJrITmxSY4EmjsTIHWhERFQt0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/JFQJDXEHnZmfJC1sWNbIrz0WS7.jpg",
+      "year": "2014",
+      "imdbRating": "3.3",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Horreur"
+      ],
+      "director": [
+        "Scott Derrickson"
+      ],
+      "cast": [
+        "Eric Bana",
+        "Olivia Munn",
+        "Edgar Ramírez",
+        "Joel McHale",
+        "Sean Harris",
+        "Chris Coy"
+      ],
+      "description": "La violence et la noirceur, le sergent Ralph Sarchie connaît bien. Flic dans le Bronx, il est chaque jour témoin du pire de la nature humaine. Ce qu’il endure a même fini par affecter sa relation avec sa femme, Jen, et leur petite fille, Christina. Pourtant, rien ne l’avait préparé à l’affaire que lui et son partenaire Butler vont découvrir. Dépassé, Sarchie va devoir s’allier à un prêtre renégat dont la foi a souvent vacillé, qui tente de le convaincre que les horribles événements qui se multiplient sont liés à des possessions démoniaques… Ensemble, le policier et le prêtre accumulent les preuves que le Mal est à l’œuvre, et Sarchie est forcé de remettre en cause tout ce en quoi il a toujours cru pour combattre les puissances occultes qui menacent la ville et sa famille…",
+      "logo": "https://image.tmdb.org/t/p/w500/6H078wYj598hJYhDWlQ6vx97RfO.png"
+    },
+    {
+      "id": "tmdb:791177",
+      "type": "movie",
+      "name": "Bones and All",
+      "poster": "https://image.tmdb.org/t/p/w500/fmjOEHYMQang2sMuM1fz5ddaEc2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8sPxa4sdRvjgRG3GgkO8RQxUR9P.jpg",
+      "year": "2022",
+      "imdbRating": "3.3",
+      "genres": [
+        "Horreur",
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Luca Guadagnino"
+      ],
+      "cast": [
+        "Taylor Russell",
+        "Timothée Chalamet",
+        "Mark Rylance",
+        "Anna Cobb",
+        "André Holland",
+        "David Gordon Green"
+      ],
+      "description": "Maren, une jeune femme apprenant à survivre en marge de la société, découvre l'amour avec Lee, un intense et marginal vagabond. Ensemble, ils s'embarquent dans une odyssée de mille kilomètres qui les amène à traverser les routes délaissées de l'Amérique profonde de Ronald Reagan. En dépit de leurs efforts pour échapper à leurs passés terrifiants, tout les ramène à leurs démons.",
+      "logo": "https://image.tmdb.org/t/p/w500/3k8OEnsAXAVqsYKk938eljc0Uhf.png"
+    },
+    {
+      "id": "tmdb:340837",
+      "type": "movie",
+      "name": "A Cure for Life",
+      "poster": "https://image.tmdb.org/t/p/w500/ftadTxBtouzZkUp0OPAag2nMR6N.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uXx9wjfJEzLlfqB8GW67SYBrhVT.jpg",
+      "year": "2017",
+      "imdbRating": "3.2",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Gore Verbinski"
+      ],
+      "cast": [
+        "Dane DeHaan",
+        "Jason Isaacs",
+        "Mia Goth",
+        "Harry Groener",
+        "Celia Imrie",
+        "Adrian Schiller"
+      ],
+      "description": "Lockhart, jeune cadre ambitieux, est lancé sur la trace de son patron disparu dans un mystérieux centre de bien-être en Suisse. Pris au piège de l’Institut et de son énigmatique corps médical, il découvre peu à peu la sinistre nature des soins proposés aux patients. Alors qu’on lui diagnostique le même mal qui habite l’ensemble des pensionnaires, Lockhart n’a plus d’autres choix que de se soumettre à l’étrange traitement délivré par le centre… la Cure.",
+      "logo": "https://image.tmdb.org/t/p/w500/uY18XovzEFUVRlYs0c1WnkVRypW.png"
+    },
+    {
+      "id": "tmdb:8461",
+      "type": "movie",
+      "name": "Funny Games U.S.",
+      "poster": "https://image.tmdb.org/t/p/w500/nWd7wpRM40YEG1C4PuyCIT2SiEa.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6P4R7kYUdJprHpyBmOQO6aB85xX.jpg",
+      "year": "2008",
+      "imdbRating": "3.2",
+      "genres": [
+        "Thriller",
+        "Horreur"
+      ],
+      "director": [
+        "Michael Haneke"
+      ],
+      "cast": [
+        "Naomi Watts",
+        "Tim Roth",
+        "Michael Pitt",
+        "Brady Corbet",
+        "Devon Gearhart",
+        "Boyd Gaines"
+      ],
+      "description": "Alors que Ann, George et leur fils profitent de leur maison de campagne, deux charmants jeunes hommes leur rendent une visite inattendue : bien éduqués, éloquents, ils arborent un sourire radieux et de jolis survêtements blancs. Ces derniers souhaitent les faire participer à un jeu. Les règles sont simples : « Vous pariez que vous serez toujours vivants demain à 9h00 ? Nous parions que vous serez déjà morts. Partants ? »",
+      "logo": "https://image.tmdb.org/t/p/w500/mRyqGyGQ66A6Mos3CoQulXzvMhD.png"
+    },
+    {
+      "id": "tmdb:13515",
+      "type": "movie",
+      "name": "Mirrors",
+      "poster": "https://image.tmdb.org/t/p/w500/19utvoMMpqeyY6m0u8S72enIF0C.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9zMbyilain3lcbX16fZwEkIBMLB.jpg",
+      "year": "2008",
+      "imdbRating": "3.1",
+      "genres": [
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Alexandre Aja"
+      ],
+      "cast": [
+        "Kiefer Sutherland",
+        "Paula Patton",
+        "Amy Smart",
+        "Jason Flemyng",
+        "Cameron Boyce",
+        "Arika Gluck"
+      ],
+      "description": "Un ancien flic, forcé de démissionner de son travail après un accident ayant couté la vie de son associé, travaille à présent comme veilleur de nuit dans un grand magasin brûlé et abandonné. Seuls quelques miroirs ont survécu aux flammes. Il réalise que ceux-ci cachent un horrible secret qui les menace, lui et sa famille.",
+      "logo": "https://image.tmdb.org/t/p/w500/qFyzV6BMHZ8u5WYdt8WyUjNHTNo.png"
+    },
+    {
+      "id": "tmdb:22970",
+      "type": "movie",
+      "name": "La Cabane dans les bois",
+      "poster": "https://image.tmdb.org/t/p/w500/t1mjbGspktZTHoa9pvboDsfsWWu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dWLoSzvw52y1gt7ni9gZXdy693e.jpg",
+      "year": "2012",
+      "imdbRating": "3.0",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Comédie"
+      ],
+      "director": [
+        "Drew Goddard"
+      ],
+      "cast": [
+        "Kristen Connolly",
+        "Fran Kranz",
+        "Chris Hemsworth",
+        "Jesse Williams",
+        "Anna Hutchison",
+        "Richard Jenkins"
+      ],
+      "description": "Cinq étudiants et amis partent passer le week-end dans une cabane perdue au fond des bois. Ils ne savent pas qu'ils font partie d'une expérience scientifique qui se déroule dans plusieurs pays simultanément. Sur place, ils découvrent une cave remplie d'objets étranges dont un journal qui contient des incantations. Commence alors un séjour cauchemardesque pour le groupe d'amis.",
+      "logo": "https://image.tmdb.org/t/p/w500/sHmZFEhtuhh8QIukrh4J3XTF4HS.png"
+    },
+    {
+      "id": "tmdb:588",
+      "type": "movie",
+      "name": "Silent Hill",
+      "poster": "https://image.tmdb.org/t/p/w500/2I6UnjiJqmrYOzpsjIMjINcRSKF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cxhC845cuha0rNoOeQhi2mbWDLV.jpg",
+      "year": "2006",
+      "imdbRating": "3.0",
+      "genres": [
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Christophe Gans"
+      ],
+      "cast": [
+        "Radha Mitchell",
+        "Sean Bean",
+        "Jodelle Ferland",
+        "Laurie Holden",
+        "Deborah Kara Unger",
+        "Kim Coates"
+      ],
+      "description": "De plus en plus souvent, la petite Sharon rêve d'une ville abandonnée, Silent Hill. Sa mère, Rose, décidée à comprendre l'étrange mal dont souffre son enfant, décide de l'accompagner sur place. Alors qu'elles pénètrent dans cet univers lugubre, Sharon disparaît. Rose se lance à sa poursuite, mais se rend vite compte que ce lieu étrange ne ressemble à rien de normal. Noyée dans le brouillard, peuplée d'étranges créatures, hantée par des ténèbres vivantes qui dévorent littéralement tout ce qu'elles touchent, cette dimension va peu à peu livrer ses terrifiants secrets... Avec l'aide de Cybil, de la police locale, Rose se jette dans une quête éperdue pour arracher sa fille au monde de Silent Hill. D'indices en épreuves, elle va découvrir tout ce que Sharon risque et ce qu'elle représente dans une malédiction qui dépasse tout...",
+      "logo": "https://image.tmdb.org/t/p/w500/osbvEX80sdOAZIUFxRtkXAi2Wat.png"
+    },
+    {
+      "id": "tmdb:9539",
+      "type": "movie",
+      "name": "Martyrs",
+      "poster": "https://image.tmdb.org/t/p/w500/AtKUBX1POUsCNf74VA1wtxdyDzG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/n8zvKDOUy4JwIzQArjoVBhVaPDp.jpg",
+      "year": "2008",
+      "imdbRating": "3.0",
+      "genres": [
+        "Horreur",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Pascal Laugier"
+      ],
+      "cast": [
+        "Morjana Alaoui",
+        "Mylène Jampanoï",
+        "Catherine Bégin",
+        "Robert Toupin",
+        "Patricia Tulasne",
+        "Juliette Gosselin"
+      ],
+      "description": "France, début des années 70. Lucie, une petite fille de dix ans, disparue quelques mois plus tôt, est retrouvée errante sur la route. Son corps maltraité ne porte aucune trace d'agression sexuelle. Les raisons de son enlèvement restent mystérieuses. Traumatisée, mutique, elle est placée dans un hôpital où elle se lie d'amitié avec Anna, une fille de son âge. 15 ans plus tard, on sonne à la porte d'une famille ordinaire. Le père ouvre et se retrouve face à Lucie, armée d'un fusil de chasse. Persuadée d'avoir retrouvé ses bourreaux, elle tire.",
+      "logo": "https://image.tmdb.org/t/p/w500/8WVG2TV1M4V2o62bWPLdZML17Ms.png"
+    },
+    {
+      "id": "tmdb:1023922",
+      "type": "movie",
+      "name": "MaXXXine",
+      "poster": "https://image.tmdb.org/t/p/w500/uagihpF2YcMBqCEZVcWtACqJS4w.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qOdR46ymkVXuhnpnL2cBdjqjvnA.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Ti West"
+      ],
+      "cast": [
+        "Mia Goth",
+        "Elizabeth Debicki",
+        "Moses Sumney",
+        "Michelle Monaghan",
+        "Bobby Cannavale",
+        "Halsey"
+      ],
+      "description": "À Los Angeles dans les années 80, Maxine Minx , une star de films pour adultes et aspirante actrice, obtient finalement le rôle tant espéré. Mais lorsqu’un mystérieux tueur traque les starlettes d’Hollywood, des indices sanglants menacent de dévoiler le sombre passé de Maxine.",
+      "logo": "https://image.tmdb.org/t/p/w500/u646t6HQfzAuAaCTIbc6lEaxm6i.svg"
+    },
+    {
+      "id": "tmdb:1098378",
+      "type": "movie",
+      "name": "Your Monster",
+      "poster": "https://image.tmdb.org/t/p/w500/nHlHRntqfDM0ORsfgPL28u4GiTT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uiEgyO6bFsNRt4CGd8VJwXcBnmD.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Horreur"
+      ],
+      "director": [
+        "Caroline Lindy"
+      ],
+      "cast": [
+        "Melissa Barrera",
+        "Tommy Dewey",
+        "Edmund Donovan",
+        "Kayla Foster",
+        "Taylor Trensch",
+        "Brandon Victor Dixon"
+      ],
+      "description": "Après avoir subi une intervention chirurgicale et une rupture amoureuse, Laura traverse une période difficile. Actrice de comédie musicale, elle se remémore les bons moments passés avec Jacob, son ex-petit ami réalisateur qui avait écrit pour elle le rôle principal dans sa prochaine pièce. Un soir, elle entend des bruits étranges venant du placard et fait la rencontre d'un homme à l'apparence monstrueuse. Au début, Laura est terrifiée, puis elle découvre en lui une personne charmante.",
+      "logo": "https://image.tmdb.org/t/p/w500/3PTUGHhUoDLWrfYInp9eFpOrmek.png"
+    },
+    {
+      "id": "tmdb:716309",
+      "type": "movie",
+      "name": "Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/mvQVUZ4CNJO2FSb0miNpHM9HhDo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fQe4qvRarfjknY4Cs3upeW3I5DU.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Thriller",
+        "Horreur",
+        "Drame"
+      ],
+      "director": [
+        "Rodger Griffiths"
+      ],
+      "cast": [
+        "Daniel Portman",
+        "Brian Vernel",
+        "Calum Ross",
+        "Paul Higgins",
+        "James Harkness",
+        "Joanne Thomson"
+      ],
+      "logo": "https://image.tmdb.org/t/p/w500/3XVFGwlh7LwxapVYt5Nw87tvBBc.png"
+    },
+    {
+      "id": "tmdb:310131",
+      "type": "movie",
+      "name": "The Witch",
+      "poster": "https://image.tmdb.org/t/p/w500/cO6EPLw3YfC700TS4JfUaRTGXaZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tMkziWBEHwXs0jdFhOrrW7oCPmR.jpg",
+      "year": "2016",
+      "imdbRating": "2.9",
+      "genres": [
+        "Horreur",
+        "Fantastique",
+        "Drame"
+      ],
+      "director": [
+        "Robert Eggers"
+      ],
+      "cast": [
+        "Anya Taylor-Joy",
+        "Ralph Ineson",
+        "Kate Dickie",
+        "Harvey Scrimshaw",
+        "Ellie Grainger",
+        "Lucas Dawson"
+      ],
+      "description": "1630, en Nouvelle-Angleterre. William et Katherine, un couple dévot, s’établit à la limite de la civilisation, menant une vie pieuse avec leurs cinq enfants et cultivant leur lopin de terre au milieu d’une étendue encore sauvage. La mystérieuse disparition de leur nouveau-né et la perte soudaine de leurs récoltes vont rapidement les amener à se dresser les uns contre les autres…",
+      "logo": "https://image.tmdb.org/t/p/w500/dBWC7CXGZ7ygH2XYkWKJWIGmc9P.png"
+    },
+    {
+      "id": "tmdb:381283",
+      "type": "movie",
+      "name": "mother !",
+      "poster": "https://image.tmdb.org/t/p/w500/zhDkm8Bs10VDYlpDsq4dnbebzik.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2wS8pMZgvzq7kaZb5LHX54poQnA.jpg",
+      "year": "2017",
+      "imdbRating": "2.9",
+      "genres": [
+        "Drame",
+        "Horreur"
+      ],
+      "director": [
+        "Darren Aronofsky"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris",
+        "Michelle Pfeiffer",
+        "Brian Gleeson",
+        "Domhnall Gleeson"
+      ],
+      "description": "La relation d'un couple est mise en péril lorsque l'arrivée d'invités, inattendus, vient perturber leur quotidien.",
+      "logo": "https://image.tmdb.org/t/p/w500/jc9H9jtQasueXKisYJ6zmFYyI3e.png"
+    },
+    {
+      "id": "tmdb:242224",
+      "type": "movie",
+      "name": "Mister Babadook",
+      "poster": "https://image.tmdb.org/t/p/w500/wg2RSUyvBsKjjZhEoyePkEiOrUZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/t18ocAG0cpgC1AP288SseqmXqB5.jpg",
+      "year": "2014",
+      "imdbRating": "2.9",
+      "genres": [
+        "Drame",
+        "Horreur"
+      ],
+      "director": [
+        "Jennifer Kent"
+      ],
+      "cast": [
+        "Essie Davis",
+        "Noah Wiseman",
+        "Hayley McElhinney",
+        "Daniel Henshall",
+        "Barbara West",
+        "Ben Winspear"
+      ],
+      "description": "Depuis la mort brutale de son mari, Amelia lutte pour ramener à la raison son fils de 6 ans, Samuel, devenu complètement incontrôlable et qu'elle n'arrive pas à aimer. Quand un livre de contes intitulé « Mister Babadook » se retrouve mystérieusement dans leur maison, Samuel est convaincu que le « Babadook » est la créature qui hante ses cauchemars. Ses visions prennent alors une tournure démesurée, il devient de plus en plus imprévisible et violent. Amelia commence peu à peu à sentir une présence malveillante autour d’elle et réalise que les avertissements de Samuel ne sont peut-être pas que des hallucinations…",
+      "logo": "https://image.tmdb.org/t/p/w500/9mspJMyWs6miX6nuxDBmOxGG17e.png"
+    },
+    {
+      "id": "tmdb:531309",
+      "type": "movie",
+      "name": "Brightburn - L'enfant du mal",
+      "poster": "https://image.tmdb.org/t/p/w500/9coXLixYxSfNpRiaZ8sWR1Ok6lF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uHEI6v8ApQusjbaRZ8o7WcLYeWb.jpg",
+      "year": "2019",
+      "imdbRating": "2.8",
+      "genres": [
+        "Horreur",
+        "Science-Fiction"
+      ],
+      "director": [
+        "David Yarovesky"
+      ],
+      "cast": [
+        "Jackson A. Dunn",
+        "Elizabeth Banks",
+        "David Denman",
+        "Matt Jones",
+        "Meredith Hagner",
+        "Becky Wahlstrom"
+      ],
+      "description": "Tori Breyer a perdu tout espoir de devenir mère un jour, quand arrive dans sa vie un mystérieux bébé. Le petit Brandon est tout ce dont elle et son mari, Kyle, ont toujours rêvé : c’est un petit garçon éveillé, doué et curieux de tout. Mais à l’approche de la puberté, quelque chose d’aussi puissant que sinistre se manifeste chez lui. Tori nourrit bientôt d’atroces doutes sur son fils. Désormais, Brandon n’agit plus que pour satisfaire ses terribles besoins, et même ses proches sont en grave danger alors que l’enfant miraculeux se transforme en un redoutable prédateur qui se déchaîne sur leur petite ville sans histoire…",
+      "logo": "https://image.tmdb.org/t/p/w500/eU2JGIffTehnFmzp1UY9IcAqkdI.png"
+    },
+    {
+      "id": "tmdb:619778",
+      "type": "movie",
+      "name": "Malignant",
+      "poster": "https://image.tmdb.org/t/p/w500/rOgtWHw1lmh3OaC5mGMELTGyqNF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
+      "year": "2021",
+      "imdbRating": "2.8",
+      "genres": [
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "James Wan"
+      ],
+      "cast": [
+        "Annabelle Wallis",
+        "Maddie Hasson",
+        "George Young",
+        "Michole Briana White",
+        "Susanna Thompson",
+        "Ingrid Bisu"
+      ],
+      "description": "Madison a connu une enfance traumatisante jusqu'à ce qu'elle soit prise sous les ailes d'une charmante famille d'accueil. Maintenant adulte, son passé troublant la rattrape sous forme de cauchemars, durant lesquels son ami Gabriel commet de cruels meurtres.",
+      "logo": "https://image.tmdb.org/t/p/w500/zuDTVJByM5MlJ6QNQhlrgKHh7c6.png"
+    },
+    {
+      "id": "tmdb:467938",
+      "type": "movie",
+      "name": "Revenge",
+      "poster": "https://image.tmdb.org/t/p/w500/a1wuUTjXvWhBYuVT21BPZ31YAB2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/31HKH7MpovHT4bTvMpnwbWl1d1G.jpg",
+      "year": "2018",
+      "imdbRating": "2.8",
+      "genres": [
+        "Action",
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Coralie Fargeat"
+      ],
+      "cast": [
+        "Matilda Lutz",
+        "Kevin Janssens",
+        "Vincent Colombe",
+        "Guillaume Bouchède",
+        "Jean-Louis Tribes",
+        "Barbara Gateau"
+      ],
+      "description": "Trois riches chefs d’entreprise quarantenaires, mariés et bons pères de famille se retrouvent pour leur partie de chasse annuelle dans une zone désertique de canyons. Un moyen pour eux d’évacuer leur stress et d’affirmer leur virilité armes à la main. Mais cette fois, l’un d’eux est venu avec sa jeune maîtresse, une lolita ultra sexy qui attise rapidement la convoitise des deux autres... Les choses dérapent... Dans l'enfer du désert, la jeune femme laissée pour morte reprend vie... Et la partie de chasse se transforme en une impitoyable chasse à l'homme...",
+      "logo": "https://image.tmdb.org/t/p/w500/dt6XfKIRxK722Vfw6rIxySagUaj.png"
+    },
+    {
+      "id": "tmdb:744857",
+      "type": "movie",
+      "name": "When Evil Lurks",
+      "poster": "https://image.tmdb.org/t/p/w500/rwuI0qezt0hoXKSzZiA8wOLdeDk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cavK9ox37pxDg11RvJINMH63onU.jpg",
+      "year": "2023",
+      "imdbRating": "2.8",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Demián Rugna"
+      ],
+      "cast": [
+        "Ezequiel Rodríguez",
+        "Demián Salomón",
+        "Silvina Sabater",
+        "Luis Ziembrowski",
+        "Marcelo Michinaux",
+        "Emilio Vodanovich"
+      ],
+      "description": "Après avoir découvert un cadavre mutilé près de leur propriété, deux frères apprennent que les événements étranges survenant dans leur village sont causés par un esprit démoniaque qui a élu domicile dans le corps purulent d’un homme. Le mal dont souffre ce dernier ne tarde pas à se répandre comme une épidémie, affectant d’autres habitants de la région.",
+      "logo": "https://image.tmdb.org/t/p/w500/2eABjY29h3qabuS9d1z4EXbhEmq.png"
+    },
+    {
+      "id": "tmdb:776797",
+      "type": "movie",
+      "name": "The Sadness",
+      "poster": "https://image.tmdb.org/t/p/w500/bC34TLKRjg7OHhADXhUaSORaARf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dSwLzM4NxJp0aLsBJWcbZLtF7Oc.jpg",
+      "year": "2021",
+      "imdbRating": "2.8",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Rob Jabbaz"
+      ],
+      "cast": [
+        "朱軒洋",
+        "雷嘉汭",
+        "王自強",
+        "陳映如",
+        "Lan Wei-Hua",
+        "Ralf Chiu"
+      ],
+      "description": "Après un an de lutte contre une pandémie aux symptômes bénins, une nation finit par baisser sa garde. C'est alors que le virus mute spontanément, donnant naissance à un fléau qui altère l'esprit. Les rues se déchaînent dans la violence et la dépravation, les personnes infectées étant poussées à commettre les actes les plus cruels et les plus horribles qu'elles n'auraient jamais pu imaginer...",
+      "logo": "https://image.tmdb.org/t/p/w500/uumtWoY25K7V6fSIRb8Zjx6zeKh.png"
+    },
+    {
+      "id": "tmdb:1208002",
+      "type": "movie",
+      "name": "The Prodigy",
+      "poster": "https://image.tmdb.org/t/p/w500/g8qHZWjLbW2FRx7e8XXiFPXduHN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9CInRnkTBLxQvHzQW9WDecDtX5S.jpg",
+      "year": "2024",
+      "imdbRating": "2.8",
+      "genres": [
+        "Horreur"
+      ],
+      "director": [
+        "Omar Salas Zamora"
+      ],
+      "cast": [
+        "Beau Swartz",
+        "Calvin Picou",
+        "Isaac Levi Anthony",
+        "Alana Schoen",
+        "Matthew Namik",
+        "Tara Emerson"
+      ]
+    },
+    {
+      "id": "tmdb:482373",
+      "type": "movie",
+      "name": "Don't Breathe 2",
+      "poster": "https://image.tmdb.org/t/p/w500/rQXdWpiKPkL26PvGANGOpYkqYi7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3ULzK4XTSC1wal11K7459fxnjjA.jpg",
+      "year": "2021",
+      "imdbRating": "2.7",
+      "genres": [
+        "Thriller",
+        "Horreur"
+      ],
+      "director": [
+        "Rodo Sayagues"
+      ],
+      "cast": [
+        "Stephen Lang",
+        "Madelyn Grace",
+        "Brendan Sexton III",
+        "Adam Young",
+        "Rocci Williams",
+        "Christian Zagia"
+      ],
+      "description": "Quelques années après la première effraction mortelle au domicile de Norman Nordstrom, ce dernier vit des jours tranquilles et paisibles. Mais ses anciens péchés le rattrapent...",
+      "logo": "https://image.tmdb.org/t/p/w500/kNWcYrZEOWNsk6v4HKLFbtvnta2.png"
+    },
+    {
+      "id": "tmdb:1248",
+      "type": "movie",
+      "name": "Hannibal Lecter : Les Origines du mal",
+      "poster": "https://image.tmdb.org/t/p/w500/dDhHJysEmDRoNRJM0WHfUloI8cS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/am6ZfhUTUmcjPjjA4GIkLEJ33TN.jpg",
+      "year": "2007",
+      "imdbRating": "2.7",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Horreur"
+      ],
+      "director": [
+        "Peter Webber"
+      ],
+      "cast": [
+        "Gaspard Ulliel",
+        "Aaran Thomas",
+        "巩俐",
+        "Dominic West",
+        "Rhys Ifans",
+        "Richard Brake"
+      ],
+      "description": "Comment un petit garçon comme les autres est‐il devenu l’un des criminels les plus fascinant qui soit ? Au travers du parcours atypique d’un adolescent meurtri par les atrocités vécues pendant la Seconde Guerre Mondiale, suivez la naissance de l’incarnation absolue du mal… Hannibal Lecter.",
+      "logo": "https://image.tmdb.org/t/p/w500/21hX2O8hJfS889mWd6zqbjhC6nQ.png"
+    },
+    {
+      "id": "tmdb:424121",
+      "type": "movie",
+      "name": "Le Bon apôtre",
+      "poster": "https://image.tmdb.org/t/p/w500/xHoV8u9nYztHL4zzs0zFAPZNChs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tvGTSdLjKJgFHTcF4x9HSxoTIgW.jpg",
+      "year": "2018",
+      "imdbRating": "2.7",
+      "genres": [
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Gareth Evans"
+      ],
+      "cast": [
+        "Dan Stevens",
+        "Michael Sheen",
+        "Lucy Boynton",
+        "Mark Lewis Jones",
+        "Bill Milner",
+        "Kristine Froseth"
+      ],
+      "description": "Un homme se rend sur une île lointaine à la recherche de sa sœur, kidnappée par une dangereuse secte.",
+      "logo": "https://image.tmdb.org/t/p/w500/mgUhrL1JVZM8TpZrmaSZRYsSC6E.png"
+    },
+    {
+      "id": "tmdb:512196",
+      "type": "movie",
+      "name": "Happy Birthdead 2 You",
+      "poster": "https://image.tmdb.org/t/p/w500/q6Bc1nIgcr6uLkFxRvM2SwxLpqn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dhNJHBDacrZjSPtwaiwp3idpzxU.jpg",
+      "year": "2019",
+      "imdbRating": "2.6",
+      "genres": [
+        "Comédie",
+        "Horreur",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Christopher Landon"
+      ],
+      "cast": [
+        "Jessica Rothe",
+        "Israel Broussard",
+        "Ruby Modine",
+        "Suraj Sharma",
+        "Rachel Matthews",
+        "Phi Vu"
+      ],
+      "description": "Alors que Tree pensait s’être définitivement débarrassée de celle qui voulait sa mort et qu’elle file le parfait amour avec Carter, elle se retrouve projetée dans une dimension parallèle à notre monde. Elle doit désormais affronter des fantômes de son passé et de nouveaux ennemis…",
+      "logo": "https://image.tmdb.org/t/p/w500/8eFEISuUrWmEoAiPqLTu2kpiqee.png"
+    },
+    {
+      "id": "tmdb:443791",
+      "type": "movie",
+      "name": "Underwater",
+      "poster": "https://image.tmdb.org/t/p/w500/5a1WZ8qgcxw9gLJD7JQVfHeY0NN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tya34K7D4jtDrVbvExyvTx97Aen.jpg",
+      "year": "2020",
+      "imdbRating": "2.6",
+      "genres": [
+        "Horreur",
+        "Science-Fiction",
+        "Action",
+        "Aventure"
+      ],
+      "director": [
+        "William Eubank"
+      ],
+      "cast": [
+        "Kristen Stewart",
+        "Vincent Cassel",
+        "Mamoudou Athie",
+        "T.J. Miller",
+        "John Gallagher Jr.",
+        "Jessica Henwick"
+      ],
+      "description": "Une équipe scientifique sous-marine fait face à un tremblement de terre. Sous l'eau, ils vont devoir essayer de survivre.",
+      "logo": "https://image.tmdb.org/t/p/w500/9Qd6S3JeKtYuoEqS22hyKfzVInK.png"
+    },
+    {
+      "id": "tmdb:43593",
+      "type": "movie",
+      "name": "Piranha 3D",
+      "poster": "https://image.tmdb.org/t/p/w500/lz0L6V6R99ATSbdimlDpHgPSEzP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/AF0PiDItegyUtlBGDMGlSQbtro.jpg",
+      "year": "2010",
+      "imdbRating": "2.6",
+      "genres": [
+        "Comédie",
+        "Horreur"
+      ],
+      "director": [
+        "Alexandre Aja"
+      ],
+      "cast": [
+        "Elisabeth Shue",
+        "Jerry O'Connell",
+        "Steven R. McQueen",
+        "Jessica Szohr",
+        "Kelly Brook",
+        "Ving Rhames"
+      ],
+      "description": "Alors que la ville de Lake Victoria s'apprête à recevoir des milliers d'étudiants pour le week-end de Pâques, un tremblement de terre secoue la ville et ouvre, sous le lac, une faille d'où des milliers de piranhas s'échappent. Inconscients du danger qui les guette, tous les étudiants font la fête sur le lac tandis que Julie, la shérif, découvre un premier corps dévoré... La journée va être d'autant plus longue pour elle que Jake, son fils, a délaissé la garde de ses jeunes frères et soeurs pour servir de guide à bord du bâteau des sexy Wild Wild Girls !",
+      "logo": "https://image.tmdb.org/t/p/w500/2THJX8BCAfTvGrukTUxEUMN6BmJ.png"
+    },
+    {
+      "id": "tmdb:441701",
+      "type": "movie",
+      "name": "Verónica",
+      "poster": "https://image.tmdb.org/t/p/w500/lU2HL58AWbQ8bWSyc7mqyDxkdvt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uBgibL16LuvsEmqOSfj19uTDnOP.jpg",
+      "year": "2017",
+      "imdbRating": "2.6",
+      "genres": [
+        "Horreur"
+      ],
+      "director": [
+        "Paco Plaza"
+      ],
+      "cast": [
+        "Sandra Escacena",
+        "Bruna González",
+        "Claudia Placer",
+        "Iván Chavero",
+        "Ana Torrent",
+        "Consuelo Trujillo"
+      ],
+      "description": "Madrid, années 90. Après avoir fait une séance de spiritisme avec des amies, une adolescente est harcelée par de mystérieuses présences qui menacent de s’en prendre à toute sa famille. D’après une affaire policière jamais élucidée.",
+      "logo": "https://image.tmdb.org/t/p/w500/6BypMe0TryqQCvPjRLXQUNYEAtH.png"
+    },
+    {
+      "id": "tmdb:335796",
+      "type": "movie",
+      "name": "Ouija : Les Origines",
+      "poster": "https://image.tmdb.org/t/p/w500/AnKpmniPA0heKd8vR5Y9pvyy2nk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gcwRlIbVurhcqbpYeCJU9HJgYmQ.jpg",
+      "year": "2016",
+      "imdbRating": "2.5",
+      "genres": [
+        "Horreur"
+      ],
+      "director": [
+        "Mike Flanagan"
+      ],
+      "cast": [
+        "Annalise Basso",
+        "Elizabeth Reaser",
+        "Lulu Wilson",
+        "Henry Thomas",
+        "Parker Mack",
+        "Halle Charlton"
+      ],
+      "description": "À Los Angeles en 1965, une veuve et ses deux filles montent une nouvelle arnaque pour pimenter leur commerce de séances de spiritisme bidon. Chemin faisant, elles font involontairement entrer chez elles un esprit maléfique bien réel. Lorsque la fille cadette est possédée par la créature impitoyable, la petite famille doit surmonter une terreur dévastatrice pour la sauver et renvoyer l'esprit de l'autre côté…",
+      "logo": "https://image.tmdb.org/t/p/w500/oZ0M1eR9S3ZSfG6iyxKB4PnPcYS.png"
+    },
+    {
+      "id": "tmdb:418078",
+      "type": "movie",
+      "name": "It Comes at Night",
+      "poster": "https://image.tmdb.org/t/p/w500/iKrIuFwXLVL1VnLVkVTN0YlpbFu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6h9pjTsWzaUWuUszHHbeI1JWE1.jpg",
+      "year": "2017",
+      "imdbRating": "2.4",
+      "genres": [
+        "Drame",
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Trey Edward Shults"
+      ],
+      "cast": [
+        "Joel Edgerton",
+        "Christopher Abbott",
+        "Carmen Ejogo",
+        "Riley Keough",
+        "Kelvin Harrison, Jr.",
+        "Griffin Robert Faulkner"
+      ],
+      "description": "Alors que le monde est en proie à une menace terrifiante, un homme vit reclus dans sa propriété, totalement isolée, avec sa femme et son fils. Quand une famille aux abois cherche refuge dans sa propre maison, le fragile équilibre qu'il a mis en place est soudain bouleversé.",
+      "logo": "https://image.tmdb.org/t/p/w500/rD6jzcQzqQBTbBLAFzEsnaNpZCV.png"
+    },
+    {
+      "id": "tmdb:710295",
+      "type": "movie",
+      "name": "Wolf Man",
+      "poster": "https://image.tmdb.org/t/p/w500/gtbPZdsBFG5N8EoobxhDDwzV2Qi.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg",
+      "year": "2025",
+      "imdbRating": "2.4",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Leigh Whannell"
+      ],
+      "cast": [
+        "Christopher Abbott",
+        "Julia Garner",
+        "Matilda Firth",
+        "Sam Jaeger",
+        "Ben Prendergast",
+        "Zac Chandler"
+      ],
+      "description": "Blake, père de famille de San Fransisco, hérite de sa maison d’enfance dans un coin reculé de l’Oregon après la disparition de son père, présumé mort. Alors que son mariage avec Charlotte bat de l’aile, Blake persuade son influente épouse de quitter la ville quelque temps afin de visiter la propriété avec leur jeune fille, Ginger.",
+      "logo": "https://image.tmdb.org/t/p/w500/8nd6C23cvycRZLw6mkqfVjYPVRe.png"
+    },
+    {
+      "id": "tmdb:3597",
+      "type": "movie",
+      "name": "Souviens-toi… l'été dernier",
+      "poster": "https://image.tmdb.org/t/p/w500/c9dTFs4X8LkaF8pAxnYrneGoH0K.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6wpIPoE1H7N5yCuFsfcYoGBhFlP.jpg",
+      "year": "1997",
+      "imdbRating": "2.3",
+      "genres": [
+        "Horreur",
+        "Thriller",
+        "Mystère"
+      ],
+      "director": [
+        "Jim Gillespie"
+      ],
+      "cast": [
+        "Jennifer Love Hewitt",
+        "Freddie Prinze Jr.",
+        "Sarah Michelle Gellar",
+        "Ryan Phillippe",
+        "Bridgette Wilson-Sampras",
+        "Johnny Galecki"
+      ],
+      "description": "La nuit de la fête nationale, Julie, Helen, Ray et Barry ont par accident renversé un inconnu. Devant la crainte de leur avenir compromis par ce drame, ils décident de faire disparaître le corps et font le serment de ne rien dire à personne, jamais. L'été suivant, chacun des quatre amis se trouve confronté à des évènements terrifiants. Ils doivent se rendre à l'évidence : quelqu'un sait ce qu'ils ont fait et semble bien décidé à le leur faire payer.",
+      "logo": "https://image.tmdb.org/t/p/w500/iiJOnGVoaCS7xxA9Fa6jkP4TdtL.png"
+    },
+    {
+      "id": "tmdb:1082063",
+      "type": "movie",
+      "name": "Amelia's Children",
+      "poster": "https://image.tmdb.org/t/p/w500/kFFvKDu6H5FjyYEMlgrGVnTKkCg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eVPMCjjZ3kDRIYrTooNKwjZnUl.jpg",
+      "year": "2024",
+      "imdbRating": "2.3",
+      "genres": [
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Gabriel Abrantes"
+      ],
+      "cast": [
+        "Jack Haven",
+        "Carloto Cotta",
+        "Anabela Moreira",
+        "Alba Baptista",
+        "Rita Blanco",
+        "Beatriz Maia"
+      ],
+      "description": "Orphelin depuis sa naissance, Edward découvre à l’âge adulte qu’il a un jumeau et une mère qu’il ne connait pas. Avec sa petite amie Ryley, il part les rencontrer dans leur magnifique demeure isolée au cœur d’une région recluse. Les retrouvailles passées, le jeune couple se rend compte que les apparences sont trompeuses : la famille d’Edward cache un monstrueux secret. Leur visite va tourner au cauchemar…",
+      "logo": "https://image.tmdb.org/t/p/w500/9EpenKt4Gcn44s5X741zV8Fgr69.png"
+    },
+    {
+      "id": "tmdb:384521",
+      "type": "movie",
+      "name": "The Cloverfield Paradox",
+      "poster": "https://image.tmdb.org/t/p/w500/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2cnUCcNmmj79hGmimvWlUo5P2K8.jpg",
+      "year": "2018",
+      "imdbRating": "2.2",
+      "genres": [
+        "Horreur",
+        "Thriller",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Julius Onah"
+      ],
+      "cast": [
+        "Gugu Mbatha-Raw",
+        "Daniel Brühl",
+        "Chris O'Dowd",
+        "David Oyelowo",
+        "John Ortiz",
+        "Elizabeth Debicki"
+      ],
+      "description": "Une équipe de scientifiques envoyée en orbite pour sauver la planète d'une destruction imminente se retrouve face à une sombre réalité alternative.",
+      "logo": "https://image.tmdb.org/t/p/w500/3dN8vO1N8JW8IwhKeehiTMy0ifG.png"
+    },
+    {
+      "id": "tmdb:463684",
+      "type": "movie",
+      "name": "Velvet Buzzsaw",
+      "poster": "https://image.tmdb.org/t/p/w500/3rViQPcrWthMNecp5XnkKev6BzW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ckNp6LPhp1roR8dVI16q5u3LUMg.jpg",
+      "year": "2019",
+      "imdbRating": "2.2",
+      "genres": [
+        "Thriller",
+        "Mystère",
+        "Horreur"
+      ],
+      "director": [
+        "Dan Gilroy"
+      ],
+      "cast": [
+        "Rene Russo",
+        "Jake Gyllenhaal",
+        "Zawe Ashton",
+        "Tom Sturridge",
+        "Toni Collette",
+        "Natalia Dyer"
+      ],
+      "description": "Un critique redouté, une galeriste glaçante et une assistante ambitieuse s'emparent des tableaux d'un peintre récemment décédé... avec des conséquences funestes.",
+      "logo": "https://image.tmdb.org/t/p/w500/ulVf9NVtN6hWkUKntyIgyIGixwp.png"
+    },
+    {
+      "id": "tmdb:957452",
+      "type": "movie",
+      "name": "The Crow",
+      "poster": "https://image.tmdb.org/t/p/w500/gEeLJ1F8SnLZk6q8PEAZ3qjWVdP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
+      "year": "2024",
+      "imdbRating": "2.2",
+      "genres": [
+        "Action",
+        "Fantastique",
+        "Horreur"
+      ],
+      "director": [
+        "Rupert Sanders"
+      ],
+      "cast": [
+        "Bill Skarsgård",
+        "FKA twigs",
+        "Danny Huston",
+        "Josette Simon",
+        "Laura Birn",
+        "Sami Bouajila"
+      ],
+      "description": "La veille de leur mariage, Eric Draven et Shelly Webster sont sauvagement assassinés. Un an plus tard, un corbeau ramène Eric à la vie au coeur d'une ville plongée dans les ténèbres. Eric va se laisser conduire là où sa vengeance l'appelle. Pour que justice soit faite. Pour l'amour de Shelly.",
+      "logo": "https://image.tmdb.org/t/p/w500/w5eIIzP5eovhWrbFUjH0FSevcpU.png"
+    },
+    {
+      "id": "tmdb:514593",
+      "type": "movie",
+      "name": "You Should Have Left",
+      "poster": "https://image.tmdb.org/t/p/w500/pkHEqp7wZbSIYFOJaaZFwFG0yn4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/chAGSv4DB9s3fsgULpSZQLN7LgN.jpg",
+      "year": "2020",
+      "imdbRating": "2.1",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "David Koepp"
+      ],
+      "cast": [
+        "Kevin Bacon",
+        "Amanda Seyfried",
+        "Avery Tiiu Essex",
+        "Colin Blumenau",
+        "Lowri Ann Richards",
+        "Eli Powers"
+      ],
+      "description": "Retiré dans une maison isolée au Pays de Galles avec sa nouvelle femme et sa fille pour prendre du recul, un ancien banquier souffrant mentalement de la perte de son ex-femme, perd peu à peu la raison.",
+      "logo": "https://image.tmdb.org/t/p/w500/6KMbPQbaQ4KtouvopfFBYfpqoA0.png"
+    },
+    {
+      "id": "tmdb:395",
+      "type": "movie",
+      "name": "Alien vs. Predator",
+      "poster": "https://image.tmdb.org/t/p/w500/eFAnRsEb4vCW3TZDjLgYz5jPeJ0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ngZbISZ0ArJjekZeipIzWVTe47X.jpg",
+      "year": "2004",
+      "imdbRating": "2.0",
+      "genres": [
+        "Aventure",
+        "Science-Fiction",
+        "Action",
+        "Horreur"
+      ],
+      "director": [
+        "Paul W. S. Anderson"
+      ],
+      "cast": [
+        "Sanaa Lathan",
+        "Lance Henriksen",
+        "Ian Whyte",
+        "Raoul Bova",
+        "Ewen Bremner",
+        "Colin Salmon"
+      ],
+      "description": "Une mystérieuse onde de chaleur, émanant du cœur de la banquise, se propage à travers l'Antarctique. Pour étudier ce phénomène, Charles Bishop Weyland finance une expédition scientifique pilotée par Alexa Woods. L'équipe découvre une pyramide renfermant des vestiges de civilisations aztèque, égyptienne et cambodgienne. Constituées d'un labyrinthe de « chambres », les issues se referment brutalement sur plusieurs membres de l'expédition. Des Predators retiennent captive une reine Alien dont ils livrent les descendants aux jeunes Predators lors de rituels.",
+      "logo": "https://image.tmdb.org/t/p/w500/8yZaGV8MjovoOtPeQgnMFXX6GcV.png"
+    },
+    {
+      "id": "tmdb:719221",
+      "type": "movie",
+      "name": "Les Cartes du mal",
+      "poster": "https://image.tmdb.org/t/p/w500/hwZIyQhdLNQYUthJgHyCnvWhGew.jpg",
+      "background": "https://image.tmdb.org/t/p/original/otfoeC96neoOdA4HqsX06OWuzE9.jpg",
+      "year": "2024",
+      "imdbRating": "2.0",
+      "genres": [
+        "Horreur"
+      ],
+      "director": [
+        "Spenser Cohen",
+        "Anna Halberg"
+      ],
+      "cast": [
+        "Harriet Slater",
+        "Adain Bradley",
+        "Avantika",
+        "Jacob Batalon",
+        "Humberly González",
+        "Wolfgang Novogratz"
+      ],
+      "description": "Quand une bande d’amis transgresse sans scrupules les règles du tirage du Tarot – « Suis une seule règle, évite le danger, ne tire jamais des cartes que tu as trouvées » – ils libèrent à leur insu un esprit maléfique piégé dans les cartes maudites. Un par un, ils découvrent le sort qui les attend, et se retrouvent dans une course contre la mort pour échapper aux prédictions de leur tirage.",
+      "logo": "https://image.tmdb.org/t/p/w500/vkAbrAZwjrCbZL22DfkPgTqCYe9.png"
+    },
+    {
+      "id": "tmdb:1001414",
+      "type": "movie",
+      "name": "Fear Street : Prom Queen",
+      "poster": "https://image.tmdb.org/t/p/w500/8HWIML6j4m2KE4GseSKOEqpQAOX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qspghhpOyaBGgZDJoCbV2o9WNMU.jpg",
+      "year": "2025",
+      "imdbRating": "2.0",
+      "genres": [
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Matt Palmer"
+      ],
+      "cast": [
+        "India Fowler",
+        "Suzanna Son",
+        "Fina Strazza",
+        "Katherine Waterston",
+        "Lili Taylor",
+        "Chris Klein"
+      ],
+      "description": "Shadyside, 1988. Qui sera reine de promo au bal de fin d'année ? La compétition s'annonce féroce pour Lori, l'outsider, bien avant que quelqu'un ne commence à tuer les candidates.",
+      "logo": "https://image.tmdb.org/t/p/w500/bC69b9TTCWVUAEQmS7l8kNjWfWc.png"
+    },
+    {
+      "id": "tmdb:242512",
+      "type": "movie",
+      "name": "Ouija",
+      "poster": "https://image.tmdb.org/t/p/w500/gwjHlGjK2xXKpjd65BWyAMwzTWC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fsuA3wUYixjLeE97CyyPGdPoQF3.jpg",
+      "year": "2014",
+      "imdbRating": "1.9",
+      "genres": [
+        "Horreur"
+      ],
+      "director": [
+        "Stiles White"
+      ],
+      "cast": [
+        "Olivia Cooke",
+        "Ana Coto",
+        "Matthew Settle",
+        "Shelley Hennig",
+        "Daren Kagasoff",
+        "Bianca A. Santos"
+      ],
+      "description": "Alors que Debbie meurt mystérieusement dans sa maison, cinq amis utilisent la planchette ouija pour la contacter. Seulement, ce n'est pas le bon esprit qu'ils contactent et ils seront tous confrontés à des événements terrifiants.",
+      "logo": "https://image.tmdb.org/t/p/w500/3IaZLzpEcVKEGZHsmKCFJ6EiYF8.png"
+    },
+    {
+      "id": "tmdb:73861",
+      "type": "movie",
+      "name": "A Serbian Film",
+      "poster": "https://image.tmdb.org/t/p/w500/qT312t40YmlOSsOXOoOLDCvRbPx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/o0x4LOW8qzVNyqwWGMuFa3kE7Hs.jpg",
+      "year": "2010",
+      "imdbRating": "1.8",
+      "genres": [
+        "Crime",
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Srđan Spasojević"
+      ],
+      "cast": [
+        "Srđan 'Žika' Todorović",
+        "Sergej Trifunović",
+        "Jelena Gavrilović",
+        "Slobodan Beštić",
+        "Katarina Žutić",
+        "Anđela Nenadović"
+      ],
+      "description": "Milos, un acteur porno à la retraite, tente de survivre avec sa famille. Jusqu’au jour où une ancienne collègue lui présente Vukmir, figure influente de l'industrie pornographique, qui va lui faire une offre qu’il ne pourra refuser…",
+      "logo": "https://image.tmdb.org/t/p/w500/crZCJ5Aec7XLwxF4Lo2s8eqtAXp.png"
+    },
+    {
+      "id": "tmdb:713364",
+      "type": "movie",
+      "name": "La Nuit des clowns",
+      "poster": "https://image.tmdb.org/t/p/w500/c54MjZXxOLV7M8GNk8iV22J1235.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gIwG9UWJLsiSBfaG5GJWGj9ghXD.jpg",
+      "year": "2025",
+      "imdbRating": "1.8",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "Eli Craig"
+      ],
+      "cast": [
+        "Katie Douglas",
+        "Aaron Abrams",
+        "Carson MacCormac",
+        "Vincent Muller",
+        "Kevin Durand",
+        "Will Sasso"
+      ],
+      "description": "En quête d'un nouveau départ, Quinn et son père s'installent dans une petite ville du Midwest. Ils apprennent rapidement que la communauté fracturée traverse une période difficile après la perte d'une précieuse usine dans un incendie. Alors que les habitants se chamaillent et que la tension monte, un clown sinistre et souriant surgit des champs de maïs pour débarrasser la ville de son fardeau, une victime sanglante à la fois.",
+      "logo": "https://image.tmdb.org/t/p/w500/jsMVKTNOedeCOvGeZvAMK1Vj5Zu.png"
+    },
+    {
+      "id": "tmdb:3600",
+      "type": "movie",
+      "name": "Souviens-toi… l'été dernier 2",
+      "poster": "https://image.tmdb.org/t/p/w500/cKqSqf3Kh8jWokHIdHGB4gc3MXC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gF1BbDac7ONryE5jezRzXVe31Ud.jpg",
+      "year": "1998",
+      "imdbRating": "1.7",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "Danny Cannon"
+      ],
+      "cast": [
+        "Jennifer Love Hewitt",
+        "Freddie Prinze Jr.",
+        "Brandy Norwood",
+        "Mekhi Phifer",
+        "Matthew Settle",
+        "Muse Watson"
+      ],
+      "description": "Un an après la terrible vengeance du tueur au crochet, Julie accepte de partir aux Bahamas avec son amie Karla, son petit-ami Tyrell et Will, qu'elle ne semble laisser indifférent. À leur arrivée, ils réalisent qu'ils sont seuls dans l'hôtel. C'est alors que les premiers événements étranges surviennent...",
+      "logo": "https://image.tmdb.org/t/p/w500/d8Awmuk8Win6LxHVxIpBOLQU9OP.png"
+    },
+    {
+      "id": "tmdb:440",
+      "type": "movie",
+      "name": "Aliens vs. Predator : Requiem",
+      "poster": "https://image.tmdb.org/t/p/w500/9IWkkaQu1Mn7Lakxm7nExdbdTyn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jXntuh47VtKLeoyBQ268rv24Igw.jpg",
+      "year": "2007",
+      "imdbRating": "1.6",
+      "genres": [
+        "Action",
+        "Science-Fiction",
+        "Thriller",
+        "Horreur"
+      ],
+      "director": [
+        "Colin Strause",
+        "Greg Strause"
+      ],
+      "cast": [
+        "Steven Pasquale",
+        "Reiko Aylesworth",
+        "John Ortiz",
+        "Johnny Lewis",
+        "Ariel Gade",
+        "Kristen Hager"
+      ],
+      "description": "Un Alien issu d'un Predator, appelé Predalien, décime un vaisseau Predator, mettant hors d'état de fonctionnement ce dernier, qui s'écrase sur Terre, non loin de Gunnison, une ville américaine. Rapidement, les face-huggers retenus en captivité dans le vaisseau s'échappent, ainsi que le Predalien, contaminant peu à peu les habitants de la ville. En réponse à ce grave incident, un ancien Prédator expérimenté, surnommé Wolf, est envoyé sur Terre afin d'éliminer la menace Xénomorphe, effacer toutes les preuves concernant l'existence des Aliens et des Predators, mais surtout, éliminer le terrible danger que représente le Predalien.",
+      "logo": "https://image.tmdb.org/t/p/w500/si9PMkpWziCCQYkhNSIrFUfKnl3.png"
+    },
+    {
+      "id": "tmdb:1079485",
+      "type": "movie",
+      "name": "Winnie-the-Pooh: Blood and Honey 2",
+      "poster": "https://image.tmdb.org/t/p/w500/s8oLTxEwlv3AMDEDlE7q2LyWhjO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p4INKu77iuTG1o1a5N3Y9vqeEGq.jpg",
+      "year": "2024",
+      "imdbRating": "1.6",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Rhys Frake-Waterfield"
+      ],
+      "cast": [
+        "Scott Chambers",
+        "Tallulah Evans",
+        "Ryan Oliva",
+        "Lewis Santer",
+        "Marcus Massey",
+        "Eddy MacKenzie"
+      ],
+      "description": "Winnie et ses amis s’unissent pour se venger.",
+      "logo": "https://image.tmdb.org/t/p/w500/j1YpmXUvXBH0GCzaL9C2SS8Jd0D.png"
+    },
+    {
+      "id": "tmdb:980078",
+      "type": "movie",
+      "name": "Winnie-the-Pooh: Blood and Honey",
+      "poster": "https://image.tmdb.org/t/p/w500/6enLlR0vZjgEARiTPaaWczIogWd.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wD2kUCX1Bb6oeIb2uz7kbdfLP6k.jpg",
+      "year": "2023",
+      "imdbRating": "1.1",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Rhys Frake-Waterfield"
+      ],
+      "cast": [
+        "Nikolai Leon",
+        "Maria Taylor",
+        "Craig David Dowsett",
+        "Chris Cordell",
+        "Natasha Rose Mills",
+        "Amber Doig-Thorne"
+      ],
+      "description": "Winnie l’Ourson et Porcinet ont bien grandi et sont devenus des créatures profondément sauvages depuis que Jean-Christophe les a abandonnés pour aller à l’université. Ils ont développé une haine pour les humains et assassinent quiconque s’aventure dans la Forêt des Rêves Bleus.",
+      "logo": "https://image.tmdb.org/t/p/w500/psH2fVkfU3iNSjXew0tc4cvii6p.png"
+    },
+    {
+      "id": "tmdb:604079",
+      "type": "movie",
+      "name": "Marche ou crève",
+      "poster": "https://image.tmdb.org/t/p/w500/41wPG2nflDPez7wph5SKJhhBLzV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
+      "year": "2025",
+      "imdbRating": "TMDB: 7.3",
+      "genres": [
+        "Horreur",
+        "Science-Fiction",
+        "Thriller"
+      ],
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Cooper Hoffman",
+        "David Jonsson",
+        "Garrett Wareing",
+        "Tut Nyuot",
+        "Charlie Plummer",
+        "Ben Wang"
+      ],
+      "description": "Dans une Amérique totalitaire instaurée après une longue guerre fratricide, 50 jeunes hommes participent à une marche d'endurance de plus de 500 kilomètres, filmée et diffusée en direct. Les marcheurs ont l'obligation de conserver un rythme constant, avec interdiction formelle de s'arrêter. Après trois avertissements consécutifs, les contrevenants sont froidement abattus. Un seul en sortira vivant, avec une somme faramineuse et un prix de son choix. Habité par un motif secret, le jeune Raymond Garraty tente sa chance, nouant sur la route un fort lien d'amitié avec l'Afro-Américain Peter McVries.",
+      "logo": "https://image.tmdb.org/t/p/w500/oVjR84ttcuQBtwTP5rHTn7xR3vj.png"
+    },
+    {
+      "id": "tmdb:986097",
+      "type": "movie",
+      "name": "G.O.A.T.",
+      "poster": "https://image.tmdb.org/t/p/w500/hFWNUjwHR9s3j5cELOPnZv7SC4y.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hL1yHeNYDZZsu1gXlssr98XvFWz.jpg",
+      "year": "2025",
+      "imdbRating": "TMDB: 6.2",
+      "genres": [
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Justin Tipping"
+      ],
+      "cast": [
+        "Tyriq Withers",
+        "Marlon Wayans",
+        "Julia Fox",
+        "Tim Heidecker",
+        "Jim Jefferies",
+        "Guapdad 4000"
+      ],
+      "description": "Cameron Cade, jeune espoir du football américain, un sport pour lequel il a tout sacrifié. Mais après une altercation à la veille de passer pro lors des sélections annuelles, Cam est victime d’un traumatisme crânien qui pourrait bien signifier la fin de sa carrière.\r Alors que tout semble perdu, il se voit miraculeusement sauvé quand sa plus grande idole, Isaiah White, le légendaire quarterback aux huit championnats lui propose de l'entraîner dans le complexe isolé qu'il partage avec sa femme, la célèbre influenceuse Elsie White. Mais le charisme d'Isaiah dévoile une facette de plus en plus sombre à mesure que l'entraînement s'intensifie. Son protégé se retrouve alors pris au piège d’une situation malsaine qui pourrait bien lui coûter beaucoup plus cher qu'il n’aurait pu l’imaginer.",
+      "logo": "https://image.tmdb.org/t/p/w500/ilURx4gn2tUQ5ZqJtSSIqpXnJhI.png"
+    },
+    {
+      "id": "tmdb:1422096",
+      "type": "movie",
+      "name": "Good Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9gwQSmTMKZMfw2wlmBvCDr1GnHR.jpg",
+      "year": "2025",
+      "imdbRating": "N/A",
+      "genres": [
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Ben Leonberg"
+      ],
+      "cast": [
+        "Shane Jensen",
+        "Larry Fessenden",
+        "Arielle Friedman",
+        "Stuart Rudin",
+        "Anya Krawcheck",
+        "Liptu Das"
+      ],
+      "logo": "https://image.tmdb.org/t/p/w500/o0hyTArHXOqXELI8V77ev4M6OXf.png"
+    }
+  ]
+}

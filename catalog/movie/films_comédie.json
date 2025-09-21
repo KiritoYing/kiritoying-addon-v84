@@ -1,0 +1,4156 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:680",
+      "type": "movie",
+      "name": "Pulp Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/4TBdF7nFw2aKNM0gPOlDNq3v3se.jpg",
+      "background": "https://image.tmdb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "year": "1994",
+      "imdbRating": "4.5",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Bruce Willis",
+        "Ving Rhames",
+        "Harvey Keitel"
+      ],
+      "description": "L’odyssée sanglante et burlesque de petits malfrats dans la jungle d’Hollywood : Deux petits tueurs, un dangereux gangster marié à une camée, un boxeur roublard, des prêteurs sur gages sadiques, un caïd élégant et dévoué, un dealer bon mari et deux tourtereaux à la gâchette facile.",
+      "logo": "https://image.tmdb.org/t/p/w500/rtLFVljaE4Zf5E9qRA8cibBBhdC.png"
+    },
+    {
+      "id": "tmdb:637",
+      "type": "movie",
+      "name": "La vie est belle",
+      "poster": "https://image.tmdb.org/t/p/w500/c6NveyskoKlwAvouqEmKBRU0Pkp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+      "year": "1997",
+      "imdbRating": "4.5",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Roberto Benigni"
+      ],
+      "cast": [
+        "Roberto Benigni",
+        "Nicoletta Braschi",
+        "Giorgio Cantarini",
+        "Giustino Durano",
+        "Sergio Bini Bustric",
+        "Marisa Paredes"
+      ],
+      "description": "En 1938, Guido, jeune homme plein de gaieté, rêve d'ouvrir une librairie, malgré les tracasseries de l'administration fasciste. Il tombe amoureux de Dora, institutrice étouffée par le conformisme familial et l'enlève le jour de ses fiançailles avec un bureaucrate du régime. Cinq ans plus tard, Guido et Dora ont un fils : Giosue. Mais les lois raciales sont entrées en vigueur et Guido est juif. Il est alors déporté avec son fils. Par amour pour eux, Dora monte de son plein gré dans le train qui les emmène aux camps de la mort où Guido va tout faire pour éviter l'horreur à son fils…",
+      "logo": "https://image.tmdb.org/t/p/w500/lqxmxiTrPqSVV5tQFOmXs3avYrK.png"
+    },
+    {
+      "id": "tmdb:25253",
+      "type": "movie",
+      "name": "Les Tontons flingueurs",
+      "poster": "https://image.tmdb.org/t/p/w500/1aZixNERm68Y5ZMzTxWl1PdDyFo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2pnfUSFqUPn9F4mzl1MLKrlnNbU.jpg",
+      "year": "1963",
+      "imdbRating": "4.3",
+      "genres": [
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Georges Lautner"
+      ],
+      "cast": [
+        "Lino Ventura",
+        "Bernard Blier",
+        "Francis Blanche",
+        "Claude Rich",
+        "Pierre Bertin",
+        "Jean Lefebvre"
+      ],
+      "description": "Propriétaire d’une petite usine de tracteurs, Fernand Naudin mène une vie tranquille et sans histoire quand un télégramme l’appelle à Paris. Il arrive à temps pour recueillir le dernier soupir d’un ami de jeunesse, Louis dit « le Mexicain », qui lui confie ses affaires louches en même temps que la garde de sa fille Patricia. Épaulé par maître Folace, un curieux notaire et Pascal, première gâchette du « Mexicain », les ennuis commencent…",
+      "logo": "https://image.tmdb.org/t/p/w500/i2y2T3Yb4zhFmrQvyxm7diC4csW.png"
+    },
+    {
+      "id": "tmdb:544510",
+      "type": "movie",
+      "name": "Edmond",
+      "poster": "https://image.tmdb.org/t/p/w500/gNgoOz7aceNllJnXpZ7H9ttUytb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/flqONlzGNUkGCJr9BfBhGNLYo6B.jpg",
+      "year": "2018",
+      "imdbRating": "4.3",
+      "genres": [
+        "Comédie",
+        "Histoire"
+      ],
+      "director": [
+        "Alexis Michalik"
+      ],
+      "cast": [
+        "Thomas Solivérès",
+        "Olivier Gourmet",
+        "Mathilde Seigner",
+        "Tom Leeb",
+        "Lucie Boujenah",
+        "Alice de Lencquesaing"
+      ],
+      "description": "Paris, Décembre 1897. Edmond Rostand n’a pas encore trente ans mais déjà deux enfants et beaucoup d’angoisses. Il n’a rien écrit depuis deux ans. En désespoir de cause, il propose au grand Constant Coquelin une pièce nouvelle, une comédie héroïque, en vers, pour les fêtes. Seul souci : elle n’est pas encore écrite.",
+      "logo": "https://image.tmdb.org/t/p/w500/xc1TME5dUvSxUeTyEdumf2Hgm3X.png"
+    },
+    {
+      "id": "tmdb:313369",
+      "type": "movie",
+      "name": "La La Land",
+      "poster": "https://image.tmdb.org/t/p/w500/5KIj6aioW1UtUT1IV0qqW5iZbNH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "year": "2016",
+      "imdbRating": "4.2",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Musique"
+      ],
+      "director": [
+        "Damien Chazelle"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "John Legend",
+        "Rosemarie DeWitt",
+        "J.K. Simmons",
+        "Amiée Conn"
+      ],
+      "description": "Au cœur de Los Angeles, une actrice en devenir prénommée Mia sert des cafés entre deux auditions. De son côté, Sebastian, passionné de jazz, joue du piano dans des clubs miteux pour assurer sa subsistance. Tous deux sont bien loin de la vie rêvée à laquelle ils aspirent… Le destin va réunir ces doux rêveurs, mais leur coup de foudre résistera-t-il aux tentations, aux déceptions, et à la vie trépidante d’Hollywood ?",
+      "logo": "https://image.tmdb.org/t/p/w500/97DYpdDmiOpfn9l9I2dGxDH01t1.svg"
+    },
+    {
+      "id": "tmdb:120467",
+      "type": "movie",
+      "name": "The Grand Budapest Hotel",
+      "poster": "https://image.tmdb.org/t/p/w500/atLMzzA7pOB0BdfM89V7BbdtLN6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+      "year": "2014",
+      "imdbRating": "4.2",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Wes Anderson"
+      ],
+      "cast": [
+        "Ralph Fiennes",
+        "F. Murray Abraham",
+        "Mathieu Amalric",
+        "Adrien Brody",
+        "Willem Dafoe",
+        "Jeff Goldblum"
+      ],
+      "description": "Pendant l’entre‐deux guerres, le légendaire concierge d’un grand hôtel et son jeune protégé se retrouvent impliqués dans une histoire mêlant le vol d’un tableau de la Renaissance, la bataille pour une énorme fortune familiale, et le lent puis soudain bouleversement qui transforme l’Europe en cette première moitié de XXème siècle.",
+      "logo": "https://image.tmdb.org/t/p/w500/Gpc2awldHm74wfxzKNII3wQEih.png"
+    },
+    {
+      "id": "tmdb:107",
+      "type": "movie",
+      "name": "Snatch, tu braques ou tu raques",
+      "poster": "https://image.tmdb.org/t/p/w500/oCJSanfnNimhbrI6KMZqEXbE9IA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+      "year": "2000",
+      "imdbRating": "4.2",
+      "genres": [
+        "Crime",
+        "Comédie"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Jason Statham",
+        "Alan Ford",
+        "Stephen Graham",
+        "Brad Pitt",
+        "Dennis Farina",
+        "Robbie Gee"
+      ],
+      "description": "Franky vient de voler un énorme diamant qu’il doit livrer à Avi, un mafieux new‐yorkais. En chemin, il fait escale à Londres où il se laisse convaincre par Boris de parier sur un combat de boxe clandestin. Il ignore, bien sûr, qu’il s’agit d’un coup monté avec Vinny et Sol, afin de le délester de son magnifique caillou. Turkish et Tommy, eux, ont un problème avec leur boxeur, un gitan complètement fêlé qui refuse de se coucher au quatrième round comme prévu. C’est au tour d’Avi de débarquer, bien décidé à récupérer son bien, avec l’aide de Tony, une légende de la gâchette.",
+      "logo": "https://image.tmdb.org/t/p/w500/7NhHRiPG3t2JWI1NQwimmiBkC8y.png"
+    },
+    {
+      "id": "tmdb:10315",
+      "type": "movie",
+      "name": "Fantastic Mr. Fox",
+      "poster": "https://image.tmdb.org/t/p/w500/2l6PJ6ux9b7RqQuQOUg7eL29PLW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
+      "year": "2009",
+      "imdbRating": "4.2",
+      "genres": [
+        "Aventure",
+        "Animation",
+        "Comédie",
+        "Familial"
+      ],
+      "director": [
+        "Wes Anderson"
+      ],
+      "cast": [
+        "George Clooney",
+        "Robin Hurlstone",
+        "Meryl Streep",
+        "Jason Schwartzman",
+        "Eric Chase Anderson",
+        "Wallace Wolodarsky"
+      ],
+      "description": "Mr. Fox est le plus rusé des voleurs de poules. À la naissance de son fils, son épouse lui demande d'arrêter ce métier trop dangereux. Il devient alors journaliste mais s'ennuie terriblement. 12 ans plus tard, lorsque la famille Fox déménage au pied d'un arbre surplombant les fermes de trois éleveurs aussi prospères que méchants, la tentation devient trop forte et Mr. Fox reprend ses anciennes activités. Il va alors entraîner tous les animaux de la forêt dans une guerre acharnée contre les fermiers…",
+      "logo": "https://image.tmdb.org/t/p/w500/rEji5POc62GE9NsC3TjLYc8Q09v.png"
+    },
+    {
+      "id": "tmdb:399174",
+      "type": "movie",
+      "name": "L'Île aux chiens",
+      "poster": "https://image.tmdb.org/t/p/w500/i6PeSvCdpFnbWYi0M4BfyHMG0YG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/goMGTcitprGu7YD6VZS4lUUwzRA.jpg",
+      "year": "2018",
+      "imdbRating": "4.2",
+      "genres": [
+        "Aventure",
+        "Comédie",
+        "Animation"
+      ],
+      "director": [
+        "Wes Anderson"
+      ],
+      "cast": [
+        "Bryan Cranston",
+        "Koyu Rankin",
+        "Bob Balaban",
+        "Edward Norton",
+        "Bill Murray",
+        "Jeff Goldblum"
+      ],
+      "description": "Lorsqu’une épidémie de grippe canine envahit la ville japonaise de Megasaki et menace de contaminer les hommes, le maire ordonne la mise en quarantaine de tous les chiens. L’île poubelle devient : l’Île aux Chiens. Un jeune garçon de 12 ans, Atari, se rend sur place à la recherche de son chien perdu, Spots. C’est alors qu’il fait la découverte,  à l’aide d’une meute de cinq chiens, d’une conspiration qui menace la ville.",
+      "logo": "https://image.tmdb.org/t/p/w500/uHKPZY6hSsYfzp3vZJ3JfS4YnZf.png"
+    },
+    {
+      "id": "tmdb:579245",
+      "type": "movie",
+      "name": "Hors normes",
+      "poster": "https://image.tmdb.org/t/p/w500/98bgKk9qr2cTjZYVhZy5V6pw1b1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/580aO5umsOX5FAFmD6ObYvVuk6p.jpg",
+      "year": "2019",
+      "imdbRating": "4.2",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Éric Toledano",
+        "Olivier Nakache"
+      ],
+      "cast": [
+        "Vincent Cassel",
+        "Reda Kateb",
+        "Hélène Vincent",
+        "Bryan Mialoundama",
+        "Alban Ivanov",
+        "Benjamin Lesieur"
+      ],
+      "description": "Bruno et Malik vivent depuis 20 ans dans un monde à part, celui des enfants et adolescents autistes. Au sein de leurs deux associations respectives, ils forment des jeunes issus des quartiers difficiles pour encadrer ces cas qualifiés «d'hyper complexes». Une alliance hors du commun pour des personnalités hors normes.",
+      "logo": "https://image.tmdb.org/t/p/w500/c7tdXISkny9EAxbahEvWRcufxor.png"
+    },
+    {
+      "id": "tmdb:989596",
+      "type": "movie",
+      "name": "La Tresse",
+      "poster": "https://image.tmdb.org/t/p/w500/gfqbILnRNUVBGa7fLCgjDVK1J5D.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rjLH5lztozxEtLuWhXCMSFpnPt9.jpg",
+      "year": "2023",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Laetitia Colombani"
+      ],
+      "cast": [
+        "Kim Raver",
+        "Fotinì Peluso",
+        "Mia Maelzer",
+        "Katharine King So",
+        "Avi Nash",
+        "Sarah Abbott"
+      ],
+      "description": "Inde. Smita est une Intouchable. Elle rêve de voir sa fille échapper à sa condition misérable et entrer à l'école. Italie. Giulia travaille dans l'atelier de son père. Lorsqu'il est victime d'un accident, elle découvre que l'entreprise familiale est ruinée. Canada. Sarah, avocate réputée, va être promue à la tête de son cabinet quand elle apprend qu'elle est malade. Trois vies, trois femmes, trois continents. Trois combats à mener. Si elles ne se connaissent pas, Smita, Giulia et Sarah sont liées sans le savoir par ce qu'elles ont de plus intime et de plus singulier.",
+      "logo": "https://image.tmdb.org/t/p/w500/rYHUymbqFoMfCMZuKD5gNsFmYGr.png"
+    },
+    {
+      "id": "tmdb:137",
+      "type": "movie",
+      "name": "Un jour sans fin",
+      "poster": "https://image.tmdb.org/t/p/w500/kSdgmtOmxFxdiJqK1R3kfKBqRUo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+      "year": "1993",
+      "imdbRating": "4.1",
+      "genres": [
+        "Romance",
+        "Fantastique",
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Harold Ramis"
+      ],
+      "cast": [
+        "Bill Murray",
+        "Andie MacDowell",
+        "Chris Elliott",
+        "Stephen Tobolowsky",
+        "Brian Doyle-Murray",
+        "Marita Geraghty"
+      ],
+      "description": "Phil Connors, présentateur météo grincheux et arrogant, doit tourner un reportage sur la fête de la marmotte. Mais lorsqu'il se réveille le lendemain, il découvre avec stupeur que la date n'a pas changé et qu'il est condamné à revivre un par un les événements de la veille. Connors se voit dès lors obligé de faire face à la répétition infinie du Jour de la marmotte.",
+      "logo": "https://image.tmdb.org/t/p/w500/73sLA2qfkWg0F8oQAruLToZ1LVd.png"
+    },
+    {
+      "id": "tmdb:522627",
+      "type": "movie",
+      "name": "The Gentlemen",
+      "poster": "https://image.tmdb.org/t/p/w500/86UEvw3t8amtxepQRtBiQHkk954.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tintsaQ0WLzZsTMkTiqtMB3rfc8.jpg",
+      "year": "2020",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Charlie Hunnam",
+        "Michelle Dockery",
+        "Jeremy Strong",
+        "Lyne Renee",
+        "Colin Farrell"
+      ],
+      "description": "Quand Mickey Pearson, baron de la drogue à Londres, laisse entendre qu’il pourrait se retirer du marché, il déclenche une guerre explosive : la capitale anglaise devient le théâtre de tous les chantages, complots, trahisons, corruptions et enlèvements… Dans cette jungle où l’on ne distingue plus ses alliés de ses ennemis, il n’y a de la place que pour un seul roi !",
+      "logo": "https://image.tmdb.org/t/p/w500/e7lsq7MIK9PEegMvgvTd8hl2gG0.png"
+    },
+    {
+      "id": "tmdb:580175",
+      "type": "movie",
+      "name": "Drunk",
+      "poster": "https://image.tmdb.org/t/p/w500/l7PXvcip4OpVsQ5mTRgd4BQ1Nel.jpg",
+      "background": "https://image.tmdb.org/t/p/original/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+      "year": "2020",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Thomas Vinterberg"
+      ],
+      "cast": [
+        "Mads Mikkelsen",
+        "Thomas Bo Larsen",
+        "Magnus Millang",
+        "Lars Ranthe",
+        "Maria Bonnevie",
+        "Helene Reingaard Neumann"
+      ],
+      "description": "Quatre amis décident de mettre en pratique la théorie d’un psychologue norvégien selon laquelle l’homme aurait dès la naissance un déficit d’alcool dans le sang. Avec une rigueur scientifique, chacun relève le défi en espérant tous que leur vie n’en sera que meilleure! Si dans un premier temps les résultats sont encourageants, la situation devient rapidement hors de contrôle.",
+      "logo": "https://image.tmdb.org/t/p/w500/hyOyVVj80V7h3wsNMQXC2m3jbeD.png"
+    },
+    {
+      "id": "tmdb:262",
+      "type": "movie",
+      "name": "La Valse des pantins",
+      "poster": "https://image.tmdb.org/t/p/w500/zmb3PE0GEepF7wGHoCuazh4r90.jpg",
+      "background": "https://image.tmdb.org/t/p/original/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg",
+      "year": "1982",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Jerry Lewis",
+        "Diahnne Abbott",
+        "Sandra Bernhard",
+        "Shelley Hack",
+        "Frederick de Cordova"
+      ],
+      "description": "Un comique méconnu, pour se faire reconnaître, enlève le présentateur d'un show télévisé et n'accepte de le libérer qu'à la condition de participer à son spectacle.",
+      "logo": "https://image.tmdb.org/t/p/w500/xT65vnA6LPDFoRwIfptAdhmGdID.png"
+    },
+    {
+      "id": "tmdb:319888",
+      "type": "movie",
+      "name": "Eddie the Eagle",
+      "poster": "https://image.tmdb.org/t/p/w500/9YCtoha3EiI1jcG7A2e5SprifSK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+      "year": "2016",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Histoire",
+        "Aventure"
+      ],
+      "director": [
+        "Dexter Fletcher"
+      ],
+      "cast": [
+        "Taron Egerton",
+        "Hugh Jackman",
+        "Christopher Walken",
+        "Ania Sowinski",
+        "Mads Sjøgård Pettersen",
+        "Iris Berben"
+      ],
+      "description": "Michael «Eddie» Edwards a toujours eu un seul rêve, participer aux Jeux Olympiques. Le problème, c’est qu’il n’a jamais réussi à briller dans aucun sport. Touché par la persévérance d’Eddie, un ancien champion américain va devenir son coach afin de l’aider à prendre part aux J.O. d’Hiver de Calgary dans la discipline dangereuse du saut à ski. L’histoire vraie de cet anti‐héros qui n’a jamais cessé de croire en lui‐même quand la Grande Bretagne toute entière n’y croyait pas.",
+      "logo": "https://image.tmdb.org/t/p/w500/rvhE1kZ1j4lsob5uT6jTv20vUsr.png"
+    },
+    {
+      "id": "tmdb:14645",
+      "type": "movie",
+      "name": "Le père Noël est une ordure",
+      "poster": "https://image.tmdb.org/t/p/w500/i5KrHnqlFr5taNRPREXQKV104Fy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cCoacHVHq0kn6JELs0jJF10lLiU.jpg",
+      "year": "1982",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Jean-Marie Poiré"
+      ],
+      "cast": [
+        "Gérard Jugnot",
+        "Thierry Lhermitte",
+        "Anémone",
+        "Christian Clavier",
+        "Marie-Anne Chazel",
+        "Josiane Balasko"
+      ],
+      "description": "Félix représente mal le père Noël : il est sale, brutal, vulgaire et il boit. Fatalement, son amie Josette le quitte. Elle trouve refuge à la permanence de SOS détresse tenue par ces 2 coincés que sont Pierre et Thérèse. S'y croisent également un homosexuel dépressif, Mme Musquin, un émigré voisin et un pauvre réparateur d'ascenseur…",
+      "logo": "https://image.tmdb.org/t/p/w500/f2KW0eZftF6Q3iN38qbN0lOO9kD.png"
+    },
+    {
+      "id": "tmdb:570131",
+      "type": "movie",
+      "name": "Mon Inconnue",
+      "poster": "https://image.tmdb.org/t/p/w500/6SltsxgH5feW5cJTxjmJupEGgme.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oxcaIxASeu57f6VSn8awiXz6yZS.jpg",
+      "year": "2019",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie",
+        "Romance",
+        "Fantastique"
+      ],
+      "director": [
+        "Hugo Gélin"
+      ],
+      "cast": [
+        "François Civil",
+        "Joséphine Japy",
+        "Benjamin Lavernhe",
+        "Camille Lellouche",
+        "Amaury de Crayencour",
+        "Édith Scob"
+      ],
+      "description": "Du jour au lendemain, Raphaël se retrouve plongé dans un monde où il n'a jamais rencontré Olivia, la femme de sa vie. Comment va-t-il s’y prendre pour reconquérir sa femme, devenue une parfaite inconnue?",
+      "logo": "https://image.tmdb.org/t/p/w500/qV2Y3P9ZlYG29xjQiaa5WsnwnBa.png"
+    },
+    {
+      "id": "tmdb:1064486",
+      "type": "movie",
+      "name": "Mémoires d’un escargot",
+      "poster": "https://image.tmdb.org/t/p/w500/oYpq6XFoubsezCt1o28TwnraD0a.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+      "year": "2024",
+      "imdbRating": "4.1",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Adam Elliot"
+      ],
+      "cast": [
+        "Sarah Snook",
+        "Kodi Smit-McPhee",
+        "Jacki Weaver",
+        "Magda Szubanski",
+        "Dominique Pinon",
+        "Tony Armstrong"
+      ],
+      "description": "La vie de Grace Pudel, petite fille solitaire, collectionneuse d’escargots et passionnée de lecture, a volé en éclats le jour de la mort de son père. Dans une famille d’accueil indifférente, séparée de son frère jumeau dont elle attend désespérément les lettres, malmenée par ses camarades, elle s’enfonce dans le désespoir...",
+      "logo": "https://image.tmdb.org/t/p/w500/3sQHnn4n1WIBvrx8ooXechBm6xe.png"
+    },
+    {
+      "id": "tmdb:1001006",
+      "type": "movie",
+      "name": "La Pampa",
+      "poster": "https://image.tmdb.org/t/p/w500/qXfkPWAUd4RZdEYyrZUV8qCk3di.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iaRyVMgHxbFEFIDQLCXmntmWLKl.jpg",
+      "year": "2025",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Antoine Chevrollier"
+      ],
+      "cast": [
+        "Sayyid El Alami",
+        "Amaury Foucher",
+        "Damien Bonnard",
+        "Florence Janas",
+        "Artus",
+        "Léonie Dahan-Lamort"
+      ],
+      "description": "Willy et Jojo sont amis d’enfance et ne se quittent jamais. Pour tuer l'ennui, ils s’entraînent à la Pampa, un terrain de motocross. Un soir, Willy découvre le secret de Jojo.",
+      "logo": "https://image.tmdb.org/t/p/w500/rsSz9GXcyQgq8yhm2t4Znsf4YaK.png"
+    },
+    {
+      "id": "tmdb:751182",
+      "type": "movie",
+      "name": "Disconnect",
+      "poster": "https://image.tmdb.org/t/p/w500/gi4f0uGi2rkdOyK4tfJ5V7iGGkW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hikId5oei1EwV9CeiAjNx9kK28A.jpg",
+      "year": "2018",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "David 'Tosh' Gitonga"
+      ],
+      "cast": [
+        "Brenda Wairimu",
+        "Patricia Kihoro",
+        "Nick Mutuma",
+        "Pascal Tokodi",
+        "Catherine Kamau",
+        "Pierra Makena"
+      ],
+      "logo": "https://image.tmdb.org/t/p/w500/r1DTLwhyexmBgcRqSDJCwsfRzEj.png"
+    },
+    {
+      "id": "tmdb:194",
+      "type": "movie",
+      "name": "Le Fabuleux Destin d'Amélie Poulain",
+      "poster": "https://image.tmdb.org/t/p/w500/tdXtLG6L1QMwrv0MNdW6B9IwC8B.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+      "year": "2001",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Jean-Pierre Jeunet"
+      ],
+      "cast": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus",
+        "Serge Merlin",
+        "Jamel Debbouze",
+        "Clotilde Mollet"
+      ],
+      "description": "Amélie, une jeune serveuse dans un bar de Montmartre, passe son temps à observer les gens et à laisser son imagination divaguer. Elle s'est fixée un but : faire le bien de ceux qui l'entourent. Elle invente alors des stratagèmes pour intervenir incognito dans leur existence. Le chemin d'Amélie est jalonné de rencontres: Georgette, la buraliste hypocondriaque, Lucien, le commis d'épicerie, Madeleine Wallace, la concierge portée sur le porto et les chiens empaillés, ou encore Raymond Dufayel alias « l'homme de verre », son voisin qui ne vit qu'à travers une reproduction d'un tableau de Renoir. Cette quête du bonheur amène Amélie à faire la connaissance de Nino Quincampoix, un étrange « prince charmant ». Celui-ci partage son temps entre un train fantôme et un sex-shop, et cherche à identifier un inconnu dont la photo réapparaît sans cesse dans plusieurs cabines de photomaton.",
+      "logo": "https://image.tmdb.org/t/p/w500/4D1vBiCPo8imH2bM9xHSW4FmR5n.png"
+    },
+    {
+      "id": "tmdb:747",
+      "type": "movie",
+      "name": "Shaun of the Dead",
+      "poster": "https://image.tmdb.org/t/p/w500/uZCC0b2AfnLivW5D5RMYf1SROLf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+      "year": "2004",
+      "imdbRating": "4.0",
+      "genres": [
+        "Horreur",
+        "Comédie"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Simon Pegg",
+        "Nick Frost",
+        "Kate Ashfield",
+        "Lucy Davis",
+        "Dylan Moran",
+        "Jessica Hynes"
+      ],
+      "description": "À presque 30 ans, Shaun ne fait pas grand-chose de sa vie. Entre l'appart qu'il partage avec ses potes et le temps qu'il passe avec eux au pub, Liz, sa petite amie, n'a pas beaucoup de place. Elle qui voudrait que Shaun s'engage, ne supporte plus de le voir traîner. Excédée par ses vaines promesses et son incapacité à se consacrer un peu à leur couple, Liz décide de rompre. Shaun est décidé à tout réparer, et tant pis si les zombies déferlent sur Londres, tant pis si la ville devient un véritable enfer. Retranché dans son pub préféré, le temps est venu pour lui de montrer enfin de quoi il est capable…",
+      "logo": "https://image.tmdb.org/t/p/w500/7kIhcIq7WdkWFvTlH6o2SGzSDGY.png"
+    },
+    {
+      "id": "tmdb:487558",
+      "type": "movie",
+      "name": "BlacKkKlansman : J'ai infiltré le Ku Klux Klan",
+      "poster": "https://image.tmdb.org/t/p/w500/z8vDfDI7SOVasPlqUT38Pm0wyEZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+      "year": "2018",
+      "imdbRating": "4.0",
+      "genres": [
+        "Crime",
+        "Comédie",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Spike Lee"
+      ],
+      "cast": [
+        "John David Washington",
+        "Adam Driver",
+        "Topher Grace",
+        "Laura Harrier",
+        "Alec Baldwin",
+        "Jasper Pääkkönen"
+      ],
+      "description": "Au début des années 70, au plus fort de la lutte pour les droits civiques, plusieurs émeutes raciales éclatent dans les grandes villes des États-Unis. Ron Stallworth devient le premier officier Noir américain du Colorado Springs Police Department, mais son arrivée est accueillie avec scepticisme, voire avec une franche hostilité, par les agents les moins gradés du commissariat. Prenant son courage à deux mains, Stallworth va tenter de faire bouger les lignes et, peut-être, de laisser une trace dans l'histoire. Il se fixe alors une mission des plus périlleuses : infiltrer le Ku Klux Klan pour en dénoncer les exactions.",
+      "logo": "https://image.tmdb.org/t/p/w500/rWN88a9qSd0sOTEStoB4NdlVfns.png"
+    },
+    {
+      "id": "tmdb:100",
+      "type": "movie",
+      "name": "Arnaques, crimes et botanique",
+      "poster": "https://image.tmdb.org/t/p/w500/yCWGMcU0rI0dGq0snlKlCf9RZXR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+      "year": "1998",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Vinnie Jones",
+        "Jason Flemyng",
+        "Dexter Fletcher",
+        "Nick Moran",
+        "Jason Statham",
+        "Steven Mackintosh"
+      ],
+      "description": "Eddy, un joueur invétéré, s'apprête à participer à la plus grosse partie de cartes de sa vie avec un enjeu de cent mille Livres, somme qu'il a durement amassée avec ses trois acolytes, Tom, Baco et Soap. Eddy est considéré comme l'un des meilleurs joueurs du circuit, mais la partie s'avère être un coup monté à l'issue duquel il doit cinq cent mille Livres à son adversaire Hatchet Harry. Ce dernier lui donne une semaine pour réunir cette somme, sinon il aura les doigts coupés. Seul JD, le père d'Eddy, pourrait annuler la dette en cédant son bar à son vieux rival, Harry.",
+      "logo": "https://image.tmdb.org/t/p/w500/f0Cz9AvZYfOEQFloY8tJwBoRO87.png"
+    },
+    {
+      "id": "tmdb:449176",
+      "type": "movie",
+      "name": "Love, Simon",
+      "poster": "https://image.tmdb.org/t/p/w500/qnA8dIE9yrI4KGO9qgemu79YBCR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rqMEeajyzSF4PpJtdCB816Iz8Vr.jpg",
+      "year": "2018",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Greg Berlanti"
+      ],
+      "cast": [
+        "Nick Robinson",
+        "Logan Miller",
+        "Alexandra Shipp",
+        "Katherine Langford",
+        "Jorge Lendeborg Jr.",
+        "Jennifer Garner"
+      ],
+      "description": "On mérite tous une première grande histoire d’amour. Pourtant pour le jeune Simon, c’est compliqué. Il a une vie normale, dans une famille qu’il adore, et est entouré d’amis extraordinaires, mais il garde pour lui un grand secret : personne ne sait qu’il est gay et il ne connaît pas l’identité de son premier coup de coeur, avec qui il communique en ligne. Alors que son secret est menacé d’être révélé, la vie de Simon bascule dans une aventure aussi drôle que bouleversante... Ses amis prendront alors une place essentielle pour l’aider à changer sa vie et découvrir le premier amour.",
+      "logo": "https://image.tmdb.org/t/p/w500/vTdwi2Oz6TxD6075ptwy8IS6DAT.png"
+    },
+    {
+      "id": "tmdb:83666",
+      "type": "movie",
+      "name": "Moonrise Kingdom",
+      "poster": "https://image.tmdb.org/t/p/w500/iDfjUWJ0w8XmEgaL4n1m7GI86BE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9lARefvwwjSvHai0ruqwKNqA9Jz.jpg",
+      "year": "2012",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Wes Anderson"
+      ],
+      "cast": [
+        "Jared Gilman",
+        "Kara Hayward",
+        "Bruce Willis",
+        "Edward Norton",
+        "Bill Murray",
+        "Frances McDormand"
+      ],
+      "description": "Sur une île au large de la Nouvelle-Angleterre, au cœur de l’été 1965, Suzy et Sam, douze ans, tombent amoureux, concluent un pacte secret et s’enfuient ensemble. Alors que chacun se mobilise pour les retrouver, une violente tempête s’approche des côtes et va bouleverser davantage encore la vie de la communauté.",
+      "logo": "https://image.tmdb.org/t/p/w500/rMROETV7jYPi01iSUAkE3HPFGX2.png"
+    },
+    {
+      "id": "tmdb:389015",
+      "type": "movie",
+      "name": "Moi, Tonya",
+      "poster": "https://image.tmdb.org/t/p/w500/oDOvbITSIV314ZK1C8yQns6B4FU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gXIuss4Ajlex0E6iJPjkSTR8Qip.jpg",
+      "year": "2017",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Craig Gillespie"
+      ],
+      "cast": [
+        "Margot Robbie",
+        "Sebastian Stan",
+        "Allison Janney",
+        "Julianne Nicholson",
+        "Paul Walter Hauser",
+        "Bobby Cannavale"
+      ],
+      "description": "Le parcours de la sportive controversée Tonya Harding, championne de patinage artistique dans les années 80‐90, première femme à réussir un triple axel dans une compétition majeure, mais surtout connue aujourd’hui pour sa célèbre rivalité avec la patineuse Nancy Kerrigan aux JO de 1994 et sa tentative avec son mari de nuire à sa rivale.",
+      "logo": "https://image.tmdb.org/t/p/w500/hjGXde9Dl5E6sqYyBujo77yR2Kz.png"
+    },
+    {
+      "id": "tmdb:429197",
+      "type": "movie",
+      "name": "Vice",
+      "poster": "https://image.tmdb.org/t/p/w500/55uWuBbJ75lnVpC5tyWI9dP1cJk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+      "year": "2018",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Adam McKay"
+      ],
+      "cast": [
+        "Christian Bale",
+        "Amy Adams",
+        "Steve Carell",
+        "Sam Rockwell",
+        "Alison Pill",
+        "Eddie Marsan"
+      ],
+      "description": "Fin connaisseur des arcanes de la politique américaine, Dick Cheney a réussi, sans faire de bruit, à se faire élire vice-président aux côtés de George W. Bush. Devenu l’homme le plus puissant du pays, il a largement contribué à imposer un nouvel ordre mondial dont on sent encore les conséquences aujourd’hui…",
+      "logo": "https://image.tmdb.org/t/p/w500/ehkFh74MbVbYa9QodjT4PF0SpTu.png"
+    },
+    {
+      "id": "tmdb:74643",
+      "type": "movie",
+      "name": "The Artist",
+      "poster": "https://image.tmdb.org/t/p/w500/khtVL4abxYczXAWbo1wAz13CLx3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+      "year": "2011",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Michel Hazanavicius"
+      ],
+      "cast": [
+        "Jean Dujardin",
+        "Bérénice Bejo",
+        "John Goodman",
+        "James Cromwell",
+        "Penelope Ann Miller",
+        "Missi Pyle"
+      ],
+      "description": "Hollywood 1927. George Valentin est une vedette du cinéma muet à qui tout sourit. L’arrivée des films parlants va le faire sombrer dans l’oubli. Peppy Miller, jeune figurante, va elle, être propulsée au firmament des stars.",
+      "logo": "https://image.tmdb.org/t/p/w500/qsD9bZC1trW1BZ3WFdBUnSGvpBL.png"
+    },
+    {
+      "id": "tmdb:801",
+      "type": "movie",
+      "name": "Good Morning, Vietnam",
+      "poster": "https://image.tmdb.org/t/p/w500/yPszN5iNKr3MmFq0dMhAyvzW0kb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7HWx6ADPMGmzoZh1LLpzJZLKsbx.jpg",
+      "year": "1987",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Guerre"
+      ],
+      "director": [
+        "Barry Levinson"
+      ],
+      "cast": [
+        "Robin Williams",
+        "Forest Whitaker",
+        "Tom T. Tran",
+        "จินตหรา สุขพัฒน์",
+        "Bruno Kirby",
+        "Robert Wuhl"
+      ],
+      "description": "Un nouveau disc jockey est envoyé au Vietnam pour animer la radio des forces armées et distraire les soldats. Son ton frais et irrévérencieux le rend vite populaire aux yeux des militaires.",
+      "logo": "https://image.tmdb.org/t/p/w500/3b18uJZnQXeymwzfpseViKHT5A5.png"
+    },
+    {
+      "id": "tmdb:439",
+      "type": "movie",
+      "name": "La dolce vita",
+      "poster": "https://image.tmdb.org/t/p/w500/mkDkCuiGIkyIBe6SlhJ9beiSuDn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uaEfEkb2tjl4hN1oaSyzcxt4cEg.jpg",
+      "year": "1960",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Federico Fellini"
+      ],
+      "cast": [
+        "Marcello Mastroianni",
+        "Anita Ekberg",
+        "Anouk Aimée",
+        "Yvonne Furneaux",
+        "Magali Noël",
+        "Alain Cuny"
+      ],
+      "description": "Le chroniqueur Marcello fait le tour des lieux à scandale de Rome pour alimenter les potins d'un journal à fort tirage. Il rencontre une faune corrompue et dérisoire qui feint de s'amuser et dissimule mal son ennui.\r Palme d'Or 1960",
+      "logo": "https://image.tmdb.org/t/p/w500/k0gB8RGqglN1yozQ0B7US0qOjjC.png"
+    },
+    {
+      "id": "tmdb:112198",
+      "type": "movie",
+      "name": "Le Prénom",
+      "poster": "https://image.tmdb.org/t/p/w500/w5JWQo7ArqmoegKYiQbv8TeAJmg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ll1d1AXoQganpzphgUVuWGo3Nmi.jpg",
+      "year": "2012",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Alexandre de La Patellière",
+        "Matthieu Delaporte"
+      ],
+      "cast": [
+        "Patrick Bruel",
+        "Valérie Benguigui",
+        "Charles Berling",
+        "Guillaume de Tonquédec",
+        "Judith El Zein",
+        "Françoise Fabian"
+      ],
+      "description": "Vincent, la quarantaine triomphante, va être père pour la première fois. Invité à dîner chez Élisabeth et Pierre, sa sœur et son beau-frère, il y retrouve Claude, un ami d’enfance.  En attendant l’arrivée d’Anna, sa jeune épouse éternellement en retard, on le presse de questions sur sa future paternité dans la bonne humeur générale… Mais quand on demande à Vincent s’il a déjà choisi un prénom pour l’enfant à naître, sa réponse plonge la famille dans le chaos.",
+      "logo": "https://image.tmdb.org/t/p/w500/sZJK5p6n0t9pThL5lOuOcrv7t5g.png"
+    },
+    {
+      "id": "tmdb:13398",
+      "type": "movie",
+      "name": "Tokyo Godfathers",
+      "poster": "https://image.tmdb.org/t/p/w500/wyiyr21j2UXVaeqVLo8D9a4IdzQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
+      "year": "2003",
+      "imdbRating": "4.0",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Satoshi Kon"
+      ],
+      "cast": [
+        "岡本綾",
+        "梅垣義明",
+        "江守徹",
+        "Satomi Kōrogi",
+        "Mamiko Noto",
+        "槐柳二"
+      ],
+      "description": "À Tokyo, dans le quartier populaire de Shinjuku, pendant les fêtes de Noël. Alors que le froid a envahi la ville, Gin, un homme bourru, Miyuki, un adolescent fugueur et Hana, un travesti, vivent ensemble dans les rues de la ville. Un soir, à la recherche de nourriture, ils trouvent un bébé abandonné dans une poubelle. Dans ses langes, une clef dont les comparses ignorent à quoi elle peut bien servir. Bien décidés à protéger le nourrisson des rigueurs du froid, les trois clochards cherchent également à retrouver les parents du bambin le plus rapidement possible. La clef s'avère être leur seul indice. Commence pour eux un parcours semé d'embûches…",
+      "logo": "https://image.tmdb.org/t/p/w500/u2MCxxyBftlRcLgdizifq0gzqcp.png"
+    },
+    {
+      "id": "tmdb:595975",
+      "type": "movie",
+      "name": "La Belle Époque",
+      "poster": "https://image.tmdb.org/t/p/w500/mJJD5m0uHKqcWctQRcPoOuHvG6E.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sfoaAbgEQlQI8dBFJsiIdXiLI7x.jpg",
+      "year": "2019",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Nicolas Bedos"
+      ],
+      "cast": [
+        "Daniel Auteuil",
+        "Guillaume Canet",
+        "Doria Tillier",
+        "Fanny Ardant",
+        "Pierre Arditi",
+        "Denis Podalydès"
+      ],
+      "description": "Victor, un sexagénaire désabusé, voit sa vie bouleversée le jour où Antoine, un brillant entrepreneur, lui propose une attraction d’un genre nouveau: mélangeant artifices théâtraux et reconstitution historique, cette entreprise propose à ses clients de replonger dans l’époque de leur choix. Victor choisit alors de revivre la semaine la plus marquante de sa vie: celle où, 40 ans plus tôt, il rencontra le grand amour...",
+      "logo": "https://image.tmdb.org/t/p/w500/ucgMIOjkKNyqqIwnOdNl33oMrjF.png"
+    },
+    {
+      "id": "tmdb:47320",
+      "type": "movie",
+      "name": "Cherry",
+      "poster": "https://image.tmdb.org/t/p/w500/sTlOUvhrsiGdtwVKbdlB5pAdE2U.jpg",
+      "background": "https://image.tmdb.org/t/p/original/csdiZhmXyurNpuZcZGkZr4i1UkI.jpg",
+      "year": "2010",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Jeffrey Fine"
+      ],
+      "cast": [
+        "Kyle Gallner",
+        "Laura Allen",
+        "Britt Robertson",
+        "Matt Walsh",
+        "Esai Morales",
+        "D.C. Pierson"
+      ],
+      "logo": "https://image.tmdb.org/t/p/w500/cP2PahBdMQieD4yr6bGirGKi6iO.png"
+    },
+    {
+      "id": "tmdb:1124566",
+      "type": "movie",
+      "name": "Valeur sentimentale",
+      "poster": "https://image.tmdb.org/t/p/w500/t2n3BUZgflmSCyivnSatqP21kaV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mDIMSMXFkOXUyQ2lnmeBu6kDUCH.jpg",
+      "year": "2025",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Joachim Trier"
+      ],
+      "cast": [
+        "Renate Reinsve",
+        "Stellan Skarsgård",
+        "Inga Ibsdotter Lilleaas",
+        "Elle Fanning",
+        "Cory Michael Smith",
+        "Catherine Cohen"
+      ],
+      "description": "A la mort de leur mère, Nora et Agnès voient leur père Gustav réapparaître dans leur vie. Réalisateur de films autrefois reconnu, il a écrit un scénario dont il voudrait que Nora, devenue comédienne, joue le rôle principal, mais cette dernière refuse catégoriquement. Lors d'une rétrospective qui lui est consacrée dans un festival français, Gustav rencontre une jeune star hollywoodienne qui, bouleversée par l’un de ses films, manifeste son désir de travailler avec lui. Il lui offre le rôle initialement écrit pour Nora, voyant là l’opportunité inespérée de relancer sa carrière. Le tournage en Norvège devient l’occasion pour Gustav d'affronter ses démons et lui donne une dernière chance de renouer avec ses filles.",
+      "logo": "https://image.tmdb.org/t/p/w500/ga4d9B3erFcGb9U2hiOaSGImz3N.png"
+    },
+    {
+      "id": "tmdb:86767",
+      "type": "movie",
+      "name": "The First Time",
+      "poster": "https://image.tmdb.org/t/p/w500/tMeuZaFCyQiDUfGo2Rgfkf6obZi.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4xKbjYeSOVI2rxYehFhmKllv42a.jpg",
+      "year": "1969",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "James Neilson"
+      ],
+      "cast": [
+        "Jacqueline Bisset",
+        "Wes Stern",
+        "Ricky Kelman",
+        "Wink Roberts",
+        "Gerard Parkes",
+        "Cosette Lee"
+      ],
+      "logo": "https://image.tmdb.org/t/p/w500/wrtjh7cPUkjAaYrIUwdnBpn5knY.png"
+    },
+    {
+      "id": "tmdb:935852",
+      "type": "movie",
+      "name": "Forgotten",
+      "poster": "https://image.tmdb.org/t/p/w500/mniIdOaVqa6c0sqBQjVS3Y5yxsz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4bRHE0EeK4iErJ7cAAmhMUtWtcd.jpg",
+      "year": "2022",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "K. Danor Gerald"
+      ],
+      "cast": [
+        "Walter Platz",
+        "Eric Osmond",
+        "Jagger Woolstenhulme",
+        "Aiden Beagley",
+        "Ethan Blackham",
+        "K. Danor Gerald"
+      ]
+    },
+    {
+      "id": "tmdb:515001",
+      "type": "movie",
+      "name": "Jojo Rabbit",
+      "poster": "https://image.tmdb.org/t/p/w500/1uiuoWE0XUqCZpwWKMQwoFpqjkp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+      "year": "2019",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie",
+        "Guerre",
+        "Drame"
+      ],
+      "director": [
+        "Taika Waititi"
+      ],
+      "cast": [
+        "Roman Griffin Davis",
+        "Thomasin McKenzie",
+        "Scarlett Johansson",
+        "Taika Waititi",
+        "Sam Rockwell",
+        "Rebel Wilson"
+      ],
+      "description": "Jojo est un petit allemand solitaire. Sa vision du monde est mise à l’épreuve quand il découvre que sa mère cache une jeune fille juive dans leur grenier. Avec la seule aide de son ami aussi grotesque qu'imaginaire, Adolf Hitler, Jojo va devoir faire face à son nationalisme aveugle.",
+      "logo": "https://image.tmdb.org/t/p/w500/5J1srYM2q1MSgUICBIkfY4xPyOL.png"
+    },
+    {
+      "id": "tmdb:4638",
+      "type": "movie",
+      "name": "Hot Fuzz",
+      "poster": "https://image.tmdb.org/t/p/w500/tddbD3ETiKucVg15GKWkzveU7SI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "year": "2007",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Action",
+        "Comédie"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Simon Pegg",
+        "Nick Frost",
+        "Jim Broadbent",
+        "Paddy Considine",
+        "Rafe Spall",
+        "Kevin Eldon"
+      ],
+      "description": "À Londres, le policier Nicholas Angel est le meilleur de son équipe. Tellement bon qu'il fait passer ses collègues pour de simples gardiens de la paix. Le chef de la brigade décide donc de le « promouvoir » dans le petit village de Sandford, où il ne se passe rien. Aux côtés du policier local Danny Butterman qui rêve de devenir Mel Gibson, Nicholas règle quelques contraventions sans grand intérêt. Une série de crimes étranges va le remettre dans l'action…",
+      "logo": "https://image.tmdb.org/t/p/w500/m5Lxfq0buYJg53xR1neJ9yuvArF.png"
+    },
+    {
+      "id": "tmdb:153",
+      "type": "movie",
+      "name": "Lost in Translation",
+      "poster": "https://image.tmdb.org/t/p/w500/bUDD5bfF5EHzBwPhL9iJeZuHjVE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+      "year": "2003",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Comédie"
+      ],
+      "director": [
+        "Sofia Coppola"
+      ],
+      "cast": [
+        "Bill Murray",
+        "Scarlett Johansson",
+        "Giovanni Ribisi",
+        "Anna Faris",
+        "Akiko Takeshita",
+        "Kazuyoshi Minamimagoe"
+      ],
+      "description": "Bob Harris, acteur sur le déclin, se rend à Tokyo pour tourner un spot publicitaire. Il a conscience qu'il se trompe - il devrait être chez lui avec sa famille, jouer au théâtre ou encore chercher un rôle dans un film -, mais il a besoin d'argent. Du haut de son hôtel de luxe, il contemple la ville, mais ne voit rien. Il est ailleurs, détaché de tout, incapable de s'intégrer à la réalité qui l'entoure, incapable également de dormir à cause du décalage horaire. Dans ce même établissement, Charlotte, une jeune Américaine fraîchement diplômée, accompagne son mari, photographe de mode. Ce dernier semble s'intéresser davantage à son travail qu'à sa femme. Se sentant délaissée, Charlotte cherche un peu d'attention. Elle va en trouver auprès de Bob...",
+      "logo": "https://image.tmdb.org/t/p/w500/pMVDJOPEEhQ0ATtmuk48xEdmyMT.png"
+    },
+    {
+      "id": "tmdb:203801",
+      "type": "movie",
+      "name": "Agents très spéciaux : Code U.N.C.L.E.",
+      "poster": "https://image.tmdb.org/t/p/w500/5FNGb0beZQBDMAVAe2Nyeb7ki6v.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bu0LiPEWKHWViRoaFwlTAzZ8wyS.jpg",
+      "year": "2015",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie",
+        "Action",
+        "Aventure"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Henry Cavill",
+        "Armie Hammer",
+        "Alicia Vikander",
+        "Elizabeth Debicki",
+        "Luca Calvani",
+        "Sylvester Groth"
+      ],
+      "description": "Au début des années 60, en pleine guerre froide, l'agent de la CIA Solo et de l'agent du KGB Kuryakin sont contraints de laisser de côté leur antagonisme ancestral. Les deux hommes s'engagent alors dans une mission conjointe: mettre hors d'état de nuire une organisation criminelle internationale déterminée à ébranler le fragile équilibre mondial, en favorisant la prolifération des armes et de la technologie nucléaires. Pour l'heure, Solo et Kuryakin n'ont qu'une piste: le contact de la fille d'un scientifique allemand porté disparu, le seul à même d'infiltrer l'organisation criminelle. Ils se lancent dans une course contre la montre pour retrouver sa trace et empêcher un cataclysme planétaire.",
+      "logo": "https://image.tmdb.org/t/p/w500/sssqkQTLspz38ZFFfqguxhIWNQF.png"
+    },
+    {
+      "id": "tmdb:10843",
+      "type": "movie",
+      "name": "After Hours",
+      "poster": "https://image.tmdb.org/t/p/w500/xbnXHTgyliktMV9lLF9EASaYxG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/38zhXIWXlWDzwI8gRJOf5ISyGFc.jpg",
+      "year": "1985",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie",
+        "Thriller",
+        "Drame"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Griffin Dunne",
+        "Rosanna Arquette",
+        "Verna Bloom",
+        "Tommy Chong",
+        "Linda Fiorentino",
+        "Teri Garr"
+      ],
+      "description": "Un soir, dans un café de New York, Paul Hackett un modeste informaticien, fait la connaissance de la séduisante Marcy avec qui il sympathise. La jeune femme l'invite chez elle, mais tout ne va se passer comme prévu.",
+      "logo": "https://image.tmdb.org/t/p/w500/gLIhRcUJxHP9eJnaJN4n9SWDA8T.png"
+    },
+    {
+      "id": "tmdb:458534",
+      "type": "movie",
+      "name": "Tout le monde debout",
+      "poster": "https://image.tmdb.org/t/p/w500/h065db1br7f9VW0x0LkOVfdtZqG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/f5GsxbAgEDl0kHUkxrl0da7QVta.jpg",
+      "year": "2018",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Franck Dubosc"
+      ],
+      "cast": [
+        "Franck Dubosc",
+        "Alexandra Lamy",
+        "Elsa Zylberstein",
+        "Gérard Darmon",
+        "Caroline Anglade",
+        "Laurent Bateau"
+      ],
+      "description": "Jocelyn, homme d'affaire en pleine réussite, égoïste et misogyne, lassé d'être lui-même, se retrouve malgré lui à séduire une jeune et jolie femme en se faisant passer pour un handicapé. Jusqu'au jour où elle lui présente sa sœur elle-même handicapée…",
+      "logo": "https://image.tmdb.org/t/p/w500/nqppen2QghKeNJNWPceE6OpMHPM.png"
+    },
+    {
+      "id": "tmdb:366564",
+      "type": "movie",
+      "name": "Comment c'est loin",
+      "poster": "https://image.tmdb.org/t/p/w500/9MPCy4iAwBzKsE5Wg7XI1wbaQPR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4tpyP3formSSJptQcUF5VVGrD1y.jpg",
+      "year": "2015",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Christophe Offenstein",
+        "Orelsan"
+      ],
+      "cast": [
+        "Orelsan",
+        "Gringe",
+        "Seydou Doucouré",
+        "Claude Urbiztondo Llarch",
+        "Paul Minthe",
+        "Sophie de Fürst"
+      ],
+      "description": "Après une dizaine d’années de non-productivité, Orel et Gringe, la trentaine, galèrent à écrire leur premier album de rap. Leurs textes, truffés de blagues de mauvais goût et de références alambiquées, évoquent leur quotidien dans une ville moyenne de province. Le problème : impossible de terminer une chanson. A l’issue d’une séance houleuse avec leurs producteurs, ils sont au pied du mur : ils ont 24h pour sortir une chanson digne de ce nom. Leurs vieux démons, la peur de l’échec, la procrastination, les potes envahissants, les problèmes de couple, etc. viendront se mettre en travers de leur chemin. Chemin qu’ils n’avaient de toute façon pas pris dans le bon sens…"
+    },
+    {
+      "id": "tmdb:228108",
+      "type": "movie",
+      "name": "The Road Within",
+      "poster": "https://image.tmdb.org/t/p/w500/d5jaCNYKKYcSftSGLm8r4FcPhcZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3qjYgi0CjhXSrt1Sv1VFk26y5Yo.jpg",
+      "year": "2014",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Gren Wells"
+      ],
+      "cast": [
+        "Robert Sheehan",
+        "Dev Patel",
+        "Zoë Kravitz",
+        "Robert Patrick",
+        "Kyra Sedgwick",
+        "Ali Hillis"
+      ],
+      "description": "Vincent est atteint du syndrome de la Tourette. Il vient de perdre sa mère et se retrouve ainsi face à son père avec qui il est en froid depuis quelques temps. Ce dernier craignant que son fils vienne compromettre sa carrière politique, il envoie Vincent dans une clinique spécialisée. Sur place, le jeune homme fait la connaissance de Marie, une jeune anorexique dont il tombe amoureux. Ensemble, ils décident de s'enfuir, entraînant malgré eux Alex, le colocataire de Vincent, qui souffre de TOC. Le trio s'embarque alors dans un voyage inoubliable, dont le but est de répandre les cendres de la mère de Vincent dans l'océan.",
+      "logo": "https://image.tmdb.org/t/p/w500/3gwFyZ9TOUBTikr5oaPqTci7hsa.png"
+    },
+    {
+      "id": "tmdb:988402",
+      "type": "movie",
+      "name": "Vampire humaniste cherche suicidaire consentant",
+      "poster": "https://image.tmdb.org/t/p/w500/dbasJMS6qn8OdEQR0E2ZLz4pkLg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7t7IQhdA5rO8jhinE3ig258hqlf.jpg",
+      "year": "2023",
+      "imdbRating": "3.9",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Fantastique",
+        "Horreur"
+      ],
+      "director": [
+        "Ariane Louis-Seize"
+      ],
+      "cast": [
+        "Sara Montpetit",
+        "Félix-Antoine Bénard",
+        "Steve Laplante",
+        "Sophie Cadieux",
+        "Noémie O'Farrell",
+        "Arnaud Vachon"
+      ],
+      "description": "Sasha est une jeune vampire avec un grave problème : elle est trop humaniste pour mordre ! Lorsque ses parents, exaspérés, décident de lui couper les vivres, sa survie est menacée. Heureusement pour elle, Sasha fait la rencontre de Paul, un adolescent solitaire aux comportements suicidaires qui consent à lui offrir sa vie. Ce qui devait être un échange de bons procédés se transforme alors en épopée nocturne durant laquelle les deux nouveaux amis chercheront à réaliser les dernières volontés de Paul avant le lever du soleil.",
+      "logo": "https://image.tmdb.org/t/p/w500/fbhYLr5uRs8eATedrPYubJY3nuM.png"
+    },
+    {
+      "id": "tmdb:1079310",
+      "type": "movie",
+      "name": "Vingt Dieux",
+      "poster": "https://image.tmdb.org/t/p/w500/zdoLIMMgcbqBtgPIWe7Ep8KcsiH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/AllcXFGjhy3NbZSLCnb55LFlNQo.jpg",
+      "year": "2024",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Louise Courvoisier"
+      ],
+      "cast": [
+        "Clément Faveau",
+        "Maïwène Barthélémy",
+        "Luna Garret",
+        "Mathis Bernard",
+        "Dimitri Baudry",
+        "Armand Sancey Richard"
+      ],
+      "description": "Totone, 18 ans, passe le plus clair de son temps à boire des bières et écumer les bals du Jura avec sa bande de potes. Mais la réalité le rattrape : il doit s’occuper de sa petite sœur de 7 ans et trouver un moyen de gagner sa vie. Il se met alors en tête de fabriquer le meilleur comté de la région, celui avec lequel il remporterait la médaille d'or du concours agricole et 30 000 euros.",
+      "logo": "https://image.tmdb.org/t/p/w500/t04YV7MSua4RjQNVwOTHcYNdtrd.png"
+    },
+    {
+      "id": "tmdb:893372",
+      "type": "movie",
+      "name": "Une belle course",
+      "poster": "https://image.tmdb.org/t/p/w500/bmS09aAOFfUZ7QdzchHbBRITqac.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1qXeeWsXm1cmvG5K2x3RQpLPkuL.jpg",
+      "year": "2022",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Christian Carion"
+      ],
+      "cast": [
+        "Line Renaud",
+        "Dany Boon",
+        "Alice Isaaz",
+        "Gwendoline Hamon",
+        "Hadriel Roure",
+        "Elie Kaempfen"
+      ],
+      "description": "Madeleine, 92 ans, appelle un taxi pour rejoindre la maison de retraite où elle doit vivre désormais. Elle demande à Charles, un chauffeur un peu désabusé, de passer par les lieux qui ont compté dans sa vie, pour les revoir une dernière fois. Peu à peu, au détour des rues de Paris, surgit un passé hors du commun qui bouleverse Charles. Il y a des voyages en taxi qui peuvent changer une vie…",
+      "logo": "https://image.tmdb.org/t/p/w500/MziLZWO1fxBVL6TzzoNMGC8vq2.png"
+    },
+    {
+      "id": "tmdb:318846",
+      "type": "movie",
+      "name": "The Big Short : Le Casse du Siècle",
+      "poster": "https://image.tmdb.org/t/p/w500/xRZnq4CDeiZpkMLn6QQbgDOvJbg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
+      "year": "2015",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Adam McKay"
+      ],
+      "cast": [
+        "Steve Carell",
+        "Christian Bale",
+        "Ryan Gosling",
+        "Brad Pitt",
+        "Marisa Tomei",
+        "Melissa Leo"
+      ],
+      "description": "Wall Street. 2005.  Profitant de l’aveuglement généralisé des grosses banques, des médias et du gouvernement, quatre outsiders anticipent l’explosion de la bulle financière et mettent au point… le casse du siècle! Michael Burry, Steve Eisman, Greg Lippmann et Ben Hockett: des personnages visionnaires et hors du commun qui vont parier contre les banques… et tenter de rafler la mise !",
+      "logo": "https://image.tmdb.org/t/p/w500/4OWhZJk4oKC0VxmHPRkp9NI3XzI.png"
+    },
+    {
+      "id": "tmdb:50646",
+      "type": "movie",
+      "name": "Crazy, Stupid, Love",
+      "poster": "https://image.tmdb.org/t/p/w500/wYQ8LLOGoxqVtRTdKPmi1J59FWo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+      "year": "2011",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Glenn Ficarra",
+        "John Requa"
+      ],
+      "cast": [
+        "Steve Carell",
+        "Ryan Gosling",
+        "Julianne Moore",
+        "Emma Stone",
+        "Lio Tipton",
+        "Jonah Bobo"
+      ],
+      "description": "À tout juste quarante ans, Cal Weaver mène une vie de rêve, bonne situation, belle maison, enfants formidables et mariage parfait avec sa petite amie du lycée. Mais lorsqu'il apprend que sa femme, Emily, le trompe et demande le divorce, sa vie « parfaite » s'écroule. Pire, dans le monde des célibataires d'aujourd'hui, Cal, qui n'a plus dragué depuis des lustres, se révèle un modèle d'anti-séduction. Passant désormais ses soirées à bouder tout seul au bar du coin, l'infortuné Cal est pris en main comme complice et protégé d'un séduisant trentenaire, Jacob Palmer. Pour l'aider à oublier sa femme et à commencer une nouvelle vie, Jacob tente de faire découvrir à Cal les nombreuses perspectives qui s'offrent à lui : femmes en quête d'aventures, soirées arrosées entre copains et un chic supérieur à la moyenne.",
+      "logo": "https://image.tmdb.org/t/p/w500/c0nXE13RGeAf0xpdwlE9YIGPCzU.svg"
+    },
+    {
+      "id": "tmdb:594",
+      "type": "movie",
+      "name": "Le Terminal",
+      "poster": "https://image.tmdb.org/t/p/w500/kzmY94woFy7alwea9H1JVS4tUCQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zt3cmdZr3t0K64gzpwIc4LXiuDu.jpg",
+      "year": "2004",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Catherine Zeta-Jones",
+        "Stanley Tucci",
+        "Chi McBride",
+        "Diego Luna",
+        "Barry Shabaka Henley"
+      ],
+      "description": "Viktor Navorski est l’un de ces milliers de touristes, venus des quatre coins du monde, qui débarquent chaque jour à l’Aéroport JFK de New York. Mais, à quelques heures de son arrivée, voilà qu’un coup d’État bouleverse sa petite république d’Europe Centrale, mettant celle‐ci au ban des nations et faisant de Viktor… un apatride. Les portes de l’Amérique se ferment devant lui, alors même que se bouclent les frontières de son pays: Viktor est bel et bien coincé…",
+      "logo": "https://image.tmdb.org/t/p/w500/s7Al6SSNZg8WiEyk27OiUHFXjZ9.png"
+    },
+    {
+      "id": "tmdb:290250",
+      "type": "movie",
+      "name": "The Nice Guys",
+      "poster": "https://image.tmdb.org/t/p/w500/p94BXHeJQagD3M8p4LuAB87RMQv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vTNzXPvFRn8Z4vn2myhkNpq26J6.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Shane Black"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Ryan Gosling",
+        "Angourie Rice",
+        "Matt Bomer",
+        "Margaret Qualley",
+        "Yaya DaCosta"
+      ],
+      "description": "Los Angeles. Années 70. Deux détectives privés enquêtent sur le prétendu suicide d’une starlette. Malgré des méthodes pour le moins « originales », leurs investigations vont mettre à jour une conspiration impliquant des personnalités très haut placées…",
+      "logo": "https://image.tmdb.org/t/p/w500/xRMh55XQrPCP1gAdQyQ6MpHz46M.png"
+    },
+    {
+      "id": "tmdb:22538",
+      "type": "movie",
+      "name": "Scott Pilgrim",
+      "poster": "https://image.tmdb.org/t/p/w500/wDBkpNmt7yeMRsBENN4VOdc0usx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rUAZnGMgISkZYJU8o7kuSNj3mPl.jpg",
+      "year": "2010",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Michael Cera",
+        "Mary Elizabeth Winstead",
+        "Ellen Wong",
+        "Kieran Culkin",
+        "Alison Pill",
+        "Mark Webber"
+      ],
+      "description": "Scott Pilgrim n’a jamais eu de problème à trouver une petite amie, mais s’en débarrasser s’avère plus compliqué. Entre celle qui lui a brisé le cœur – et qui est de retour en ville – et l’adolescente qui lui sert de distraction au moment où Ramona entre dans sa vie - en rollers - l’amour n’a jamais été chose facile. Il va cependant vite réaliser que le nouvel objet de son affection traîne les plus singulières casseroles jamais rencontrées : une infâme ligue d’ex qui contrôlent sa vie amoureuse et sont prêts à tout pour éliminer son nouveau prétendant. À mesure que Scott se rapproche de Ramona, il est confronté à une palette grandissante d’individus patibulaires qui peuplent le passé de sa dulcinée : du mesquin skateur à la rock star végétarienne en passant par une affreuse paire de jumeaux. Et s’il espère séduire l’amour de sa vie, il doit triompher de chacun d’eux avant que la partie soit bel et bien « over ».",
+      "logo": "https://image.tmdb.org/t/p/w500/yDgC7RbMgXeBTIBalKowWQ1RWlJ.png"
+    },
+    {
+      "id": "tmdb:375262",
+      "type": "movie",
+      "name": "La Favorite",
+      "poster": "https://image.tmdb.org/t/p/w500/bZC5VeHX39PfhsZEcdjD7RHKFSH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ph5fElfh4U7O3jwhFljxz2LDp1l.jpg",
+      "year": "2018",
+      "imdbRating": "3.8",
+      "genres": [
+        "Histoire",
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Yorgos Lanthimos"
+      ],
+      "cast": [
+        "Emma Stone",
+        "Olivia Colman",
+        "Rachel Weisz",
+        "Nicholas Hoult",
+        "Joe Alwyn",
+        "Mark Gatiss"
+      ],
+      "description": "Début du XVIIIème siècle. L’Angleterre et la France sont en guerre. Toutefois, à la cour, la mode est aux courses de canards et à la dégustation d’ananas. La reine Anne, à la santé fragile et au caractère instable, occupe le trône tandis que son amie Lady Sarah gouverne le pays à sa place. Lorsqu’une nouvelle servante, Abigail Hill, arrive à la cour, Lady Sarah la prend sous son aile, pensant qu’elle pourrait être une alliée. Abigail va y voir l’opportunité de renouer avec ses racines aristocratiques. Alors que les enjeux politiques de la guerre absorbent Sarah, Abigail quant à elle parvient à gagner la confiance de la reine et devient sa nouvelle confidente. Cette amitié naissante donne à la jeune femme l’occasion de satisfaire ses ambitions, et elle ne laissera ni homme, ni femme, ni politique, ni même un lapin se mettre en travers de son chemin.",
+      "logo": "https://image.tmdb.org/t/p/w500/w7EjwuDv83cIlfj70d7gtwyTK9U.png"
+    },
+    {
+      "id": "tmdb:308266",
+      "type": "movie",
+      "name": "War Dogs",
+      "poster": "https://image.tmdb.org/t/p/w500/3QsSKLq6yewtII9wx3yWVU92rxs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Todd Phillips"
+      ],
+      "cast": [
+        "Miles Teller",
+        "Jonah Hill",
+        "Ana de Armas",
+        "Bradley Cooper",
+        "Kevin Pollak",
+        "Patrick St. Esprit"
+      ],
+      "description": "Deux amis âgés d’une vingtaine d’années, vivant à Miami pendant la guerre en Irak, profitent d’un dispositif du gouvernement fédéral totalement méconnu, permettant à de petites entreprises de répondre à des appels d’offres de l’armée américaine. Si leurs débuts sont modestes, ils ne tardent pas à empocher de grosses sommes d’argent et à mener la grande vie. Mais les deux amis sont totalement dépassés par les événements lorsqu’ils décrochent un contrat de 300 millions de dollars destiné à armer les soldats afghans. Car, pour honorer leurs obligations, ils doivent entrer en contact avec des individus très peu recommandables et qu'il ne vaut pas mieux entourlouper… dont certains font partie du gouvernement américain…",
+      "logo": "https://image.tmdb.org/t/p/w500/fkFJN9hZgmyOVbFiYMa2QGivm9v.png"
+    },
+    {
+      "id": "tmdb:5236",
+      "type": "movie",
+      "name": "Kiss Kiss Bang Bang",
+      "poster": "https://image.tmdb.org/t/p/w500/zsKglygUu0RdiMXE2bJ2yW4eheb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/x29PYzoNYPGzdj3M8FDwSwEgNpf.jpg",
+      "year": "2005",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "Shane Black"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Val Kilmer",
+        "Michelle Monaghan",
+        "Corbin Bernsen",
+        "Dash Mihok",
+        "Larry Miller"
+      ],
+      "description": "Harry Lockhart, voleur en fuite, se retrouve accidentellement à auditionner dans un film policier Hollywoodien. Afin de préparer au mieux son rôle, il fait équipe avec un détective privé sans foi ni loi et une comédienne en herbe. Ils finiront par se retrouver impliqués dans une réelle et mystérieuse affaire de meurtre.",
+      "logo": "https://image.tmdb.org/t/p/w500/A5U5WhCIgA8moT8m5Xvo0RhqYT0.png"
+    },
+    {
+      "id": "tmdb:930094",
+      "type": "movie",
+      "name": "My Dear F***ing Prince",
+      "poster": "https://image.tmdb.org/t/p/w500/5OaYaunPjCbuqaSQ8KgDM01QMOr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7QDWTqSGqI2Q5dOBtvT64MOhmwJ.jpg",
+      "year": "2023",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Matthew López"
+      ],
+      "cast": [
+        "Taylor Zakhar Perez",
+        "Nicholas Galitzine",
+        "Uma Thurman",
+        "Clifton Collins Jr.",
+        "Rachel Hilson",
+        "Sarah Shahi"
+      ],
+      "description": "Le fils de la présidente américaine, Alex Claremont-Diaz, est un beau parti. Cependant, il a une altercation avec son homologue royal britannique, le prince Henry, prise en photo par des paparazzis. Cette querelle remet en cause les relations diplomatiques anglo-américaines. Les deux familles organisent alors un rapprochement amical entre les deux jeunes hommes.",
+      "logo": "https://image.tmdb.org/t/p/w500/uUf1T4EedX8Fpd2r8U10EhtyExK.png"
+    },
+    {
+      "id": "tmdb:381356",
+      "type": "movie",
+      "name": "Five",
+      "poster": "https://image.tmdb.org/t/p/w500/qs4tQK0gLpwNmz2gmCYZQ3RQSpr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/o8Z7sdmZXAGYkLXoIn4tfTSu3Qw.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Igor Gotesman"
+      ],
+      "cast": [
+        "Pierre Niney",
+        "François Civil",
+        "Igor Gotesman",
+        "Margot Bancilhon",
+        "Idrissa Hanrot",
+        "Pascal Demolon"
+      ],
+      "description": "Cinq amis d'enfance rêvent depuis toujours d'habiter en colocation. Lorsque l’occasion d’emménager ensemble se présente, Julia, Vadim, Nestor et Timothée n’hésitent pas une seule seconde, surtout quand Samuel se propose de payer la moitié du loyer ! A peine installés, Samuel se retrouve sur la paille mais décide de ne rien dire aux autres et d'assumer sa part en se mettant à vendre de l'herbe. Mais n'est pas dealer qui veut et quand tout dégénère, Samuel n’a d’autres choix que de se tourner vers la seule famille qu'il lui reste : ses amis !",
+      "logo": "https://image.tmdb.org/t/p/w500/tfDvs4UoCPTfIklKrb5ndhCDYQ8.png"
+    },
+    {
+      "id": "tmdb:19123",
+      "type": "movie",
+      "name": "La Chèvre",
+      "poster": "https://image.tmdb.org/t/p/w500/22waeCYVxm5aYoaCfKHrBSr3uvw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uE0YuEV8g6obeZ4nsyHw0wOKZcL.jpg",
+      "year": "1981",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Aventure"
+      ],
+      "director": [
+        "Francis Veber"
+      ],
+      "cast": [
+        "Pierre Richard",
+        "Gérard Depardieu",
+        "Pedro Armendáriz Jr.",
+        "Corynne Charbit",
+        "Michel Robin",
+        "André Valardy"
+      ],
+      "description": "La fille du président Bens a disparu en Amérique du Sud. Campana, détective privé, revient bredouille après avoir fouillé tout le pays. Reste une solution : pour retrouver sa fille, Bens doit envoyer sur ses traces quelqu’un d’aussi malchanceux qu’elle. Il se trouve un salarié de la société Bens, au service comptabilité, un François Perrin qui à la malchance dans la peau. Sur les conseils de Meyer, un cadre de son entreprise, qui pense que la seule façon de retrouver sa fille est d'envoyer quelqu'un aussi malchanceux qu'elle qui glissera sur les mêmes peaux de banane qu'elle. Bens envoie donc Perrin avec Campagna sur les traces de sa fille. Ainsi, part en mission ce couple que tout oppose. D’un côté Campana et ses idées arrêtées et de l’autre, Perrin avec son énorme bagage de malchance mais un optimisme imperturbable.",
+      "logo": "https://image.tmdb.org/t/p/w500/6pbjDl5n6m2cxi5GaTFWAfcqGaJ.png"
+    },
+    {
+      "id": "tmdb:736732",
+      "type": "movie",
+      "name": "Les Bonnes étoiles",
+      "poster": "https://image.tmdb.org/t/p/w500/xSnP3VSFRGNgLUi1CQxe4T4UJfn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dom8lzl2iU46nDu6s4lBolBNjQs.jpg",
+      "year": "2022",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Hirokazu Kore-eda"
+      ],
+      "cast": [
+        "Song Kang-ho",
+        "Dong-won Gang",
+        "Bae Doo-na",
+        "IU",
+        "Lee Joo-young",
+        "임승수"
+      ],
+      "description": "Par une nuit pluvieuse, une jeune femme abandonne son bébé. Il est récupéré illégalement par deux hommes, bien décidés à lui trouver une nouvelle famille. Lors d’un périple insolite et inattendu à travers le pays, le destin de ceux qui rencontreront cet enfant sera profondément changé.",
+      "logo": "https://image.tmdb.org/t/p/w500/eKyUYAfsg3dysGIhxOO9hC3QE6b.png"
+    },
+    {
+      "id": "tmdb:377799",
+      "type": "movie",
+      "name": "La Vache",
+      "poster": "https://image.tmdb.org/t/p/w500/1SDkPb4q7bc0wyIsw4Ekboq3xEm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fVBFQQPoWCbhJdT9tWtHIifw7ya.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Mohamed Hamidi"
+      ],
+      "cast": [
+        "Fatsah Bouyahmed",
+        "Lambert Wilson",
+        "Jamel Debbouze",
+        "Julia Piaton",
+        "Hajar Masdouki",
+        "Abdellah Chakiri"
+      ],
+      "description": "Fatah est un homme simple et de bonne nature, dans la lignée directe de son père, ce qui lui vaut d’être sujet de toutes les railleries dans son village d’Algérie. Même s’il aime tendrement sa femme et ses deux petites filles, il n’y a qu’en sa vache Jacqueline, qu’il trouve une véritable âme sœur. Elle est la plus belle, la plus unique et Fatah n’a qu’un rêve… la faire concourir au Salon de l’Agriculture de Paris! Lorsqu'il reçoit la précieuse invitation devant tout son village ébahi, lui qui n’a jamais quitté sa campagne, prend le bateau direction Marseille pour traverser toute la France à pied, direction Porte de Versailles. L’occasion pour Fatah et Jacqueline d’aller de rencontres en surprises et de vivre une aventure humaine faite de grands moments d’entraide et de fous rires. Un voyage inattendu et plein de tendresse dans la France d’aujourd’hui.",
+      "logo": "https://image.tmdb.org/t/p/w500/peNHJ8lqSGhXiyx64yMOFHftBO3.png"
+    },
+    {
+      "id": "tmdb:1139817",
+      "type": "movie",
+      "name": "Profession ceinture noire",
+      "poster": "https://image.tmdb.org/t/p/w500/waHsrnw6cYtOtOySrfKmyOnGYW8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg",
+      "year": "2024",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Jason Kim"
+      ],
+      "cast": [
+        "Kim Woo-bin",
+        "김성균",
+        "이현걸",
+        "박지열",
+        "Lee Jung-ok",
+        "김요한"
+      ],
+      "description": "Un prodige des arts martiaux toujours prêt à aider son prochain fait équipe avec un agent de probation pour combattre et prévenir le crime en tant qu'officier spécialisé.",
+      "logo": "https://image.tmdb.org/t/p/w500/sorEHt2wvldJ5cSddiD2526IRyX.png"
+    },
+    {
+      "id": "tmdb:143567",
+      "type": "movie",
+      "name": "Comme des frères",
+      "poster": "https://image.tmdb.org/t/p/w500/faimmushRwen8519t2vBBAWjrUr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bUGr9mprSKd6ilcSFwj1i3XvsTF.jpg",
+      "year": "2012",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Hugo Gélin"
+      ],
+      "cast": [
+        "François-Xavier Demaison",
+        "Nicolas Duvauchelle",
+        "Pierre Niney",
+        "Mélanie Thierry",
+        "Florence Thomassin",
+        "Cécile Cassel"
+      ],
+      "description": "Depuis que Charlie n’est plus là, la vie de Boris, Elie et Maxime a volé en éclats. Ces trois hommes que tout sépare avaient pour Charlie un amour singulier. Elle était leur sœur, la femme de leur vie ou leur pote, c’était selon. Sauf que Charlie est morte et que ça, ni Boris, homme d’affaires accompli, ni Elie, scénariste noctambule et ni Maxime, 20 ans toujours dans les jupes de maman, ne savent comment y faire face. Mais parce qu’elle le leur avait demandé, ils décident sur un coup de tête de faire ce voyage ensemble, direction la Corse et cette maison que Charlie aimait tant. Seulement voilà, 900 kilomètres coincés dans une voiture quand on a pour seul point commun un attachement pour la même femme, c’est long… Boris, Elie et Maxime, trois hommes, trois générations, zéro affinité sur le papier, mais à l’arrivée, la certitude que Charlie a changé leur vie pour toujours.",
+      "logo": "https://image.tmdb.org/t/p/w500/7hkEaJqfeovksF84dBx4RJBup6o.png"
+    },
+    {
+      "id": "tmdb:1071561",
+      "type": "movie",
+      "name": "Poisson rouge",
+      "poster": "https://image.tmdb.org/t/p/w500/eRF3rqY102vXc6MMWXIMZLQQzEk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yYGOwG5xU1q6yZsy9b8NaOxaffv.jpg",
+      "year": "2023",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Matthieu Yakovleff",
+        "Clément Vallos"
+      ],
+      "cast": [
+        "Guillaume Darnault",
+        "Julie Gallibert",
+        "Andy Pimor",
+        "Fabien Strobel",
+        "Denis Lavant",
+        "Thomas VDB"
+      ],
+      "description": "Atteint d'une maladie neurodégénérative, Guillaume va terminer de perdre la mémoire en centre spécialisé. Dans l'espoir de lui laisser un souvenir heureux, ses potes d'enfance lui organisent un dernier weekend festif, sous le signe du bon vin. Mais si Guillaume peut passer trois fois la même commande au bar, certaines blessures de son passé sont toujours ouvertes. Accompagné de ses amis, il décide de se lancer dans un road trip qui lui permettra peut-être de régler ses problèmes avant qu'il ne les oublie."
+    },
+    {
+      "id": "tmdb:515195",
+      "type": "movie",
+      "name": "Yesterday",
+      "poster": "https://image.tmdb.org/t/p/w500/rtGkbWkt9udXzKacs1bLKGGiV8N.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5om2iHhm2dgv0s2YgPDSEMIkRNx.jpg",
+      "year": "2019",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Fantastique",
+        "Musique",
+        "Romance"
+      ],
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Himesh Patel",
+        "Lily James",
+        "Sophia Di Martino",
+        "Ellise Chappell",
+        "Meera Syal",
+        "Harry Michell"
+      ],
+      "description": "Un musicien en difficulté se rend compte qu'il est la seule personne sur Terre qui se souvient des Beatles.",
+      "logo": "https://image.tmdb.org/t/p/w500/8GZtYlUmFPpXkX6Fk0aq1ILk3no.png"
+    },
+    {
+      "id": "tmdb:347031",
+      "type": "movie",
+      "name": "Swiss Army Man",
+      "poster": "https://image.tmdb.org/t/p/w500/2yOcTP8s3SD6GVzqKWnk5tBfS7h.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dxa8tPKsGYH7KQJew6OlKaeFRLX.jpg",
+      "year": "2016",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Fantastique",
+        "Aventure"
+      ],
+      "director": [
+        "Daniel Kwan",
+        "Daniel Scheinert"
+      ],
+      "cast": [
+        "Paul Dano",
+        "Daniel Radcliffe",
+        "Mary Elizabeth Winstead",
+        "Antonia Ribero",
+        "Timothy Eulich",
+        "Richard Gross"
+      ],
+      "description": "Hank, un homme désespéré errant dans la nature, découvre un mystérieux cadavre. Ils vont tous les deux embarquer dans un voyage épique afin de retrouver leur foyer. Lorsque Hank réalise que ce corps abandonné est la clé de sa survie, le suicidaire d'autrefois est forcé de convaincre un cadavre que la vie vaut la peine d'être vécue.",
+      "logo": "https://image.tmdb.org/t/p/w500/kbkjJWED7jHIVCx9WLFtvapQKxe.png"
+    },
+    {
+      "id": "tmdb:371638",
+      "type": "movie",
+      "name": "The Disaster Artist",
+      "poster": "https://image.tmdb.org/t/p/w500/jLfIGA5G45DnFUHLBusHu0xh081.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1hdorswm5HPxb81xq84H9gqveUq.jpg",
+      "year": "2017",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "James Franco"
+      ],
+      "cast": [
+        "Dave Franco",
+        "James Franco",
+        "Seth Rogen",
+        "Ari Graynor",
+        "Alison Brie",
+        "Jacki Weaver"
+      ],
+      "description": "Dans The Disaster Artist, James Franco transforme l’histoire vraie tragi-comique du cinéaste en devenir et célèbre outsider Tommy Wiseau – dont la contestabilité des méthodes n’avait d’égale que la sincérité de sa passion – en la célébration d’une quête presque impossible d’amitié, d’expression artistique et de rêves. Inspiré du best-seller révélateur de Greg Sestero sur la création de The Room, le nanar classique de Tommy (« le meilleur pire film jamais tourné »), The Disaster Artist est un rappel hilarant et nécessaire qu’il existe de nombreuses manières de devenir une légende – et qu’il n’y a aucune limite à ce qu’une personne peut faire quand elle n’a aucune idée de ce qu’elle fait.",
+      "logo": "https://image.tmdb.org/t/p/w500/A7b4s2Zaj08Xf3fKdPMntPRnBcJ.png"
+    },
+    {
+      "id": "tmdb:491418",
+      "type": "movie",
+      "name": "Apprentis Parents",
+      "poster": "https://image.tmdb.org/t/p/w500/flWQzKCNLOqecNaoWRmFZZFILdA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+      "year": "2018",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Sean Anders"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Rose Byrne",
+        "Allyn Rachel",
+        "Isabela Merced",
+        "Julie Hagerty",
+        "Tig Notaro"
+      ],
+      "description": "Pete et Ellie veulent devenir une famille. En adoptant trois frères et sœurs, dont une adolescente rebelle de 15 ans, Pete et Ellie réalisent très vite qu’ils n’étaient pas préparés à devenir parents du jour au lendemain ! Leur parentalité « instantanée » va les placer dans des situations inattendues, émouvantes et souvent hilarantes.",
+      "logo": "https://image.tmdb.org/t/p/w500/xZnPetg3JvKCx8kBJGsYgBER6tQ.png"
+    },
+    {
+      "id": "tmdb:157386",
+      "type": "movie",
+      "name": "The Spectacular Now",
+      "poster": "https://image.tmdb.org/t/p/w500/tYDbDuZ3K4Xwp3cwtmZM6k53bwq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xy5YazEiPb3Nij6TUEP9Dq3LDhp.jpg",
+      "year": "2013",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "James Ponsoldt"
+      ],
+      "cast": [
+        "Miles Teller",
+        "Shailene Woodley",
+        "Masam Holden",
+        "Kaitlyn Dever",
+        "Brie Larson",
+        "Kyle Chandler"
+      ],
+      "description": "Sutter est un adolescent brillant, drôle, charmant... et très porté sur la boisson. Son quotidien est chamboulé par sa rencontre avec la timide Aimee, une jeune femme totalement différente de lui.",
+      "logo": "https://image.tmdb.org/t/p/w500/eRphQl6lncyz9hrv2TsZJkIB0cv.png"
+    },
+    {
+      "id": "tmdb:43923",
+      "type": "movie",
+      "name": "Une drôle d'histoire",
+      "poster": "https://image.tmdb.org/t/p/w500/jyknaVF7brBPxV6vWmNbyEX34Dk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/l7gkk5K0NnVSqZ0Qr4zkNskH9AC.jpg",
+      "year": "2010",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Anna Boden",
+        "Ryan Fleck"
+      ],
+      "cast": [
+        "Keir Gilchrist",
+        "Emma Roberts",
+        "Zach Galifianakis",
+        "Viola Davis",
+        "Lauren Graham",
+        "Jim Gaffigan"
+      ],
+      "description": "Craig, 15 ans, fait une dépression nerveuse. Il est envoyé à l'hôpital psychiatrique mais suite à une erreur de dossier, il se retrouve dans le département des adultes. Il va rencontrer plusieurs d'entre eux, bien plus fous que lui.",
+      "logo": "https://image.tmdb.org/t/p/w500/iL44ZSoZ4a0i7NQCzaHznysfUUg.png"
+    },
+    {
+      "id": "tmdb:170687",
+      "type": "movie",
+      "name": "Les Boxtrolls",
+      "poster": "https://image.tmdb.org/t/p/w500/9EjSOSnGtezOBqrdS5pLbpCX5dA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/q2vz5DeLbegD2teJU29Gtb4t2sO.jpg",
+      "year": "2014",
+      "imdbRating": "3.7",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Familial",
+        "Fantastique"
+      ],
+      "director": [
+        "Graham Annable",
+        "Anthony Stacchi"
+      ],
+      "cast": [
+        "Ben Kingsley",
+        "Isaac Hempstead Wright",
+        "Elle Fanning",
+        "Dee Bradley Baker",
+        "Toni Collette",
+        "Jared Harris"
+      ],
+      "description": "Les Boxtrolls est une fable qui se déroule à Cheesebridge, une ville huppée de l'époque victorienne, dont la principale préoccupation est le luxe, la distinction et la crème des fromages les plus puants. Sous le charme de ses rues pavées, se cachent les Boxtrolls, d’horribles monstres qui rampent hors des égouts la nuit pour dérober ce que les habitants ont de plus cher : leurs enfants et leurs fromages. C'est du moins la légende à laquelle les gens de Cheesebridge ont toujours cru.",
+      "logo": "https://image.tmdb.org/t/p/w500/6Yuhr6xGFVlJtzoIBzg5NfmamWk.png"
+    },
+    {
+      "id": "tmdb:1555",
+      "type": "movie",
+      "name": "L'Auberge espagnole",
+      "poster": "https://image.tmdb.org/t/p/w500/qKq4uLZDAJhBfpRsfPRYouQ5jW5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kiSderXBFLpkSp7dZ5RQkHOD5nh.jpg",
+      "year": "2002",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Cédric Klapisch"
+      ],
+      "cast": [
+        "Romain Duris",
+        "Judith Godrèche",
+        "Audrey Tautou",
+        "Kelly Reilly",
+        "Cécile de France",
+        "Cristina Brondo"
+      ],
+      "description": "Xavier, un jeune homme de 25 ans, part à Barcelone pour terminer ses études en économie et apprendre l’espagnol. Cette langue est nécessaire pour occuper un poste, que lui promet un ami de son père, au ministère des Finances. Mais pour ce faire, il doit quitter sa petite amie Martine, avec qui il vit depuis quatre ans. En Espagne, Xavier cherche un logement et trouve finalement un appartement dans le centre de Barcelone qu’il compte partager avec 7 autres personnes. Chacun de ses co‐locataires est originaire d’un pays différent.",
+      "logo": "https://image.tmdb.org/t/p/w500/aws4h2aFlUr1ij2NRNoaqs7l2Y7.png"
+    },
+    {
+      "id": "tmdb:1284120",
+      "type": "movie",
+      "name": "The Ugly Stepsister",
+      "poster": "https://image.tmdb.org/t/p/w500/hRbaOImESNEJWC2SZ8qHXiRFm4i.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eQV9rSQ6S1ja4lGTwHTnQuVhoG.jpg",
+      "year": "2025",
+      "imdbRating": "3.7",
+      "genres": [
+        "Horreur",
+        "Comédie",
+        "Fantastique",
+        "Drame"
+      ],
+      "director": [
+        "Emilie Blichfeldt"
+      ],
+      "cast": [
+        "Lea Mathilde Skar-Myren",
+        "Ane Dahl Torp",
+        "Thea Sofie Loch Næss",
+        "Flo Fagerli",
+        "Isac Calmroth",
+        "Malte Gårdinger"
+      ],
+      "description": "Dans un royaume où la beauté règne en maître, la jeune Elvira doit faire face à une féroce concurrence pour espérer gagner l’attention du prince. Parmi ses nombreuses rivales, se trouve notamment sa demi-sœur à la beauté insolente. Dans cette course effrénée à l’obtention du physique parfait, Elvira devra avoir recours aux méthodes les plus extrêmes.",
+      "logo": "https://image.tmdb.org/t/p/w500/6giXIEmDZTQi0TfpfBEE9XP0QnR.png"
+    },
+    {
+      "id": "tmdb:936074",
+      "type": "movie",
+      "name": "Ténor",
+      "poster": "https://image.tmdb.org/t/p/w500/t8ShCiZxrbiy7kuO06OilLI3PeL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7IW5xt241RUAufYiFBoAPx5n52V.jpg",
+      "year": "2022",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Musique"
+      ],
+      "director": [
+        "Claude Zidi Jr."
+      ],
+      "cast": [
+        "MB14",
+        "Michèle Laroque",
+        "Guillaume Duhesme",
+        "Marie Oppert",
+        "Maéva El Aroussi",
+        "Louis de Lavignère"
+      ],
+      "description": "Antoine, jeune banlieusard parisien, suit des études de comptabilité sans grande conviction, partageant son temps entre les battles de rap qu’il pratique avec talent et son job de livreur de sushis. Lors d’une course à l’Opéra Garnier, sa route croise celle de Mme Loyseau, professeur de chant dans la vénérable institution, qui détecte chez Antoine un talent brut à faire éclore. Malgré son absence de culture lyrique, Antoine est fasciné par cette forme d’expression et se laisse convaincre de suivre l’enseignement de Mme Loyseau. Antoine n’a d’autre choix que de mentir à sa famille, ses amis et toute la cité pour qui l’opéra est un truc de bourgeois, loin de leur monde.",
+      "logo": "https://image.tmdb.org/t/p/w500/oEujoYVrPpHtCiyS2yuK1oEZjwP.png"
+    },
+    {
+      "id": "tmdb:1210732",
+      "type": "movie",
+      "name": "Un ours dans le Jura",
+      "poster": "https://image.tmdb.org/t/p/w500/emguym9bd9QPIKVNO97gdvQv4R8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/s7xmwFJQj99lICSGQkr8sQ7G9IA.jpg",
+      "year": "2025",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Thriller"
+      ],
+      "director": [
+        "Franck Dubosc"
+      ],
+      "cast": [
+        "Franck Dubosc",
+        "Laure Calamy",
+        "Benoît Poelvoorde",
+        "Joséphine de Meaux",
+        "Kim Higelin",
+        "Mehdi Meskar"
+      ],
+      "description": "Michel et Cathy, un couple usé par le temps et les difficultés financières, ne se parle plus vraiment. Jusqu’au jour où Michel, pour éviter un ours sur la route, heurte une voiture et tue les deux occupants. 2 morts et 2 millions en billets usagés dans le coffre, forcément, ça donne envie de se reparler. Et surtout de se taire.",
+      "logo": "https://image.tmdb.org/t/p/w500/CD1dRiYRPf0lltlazL0MjNAkM2.png"
+    },
+    {
+      "id": "tmdb:82654",
+      "type": "movie",
+      "name": "Warm Bodies",
+      "poster": "https://image.tmdb.org/t/p/w500/yJw1f2xD1evLDzvVO2jnYdSRzWt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/d2nWERbNIKA9dBDWbRReK0cRBD4.jpg",
+      "year": "2013",
+      "imdbRating": "3.6",
+      "genres": [
+        "Horreur",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Jonathan Levine"
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Teresa Palmer",
+        "Lio Tipton",
+        "John Malkovich",
+        "Dave Franco",
+        "Rob Corddry"
+      ],
+      "description": "Ces derniers temps, R s'interroge sur son existence et son avenir. Il est pâle, maladroit, s'exprime avec difficulté et s'ennuie. R est un Zombie en quête de sens. Julie vit dans une cité fortifiée avec les derniers humains du continent. Elle fait partie d'une unité militaire qui protège les survivants. Au cours d'une attaque, contre toute attente, R sauve la jeune fille et lui trouve un abri...",
+      "logo": "https://image.tmdb.org/t/p/w500/roiGmyc6glmfoPXcIiCruoeTJwL.png"
+    },
+    {
+      "id": "tmdb:376660",
+      "type": "movie",
+      "name": "The Edge of Seventeen",
+      "poster": "https://image.tmdb.org/t/p/w500/6Elka8ia70xohUwnVKvSD9x5xgP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9g8UsxDTkzlVyjBJBRJT3zDceTC.jpg",
+      "year": "2016",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Kelly Fremon Craig"
+      ],
+      "cast": [
+        "Hailee Steinfeld",
+        "Woody Harrelson",
+        "Haley Lu Richardson",
+        "Blake Jenner",
+        "Kyra Sedgwick",
+        "Hayden Szeto"
+      ],
+      "description": "Nadine et Krista découvrent le monde merveilleux du lycée. Mais leur belle amitié est mise à mal lorsque la première apprend que la seconde sort avec son grand frère...",
+      "logo": "https://image.tmdb.org/t/p/w500/eHArGUqKyghcbt0gNyNFF5GnpXr.png"
+    },
+    {
+      "id": "tmdb:65057",
+      "type": "movie",
+      "name": "The Descendants",
+      "poster": "https://image.tmdb.org/t/p/w500/6oP6Xb3xdnW13DuGwvj9F6bX2sW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/afC5IhoNZb8MqDHuiWOAcLjqi6b.jpg",
+      "year": "2011",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Alexander Payne"
+      ],
+      "cast": [
+        "George Clooney",
+        "Shailene Woodley",
+        "Amara Miller",
+        "Nick Krause",
+        "Patricia Hastie",
+        "Grace A. Cruz"
+      ],
+      "description": "A Hawaii, la vie d’une famille bascule. Parce que sa femme vient d’être hospitalisée suite à un accident de bateau, Matt King tente maladroitement de se rapprocher de ses deux filles, Scottie, une gamine de dix ans vive et précoce, et Alexandra, une adolescente rebelle de dix-sept ans. Il se demande aussi s’il doit vendre les terres familiales, les dernières plages tropicales vierges des îles, héritées de ses ancêtres hawaïens. Quand Alexandra lui révèle que sa mère avait une liaison, le monde de Matt vacille. Avec ses deux filles, il part à la recherche de l’amant de sa femme. Durant une semaine essentielle, au fil de rencontres tour à tour drôles, perturbantes et révélatrices, il va finalement prendre conscience que sa principale préoccupation est de reconstruire sa vie et sa famille…",
+      "logo": "https://image.tmdb.org/t/p/w500/e5cP2Be9VeNxOsKuwpW8VTAbbY0.png"
+    },
+    {
+      "id": "tmdb:282984",
+      "type": "movie",
+      "name": "L’Homme irrationnel",
+      "poster": "https://image.tmdb.org/t/p/w500/lpJYvnz5jMkeOTMFweRgxYAyKwK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pqdOXcE2zSSM2qnSBTt0O81Oq6r.jpg",
+      "year": "2015",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Woody Allen"
+      ],
+      "cast": [
+        "Joaquin Phoenix",
+        "Emma Stone",
+        "Jamie Blackley",
+        "Parker Posey",
+        "Joe Stapleton",
+        "Jack Haven"
+      ],
+      "description": "Professeur de philosophie, Abe Lucas est un homme dévasté sur le plan affectif, qui a perdu toute joie de vivre. Il a le sentiment que quoi qu'il ait entrepris – militantisme politique ou enseignement – n'a servi à rien. Peu de temps après son arrivée dans l’université d’une petite ville, Abe entame deux liaisons.",
+      "logo": "https://image.tmdb.org/t/p/w500/uqTXfEtveGBxquSaG4ACkreDyWe.png"
+    },
+    {
+      "id": "tmdb:229297",
+      "type": "movie",
+      "name": "Magic in the Moonlight",
+      "poster": "https://image.tmdb.org/t/p/w500/cfpdn7dw07HxWfVBNadDvj2RtTw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gdUqfMhx1pqOj4BoI3lYAl8zaln.jpg",
+      "year": "2014",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Woody Allen"
+      ],
+      "cast": [
+        "Colin Firth",
+        "Emma Stone",
+        "Hamish Linklater",
+        "Marcia Gay Harden",
+        "Jacki Weaver",
+        "Erica Leerhsen"
+      ],
+      "description": "Le prestidigitateur chinois Wei Ling Soo est le plus célèbre magicien de son époque, mais peu savent qu’il s’agit en réalité du nom de scène de Stanley Crawford. Cet anglais arrogant et grognon a une très haute estime de lui-même mais ne supporte pas les soi-disant médiums qui prétendent prédire l’avenir. Se laissant convaincre par son fidèle ami Howard Burkan, Stanley se rend chez les Catledge qui possèdent une somptueuse propriété sur la Côte d’Azur. Il y fait la connaissance de la mère Grace, du fils Brice et de la fille Caroline.",
+      "logo": "https://image.tmdb.org/t/p/w500/kTXUpFgsdMJx2ddOrGkikLOaxeR.png"
+    },
+    {
+      "id": "tmdb:431580",
+      "type": "movie",
+      "name": "Abominable",
+      "poster": "https://image.tmdb.org/t/p/w500/fU54mG8yvk7VBA6BI6TDeyrzt5d.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jXk3ZMq7n4ugOqKYq0CtMn3gia8.jpg",
+      "year": "2019",
+      "imdbRating": "3.6",
+      "genres": [
+        "Familial",
+        "Animation",
+        "Aventure",
+        "Comédie"
+      ],
+      "director": [
+        "Jill Culton"
+      ],
+      "cast": [
+        "Chloe Bennet",
+        "Albert Tsai",
+        "Eddie Izzard",
+        "Tenzing Norgay Trainor",
+        "Joseph Izzo",
+        "Sarah Paulson"
+      ],
+      "description": "Tout commence sur le toit d’un immeuble à Shanghai, avec l’improbable rencontre d’une jeune adolescente, l’intrépide Yi avec un jeune Yeti. La jeune fille et ses amis Jin et Peng vont tenter de ramener chez lui celui qu’ils appellent désormais Everest, leur nouvel et étrange ami, afin qu’il puisse retrouver sa famille sur le toit du monde…",
+      "logo": "https://image.tmdb.org/t/p/w500/xSB7XfjhbD8wwGq33tyr7gbd720.png"
+    },
+    {
+      "id": "tmdb:369192",
+      "type": "movie",
+      "name": "Battle of the Sexes",
+      "poster": "https://image.tmdb.org/t/p/w500/1pGPf6Yw7sRZhH44wzubzUBvmdp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wCHJuJwEfOrrykgDas8T4m79Bzs.jpg",
+      "year": "2017",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Histoire"
+      ],
+      "director": [
+        "Jonathan Dayton",
+        "Valerie Faris"
+      ],
+      "cast": [
+        "Emma Stone",
+        "Steve Carell",
+        "Andrea Riseborough",
+        "Sarah Silverman",
+        "Bill Pullman",
+        "Elisabeth Shue"
+      ],
+      "description": "1972. La championne de tennis Billie Jean King remporte trois titres du Grand Chelem. Mais loin de se satisfaire de son palmarès, elle s'engage dans un combat pour que les femmes soient aussi respectées que les hommes sur les courts de tennis. C'est alors que l'ancien numéro un mondial Bobby Riggs, profondément misogyne et provocateur, met Billie Jean au défi de l'affronter en match simple…",
+      "logo": "https://image.tmdb.org/t/p/w500/ll2F5c00afiCdGZXmvfrCP76BIm.png"
+    },
+    {
+      "id": "tmdb:7270",
+      "type": "movie",
+      "name": "Les Associés",
+      "poster": "https://image.tmdb.org/t/p/w500/gFR0zFKluQ032TUAJTmpzfv44Za.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7HiMvoDSYW4fyu4rkmWH6pcKKuF.jpg",
+      "year": "2003",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Sam Rockwell",
+        "Alison Lohman",
+        "Bruce Altman",
+        "Bruce McGill",
+        "Jenny O'Hara"
+      ],
+      "description": "Deux professionnels de l'arnaque à la petite semaine - Roy, le vétéran du tandem, et Franck, son jeune et ambitieux émule - fourguent à des coûts prohibitifs des «systèmes de filtrage d'eau» bas de gamme, assortis de lots alléchants: voitures, bijoux ou croisières tropicales, que leurs victimes ne collecteront bien sûr jamais. Ces opérations sont juteuses, mais la vie privée de Roy est moins reluisante. Agoraphobe et sujet à des tics obsessionnels compulsifs, il consulte un psy pour continuer à fonctionner. C'est alors qu'il découvre avec horreur qu'il a une fille - une enfant dont il soupçonnait l'existence, mais qu'il n'avait jamais cherché à rencontrer. Pis, Angela, 14 ans, n'a qu'une envie: retrouver son père. L'arrivée impromptue de l'adolescente bouleverse les routines névrotiques de Roy, mais passé le choc initial, celui-ci commence à prendre goût à sa tardive paternité…",
+      "logo": "https://image.tmdb.org/t/p/w500/kEOWY8kWu7M0ckFerpqh0EjDj4Y.png"
+    },
+    {
+      "id": "tmdb:2657",
+      "type": "movie",
+      "name": "Pleasantville",
+      "poster": "https://image.tmdb.org/t/p/w500/a7YjnBVbin7pG6DpqU6LML7Is52.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8sf7q8OlZLl7OVhTdYjz1vsFr5v.jpg",
+      "year": "1998",
+      "imdbRating": "3.6",
+      "genres": [
+        "Fantastique",
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Gary Ross"
+      ],
+      "cast": [
+        "Tobey Maguire",
+        "Reese Witherspoon",
+        "William H. Macy",
+        "Joan Allen",
+        "Jeff Daniels",
+        "J. T. Walsh"
+      ],
+      "description": "Pour s'extraire des angoisses d'une famille stressée et divisée des années 1990, David aime s'évader en regardant la télévision et plus particulièrement « Pleasantville », série en noir et blanc datant des années cinquante. Jennifer, sa sœur jumelle, est tout l'opposé de David : elle vit au jour le jour en parfaite harmonie avec le monde moderne. Jusqu'à ce que, par un étrange phénomène, Jennifer et David se retrouvent parachutés à « Pleasantville ». Désormais intégrés au casting, ils vont parasiter la série au point de changer la vie bien réglée des protagonistes.",
+      "logo": "https://image.tmdb.org/t/p/w500/sYzJV90z1nV00mT3vTaUr26aDlm.png"
+    },
+    {
+      "id": "tmdb:512",
+      "type": "movie",
+      "name": "Scoop",
+      "poster": "https://image.tmdb.org/t/p/w500/1oX193DhmZplAZ2xSBcT3cEYuzl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8qPG3AjLtletf1K4g8iGhKwHQSc.jpg",
+      "year": "2006",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Mystère"
+      ],
+      "director": [
+        "Woody Allen"
+      ],
+      "cast": [
+        "Scarlett Johansson",
+        "Woody Allen",
+        "Hugh Jackman",
+        "Ian McShane",
+        "Charles Dance",
+        "Romola Garai"
+      ],
+      "description": "L'enquête du célèbre journaliste d'investigation Joe Strombel, consacrée au \"Tueur au Tarot\" de Londres, tourne court quand il meurt de façon aussi soudaine qu'inexplicable. Mais rien, pas même la mort, ne peut arrêter Joe. À peine arrivé au purgatoire, il décide de transmettre ses toutes dernières informations à la plus charmante des étudiantes en journalisme : Sondra Pransky. De passage à Londres, Sondra entend le fantôme de Joe s'adresser à elle durant un numéro de magie de l'Américain Splendini, alias Sid Waterman. Bouleversée et folle de joie à l'idée d'avoir déniché le scoop du siècle, l'effervescente créature se lance avec Sid dans une enquête échevelée, qui les mène droit au fringant aristocrate et politicien Peter Lyman. Une idylle se noue en dépit de troublants indices semblant désigner le beau Peter comme le \"Tueur au Tarot\". Le scoop de Sondra lui sera-t-il fatal ?",
+      "logo": "https://image.tmdb.org/t/p/w500/q2RdI13j1cdoPKpg2aWCHJl44Vj.png"
+    },
+    {
+      "id": "tmdb:48034",
+      "type": "movie",
+      "name": "Les Petits Mouchoirs",
+      "poster": "https://image.tmdb.org/t/p/w500/qoHIdk4jZTwNjRz23ql3TO8yH9b.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aDKuDfEAYa2VENKd155D4ZoAl7c.jpg",
+      "year": "2010",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Guillaume Canet"
+      ],
+      "cast": [
+        "François Cluzet",
+        "Marion Cotillard",
+        "Benoît Magimel",
+        "Gilles Lellouche",
+        "Jean Dujardin",
+        "Valérie Bonneton"
+      ],
+      "description": "À la suite d'un événement bouleversant, une bande de copains décide, malgré tout, de partir en vacances au bord de la mer comme chaque année. Leur amitié, leurs certitudes, leur culpabilité, leurs amours en seront ébranlées. Ils vont enfin devoir lever les « petits mouchoirs » qu'ils ont posés sur leurs secrets et leurs mensonges.",
+      "logo": "https://image.tmdb.org/t/p/w500/zKsblnFjSCkjYGM30OtsiW1phyz.png"
+    },
+    {
+      "id": "tmdb:467956",
+      "type": "movie",
+      "name": "Richard says goodbye",
+      "poster": "https://image.tmdb.org/t/p/w500/3dpOPJCIjPqcHoCMdAS4lr37qrP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mkBgQ5eiI3ICqpXOoXipvMJ69Rl.jpg",
+      "year": "2018",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Wayne Roberts"
+      ],
+      "cast": [
+        "Johnny Depp",
+        "Rosemarie DeWitt",
+        "Odessa Young",
+        "Danny Huston",
+        "Zoey Deutch",
+        "Devon Terrell"
+      ],
+      "description": "Un professeur de littérature d'une université de Nouvelle Angleterre décide de se libérer des carcans le jour où on lui diagnostique un cancer des poumons en phase terminale. Pour le reste des six mois à vivre, il se transforme en fêtard rebelle, et au grand plaisir de ses étudiants, il mène une croisade contre l'autorité et l'hypocrisie.",
+      "logo": "https://image.tmdb.org/t/p/w500/l9E07sTeyzHBlw56zRXd2XIoQem.png"
+    },
+    {
+      "id": "tmdb:30163",
+      "type": "movie",
+      "name": "Les Fugitifs",
+      "poster": "https://image.tmdb.org/t/p/w500/dmrVlsTFOW6RRUpEANVpiOytHFK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wWIwN6ze61z0eZ8lyswY4Ab8Iw.jpg",
+      "year": "1986",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Francis Veber"
+      ],
+      "cast": [
+        "Pierre Richard",
+        "Gérard Depardieu",
+        "Jean Carmet",
+        "Maurice Barrier",
+        "Jean Benguigui",
+        "Roland Blanche"
+      ],
+      "description": "Les temps sont durs pour François Pignon qui doit soigner sa fille. Il s'est même résigné à braquer une banque. Il va jusqu'à prendre en otage Jean Lucas, un ancien repris de justice sortant tout juste de prison, pourtant bien décidé à devenir honnête...",
+      "logo": "https://image.tmdb.org/t/p/w500/nxAh0geHvoLBhzvz8UMI0zdyMyD.png"
+    },
+    {
+      "id": "tmdb:39414",
+      "type": "movie",
+      "name": "Paper Man",
+      "poster": "https://image.tmdb.org/t/p/w500/wneK8G9E26FUqYo4KjPlsD0TIII.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oec9dd990pRQ8W3meakCuAQKX6o.jpg",
+      "year": "2009",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Kieran Mulroney",
+        "Michele Mulroney"
+      ],
+      "cast": [
+        "Jeff Daniels",
+        "Emma Stone",
+        "Ryan Reynolds",
+        "Lisa Kudrow",
+        "Kieran Culkin",
+        "Hunter Parrish"
+      ],
+      "description": "Un écrivain en mal d'inspiration vient s'installer dans une petite ville de Long Island, où il va se lier d'amitié avec une jeune habitante du coin.",
+      "logo": "https://image.tmdb.org/t/p/w500/hQxgR3bqIXxAnczEPMuxx883tr1.png"
+    },
+    {
+      "id": "tmdb:1076555",
+      "type": "movie",
+      "name": "Le Tableau volé",
+      "poster": "https://image.tmdb.org/t/p/w500/jckthRkFT9XpUPOpiA9pxmyp1ax.jpg",
+      "background": "https://image.tmdb.org/t/p/original/AttxmqrrxdCOoNeJD3Nhh5FUBPv.jpg",
+      "year": "2024",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Pascal Bonitzer"
+      ],
+      "cast": [
+        "Alex Lutz",
+        "Léa Drucker",
+        "Nora Hamzawi",
+        "Louise Chevillotte",
+        "Arcadi Radeff",
+        "Laurence Côte"
+      ],
+      "description": "André Masson, commissaire-priseur dans la célèbre maison de ventes Scottie’s, reçoit un jour un courrier selon lequel une toile d’Egon Schiele aurait été découverte à Mulhouse chez un jeune ouvrier. Très sceptique, il se rend sur place et doit se rendre à l’évidence : le tableau est authentique, un chef-d'œuvre disparu depuis 1939, spolié par les nazis. André voit dans cet événement le sommet de sa carrière, mais c’est aussi le début d’un combat qui pourrait la mettre en péril. Heureusement, il va être aidé par son ex-épouse et collègue Bertina, et par sa fantasque stagiaire Aurore...",
+      "logo": "https://image.tmdb.org/t/p/w500/3pMvqYkhcz4bzkJU8lbV4zbVmFl.png"
+    },
+    {
+      "id": "tmdb:1099985",
+      "type": "movie",
+      "name": "Mikado",
+      "poster": "https://image.tmdb.org/t/p/w500/ziJZqVEFueNEbHyPXs3i4EwrWKu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iLklaM5YJUPJaLz4Oet9dyAP0vc.jpg",
+      "year": "2025",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Familial"
+      ],
+      "director": [
+        "Baya Kasmi"
+      ],
+      "cast": [
+        "Félix Moati",
+        "Vimala Pons",
+        "Ramzy Bedia",
+        "Patience Munchenbach",
+        "Saül Benchetrit",
+        "Louis Obry"
+      ],
+      "description": "Mikado et Laetitia vivent avec leurs enfants sur les routes. Quand une panne de moteur les amène à s’installer le temps d’un été chez Vincent, un enseignant qui vit seul avec sa fille. C’est le début d’une parenthèse enchantée qui pourrait aussi bouleverser l’équilibre de toute la famille alors que Nuage, leur fille aînée, se prend à rêver d’une vie normale.",
+      "logo": "https://image.tmdb.org/t/p/w500/awa3PNoWnBumXAAUXZZAA2CBSOc.png"
+    },
+    {
+      "id": "tmdb:618925",
+      "type": "movie",
+      "name": "À Bout",
+      "background": "https://image.tmdb.org/t/p/original/cj8tRurTbcpYc0zagYbuN0Cl1aH.jpg",
+      "year": "2015",
+      "imdbRating": "3.6",
+      "genres": [
+        "Animation",
+        "Comédie"
+      ],
+      "director": [
+        "Louis Renard"
+      ]
+    },
+    {
+      "id": "tmdb:274479",
+      "type": "movie",
+      "name": "Joy",
+      "poster": "https://image.tmdb.org/t/p/w500/e0PbTnGe5RfKOnx4UvKLtNSUodM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gwlx0r6NyWUuaI6MNajpYHPogZ1.jpg",
+      "year": "2015",
+      "imdbRating": "3.5",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "David O. Russell"
+      ],
+      "cast": [
+        "Jennifer Lawrence",
+        "Robert De Niro",
+        "Bradley Cooper",
+        "Edgar Ramírez",
+        "Diane Ladd",
+        "Virginia Madsen"
+      ],
+      "description": "Années 90, Joy Mangano, la trentaine, est une divorcée épuisée qui tente de naviguer dans les eaux troubles d'une vie familiale composée de personanges quelque peu névrotiques. Joy est courageuse, pugnace, combative et pas toujours bien entourrée, conseillée. Lors d'une nagivation en voilier, d'un verre tombé et cassé, Joy se blesse en nettoyant et en découle l'idée d'un balai-serpillière auto-essorant à forte absortion. Commence un autre combat, entre la création, le financement, la fabrication et enfin la distribution et assurer ses intérêts, Joy ne manque pas d'embuches, d'incompétents, de rebondissements et d'escrocs.\r Le film est librement inspiré de la vie de Joy Mangano.",
+      "logo": "https://image.tmdb.org/t/p/w500/htkZZY1sCkuibYG613xZ52bK2z9.png"
+    },
+    {
+      "id": "tmdb:72113",
+      "type": "movie",
+      "name": "Carnage",
+      "poster": "https://image.tmdb.org/t/p/w500/Aj706OwUC43015ZrvykL7DL2zLZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mntBeW6TRgm7GkYJwRDy3oJnKtn.jpg",
+      "year": "2011",
+      "imdbRating": "3.5",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Roman Polanski"
+      ],
+      "cast": [
+        "Jodie Foster",
+        "Kate Winslet",
+        "Christoph Waltz",
+        "John C. Reilly",
+        "Elvis Polanski",
+        "Eliot Berger"
+      ],
+      "description": "Deux enfants d’une dizaine d’années se bagarrent pour une broutille. Pour tenter d’apaiser la situation, leurs parents respectifs décident de se rencontrer. Autour d’une tasse de café, ils évoquent la cause de la dispute et la meilleure façon de l’apaiser. Contre toute attente, le ton monte peu à peu entre les quatre adultes. A l’instar de leurs rejetons, ils finissent par se prendre sérieusement en grippe. Le carnage, qu’ils ont tenté d’éviter entre leurs enfants, menace bientôt leur réunion policée, au cours de laquelle sont violemment remis en question le couple, la famille et la société tout entière…",
+      "logo": "https://image.tmdb.org/t/p/w500/yTSxyZk9rCcgh4qC8Pmo9bvndpN.png"
+    },
+    {
+      "id": "tmdb:458253",
+      "type": "movie",
+      "name": "Monsieur Link",
+      "poster": "https://image.tmdb.org/t/p/w500/tXZEZ9KaTYOdPiY6WIq1TmF8SwE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/l36ekUEEDLMAuL0YAU2Qxfq1i6X.jpg",
+      "year": "2019",
+      "imdbRating": "3.5",
+      "genres": [
+        "Familial",
+        "Animation",
+        "Comédie",
+        "Aventure"
+      ],
+      "director": [
+        "Chris Butler"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Zoe Saldaña",
+        "Zach Galifianakis",
+        "Stephen Fry",
+        "Timothy Olyphant",
+        "Emma Thompson"
+      ],
+      "description": "Monsieur Link est une créature surprenante, étonnamment intelligente et surtout incroyablement attachante. Dernier vestige de l’évolution humaine et unique représentant de son espèce, Monsieur Link se sent seul... Pour l’aider à retrouver ses parents éloignés, il approche l’explorateur Sir Lionel Frost, le plus grand spécialiste des mystères et des mythes. Accompagnés par l’aventurière Adelina Fortnight qui possède l’unique carte qui leur permettra d’atteindre leur destination secrète, ils se lancent dans une odyssée à travers le monde.",
+      "logo": "https://image.tmdb.org/t/p/w500/oWIauvONWRBgiWaTPQf6XQyjvVN.png"
+    },
+    {
+      "id": "tmdb:1158915",
+      "type": "movie",
+      "name": "Dìdi",
+      "poster": "https://image.tmdb.org/t/p/w500/dg151xqjJdecw7biwl9UtG1RMui.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2Bii9A3IibMrzmYOahsbC5hUMUm.jpg",
+      "year": "2024",
+      "imdbRating": "3.5",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Sean Wang"
+      ],
+      "cast": [
+        "Izaac Wang",
+        "Joan Chen",
+        "Shirley Chen",
+        "Chang Li Hua",
+        "Mahaela Park",
+        "Raul Dial"
+      ],
+      "description": "En 2008, un mois avant le début du lycée, un jeune américain taïwanais de 13 ans, très impressionnable, apprend ce que sa famille ne peut pas lui enseigner : comment patiner, comment flirter et comment aimer sa mère.",
+      "logo": "https://image.tmdb.org/t/p/w500/vvbDQ3WLUu76FN7JLHCo6kzF5RW.png"
+    },
+    {
+      "id": "tmdb:1242372",
+      "type": "movie",
+      "name": "Escape from the 21st Century",
+      "poster": "https://image.tmdb.org/t/p/w500/nmGrdIikw7VG3OwtaP4vXNX3fuW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/d7seFwkDmc6xQxMzu1vG2ZSOJGK.jpg",
+      "year": "2024",
+      "imdbRating": "3.5",
+      "genres": [
+        "Science-Fiction",
+        "Comédie",
+        "Action"
+      ],
+      "director": [
+        "Li Yang"
+      ],
+      "cast": [
+        "张若昀",
+        "钟楚曦",
+        "宋洋",
+        "吴晓亮",
+        "朱顏曼滋",
+        "李晨浩"
+      ],
+      "description": "En 1999, trois adolescents découvrent qu’un simple éternuement leur permet de voyager dans le temps. Propulsés dans une aventure hors du temps, ils se retrouvent chargés d’une mission capitale : sauver le monde.",
+      "logo": "https://image.tmdb.org/t/p/w500/uPfZ184XUMmTB4E9TviP68QAglN.png"
+    },
+    {
+      "id": "tmdb:107985",
+      "type": "movie",
+      "name": "Le Dernier Pub avant la fin du monde",
+      "poster": "https://image.tmdb.org/t/p/w500/udgMaHco4W8pfUMmIxmX3hjPR4R.jpg",
+      "background": "https://image.tmdb.org/t/p/original/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
+      "year": "2013",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Action",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Simon Pegg",
+        "Nick Frost",
+        "Paddy Considine",
+        "Martin Freeman",
+        "Eddie Marsan",
+        "Rosamund Pike"
+      ],
+      "description": "Il y a vingt ans, Gary, Andrew, Oliver, Steven et Peter étaient jeunes et fous et aimaient faire la tournée des bars. Les cinq amis d'enfance se souviennent avec nostalgie, enfin surtout Gary, d'une soirée épique, où ils avaient écumé les douze pubs de la ville. Ce temps là est loin derrière sauf pour Gary, qui refuse obstinément de mener une vie rangée. Celui-ci décide de réunir ses amis pour un nouveau marathon de la boisson. D'abords réticents, ces derniers finissent par céder et ensemble, ils se rendent donc dans leur ville natale, pour aller dans le seul pub où ils n'ont jamais mis les pieds, le mystérieux « LA FIN DU MONDE », désormais peuplé de robots extraterrestres…",
+      "logo": "https://image.tmdb.org/t/p/w500/enDpPalEnZi2hxn6J3RXA0vUaJi.png"
+    },
+    {
+      "id": "tmdb:9428",
+      "type": "movie",
+      "name": "La Famille Tenenbaum",
+      "poster": "https://image.tmdb.org/t/p/w500/aRAStBP5zaGkTYYJDuh3V6QDZh7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+      "year": "2001",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Wes Anderson"
+      ],
+      "cast": [
+        "Gene Hackman",
+        "Anjelica Huston",
+        "Ben Stiller",
+        "Gwyneth Paltrow",
+        "Luke Wilson",
+        "Owen Wilson"
+      ],
+      "description": "Chez les Tenenbaum, les enfants ont toujours été des génies. Tout jeunes, Chas était déjà un maître de la finance, Margot une dramaturge exceptionnelle et Richie un joueur de tennis hors pair. Mais un jour, Etheline, leur mère, demande le divorce. Elle ne supporte plus le caractère égoïste de Royal Tenenbaum, son mari. Cette crise familiale a une influence négative sur le développement personnel de leur progéniture. Vingt ans plus tard, Royal écume les palaces, Etheline s'adonne à l'archéologie, Chas tente d'élever ses deux fils après la mort de son épouse, Richie est un champion déchu et Margot s'est marié avec un psy. Le père Tenenbaum annonce bientôt à ses enfants qu'il ne lui reste plus longtemps à vivre. Il souhaite se réconcilier avec eux et les invite dans la maison familiale en prétextant une grave maladie.",
+      "logo": "https://image.tmdb.org/t/p/w500/pPNZKNty7AKS3Pd1Je55Cz2LFJU.png"
+    },
+    {
+      "id": "tmdb:8390",
+      "type": "movie",
+      "name": "Un jour, peut-être...",
+      "poster": "https://image.tmdb.org/t/p/w500/qBzVq3PJXi1OrzsI35JZDWPxRnj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wid86tR3KvQ8SBzjmlcXMTSRXsy.jpg",
+      "year": "2008",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Adam Brooks"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Abigail Breslin",
+        "Elizabeth Banks",
+        "Isla Fisher",
+        "Rachel Weisz",
+        "Kevin Kline"
+      ],
+      "description": "Will Hayes est un jeune père New Yorkais d'une trentaine d'années en plein divorce lorsque sa fille de onze ans, Maya, le questionne sur sa vie avant qu'il ne soit marié. Elle veut savoir comment ses parents se sont rencontrés et comment ils sont tombés amoureux. L'histoire de Will commence en 1992 alors qu'il n'était encore qu'un jeune politicien qui débarquait de son Wisconsin natal à New York pour travailler sur la campagne de Clinton. Will raconte ses péripéties avec son meilleur ami, Russell, et, sous forme de puzzle, ses 3 grandes histoires d'amour. Il y a eu Emily, son amour de lycée; April, sa meilleure-amie et confidente de toujours et Summer, une journaliste ambitieuse. L'une d'entre elles est la mère de Maya mais ce n'est qu'à la fin de l'histoire qu'elle saura avec laquelle il s'est marié.",
+      "logo": "https://image.tmdb.org/t/p/w500/72Ptl5PcGEV4HEqYDxCKXFNDxA4.png"
+    },
+    {
+      "id": "tmdb:10634",
+      "type": "movie",
+      "name": "Friday",
+      "poster": "https://image.tmdb.org/t/p/w500/g57KcE8tbpp3RK3DlIhPkfA6DE2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2D08E4pqE95FM8yOJ3gOy5zWaW0.jpg",
+      "year": "1995",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "F. Gary Gray"
+      ],
+      "cast": [
+        "Ice Cube",
+        "Chris Tucker",
+        "Nia Long",
+        "Tommy Lister Jr.",
+        "John Witherspoon",
+        "Anna Maria Horsford"
+      ],
+      "description": "Craig Jones et Smokey sont deux fainéants vivant à Los Angeles. Smokey réussi à convaincre Craig de fumer pour la première fois lors d'un vendredi. Mais un dealer de drogue leur réclame 200 dollars de ce qu'ils ont fumé. Ils doivent payer leur dette vendredi soir, à tout prix...",
+      "logo": "https://image.tmdb.org/t/p/w500/5XYzcgZqt0ZppE75seervs30PF0.png"
+    },
+    {
+      "id": "tmdb:244458",
+      "type": "movie",
+      "name": "The Voices",
+      "poster": "https://image.tmdb.org/t/p/w500/xGmZksEsxwP4urFNFDsRa05FWQb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/d5tcsjdLw3uxBd318EIcTn9e35X.jpg",
+      "year": "2014",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Horreur",
+        "Fantastique"
+      ],
+      "director": [
+        "Marjane Satrapi"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Gemma Arterton",
+        "Anna Kendrick",
+        "Jacki Weaver",
+        "Ella Smith",
+        "Paul Chahidi"
+      ],
+      "description": "Jerry vit à Milton, petite ville américaine bien tranquille où il travaille dans une usine de baignoires. Célibataire, il n’est pas solitaire pour autant dans la mesure où il s’entend très bien avec son chat, M. Moustache, et son chien, Bosco. Jerry voit régulièrement sa psy, aussi charmante que compréhensive, à qui il révèle un jour qu’il apprécie de plus en plus Fiona - la délicieuse Anglaise qui travaille à la comptabilité de l’usine. Bref, tout se passe bien dans sa vie plutôt ordinaire - du moins tant qu’il n’oublie pas de prendre ses médicaments...",
+      "logo": "https://image.tmdb.org/t/p/w500/76KjqO4s9eqVHqHcadbTwMn1oYb.png"
+    },
+    {
+      "id": "tmdb:45132",
+      "type": "movie",
+      "name": "Super",
+      "poster": "https://image.tmdb.org/t/p/w500/pjk007kzsiKMiAhQeJuD4v0WVQk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5OGrBmi0fWAE6b1R6uv5EnuWOaL.jpg",
+      "year": "2010",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Action",
+        "Drame"
+      ],
+      "director": [
+        "James Gunn"
+      ],
+      "cast": [
+        "Rainn Wilson",
+        "Elliot Page",
+        "Liv Tyler",
+        "Kevin Bacon",
+        "Gregg Henry",
+        "Michael Rooker"
+      ],
+      "description": "Un homme décide de devenir un super-héros après avoir vu sa femme succomber aux charmes d'un dealer. Mais il n'a pas de super-pouvoirs...",
+      "logo": "https://image.tmdb.org/t/p/w500/lmRYwVoN243KNEayYEJPqQOlNRn.png"
+    },
+    {
+      "id": "tmdb:763329",
+      "type": "movie",
+      "name": "Red Rocket",
+      "poster": "https://image.tmdb.org/t/p/w500/ut6b35Aubu5Nrk0QLy1rOFBNGP5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nRfJFQQ6OUVW4NV7wFzNDu57J3E.jpg",
+      "year": "2021",
+      "imdbRating": "3.4",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Sean Baker"
+      ],
+      "cast": [
+        "Simon Rex",
+        "Suzanna Son",
+        "Bree Elrod",
+        "Ethan Darbone",
+        "Brenda Deiss",
+        "Judy Hill"
+      ],
+      "description": "Mikey Saber revient dans sa ville natale du Texas après des années de carrière de pornstar à Los Angeles. Il n'y est pas vraiment le bienvenu... Sans argent, sans emploi, il doit retourner vivre chez son ex-femme et sa belle-mère… Pour payer son loyer, il reprend ses petites combines mais une rencontre va lui donner l’espoir d’un nouveau départ.",
+      "logo": "https://image.tmdb.org/t/p/w500/sQw0hnvnZIcHEOQXALyBDFO7aUg.png"
+    },
+    {
+      "id": "tmdb:254320",
+      "type": "movie",
+      "name": "The Lobster",
+      "poster": "https://image.tmdb.org/t/p/w500/nSE3MHSJktdxUjWPUKaKREkPAzm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2wiMb1RBskEW9Uml5bGDEUHFbv8.jpg",
+      "year": "2015",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Yorgos Lanthimos"
+      ],
+      "cast": [
+        "Colin Farrell",
+        "Rachel Weisz",
+        "Olivia Colman",
+        "Léa Seydoux",
+        "Michael Smiley",
+        "Ariane Labed"
+      ],
+      "description": "Dans un futur proche, la société ne tolère plus les célibataires. Ceux-ci sont arrêtés et sommés de passer 45 jours maximum dans un hôtel. Là, entre différentes activités, ils doivent rencontrer un ou une élue qu'ils épouseront par la suite. S'ils n'y parviennent pas avant le délai imposé, ils seront transformés en l'animal qu'ils ont choisi à leur arrivée. David, qui vient d'intégrer l'établissement, a choisi le homard comme animal de réincarnation. Il apprend difficilement les règles de l'établissement. Puis, il fait la connaissance d'un homme qui a un défaut d'élocution et d'un autre qui boite. Pour échapper à son destin, il s'enfuit et rejoint dans les bois un groupe de résistants : les Solitaires...",
+      "logo": "https://image.tmdb.org/t/p/w500/AbEtgMEOZc9S9TJvbrO9EpmKRQh.png"
+    },
+    {
+      "id": "tmdb:440021",
+      "type": "movie",
+      "name": "Happy Birthdead",
+      "poster": "https://image.tmdb.org/t/p/w500/rnSMCj8FNqAg240G3yBkxHvECiQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cx3tDVqovnE75mB0n3pxlmpzmc4.jpg",
+      "year": "2017",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie",
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Christopher Landon"
+      ],
+      "cast": [
+        "Jessica Rothe",
+        "Israel Broussard",
+        "Ruby Modine",
+        "Rachel Matthews",
+        "Billy Slaughter",
+        "Charles Aitken"
+      ],
+      "description": "Prisonnière d’une boucle temporelle, Tree, étudiante, revit sans cesse le jour de son meurtre. Une journée apparemment banale qui s’achève systématiquement par sa mort atroce. Finira-t-elle par découvrir l’identité de son tueur ?",
+      "logo": "https://image.tmdb.org/t/p/w500/hXge5A7AEc3JFkwm9wpAHBp7EaV.png"
+    },
+    {
+      "id": "tmdb:7518",
+      "type": "movie",
+      "name": "Nos voisins, les hommes",
+      "poster": "https://image.tmdb.org/t/p/w500/nP32NaPYeVP8dieTqujgGXvj6fq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ohDtIpcfP2NXtvAANsQFsh76BO0.jpg",
+      "year": "2006",
+      "imdbRating": "3.3",
+      "genres": [
+        "Familial",
+        "Comédie",
+        "Animation"
+      ],
+      "director": [
+        "Karey Kirkpatrick",
+        "Tim Johnson"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Garry Shandling",
+        "Steve Carell",
+        "Wanda Sykes",
+        "William Shatner",
+        "Nick Nolte"
+      ],
+      "description": "Le printemps est de retour ; la tortue Verne et ses amis sortent d’un long sommeil hivernal. Mais, entre‐temps, ô surprise, une grande « chose » verte a poussé à l’orée du bois et envahi leur domaine. Surgit alors le raton laveur RJ, jamais à court de combines et d’explications. Il s’agit, leur dit‐il, d’une HAIE, destinée à protéger le domaine enchanté du « Bien‐être », habité par les Humains, ces créatures d’un genre particulier qui vivent pour manger, au lieu de manger pour vivre. Le pusillanime Verne, qui se méfie de RJ (et le jalouse un peu), se convainc que lui et sa famille doivent rester de ce côté‐ci de la haie – on n’est jamais mieux que sous sa carapace. Mais l’habile RJ persuade les hôtes du bois qu’« ailleurs l’herbe est plus verte », et qu’ils n’ont rien à craindre de leurs nouveaux voisins. Commence alors une grande aventure dans cet étrange univers qu’on appelle « Banlieue ».",
+      "logo": "https://image.tmdb.org/t/p/w500/o5MSfPi7q8oD9zck27VpVtiulPf.png"
+    },
+    {
+      "id": "tmdb:134374",
+      "type": "movie",
+      "name": "No Pain No Gain",
+      "poster": "https://image.tmdb.org/t/p/w500/dQ3rccFoj2asMRyOYJE3wUduxfv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/86rDAqR5oDu29qZTGyk88VdB2lI.jpg",
+      "year": "2013",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Michael Bay"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Dwayne Johnson",
+        "Anthony Mackie",
+        "Tony Shalhoub",
+        "Ed Harris",
+        "Rob Corddry"
+      ],
+      "description": "Basé sur une histoire vraie et inspiré d'articles de presse parus dans le Miami New Times, Pain and gain suit les aventures criminelles du \"Sun Gym gang\". Composé de bodybuilders dopés aux anabolisants, le gang s'est rendu célèbre au milieu des années 90 par ses multiples vols, enlèvements et meurtres.",
+      "logo": "https://image.tmdb.org/t/p/w500/98OP8DUkr4gQiKG0QmmLa32WVFl.png"
+    },
+    {
+      "id": "tmdb:542178",
+      "type": "movie",
+      "name": "The French Dispatch",
+      "poster": "https://image.tmdb.org/t/p/w500/s9dee5hXJfA1IMRdy2CBicM0n5P.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xS0rl1YrVt51ztzjRf6qoIPZ7TA.jpg",
+      "year": "2021",
+      "imdbRating": "3.3",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Wes Anderson"
+      ],
+      "cast": [
+        "Benicio del Toro",
+        "Adrien Brody",
+        "Tilda Swinton",
+        "Léa Seydoux",
+        "Frances McDormand",
+        "Timothée Chalamet"
+      ],
+      "description": "Le journal américain The Evening Sun de Liberty dans le Kansas possède une antenne nommée The French Dispatch à Ennui-sur-Blasé, une ville française fictive évoquant Paris dans les années 1950-60. Arthur Howitzer Jr., le rédacteur en chef du French Dispatch, meurt subitement d'une crise cardiaque. Selon les souhaits exprimés dans son testament, la publication du journal est immédiatement suspendue après un dernier numéro d'adieu, dans lequel trois articles des éditions précédentes du journal sont republiés, ainsi qu'une nécrologie : Les trois articles traitent de Moses Rosenthaler, un détenu psychopathe qui se révèle être un grand artiste peintre, des évènements de Mai 68 et enfin d'une enquête gastronomique qui vire au polar.",
+      "logo": "https://image.tmdb.org/t/p/w500/lYWwJG50e78A6WZutr1bicu7Zp7.png"
+    },
+    {
+      "id": "tmdb:1574",
+      "type": "movie",
+      "name": "Chicago",
+      "poster": "https://image.tmdb.org/t/p/w500/cNNOgpMwFxq24Xd3ktW37irImAN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/euxYhuuJjChU755u2YHj0ZPjww3.jpg",
+      "year": "2002",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Rob Marshall"
+      ],
+      "cast": [
+        "Renée Zellweger",
+        "Catherine Zeta-Jones",
+        "Richard Gere",
+        "Queen Latifah",
+        "Ekaterina Chtchelkanova",
+        "John C. Reilly"
+      ],
+      "description": "À Chicago, dans les années vingt, Roxie Hart, une jeune femme qui rêve de monter sur la scène de l'Onyx Club, est accusée du meurtre de son amant indélicat et envoyée en prison. Derrière les barreaux, elle retrouve celle qu'elle admire, Velma Kelly, une chanteuse de jazz condamnée pour avoir tué son mari et sa sœur, pris en flagrant délit d'adultère. Le très populaire avocat Billy Flynn va brillamment plaider leur cause et attirer l'attention des médias sur ces deux jeunes femmes à la superbe voix. Roxie, dont Billy a fait l'emblème de la naïveté abusée, devient en quelque temps une véritable star à Chicago…",
+      "logo": "https://image.tmdb.org/t/p/w500/8OhuUTodb1f3NlL5xSNqVTimyjm.png"
+    },
+    {
+      "id": "tmdb:212716",
+      "type": "movie",
+      "name": "Et (beaucoup) plus si affinités",
+      "poster": "https://image.tmdb.org/t/p/w500/ayUv0cmorkuIYsgP9QWdWa5cpm8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iIcJ72VzqAIw5NT6bOYqfHB2ukM.jpg",
+      "year": "2013",
+      "imdbRating": "3.3",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Michael Dowse"
+      ],
+      "cast": [
+        "Daniel Radcliffe",
+        "Zoe Kazan",
+        "Megan Park",
+        "Adam Driver",
+        "Mackenzie Davis",
+        "Rafe Spall"
+      ],
+      "description": "Wallace, un étudiant en médecine, tombe amoureux de la pétillante Chantry au cours d'une soirée. Leur complicité est immédiate, mais la jeune fille lui apprend qu'elle vit déjà en couple. Chantry propose alors a Wallace qu'ils deviennent amis, ce qu'il accepte. Mais cette relation sera-t-elle viable ?",
+      "logo": "https://image.tmdb.org/t/p/w500/tJSMU7ao8eXknOH6mM5oxfYGTy3.png"
+    },
+    {
+      "id": "tmdb:424781",
+      "type": "movie",
+      "name": "Sorry to Bother You",
+      "poster": "https://image.tmdb.org/t/p/w500/95bKTnuIQJxkh53XadW32aPbcqO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/x832ykgj3fx0Q0MFKEno77XM47e.jpg",
+      "year": "2018",
+      "imdbRating": "3.3",
+      "genres": [
+        "Fantastique",
+        "Science-Fiction",
+        "Comédie"
+      ],
+      "director": [
+        "Boots Riley"
+      ],
+      "cast": [
+        "LaKeith Stanfield",
+        "Tessa Thompson",
+        "Jermaine Fowler",
+        "Omari Hardwick",
+        "Terry Crews",
+        "Kate Berlant"
+      ],
+      "description": "Après avoir décroché un boulot de vendeur en télémarketing, Cassius Green bascule dans un univers macabre en découvrant une méthode magique pour gagner beaucoup d’argent. Tandis que sa carrière décolle, ses amis et collègues se mobilisent contre l’exploitation dont ils s’estiment victimes au sein de l’entreprise. Mais Cassius se laisse fasciner par son patron cocaïnomane qui lui propose un salaire au-delà de ses espérances les plus folles…",
+      "logo": "https://image.tmdb.org/t/p/w500/gmiyYPO6jG20wgcD53VPKsvBcym.png"
+    },
+    {
+      "id": "tmdb:239678",
+      "type": "movie",
+      "name": "C'est ici que l'on se quitte",
+      "poster": "https://image.tmdb.org/t/p/w500/kyOU2z68nrRPC5ZB1itTim53XxN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/njK3bfEYuqwjs8YTkpaDtkoTmVr.jpg",
+      "year": "2014",
+      "imdbRating": "3.3",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Shawn Levy"
+      ],
+      "cast": [
+        "Jason Bateman",
+        "Tina Fey",
+        "Jane Fonda",
+        "Adam Driver",
+        "Rose Byrne",
+        "Corey Stoll"
+      ],
+      "description": "À la mort de leur père, quatre enfants, blessés et malmenés par la vie, reviennent dans la maison où ils ont passé leur enfance. Ils se retrouvent donc contraints de cohabiter sous le même toit pendant une semaine, en compagnie de leur mère indiscrète et de leurs conjoints, ex-conjoints et anciens amoureux transis… En affrontant leur passé et en tentant de recoller les morceaux, ces êtres qui s'aiment et se connaissent mieux que personne parviendront peu à peu à renouer des liens, souvent passionnels, et toujours affectueux. Au milieu du chaos, des rires partagés, des peines de cœur et des deuxièmes chances, ils nous embarquent, comme seules les familles savent le faire, dans un périple émotionnel mouvementé qui nous renvoie au meilleur de nous-même.",
+      "logo": "https://image.tmdb.org/t/p/w500/dYO5J8jLiXVNQfD7Yn5RfuDwrJs.png"
+    },
+    {
+      "id": "tmdb:64807",
+      "type": "movie",
+      "name": "Match Retour",
+      "poster": "https://image.tmdb.org/t/p/w500/9AkmSlfaOZNnnCAAg34Kj1lVguf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iniZ0x168fb6fHdpio4DJmf0nDs.jpg",
+      "year": "2013",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Peter Segal"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Sylvester Stallone",
+        "Alan Arkin",
+        "Jon Bernthal",
+        "Kevin Hart",
+        "Ireland Baldwin"
+      ],
+      "description": "Henry \"Razor\" Sharp et Billy \"The Kid\" McDonnen sont deux boxeurs de Pittsburgh propulsés sous le feu des projecteurs grâce à leur rivalité ancestrale. Chacun a eu l'occasion de battre son adversaire à l'époque de sa gloire, mais en 1983, alors qu'ils s'apprêtaient à disputer un troisième match décisif, Razor a soudain annoncé qu'il arrêtait la boxe : sans explication, il a ainsi brutalement mis fin à leur carrière à tous les deux. Trente ans plus tard, le promoteur de boxe Dante Slate Jr., y voyant une occasion de gagner beaucoup d'argent, leur fait une offre irrésistible : monter sur le ring pour obtenir leur revanche une bonne fois pour toutes.",
+      "logo": "https://image.tmdb.org/t/p/w500/48vUIpKdJmILyWOySDHBQoT7QPh.png"
+    },
+    {
+      "id": "tmdb:280180",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills : Axel F.",
+      "poster": "https://image.tmdb.org/t/p/w500/yr9vkWlXuysDeb5A7i82E6sPaab.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
+      "year": "2024",
+      "imdbRating": "3.3",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Mark Molloy"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Joseph Gordon-Levitt",
+        "Taylour Paige",
+        "Judge Reinhold",
+        "John Ashton",
+        "Paul Reiser"
+      ],
+      "description": "Quarante ans après sa première enquête mémorable à Beverly Hills, le flic de Détroit Axel Foley revient faire ce qu'il fait le mieux : résoudre les crimes et semer le chaos.",
+      "logo": "https://image.tmdb.org/t/p/w500/gM0WvcLCcYW20GZnmvAERfrttag.png"
+    },
+    {
+      "id": "tmdb:740460",
+      "type": "movie",
+      "name": "Les Vedettes",
+      "poster": "https://image.tmdb.org/t/p/w500/nfeLQ1aLVIKxxjypaa8DXSFoueW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yITSh3nwDb9tut3TNbmUYeFgGlB.jpg",
+      "year": "2022",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Jonathan Barré"
+      ],
+      "cast": [
+        "Grégoire Ludig",
+        "David Marsais",
+        "Julien Pestel",
+        "Damien Gillard",
+        "Gaëlle Lebert",
+        "Juliette Plumecocq-Mech"
+      ],
+      "description": "Daniel, un chanteur raté, va perdre son logement et son poste au SAV d'un magasin d'électroménager. Lorsqu'il découvre que Stéphane, un collègue naïf et prétentieux, connaît le montant de tous les appareils en rayon, il décide de se servir de lui pour participer au jeu TV \"Le Prix à tout Prix\", remporter 100 000 € et se retrouver enfin sous le feu des projecteurs. Alors oui tout les oppose, non ça ne sera pas de tout repos, mais Daniel et Stéphane sont pleins de ressources.",
+      "logo": "https://image.tmdb.org/t/p/w500/hVxA5hLcMltv9VRfZU6xh1tzXMy.png"
+    },
+    {
+      "id": "tmdb:256591",
+      "type": "movie",
+      "name": "Diversion",
+      "poster": "https://image.tmdb.org/t/p/w500/opGNFbQUyiod4FUx6vRrtsIIcpW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+      "year": "2015",
+      "imdbRating": "3.2",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Glenn Ficarra",
+        "John Requa"
+      ],
+      "cast": [
+        "Will Smith",
+        "Margot Robbie",
+        "Rodrigo Santoro",
+        "Gerald McRaney",
+        "Adrian Martinez",
+        "Robert Taylor"
+      ],
+      "description": "Nicky Spurgeon est un escroc “professionnel” à la tête d'une équipe de nombreux arnaqueurs et pickpockets. Un soir, il croise Jess Barrett, une arnaqueuse débutante. Nicky décide de l'intégrer pour un gros coup à La Nouvelle-Orléans. Trois ans plus tard, il la retrouve sur sa route à Buenos Aires...",
+      "logo": "https://image.tmdb.org/t/p/w500/gDWCm7PsWbOK4gJCbEv6SGJJV71.png"
+    },
+    {
+      "id": "tmdb:181533",
+      "type": "movie",
+      "name": "La Nuit au musée : Le Secret des pharaons",
+      "poster": "https://image.tmdb.org/t/p/w500/ooy7Yw3SnVNdeMaAhcmgj4CTWJ3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/taC97dzVlFBl0vWzmp6PCBWOQtM.jpg",
+      "year": "2014",
+      "imdbRating": "3.2",
+      "genres": [
+        "Aventure",
+        "Comédie",
+        "Fantastique",
+        "Familial"
+      ],
+      "director": [
+        "Shawn Levy"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Robin Williams",
+        "Owen Wilson",
+        "Steve Coogan",
+        "Ricky Gervais",
+        "Dan Stevens"
+      ],
+      "description": "Larry Daley, le gardien de nuit survolté du musée d'histoire naturelle de New York, se rend au British Museum de Londres après avoir découvert que la tablette d'Ahkmenrah, qui permet aux personnages, créatures et oeuvres du musée de revenir à la vie, a perdu ses pouvoirs magiques. Accompagné de son fils et de ses fidèles acolytes le président Theodore Roosevelt, Attila le Hun, Jedidah le cow-boy, Octavius le romain et le pharaon Ahkmenrah, Larry s'embarque pour une nouvelle aventure. Sur place, la fine équipe fait connaissance avec Lancelot du Lac et une étonnante gardienne de nuit. Tous vont tenter de sauver les pouvoirs extraordinaires de la tablette magique avant qu'ils ne disparaissent à jamais...",
+      "logo": "https://image.tmdb.org/t/p/w500/3CL81H1lncBpbSZuUSQF8IwFAIq.png"
+    },
+    {
+      "id": "tmdb:8488",
+      "type": "movie",
+      "name": "Hitch - Expert en séduction",
+      "poster": "https://image.tmdb.org/t/p/w500/d3b1doh9yAlr8rUel13YL93MMkB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fmDYTtZZQHLBAvvqgdXItqMXBNG.jpg",
+      "year": "2005",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Andy Tennant"
+      ],
+      "cast": [
+        "Will Smith",
+        "Eva Mendes",
+        "Kevin James",
+        "Amber Valletta",
+        "Julie Ann Emery",
+        "Adam Arkin"
+      ],
+      "description": "Alex Hitchens est un entremetteur (marieur) professionnel qui utilise des moyens peu orthodoxes pour coacher ses clients et jouer avec le destin. Il réussit ainsi avec succès à unir des hommes ordinaires avec des femmes extraordinaires. Malgré tout cela, Hitch ne croit pas en l'amour. Pourtant sa rencontre avec Sara, une jeune journaliste sexy qui partage les mêmes points de vue cyniques sur les relations amoureuses va les amener sur un territoire inconnu...",
+      "logo": "https://image.tmdb.org/t/p/w500/sl4AjKJrUPJk8HA9WizVp22kybg.png"
+    },
+    {
+      "id": "tmdb:2123",
+      "type": "movie",
+      "name": "Fous d'Irène",
+      "poster": "https://image.tmdb.org/t/p/w500/t5CjP8vQyXQCT4lt2x0qEcDl9Da.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8qLen3NLCVSu1I9aqGWbTUIoBLQ.jpg",
+      "year": "2000",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Peter Farrelly",
+        "Bobby Farrelly"
+      ],
+      "cast": [
+        "Jim Carrey",
+        "Renée Zellweger",
+        "Anthony Anderson",
+        "Robert Forster",
+        "Richard Jenkins",
+        "Zen Gesner"
+      ],
+      "description": "Charlie Baileygates est un policier souffrant de troubles de la personnalité. Après avoir suivi un traitement médical, il se voit confier la mission d'escorter Irène Waters dans un autre État, où elle est recherchée pour une grave violation au code de la route. Mais Charlie entame ce voyage en oubliant ses médicaments, permettant par là même à son alter ego dérangé, Hank, de refaire surface. Et lorsque les deux personnalités commencent à se disputer l'amour de leur belle prisonnière, Irène se rend compte qu'elle est finalement attirée... par les deux.",
+      "logo": "https://image.tmdb.org/t/p/w500/pukuJIdsGEtrCwvjUwp5cd4Sjtu.png"
+    },
+    {
+      "id": "tmdb:9390",
+      "type": "movie",
+      "name": "Jerry Maguire",
+      "poster": "https://image.tmdb.org/t/p/w500/4tWyDzqDIRWV7oFT2QIPVXZfWyY.jpg",
+      "background": "https://image.tmdb.org/t/p/original/n1Gh3MJAVvXmkgSDf3SOLlPCjag.jpg",
+      "year": "1996",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Cameron Crowe"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Renée Zellweger",
+        "Cuba Gooding Jr.",
+        "Kelly Preston",
+        "Jerry O'Connell",
+        "Jay Mohr"
+      ],
+      "description": "Riche, beau et célèbre, Jerry Maguire, agent des stars du sport américain, l'est. Mais sa vie mondaine et factice lui pèse, et une nuit il se remet en question dans une note qu'il rédige, où il tente de définir le sens qu'il voudrait donner à sa vie. Cette note va provoquer son licenciement et tous ses amis vont le trahir. Seule Dorothy, son assistante, et Rod, un footballeur facétieux, vont lui rester fidèles.",
+      "logo": "https://image.tmdb.org/t/p/w500/ugdHX6ac3m2qR46qWxtNrQ8UADW.png"
+    },
+    {
+      "id": "tmdb:2757",
+      "type": "movie",
+      "name": "Adaptation.",
+      "poster": "https://image.tmdb.org/t/p/w500/ndlNK6qIQTCfalWuN4In1ZhHA0U.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mkjdussWOjts0Se6hEwfTQdwCv2.jpg",
+      "year": "2002",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Spike Jonze"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Meryl Streep",
+        "Chris Cooper",
+        "Tilda Swinton",
+        "Jay Tavare",
+        "Litefoot"
+      ],
+      "description": "Le scénariste Charlie Kaufman est rongé par le doute. Engagé pour adapter à l'écran un livre tiré de la vie de John Laroche, chasseur et trafiquant d'orchidées dans les Everglades, il est totalement bloqué. Comme Susan Orlean, la brillante journaliste new-yorkaise qui a rédigé le roman, Charlie est incapable de vivre une véritable histoire d'amour. Donald, son frère jumeau, aggrave la situation : non seulement, il réussit sans peine comme scénariste, mais il remporte également un franc succès auprès des femmes, ce qui n'est pas le cas de Charlie. Un jour, ce dernier croit avoir trouvé une solution : il va utiliser ses problèmes personnels comme base d'un scénario sur Laroche et Susan Orlean. Mais alors que l'inspiration vient et que l'histoire prend forme, Charlie va déclencher une série d'évènements qui vont bouleverser la vie de tous les protagonistes.",
+      "logo": "https://image.tmdb.org/t/p/w500/8eiiEK4CtjJnp7cCoutdE5CNEsO.png"
+    },
+    {
+      "id": "tmdb:974635",
+      "type": "movie",
+      "name": "Hit Man",
+      "poster": "https://image.tmdb.org/t/p/w500/e6iM3aeu0cx46Dry22WgU8aUDwq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+      "year": "2024",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Romance",
+        "Crime"
+      ],
+      "director": [
+        "Richard Linklater"
+      ],
+      "cast": [
+        "Glen Powell",
+        "Adria Arjona",
+        "Austin Amelio",
+        "Retta",
+        "Sanjay Rao",
+        "Molly Bernard"
+      ],
+      "description": "Gary Johnson, policier à Houston, est en mission d'infiltration en se faisant passer pour un tueur à gages. Il rencontre alors une femme battue par son petit ami violent. Pour la secourir, il va devoir oublier toutes les procédures.",
+      "logo": "https://image.tmdb.org/t/p/w500/AfgFS0ULYK5wAKZKX8zatxlNB5X.png"
+    },
+    {
+      "id": "tmdb:798286",
+      "type": "movie",
+      "name": "Beau Is Afraid",
+      "poster": "https://image.tmdb.org/t/p/w500/xwdbIBR6cKCCFomATCOhxikUaRM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/atvEgnjjXN5QvFDThXVz4nyU9yi.jpg",
+      "year": "2023",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Aventure",
+        "Fantastique"
+      ],
+      "director": [
+        "Ari Aster"
+      ],
+      "cast": [
+        "Joaquin Phoenix",
+        "Patti LuPone",
+        "Amy Ryan",
+        "Nathan Lane",
+        "Kylie Rogers",
+        "Denis Ménochet"
+      ],
+      "description": "Beau est un être sensible qui suit une thérapie afin d'exorciser les démons de son passé. Il habite un quartier bruyant et violent. Le célibataire doit bientôt s'envoler auprès de sa mère pour souligner l'anniversaire de la mort de son père. Or, ce jour-là, rien ne se déroule comme prévu. Il se réveille en retard et perd les clés de son appartement, l'obligeant à retarder son voyage. Rejoindre maman ne sera pas évident et pour y arriver, Beau plonge dans des aventures incroyables.",
+      "logo": "https://image.tmdb.org/t/p/w500/iTFQjKopXIgEL6KrJxpJFevcw8q.png"
+    },
+    {
+      "id": "tmdb:8827",
+      "type": "movie",
+      "name": "99 Francs",
+      "poster": "https://image.tmdb.org/t/p/w500/d67iCuJxENCeJ6GZU5typgaNAkb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wHwpdFBkvHRKS1zXptaskCFJ8BK.jpg",
+      "year": "2007",
+      "imdbRating": "3.2",
+      "genres": [
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Jan Kounen"
+      ],
+      "cast": [
+        "Jean Dujardin",
+        "Jocelyn Quivrin",
+        "Patrick Mille",
+        "Vahina Giocante",
+        "Elisa Tovati",
+        "Nicolas Marié"
+      ],
+      "description": "Octave est le maître du monde : il exerce la profession de rédacteur publicitaire. Il décide aujourd'hui ce que vous allez vouloir demain. Pour lui, \"l'homme est un produit comme les autres\". Octave travaille pour la plus grosse agence de pub du monde : Ross & Witchcraft, surnommée \"La Ross\". Il est couvert d'argent, de filles et de cocaïne. Pourtant, il doute. Deux événements vont bouleverser le cours de la vie d'Octave. Son histoire d'amour avec Sophie, la plus belle employée de l'agence, et une réunion chez Madone pour vendre un film de pub à ce géant du produit laitier. Le doué Octave déjante alors et décide de se rebeller contre le système qui l'a créé, en sabotant sa plus grande campagne. De Paris, où négocient les patrons d'agences, à Miami, où l'on tourne un spot sous antidépresseurs, de Saint-Germain-des-Prés à une île perdue d'Amérique Centrale, Octave parviendra-t-il à échapper à sa prison dorée ?",
+      "logo": "https://image.tmdb.org/t/p/w500/WTz8qH8sKuv34bd6mqMRtlJGLl.png"
+    },
+    {
+      "id": "tmdb:547388",
+      "type": "movie",
+      "name": "Jusqu'ici tout va bien",
+      "poster": "https://image.tmdb.org/t/p/w500/a2WTpc0HpC2fSIFJu6fLe7oyx2t.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5ayg658eADu2IehWvTktZNjfzgX.jpg",
+      "year": "2019",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Mohamed Hamidi"
+      ],
+      "cast": [
+        "Gilles Lellouche",
+        "Malik Bentalha",
+        "Sabrina Ouazani",
+        "Camille Lou",
+        "Anne-Elisabeth Blateau",
+        "Loïc Legendre"
+      ],
+      "description": "Une société de publicité branchée située en plein centre de Paris est depuis des années faussement déclarée en Zone Franche à La Courneuve, une domiciliation qui lui permet d’obtenir des aides et des exonérations de charges. Lors d’un contrôle, l’administration fiscale se rend compte de la supercherie et vient en informer le patron. Le deal est le suivant, soit la société paye des millions d’euros d’amende pour rembourser les aides qu’elle a indûment perçues, ou elle doit réellement s’installer à La Courneuve et on oublie la dette. Fred, le PDG, n’a pas le choix et déménage donc en banlieue avec ses salariés, tétanisés par cette arrivée en terre inconnue. Ils sont guidés dans cette installation par un jeune employé par la ville qui fait la sécurité de la zone franche dans laquelle ils s’installent.",
+      "logo": "https://image.tmdb.org/t/p/w500/4cgviak48l81R11S6Q9tJ0XIyoP.png"
+    },
+    {
+      "id": "tmdb:459992",
+      "type": "movie",
+      "name": "Séduis-moi si tu peux !",
+      "poster": "https://image.tmdb.org/t/p/w500/9WhbRgCW30ZXRtJ4jwPNAfJgIEy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
+      "year": "2019",
+      "imdbRating": "3.1",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Jonathan Levine"
+      ],
+      "cast": [
+        "Charlize Theron",
+        "Seth Rogen",
+        "O'Shea Jackson Jr.",
+        "June Diane Raphael",
+        "Ravi Patel",
+        "Andy Serkis"
+      ],
+      "description": "Un journaliste tente de surmonter une dépression en retrouvant son amoureuse qu'il avait perdu de vue. Celle-ci est depuis devenue une des femmes les plus puissantes de la planète...",
+      "logo": "https://image.tmdb.org/t/p/w500/pOJbUR10riCbs2A0HfZJcEgjh0B.png"
+    },
+    {
+      "id": "tmdb:96",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills 2",
+      "poster": "https://image.tmdb.org/t/p/w500/A4yhgMSb0TuyWhUxbW2SvFXzrC4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bIA65PCRtIQfBvIoKohJbtOPl3M.jpg",
+      "year": "1987",
+      "imdbRating": "3.1",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Tony Scott"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "John Ashton",
+        "Jürgen Prochnow",
+        "Ronny Cox",
+        "Brigitte Nielsen"
+      ],
+      "description": "Axel Foley est de retour à Beverly Hills. Cette fois, il vient prêter main forte à ses collègues et amis pour résoudre une affaire de vol de bijoux.",
+      "logo": "https://image.tmdb.org/t/p/w500/bxHr3Q0ajkiRMjeq47tSw7IQRtF.png"
+    },
+    {
+      "id": "tmdb:460668",
+      "type": "movie",
+      "name": "Moi, belle et jolie",
+      "poster": "https://image.tmdb.org/t/p/w500/jDuX9UbyhIGbLSEjfWZMELpr1Ny.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7XM7kxa3U2g8TO3OGSiETCroNRD.jpg",
+      "year": "2018",
+      "imdbRating": "3.1",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Abby Kohn",
+        "Marc Silverstein"
+      ],
+      "cast": [
+        "Amy Schumer",
+        "Michelle Williams",
+        "Tom Hopper",
+        "Rory Scovel",
+        "Adrian Martinez",
+        "Emily Ratajkowski"
+      ],
+      "description": "Après une chute à la gym, une trentenaire sans confiance en elle se découvre soudain courageuse et sexy... même sur scène !",
+      "logo": "https://image.tmdb.org/t/p/w500/ptjLv3KjBYcgCH9Q4CEGppM0PCL.png"
+    },
+    {
+      "id": "tmdb:1267905",
+      "type": "movie",
+      "name": "La Guerre des Rose",
+      "poster": "https://image.tmdb.org/t/p/w500/eb5IcEIr9YWu22BxLlELfabVqLA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
+      "year": "2025",
+      "imdbRating": "3.1",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Jay Roach"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Olivia Colman",
+        "Andy Samberg",
+        "Kate McKinnon",
+        "Allison Janney",
+        "Belinda Bromilow"
+      ],
+      "description": "L'architecte Theo Rose et sa femme Ivy, chef cuisinière, sont un couple exemplaire et leur quotidien est tissé de soutien mutuel et de tendresse. Lorsque la carrière du mari s'écroule à la suite d'un accident, le restaurant de sa conjointe devient extrêmement populaire. Après une période amère de sa vie professionnelle, Theo reprend son travail avec l'aide d'Ivy et dévoile son vrai talent. Une petite dispute entre les deux dégénère en affrontement impitoyable avec des conséquences fatales.",
+      "logo": "https://image.tmdb.org/t/p/w500/rp8h95pm0a8DMrJedtOdBys7rXh.png"
+    },
+    {
+      "id": "tmdb:693327",
+      "type": "movie",
+      "name": "Une proposition",
+      "poster": "https://image.tmdb.org/t/p/w500/46erTOh5oiSDXEmjeI46rXhccys.jpg",
+      "year": "2009",
+      "imdbRating": "3.1",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Anne-Sophie Rouvillois"
+      ],
+      "cast": [
+        "Elodie Meurlargé",
+        "Adèle Jayle",
+        "Yves Alcaïs"
+      ]
+    },
+    {
+      "id": "tmdb:22970",
+      "type": "movie",
+      "name": "La Cabane dans les bois",
+      "poster": "https://image.tmdb.org/t/p/w500/t1mjbGspktZTHoa9pvboDsfsWWu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dWLoSzvw52y1gt7ni9gZXdy693e.jpg",
+      "year": "2012",
+      "imdbRating": "3.0",
+      "genres": [
+        "Horreur",
+        "Mystère",
+        "Comédie"
+      ],
+      "director": [
+        "Drew Goddard"
+      ],
+      "cast": [
+        "Kristen Connolly",
+        "Fran Kranz",
+        "Chris Hemsworth",
+        "Jesse Williams",
+        "Anna Hutchison",
+        "Richard Jenkins"
+      ],
+      "description": "Cinq étudiants et amis partent passer le week-end dans une cabane perdue au fond des bois. Ils ne savent pas qu'ils font partie d'une expérience scientifique qui se déroule dans plusieurs pays simultanément. Sur place, ils découvrent une cave remplie d'objets étranges dont un journal qui contient des incantations. Commence alors un séjour cauchemardesque pour le groupe d'amis.",
+      "logo": "https://image.tmdb.org/t/p/w500/sHmZFEhtuhh8QIukrh4J3XTF4HS.png"
+    },
+    {
+      "id": "tmdb:877817",
+      "type": "movie",
+      "name": "Wolfs",
+      "poster": "https://image.tmdb.org/t/p/w500/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uXDwP5qPhuRyPpQ7WkLbE6t2z5W.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Crime",
+        "Comédie",
+        "Action"
+      ],
+      "director": [
+        "Jon Watts"
+      ],
+      "cast": [
+        "George Clooney",
+        "Brad Pitt",
+        "Austin Abrams",
+        "Amy Ryan",
+        "Poorna Jagannathan",
+        "Zlatko Burić"
+      ],
+      "description": "Les chemins de deux fixeurs rivaux se croisent quand ils sont chargés de couvrir le faux pas d'une haute fonctionnaire new-yorkaise. Au cours d'une nuit explosive, ils doivent mettre de côté leurs griefs (et leur ego) pour accomplir leur mission.",
+      "logo": "https://image.tmdb.org/t/p/w500/qQtmGtqfl3k7UrRGldOyvztcndO.png"
+    },
+    {
+      "id": "tmdb:1098378",
+      "type": "movie",
+      "name": "Your Monster",
+      "poster": "https://image.tmdb.org/t/p/w500/nHlHRntqfDM0ORsfgPL28u4GiTT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uiEgyO6bFsNRt4CGd8VJwXcBnmD.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Horreur"
+      ],
+      "director": [
+        "Caroline Lindy"
+      ],
+      "cast": [
+        "Melissa Barrera",
+        "Tommy Dewey",
+        "Edmund Donovan",
+        "Kayla Foster",
+        "Taylor Trensch",
+        "Brandon Victor Dixon"
+      ],
+      "description": "Après avoir subi une intervention chirurgicale et une rupture amoureuse, Laura traverse une période difficile. Actrice de comédie musicale, elle se remémore les bons moments passés avec Jacob, son ex-petit ami réalisateur qui avait écrit pour elle le rôle principal dans sa prochaine pièce. Un soir, elle entend des bruits étranges venant du placard et fait la rencontre d'un homme à l'apparence monstrueuse. Au début, Laura est terrifiée, puis elle découvre en lui une personne charmante.",
+      "logo": "https://image.tmdb.org/t/p/w500/3PTUGHhUoDLWrfYInp9eFpOrmek.png"
+    },
+    {
+      "id": "tmdb:1014590",
+      "type": "movie",
+      "name": "Surclassée",
+      "poster": "https://image.tmdb.org/t/p/w500/yOfQk4MSLN4yWJiCRbq7TGLjp7X.jpg",
+      "background": "https://image.tmdb.org/t/p/original/77Fqz6PFCSnWySDOmEL6ZPcaYIl.jpg",
+      "year": "2024",
+      "imdbRating": "2.9",
+      "genres": [
+        "Romance",
+        "Comédie"
+      ],
+      "director": [
+        "Carlson Young"
+      ],
+      "cast": [
+        "Camila Mendes",
+        "Archie Renaux",
+        "Marisa Tomei",
+        "Lena Olin",
+        "Anthony Stewart Head",
+        "Thomas Kretschmann"
+      ],
+      "description": "Contre toute attente, Ana, stagiaire dans une salle de ventes, se voit offrir par sa patronne un voyage professionnel de dernière minute pour Londres. Ayant la chance d'être surclassée, elle rencontre le beau et riche William et décide de vivre son rêve éveillé plus longtemps qu'elle ne le devrait.",
+      "logo": "https://image.tmdb.org/t/p/w500/bpDFnI0InQdUOfp5MQgi0qB6lW6.png"
+    },
+    {
+      "id": "tmdb:66118",
+      "type": "movie",
+      "name": "Case départ",
+      "poster": "https://image.tmdb.org/t/p/w500/eGNpK9qDsSK4hgEoLSQTraxOUsE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/trTMVPx2xYWl6yI2oGHEETkaXLZ.jpg",
+      "year": "2011",
+      "imdbRating": "2.9",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Lionel Steketee",
+        "Thomas Ngijol"
+      ],
+      "cast": [
+        "Thomas Ngijol",
+        "Fabrice Eboué",
+        "Joséphine de Meaux",
+        "Etienne Chicot",
+        "Ériq Ebouaney",
+        "Michel Crémadès"
+      ],
+      "description": "Demi-frères, Joël et Régis n’ont en commun que leur père qu’ils connaissent à peine. Joël est au chômage et pas vraiment dégourdi. La France, « pays raciste » selon lui, est la cause de tous ses échecs et être noir est l’excuse permanente qu’il a trouvée pour ne pas chercher du travail ou payer son ticket de bus. Régis est de son côté totalement intégré. Tant et si bien qu’il renie totalement sa moitié noire et ne supporte pas qu’on fasse référence à ses origines. Délinquance et immigration vont de pair si l’on en croit ses paroles.",
+      "logo": "https://image.tmdb.org/t/p/w500/7INps38xJ0T4PlabKH6nrCsPkRo.png"
+    },
+    {
+      "id": "tmdb:31076",
+      "type": "movie",
+      "name": "Stupeur et tremblements",
+      "poster": "https://image.tmdb.org/t/p/w500/aD3xI2bAShtdq0OtFQtbQr7Njh3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mwt4hPMnQRqGiL1LlU5wgt3JUsv.jpg",
+      "year": "2003",
+      "imdbRating": "2.9",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Alain Corneau"
+      ],
+      "cast": [
+        "Sylvie Testud",
+        "辻香織",
+        "Bison Katayama",
+        "Tarō Suwa",
+        "Yasunari Kondo",
+        "藤田宗久"
+      ],
+      "description": "Amélie, une jeune femme belge, vient de terminer ses études universitaires. Sa connaissance parfaite du japonais, langue qu'elle maîtrise pour avoir vécu au Japon étant plus jeune, lui permet de décrocher un contrat d'un an dans une prestigieuse entreprise de l'Empire du Soleil Levant, la compagnie Yumimoto. Fascinée par la hiérarchie d'entreprise japonaise, précise et méthodique, la jeune femme l'est d'autant plus par sa supérieure directe, l'intrigante et fière Mademoiselle Mori. Pourtant, Amélie va rapidement déchanter à la découverte d'une culture qu'elle ne connaît absolument pas. Ses fréquentes initiatives sont régulièrement sujettes aux réprobations de ses supérieurs. Face à cet acharnement, la jeune femme se plie à leurs exigences. Jusqu'à être mutée dans les toilettes."
+    },
+    {
+      "id": "tmdb:912916",
+      "type": "movie",
+      "name": "L'Autre Zoey",
+      "poster": "https://image.tmdb.org/t/p/w500/596eFlS6qytLwbDNIdQQ5FTjK3G.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hZgl3mdHx1kfnIIVBdgBAm2sWNI.jpg",
+      "year": "2023",
+      "imdbRating": "2.8",
+      "genres": [
+        "Romance",
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Sara Zandieh"
+      ],
+      "cast": [
+        "Josephine Langford",
+        "Drew Starkey",
+        "Archie Renaux",
+        "Mallori Johnson",
+        "Andie MacDowell",
+        "Patrick Fabian"
+      ],
+      "description": "Zoey Miller, une étudiante surdouée en informatique qui ne croit pas au grand amour, voit sa vie basculer quand Zach, une star de foot de la fac, devient amnésique et la prend pour sa petite amie.",
+      "logo": "https://image.tmdb.org/t/p/w500/yJ2kPLh5w3rhidYJtop977qNe8B.png"
+    },
+    {
+      "id": "tmdb:889675",
+      "type": "movie",
+      "name": "The Pod Generation",
+      "poster": "https://image.tmdb.org/t/p/w500/iCIa3RXsJOMsfb07jR90tEKFCww.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3Ed9375VaD20Ko9Asf58wvP4PgT.jpg",
+      "year": "2023",
+      "imdbRating": "2.7",
+      "genres": [
+        "Science-Fiction",
+        "Comédie",
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Sophie Barthes"
+      ],
+      "cast": [
+        "Emilia Clarke",
+        "Chiwetel Ejiofor",
+        "Rosalie Craig",
+        "Vinette Robinson",
+        "Kathryn Hunter",
+        "Jean-Marc Barr"
+      ],
+      "description": "Vivant dans un futur pas si lointain, un couple de New York se lance dans une aventure folle vers la parentalité après avoir obtenu une place convoitée au Centre de la Matrice, qui offre aux couples une grossesse pratique et partageable grâce à des utérus artificiels détachables, ou des capsules.",
+      "logo": "https://image.tmdb.org/t/p/w500/xYot0RWB6IakvKdKTN7rVdZ967f.png"
+    },
+    {
+      "id": "tmdb:1008102",
+      "type": "movie",
+      "name": "Les Rois du rallye",
+      "poster": "https://image.tmdb.org/t/p/w500/7b9XieO3XGbY9O0jobPPVzQi3Kk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/scjAlhOtyd0VfNN3YSPmvhMqJji.jpg",
+      "year": "2023",
+      "imdbRating": "2.7",
+      "genres": [
+        "Animation",
+        "Familial",
+        "Comédie"
+      ],
+      "director": [
+        "Ross Venokur"
+      ],
+      "cast": [
+        "Jimmy O. Yang",
+        "Lisa Lu",
+        "Chloe Bennet",
+        "J.K. Simmons",
+        "Catherine Tate",
+        "Sharon Horgan"
+      ],
+      "description": "Zhi, pilote de course débutant, a l'opportunité d'affronter le champion en titre du circuit de voitures de rallye. Avec l'aide d'un ancien pilote devenu mécanicien, Zhi doit surmonter des terrains dangereux, des coureurs rivaux et des obstacles inattendus pour prouver qu'il a ce qu'il faut pour être le prochain grand pilote.",
+      "logo": "https://image.tmdb.org/t/p/w500/mcpSMN6F4FJhcQQqO0d2ediBFuh.png"
+    },
+    {
+      "id": "tmdb:1084849",
+      "type": "movie",
+      "name": "Elle & lui et le reste du monde",
+      "poster": "https://image.tmdb.org/t/p/w500/tLcJi8D6gAcKGTGPTjCIV2GrUrW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/w4P0HFp0vNJGE0Vf5csAOGbC0Ve.jpg",
+      "year": "2024",
+      "imdbRating": "2.7",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Emmanuelle Belohradsky"
+      ],
+      "cast": [
+        "Victor Belmondo",
+        "Galatéa Bellugi",
+        "Inas Chanti",
+        "Charline Ben Larbi",
+        "Antoine Levannier",
+        "Frédéric Maranber"
+      ],
+      "description": "Marco, la vingtaine, un peu paumé, dépanne un ami en le remplaçant à son lieu de travail : une centrale d'urgence pour ascenseurs. Vers 3h du matin, une jeune femme l’appelle : coincée dans une cabine en panne, elle est en pleine crise d'angoisse. Marco tente de la rassurer au téléphone mais ne trouvant aucun technicien disponible pour intervenir, il décide d’aller lui-même la secourir ! Une fois sur place hélas, la jeune femme s’est envolée. Ainsi débute sa quête rocambolesque à la poursuite de cette énigmatique inconnue, dans Paris, la nuit de la Saint-Valentin."
+    },
+    {
+      "id": "tmdb:16996",
+      "type": "movie",
+      "name": "17 ans encore",
+      "poster": "https://image.tmdb.org/t/p/w500/gSLMT1Nio75oxpxeU7fbBGg6a7f.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8urrLPW6HFaIuRhJ1G3iQ7usEo7.jpg",
+      "year": "2009",
+      "imdbRating": "2.6",
+      "genres": [
+        "Comédie",
+        "Fantastique",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Burr Steers"
+      ],
+      "cast": [
+        "Zac Efron",
+        "Leslie Mann",
+        "Thomas Lennon",
+        "Michelle Trachtenberg",
+        "Sterling Knight",
+        "Matthew Perry"
+      ],
+      "description": "Mike O'Donnell, un homme de 37 ans, trouve sa vie ennuyeuse et pathétique. Il se sépare de sa femme et vit avec son meilleur ami. Ses enfants le considèrent comme un looser. « Si seulement on avait droit à une seconde chance ? ». Et il ne croyait pas si bien dire ! Son vœu va être exaucé. Le lendemain matin, Mike découvre qu'il a à nouveau 17 ans ! Bien décidé à réparer ses erreurs personnelles, il s'inscrit au lycée pour aider ses enfants. Mike s'aperçoit vite que sa fille est beaucoup moins sage qu'elle ne parait et que son fils, Alex, est le bouc-émissaire de l'athlète de l'école. Son adolescence était bien différente de celle d'aujourd'hui !",
+      "logo": "https://image.tmdb.org/t/p/w500/inGWIWbDebMCc0z9Z1UcxQPeNHu.png"
+    },
+    {
+      "id": "tmdb:138697",
+      "type": "movie",
+      "name": "Don Jon",
+      "poster": "https://image.tmdb.org/t/p/w500/mfmJ0ML3ZguMrKEFqw8Euqbo7pC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4QBI1pdjr2hH1fgC8NqwZZnWNso.jpg",
+      "year": "2013",
+      "imdbRating": "2.6",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Joseph Gordon-Levitt"
+      ],
+      "cast": [
+        "Joseph Gordon-Levitt",
+        "Scarlett Johansson",
+        "Julianne Moore",
+        "Tony Danza",
+        "Glenne Headly",
+        "Brie Larson"
+      ],
+      "description": "Jon Martello est un beau mec que ses amis ont surnommé Don Jon en raison de son talent à séduire une nouvelle fille chaque week-end. Mais pour lui, même les rencontres les plus excitantes ne valent pas les moments solitaires qu'il passe devant son ordinateur à regarder des films pornographiques. Barbara Sugarman est une jeune femme lumineuse, nourrie aux comédies romantiques hollywoodiennes, bien décidée à trouver son Prince Charmant. Leur rencontre est un choc, une explosion dans la vie de chacun. Bourrés d'illusions et d'idées reçues sur le sexe opposé, Jon et Barbara vont devoir laisser tomber leurs fantasmes s'ils veulent avoir une chance de vivre enfin une vraie relation...",
+      "logo": "https://image.tmdb.org/t/p/w500/ylfAIKoNKpknNOeCsKBmZzvEjgq.png"
+    },
+    {
+      "id": "tmdb:512196",
+      "type": "movie",
+      "name": "Happy Birthdead 2 You",
+      "poster": "https://image.tmdb.org/t/p/w500/q6Bc1nIgcr6uLkFxRvM2SwxLpqn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dhNJHBDacrZjSPtwaiwp3idpzxU.jpg",
+      "year": "2019",
+      "imdbRating": "2.6",
+      "genres": [
+        "Comédie",
+        "Horreur",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Christopher Landon"
+      ],
+      "cast": [
+        "Jessica Rothe",
+        "Israel Broussard",
+        "Ruby Modine",
+        "Suraj Sharma",
+        "Rachel Matthews",
+        "Phi Vu"
+      ],
+      "description": "Alors que Tree pensait s’être définitivement débarrassée de celle qui voulait sa mort et qu’elle file le parfait amour avec Carter, elle se retrouve projetée dans une dimension parallèle à notre monde. Elle doit désormais affronter des fantômes de son passé et de nouveaux ennemis…",
+      "logo": "https://image.tmdb.org/t/p/w500/8eFEISuUrWmEoAiPqLTu2kpiqee.png"
+    },
+    {
+      "id": "tmdb:43593",
+      "type": "movie",
+      "name": "Piranha 3D",
+      "poster": "https://image.tmdb.org/t/p/w500/lz0L6V6R99ATSbdimlDpHgPSEzP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/AF0PiDItegyUtlBGDMGlSQbtro.jpg",
+      "year": "2010",
+      "imdbRating": "2.6",
+      "genres": [
+        "Comédie",
+        "Horreur"
+      ],
+      "director": [
+        "Alexandre Aja"
+      ],
+      "cast": [
+        "Elisabeth Shue",
+        "Jerry O'Connell",
+        "Steven R. McQueen",
+        "Jessica Szohr",
+        "Kelly Brook",
+        "Ving Rhames"
+      ],
+      "description": "Alors que la ville de Lake Victoria s'apprête à recevoir des milliers d'étudiants pour le week-end de Pâques, un tremblement de terre secoue la ville et ouvre, sous le lac, une faille d'où des milliers de piranhas s'échappent. Inconscients du danger qui les guette, tous les étudiants font la fête sur le lac tandis que Julie, la shérif, découvre un premier corps dévoré... La journée va être d'autant plus longue pour elle que Jake, son fils, a délaissé la garde de ses jeunes frères et soeurs pour servir de guide à bord du bâteau des sexy Wild Wild Girls !",
+      "logo": "https://image.tmdb.org/t/p/w500/2THJX8BCAfTvGrukTUxEUMN6BmJ.png"
+    },
+    {
+      "id": "tmdb:868759",
+      "type": "movie",
+      "name": "Ghosted",
+      "poster": "https://image.tmdb.org/t/p/w500/tds2CSzH5tPAc9CbeUDRtSVzFhs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pp3QUzMXfP7q0ocmE1b15FH6PQ6.jpg",
+      "year": "2023",
+      "imdbRating": "2.6",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Dexter Fletcher"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Ana de Armas",
+        "Adrien Brody",
+        "Mike Moh",
+        "Amy Sedaris",
+        "Tate Donovan"
+      ],
+      "description": "Cole, un agriculteur sans histoire, tombe éperdument amoureux de la mystérieuse Sadie, mais découvre avec stupeur qu'elle est agent secret. Avant même un second rencard, Cole et Sadie vont être embarqués dans une aventure au-delà des frontières lors de laquelle ils vont devoir sauver le monde.",
+      "logo": "https://image.tmdb.org/t/p/w500/80qAhzlfQiYdcy1cjn0hsD3a0sM.png"
+    },
+    {
+      "id": "tmdb:306",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills 3",
+      "poster": "https://image.tmdb.org/t/p/w500/hnBhVTb8xwxNFA02GwI43yQ4sVw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wnxg3DsHRlSyJNHpVwwqWdOedGN.jpg",
+      "year": "1994",
+      "imdbRating": "2.6",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "John Landis"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "Héctor Elizondo",
+        "Timothy Carhart",
+        "John Saxon",
+        "Jon Tenney"
+      ],
+      "description": "Dans cette nouvelle aventure Axel Foley va mener l'enquête dans le célèbre parc d'attractions de Wonderworld à Beverly Hills. Il recherche le dangereux commanditaire d'une bande de voleurs de voitures responsable de la mort de son ami Todd.",
+      "logo": "https://image.tmdb.org/t/p/w500/nBybdbzcWUJbXU8nwDLZ2kRrnlZ.png"
+    },
+    {
+      "id": "tmdb:18360",
+      "type": "movie",
+      "name": "La Nuit au musée 2",
+      "poster": "https://image.tmdb.org/t/p/w500/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kwTfPnP9f8ZyXmSniDcwonJWixY.jpg",
+      "year": "2009",
+      "imdbRating": "2.5",
+      "genres": [
+        "Aventure",
+        "Fantastique",
+        "Action",
+        "Comédie",
+        "Familial"
+      ],
+      "director": [
+        "Shawn Levy"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Amy Adams",
+        "Owen Wilson",
+        "Hank Azaria",
+        "Robin Williams",
+        "Christopher Guest"
+      ],
+      "description": "Le plus grand musée du monde vient d'accueillir de nouvelles expositions, et parmi elles, l'ancestrale tablette des pharaons aux pouvoirs magiques. Désormais la nuit, toutes les animations du musée prennent vie, y compris le maléfique pharaon Kahmunrah et ses acolytes Al Capone, Ivan le Terrible et Napoléon. Le gardien de musée Larry et ses vieux amis le Président Roosevelt, Attila, T-Rex, le romain Octavius et Jedediah le cowboy vont devoir livrer une bataille acharnée et délirante contre ces animations malintentionnées.",
+      "logo": "https://image.tmdb.org/t/p/w500/uVqG1t2WieVwcH5zqQDJtLC1wxP.png"
+    },
+    {
+      "id": "tmdb:356305",
+      "type": "movie",
+      "name": "The Boyfriend : Pourquoi lui ?",
+      "poster": "https://image.tmdb.org/t/p/w500/1hWeSAsb1zTSI0Nng1vlsb7lF5Q.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zKwpFXBoZa3DZXIctZPpcWJBAmh.jpg",
+      "year": "2016",
+      "imdbRating": "2.5",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "John Hamburg"
+      ],
+      "cast": [
+        "Bryan Cranston",
+        "James Franco",
+        "Zoey Deutch",
+        "Megan Mullally",
+        "Griffin Gluck",
+        "Keegan-Michael Key"
+      ],
+      "description": "Un père de famille emmène sa famille visiter sa fille à Noël et se retrouve en compétition avec le petit-ami de celle-ci, un jeune devenu milliardaire grâce à internet.",
+      "logo": "https://image.tmdb.org/t/p/w500/RjIN0JpH7rgvDk7fArj6P9IUGC.png"
+    },
+    {
+      "id": "tmdb:11635",
+      "type": "movie",
+      "name": "Retour à la Fac",
+      "poster": "https://image.tmdb.org/t/p/w500/7JWznocBZZ6uLnodAEER1rlxcEf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2tZVYiosztNM1DAYUF59VPsNp9L.jpg",
+      "year": "2003",
+      "imdbRating": "2.4",
+      "genres": [
+        "Comédie"
+      ],
+      "director": [
+        "Todd Phillips"
+      ],
+      "cast": [
+        "Luke Wilson",
+        "Will Ferrell",
+        "Vince Vaughn",
+        "Jeremy Piven",
+        "Ellen Pompeo",
+        "Juliette Lewis"
+      ],
+      "description": "Mitch, Frank et Bernard, trois adultes mécontents de leur vie personnelle, décident de retrouver l'ambiance de leurs années de fac en reformant une confrérie. Délaissant leurs compagnes respectives, ils renouent avec les joies du campus.",
+      "logo": "https://image.tmdb.org/t/p/w500/4ElBz21wkfLUZy6S5QI54QKG8qp.png"
+    },
+    {
+      "id": "tmdb:365177",
+      "type": "movie",
+      "name": "Borderlands",
+      "poster": "https://image.tmdb.org/t/p/w500/6qpvOV6CKHDJoYvWEtTLyuVIwuP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+      "year": "2024",
+      "imdbRating": "2.0",
+      "genres": [
+        "Action",
+        "Science-Fiction",
+        "Comédie"
+      ],
+      "director": [
+        "Eli Roth"
+      ],
+      "cast": [
+        "Cate Blanchett",
+        "Kevin Hart",
+        "Edgar Ramírez",
+        "Jamie Lee Curtis",
+        "Ariana Greenblatt",
+        "Florian Munteanu"
+      ],
+      "description": "Lilith, une chasseuse de primes au passé trouble, revient à contrecœur sur sa planète natale, Pandore, la planète la plus chaotique de la galaxie… Sa mission est de retrouver la fille disparue d'Atlas, l'homme le plus puissant (et le plus méprisable) de l’univers. Pour y arriver Lilith va devoir former une alliance inattendue avec une joyeuse équipe de marginaux : Roland, un mercenaire chevronné ; Tiny Tina, une pré-ado avec un gros penchant pour la démolition ; Krieg, le protecteur musclé de Tina ; Tannis, une scientifique fantasque ; et Claptrap, un robot très bavard.",
+      "logo": "https://image.tmdb.org/t/p/w500/cHYEhYhMLzyUr87WOFyDwyLhvfc.png"
+    },
+    {
+      "id": "tmdb:12153",
+      "type": "movie",
+      "name": "F.B.I. Fausses Blondes Infiltrées",
+      "poster": "https://image.tmdb.org/t/p/w500/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+      "year": "2004",
+      "imdbRating": "1.9",
+      "genres": [
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Keenen Ivory Wayans"
+      ],
+      "cast": [
+        "Shawn Wayans",
+        "Marlon Wayans",
+        "Frankie Faison",
+        "Terry Crews",
+        "Faune Chambers Watkins",
+        "Rochelle Aytes"
+      ],
+      "description": "Les ambitieux mais malheureux agents du FBI Marcus et Kevin Copeland sont sur le point de perdre leur travail. Quand on découvre que deux riches héritières mondaines sont sur le point d'être enlevées, l'affaire est confiée à leurs rivaux et Kevin et Marcus sont promus gardes du corps pour escorter ces deux gamines de l'aéroport à leur hôtel dans les Hamptons. Malheureusement, leur gentil toutou cause un accident de la circulation. S'ensuit une bagarre et les deux sœurs se retrouvent légèrement mal en point. Elles refusent d'être vues lors de ce week-end mondain. Apeuré à l'idée de se retrouver au chômage, Kevin va élaborer un plan : Marcus et lui vont se faire passer pour les deux exigeantes divas, se mêler à la crème de la crème des Hamptons et, par la même occasion, piéger les ravisseurs et redorer leur réputation.",
+      "logo": "https://image.tmdb.org/t/p/w500/4SS6cAyFqPFuUVFfRfMZ682nVsG.png"
+    },
+    {
+      "id": "tmdb:11918",
+      "type": "movie",
+      "name": "Super-Héros Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/b6n2SJjWJNBwkZ06PSdTF2LFTYT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iA5yYNAclwXWGe46T7gatzGYcRu.jpg",
+      "year": "2008",
+      "imdbRating": "1.8",
+      "genres": [
+        "Comédie",
+        "Action",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Craig Mazin"
+      ],
+      "cast": [
+        "Drake Bell",
+        "Sara Paxton",
+        "Christopher McDonald",
+        "Leslie Nielsen",
+        "Kevin Hart",
+        "Marion Ross"
+      ],
+      "description": "Lycéen timide et mal dans sa peau, Rick Ricker vit avec son oncle et sa tante depuis que ses parents ont été tués. Il est secrètement amoureux de la ravissante Jill Johnson qui, pour son malheur, a déjà un petit copain. Pendant la visite scolaire d'un laboratoire de recherche, Rick est piqué par une libellule génétiquement modifiée. Peu à peu, alors qu'il voit ses forces décuplées, il comprend qu'il est désormais pourvu de super-pouvoirs. Après s'être fabriqué un costume, il adopte sa nouvelle identité : La Libellule. Mais il lui faudra affronter un redoutable ennemi, Le Sablier, déterminé à anéantir tous ceux qui l'approchent…",
+      "logo": "https://image.tmdb.org/t/p/w500/iBZFdNAzH6EPX2T5Ya4OEHFpUkV.png"
+    },
+    {
+      "id": "tmdb:701387",
+      "type": "movie",
+      "name": "Bugonia",
+      "poster": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
+      "year": "2025",
+      "imdbRating": "N/A",
+      "genres": [
+        "Comédie",
+        "Science-Fiction",
+        "Thriller"
+      ],
+      "director": [
+        "Yorgos Lanthimos"
+      ],
+      "cast": [
+        "Emma Stone",
+        "Jesse Plemons",
+        "Aidan Delbis",
+        "Stavros Halkias",
+        "Alicia Silverstone",
+        "J. Carmen Galindez Barrera"
+      ],
+      "description": "Deux jeunes hommes obsédés par les théories du complot kidnappent la PDG d’une grande entreprise, convaincus qu’elle est une extraterrestre déterminée à détruire la planète Terre.",
+      "logo": "https://image.tmdb.org/t/p/w500/1umYVLK3IpjoLWUKJAyDy4c3Eqa.png"
+    },
+    {
+      "id": "tmdb:1220552",
+      "type": "movie",
+      "name": "The Eminence in Shadow: Lost Echoes",
+      "poster": "https://image.tmdb.org/t/p/w500/jxrLc5uCK3s7qlb4aJU4aNTOJZR.jpg",
+      "imdbRating": "N/A",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Aventure",
+        "Fantastique"
+      ],
+      "director": [
+        "中西和也"
+      ],
+      "cast": [
+        "山下誠一郎"
+      ],
+      "description": "Après avoir vaincu Mordred, Shadow se fait aspirer dans un portail et se retrouve dans un Japon post-apocalyptique, quelques années après la mort de Minoru Kageno, son ancien lui.  Ce film adapte l'arc \"Return to Earth\" et fera suite à la seconde saison de The Eminence in Shadow."
+    }
+  ]
+}

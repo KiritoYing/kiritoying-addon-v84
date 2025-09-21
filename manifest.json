@@ -1,0 +1,162 @@
+{
+  "id": "com.kiritoying.v85.peaufine",
+  "version": "8.5.13",
+  "name": "🇫🇷 KiritoYing V85 Peaufiné",
+  "description": "🎬 Films + 📺 Séries | Titres nettoyés | Notes Allociné | Logos TMDB | Catalogues genres | Matching strict",
+  "resources": [
+    {
+      "name": "catalog",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tmdb:"
+      ]
+    }
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "id": "films_tri",
+      "type": "movie",
+      "name": "🎬 TOUS LES FILMS (Triés par Notes)",
+      "extra": []
+    },
+    {
+      "id": "series_tri",
+      "type": "series",
+      "name": "📺 TOUTES LES SÉRIES (Triées par Notes)",
+      "extra": []
+    },
+    {
+      "id": "films_drame",
+      "type": "movie",
+      "name": "🎬 FILMS DRAME (387)",
+      "extra": []
+    },
+    {
+      "id": "films_thriller",
+      "type": "movie",
+      "name": "🎬 FILMS THRILLER (185)",
+      "extra": []
+    },
+    {
+      "id": "films_crime",
+      "type": "movie",
+      "name": "🎬 FILMS CRIME (121)",
+      "extra": []
+    },
+    {
+      "id": "films_comédie",
+      "type": "movie",
+      "name": "🎬 FILMS COMÉDIE (157)",
+      "extra": []
+    },
+    {
+      "id": "films_mystère",
+      "type": "movie",
+      "name": "🎬 FILMS MYSTÈRE (60)",
+      "extra": []
+    },
+    {
+      "id": "films_histoire",
+      "type": "movie",
+      "name": "🎬 FILMS HISTOIRE (61)",
+      "extra": []
+    },
+    {
+      "id": "films_guerre",
+      "type": "movie",
+      "name": "🎬 FILMS GUERRE (27)",
+      "extra": []
+    },
+    {
+      "id": "films_horreur",
+      "type": "movie",
+      "name": "🎬 FILMS HORREUR (83)",
+      "extra": []
+    },
+    {
+      "id": "films_documentaire",
+      "type": "movie",
+      "name": "🎬 FILMS DOCUMENTAIRE (5)",
+      "extra": []
+    },
+    {
+      "id": "films_musique",
+      "type": "movie",
+      "name": "🎬 FILMS MUSIQUE (9)",
+      "extra": []
+    },
+    {
+      "id": "films_science_fiction",
+      "type": "movie",
+      "name": "🎬 FILMS SCIENCE-FICTION (75)",
+      "extra": []
+    },
+    {
+      "id": "films_action",
+      "type": "movie",
+      "name": "🎬 FILMS ACTION (114)",
+      "extra": []
+    },
+    {
+      "id": "films_animation",
+      "type": "movie",
+      "name": "🎬 FILMS ANIMATION (31)",
+      "extra": []
+    },
+    {
+      "id": "films_aventure",
+      "type": "movie",
+      "name": "🎬 FILMS AVENTURE (57)",
+      "extra": []
+    },
+    {
+      "id": "films_familial",
+      "type": "movie",
+      "name": "🎬 FILMS FAMILIAL (24)",
+      "extra": []
+    },
+    {
+      "id": "films_romance",
+      "type": "movie",
+      "name": "🎬 FILMS ROMANCE (95)",
+      "extra": []
+    },
+    {
+      "id": "series_drame",
+      "type": "series",
+      "name": "📺 SÉRIES DRAME (119)",
+      "extra": []
+    },
+    {
+      "id": "series_crime",
+      "type": "series",
+      "name": "📺 SÉRIES CRIME (43)",
+      "extra": []
+    },
+    {
+      "id": "series_mystère",
+      "type": "series",
+      "name": "📺 SÉRIES MYSTÈRE (41)",
+      "extra": []
+    },
+    {
+      "id": "series_comédie",
+      "type": "series",
+      "name": "📺 SÉRIES COMÉDIE (26)",
+      "extra": []
+    },
+    {
+      "id": "series_animation",
+      "type": "series",
+      "name": "📺 SÉRIES ANIMATION (8)",
+      "extra": []
+    }
+  ]
+}

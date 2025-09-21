@@ -1,0 +1,248 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:396194",
+      "type": "movie",
+      "name": "Ennio",
+      "poster": "https://image.tmdb.org/t/p/w500/m66if44yZhydj4Eh3DNj04NaGEy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iytQNneOp4lNSKktRh9T6Fo3UXk.jpg",
+      "year": "2022",
+      "imdbRating": "4.4",
+      "genres": [
+        "Documentaire",
+        "Musique",
+        "Histoire"
+      ],
+      "director": [
+        "Giuseppe Tornatore"
+      ],
+      "cast": [
+        "Ennio Morricone",
+        "Silvano Agosti",
+        "Alessandro Alessandroni",
+        "Fausto Ancillai",
+        "Dario Argento",
+        "Joan Baez"
+      ],
+      "description": "A l’âge de 8 ans, Ennio Morricone rêve de devenir médecin. Mais son père décide qu’il sera trompettiste, comme lui. Du conservatoire de musique à l’Oscar du meilleur compositeur, l’itinéraire d’un des plus grands musiciens du 20ème siècle.",
+      "logo": "https://image.tmdb.org/t/p/w500/jNOVOq1knEolySi0CtXr54XN90l.png"
+    },
+    {
+      "id": "tmdb:313369",
+      "type": "movie",
+      "name": "La La Land",
+      "poster": "https://image.tmdb.org/t/p/w500/5KIj6aioW1UtUT1IV0qqW5iZbNH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "year": "2016",
+      "imdbRating": "4.2",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Musique"
+      ],
+      "director": [
+        "Damien Chazelle"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "John Legend",
+        "Rosemarie DeWitt",
+        "J.K. Simmons",
+        "Amiée Conn"
+      ],
+      "description": "Au cœur de Los Angeles, une actrice en devenir prénommée Mia sert des cafés entre deux auditions. De son côté, Sebastian, passionné de jazz, joue du piano dans des clubs miteux pour assurer sa subsistance. Tous deux sont bien loin de la vie rêvée à laquelle ils aspirent… Le destin va réunir ces doux rêveurs, mais leur coup de foudre résistera-t-il aux tentations, aux déceptions, et à la vie trépidante d’Hollywood ?",
+      "logo": "https://image.tmdb.org/t/p/w500/97DYpdDmiOpfn9l9I2dGxDH01t1.svg"
+    },
+    {
+      "id": "tmdb:332562",
+      "type": "movie",
+      "name": "A Star is Born",
+      "poster": "https://image.tmdb.org/t/p/w500/uoq8DobPxciPEJ5EuBeqDt8av76.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+      "year": "2018",
+      "imdbRating": "4.1",
+      "genres": [
+        "Musique",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Bradley Cooper"
+      ],
+      "cast": [
+        "Lady Gaga",
+        "Bradley Cooper",
+        "Sam Elliott",
+        "Andrew Dice Clay",
+        "Rafi Gavron",
+        "Anthony Ramos"
+      ],
+      "description": "Star de country un peu oubliée, Jackson Maine découvre Ally, une jeune chanteuse très prometteuse. Tandis qu’ils tombent follement amoureux l’un de l’autre, Jack propulse Ally sur le devant de la scène et fait d’elle une artiste adulée par le public. Bientôt éclipsé par le succès de la jeune femme, il vit de plus en plus mal son propre déclin…",
+      "logo": "https://image.tmdb.org/t/p/w500/px1y5QKnt2VReQsOk4sfh71tINy.png"
+    },
+    {
+      "id": "tmdb:504608",
+      "type": "movie",
+      "name": "Rocketman",
+      "poster": "https://image.tmdb.org/t/p/w500/yI4FlDcs7ds179oI8L6Au8PiRQF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/isnJGDrfR9dIrHMsPTvHtJaGEpc.jpg",
+      "year": "2019",
+      "imdbRating": "4.0",
+      "genres": [
+        "Musique",
+        "Drame"
+      ],
+      "director": [
+        "Dexter Fletcher"
+      ],
+      "cast": [
+        "Taron Egerton",
+        "Jamie Bell",
+        "Richard Madden",
+        "Bryce Dallas Howard",
+        "Gemma Jones",
+        "Steven Mackintosh"
+      ],
+      "description": "Rocketman nous raconte la vie hors du commun d’Elton John, depuis ses premiers succès jusqu’à sa consécration internationale. Le film retrace la métamorphose de Reginald Dwight, un jeune pianiste prodige timide, en une superstar mondiale. Il est aujourd’hui connu sous le nom d’Elton John. Son histoire inspirante - sur fond des plus belles chansons de la star – nous fait vivre l’incroyable succès d’un enfant d’une petite ville de province devenu icône de la pop culture mondiale.",
+      "logo": "https://image.tmdb.org/t/p/w500/sRFsXoNsZWPefcsz0DxOBcD0eC4.png"
+    },
+    {
+      "id": "tmdb:15121",
+      "type": "movie",
+      "name": "La Mélodie du bonheur",
+      "poster": "https://image.tmdb.org/t/p/w500/yhU480VM3EMEb1O8u5gbLeG7QqT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ioQYjcRnU54ir5ltgyS7k53zw5x.jpg",
+      "year": "1965",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Familial",
+        "Musique",
+        "Romance"
+      ],
+      "director": [
+        "Robert Wise"
+      ],
+      "cast": [
+        "Julie Andrews",
+        "Christopher Plummer",
+        "Eleanor Parker",
+        "Richard Haydn",
+        "Peggy Wood",
+        "Charmian Carr"
+      ],
+      "description": "En Autriche, Maria est une jeune femme qui se prépare à devenir religieuse dans une abbaye bénédictine située à Salzbourg. Son couvent l'envoie en tant que gouvernante de sept enfants, dans la famille d'un veuf, le capitaine Georg Ritter von Trapp. Au début, les enfants se montrent hostiles et espiègles. Elle tient bon, tout en leur enseignant le chant. Bientôt, elle leur sert d'amie et de confidente.",
+      "logo": "https://image.tmdb.org/t/p/w500/puBfisleykHnt7GawgPf5TcIUL8.png"
+    },
+    {
+      "id": "tmdb:515195",
+      "type": "movie",
+      "name": "Yesterday",
+      "poster": "https://image.tmdb.org/t/p/w500/rtGkbWkt9udXzKacs1bLKGGiV8N.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5om2iHhm2dgv0s2YgPDSEMIkRNx.jpg",
+      "year": "2019",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Fantastique",
+        "Musique",
+        "Romance"
+      ],
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Himesh Patel",
+        "Lily James",
+        "Sophia Di Martino",
+        "Ellise Chappell",
+        "Meera Syal",
+        "Harry Michell"
+      ],
+      "description": "Un musicien en difficulté se rend compte qu'il est la seule personne sur Terre qui se souvient des Beatles.",
+      "logo": "https://image.tmdb.org/t/p/w500/8GZtYlUmFPpXkX6Fk0aq1ILk3no.png"
+    },
+    {
+      "id": "tmdb:936074",
+      "type": "movie",
+      "name": "Ténor",
+      "poster": "https://image.tmdb.org/t/p/w500/t8ShCiZxrbiy7kuO06OilLI3PeL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7IW5xt241RUAufYiFBoAPx5n52V.jpg",
+      "year": "2022",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Musique"
+      ],
+      "director": [
+        "Claude Zidi Jr."
+      ],
+      "cast": [
+        "MB14",
+        "Michèle Laroque",
+        "Guillaume Duhesme",
+        "Marie Oppert",
+        "Maéva El Aroussi",
+        "Louis de Lavignère"
+      ],
+      "description": "Antoine, jeune banlieusard parisien, suit des études de comptabilité sans grande conviction, partageant son temps entre les battles de rap qu’il pratique avec talent et son job de livreur de sushis. Lors d’une course à l’Opéra Garnier, sa route croise celle de Mme Loyseau, professeur de chant dans la vénérable institution, qui détecte chez Antoine un talent brut à faire éclore. Malgré son absence de culture lyrique, Antoine est fasciné par cette forme d’expression et se laisse convaincre de suivre l’enseignement de Mme Loyseau. Antoine n’a d’autre choix que de mentir à sa famille, ses amis et toute la cité pour qui l’opéra est un truc de bourgeois, loin de leur monde.",
+      "logo": "https://image.tmdb.org/t/p/w500/oEujoYVrPpHtCiyS2yuK1oEZjwP.png"
+    },
+    {
+      "id": "tmdb:41823",
+      "type": "movie",
+      "name": "Mo' Better Blues",
+      "poster": "https://image.tmdb.org/t/p/w500/vPndhEHJ9S7ghWGaDIWhc083PHW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/elCFkGsva8a9iDwHbe8E11b2gwy.jpg",
+      "year": "1990",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Musique"
+      ],
+      "director": [
+        "Spike Lee"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Spike Lee",
+        "Wesley Snipes",
+        "Giancarlo Esposito",
+        "John Turturro",
+        "Nicholas Turturro"
+      ],
+      "description": "L'histoire d'un musicien de jazz tiraillé entre son art, ses petites amies et son imprésario, à la fin des années soixante.",
+      "logo": "https://image.tmdb.org/t/p/w500/f3Qng1ImPEPWIDBz3NnVQPVcCj9.png"
+    },
+    {
+      "id": "tmdb:1093237",
+      "type": "movie",
+      "name": "Hurry Up Tomorrow",
+      "poster": "https://image.tmdb.org/t/p/w500/n6R3tLoLIqEz7nPOjieVTS9fFw7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iqQSRP52a8q7CNViVyXz6nC5CJP.jpg",
+      "year": "2025",
+      "imdbRating": "2.4",
+      "genres": [
+        "Musique",
+        "Thriller",
+        "Drame"
+      ],
+      "director": [
+        "Trey Edward Shults"
+      ],
+      "cast": [
+        "The Weeknd",
+        "Jenna Ortega",
+        "Barry Keoghan",
+        "Riley Keough",
+        "Ash T",
+        "Paul L. Davis"
+      ],
+      "description": "Affligé par une rupture soudaine avec sa petite amie, le chanteur Abel Tesfaye, alias The Weeknd, enchaîne les spectacles et les soirées festives pour étouffer sa douleur. Alors que son équilibre psychologique s’effrite, il cède aux pressions de Lee, son gérant et ami de longue date, et accepte de se produire à Los Angeles. Mais au milieu de son premier numéro, il perd la voix. En quittant la scène, il croise le regard d’Anima, une jeune fan énigmatique avec qui il connecte immédiatement. Ensemble, ils s’éclipsent du concert.",
+      "logo": "https://image.tmdb.org/t/p/w500/iTdRzwLQEJl837eEZy5iBw5Jbiv.png"
+    }
+  ]
+}
