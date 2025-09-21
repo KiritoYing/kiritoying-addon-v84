@@ -1,0 +1,62 @@
+{
+  "id": "com.kiritoying.v85.final",
+  "version": "8.5.20",
+  "name": "🇫🇷 KiritoYing V85 Final",
+  "description": "🎬 Films + 📺 Séries | ✅ Titres V75 | ✅ Correspondance V75 | ✅ Genres Stremio | ✅ Années 'en salle'",
+  "resources": [
+    {
+      "name": "catalog",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tmdb:"
+      ]
+    }
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "id": "films_envies",
+      "type": "movie",
+      "name": "🎬 FILMS ENVIES (Triés par Notes)",
+      "genres": [
+        "Action",
+        "Animation",
+        "Aventure",
+        "Comédie",
+        "Crime",
+        "Documentaire",
+        "Drame",
+        "Familial",
+        "Guerre",
+        "Histoire",
+        "Horreur",
+        "Musique",
+        "Mystère",
+        "Romance",
+        "Science-Fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "series_envies",
+      "type": "series",
+      "name": "📺 SÉRIES ENVIES (Triées par Notes)",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Crime",
+        "Documentaire",
+        "Drame",
+        "Familial",
+        "Mystère",
+        "Western"
+      ]
+    }
+  ]
+}
