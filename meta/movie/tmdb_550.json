@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "id": "tmdb:550",
+    "type": "movie",
+    "name": "Fight Club",
+    "poster": "https://image.tmdb.org/t/p/w500/l5FwaNDvTOHLjS2RK4WcVI7AwgK.jpg",
+    "background": "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "logo": "https://images.metahub.space/logo/medium/tt0137523/img",
+    "year": "1999",
+    "genres": [
+      "Drame",
+      "Thriller"
+    ],
+    "director": [
+      "David Fincher"
+    ],
+    "cast": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Helena Bonham Carter",
+      "Meat Loaf",
+      "Jared Leto",
+      "Zach Grenier"
+    ],
+    "imdbRating": "8.4",
+    "runtime": "139 min",
+    "description": "Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux‐repas pour une personne comme beaucoup d’autres personnes seules qui connaissent la misère humaine, morale et sexuelle. C’est pourquoi il va devenir membre du Fight club, un lieu clandestin où il va pouvoir retrouver sa virilité, l’échange et la communication. Ce club est dirigé par Tyler Durden, une ...",
+    "videos": [
+      {
+        "id": "tmdb:550",
+        "title": "Fight Club",
+        "released": "1999-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/l5FwaNDvTOHLjS2RK4WcVI7AwgK.jpg"
+      }
+    ]
+  }
+}

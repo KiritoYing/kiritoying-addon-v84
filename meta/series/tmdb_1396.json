@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": "tmdb:1396",
+    "type": "series",
+    "name": "Breaking Bad",
+    "poster": "https://image.tmdb.org/t/p/w500/tP2wgZfzkZxL18jImD2YXqEUXQA.jpg",
+    "background": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "logo": null,
+    "year": "2008",
+    "genres": [
+      "Drame",
+      "Crime"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn",
+      "RJ Mitte",
+      "Dean Norris",
+      "Betsy Brandt"
+    ],
+    "creator": [
+      "Vince Gilligan"
+    ],
+    "imdbRating": "8.9",
+    "runtime": "",
+    "description": "Un professeur de chimie atteint d'un cancer s'associe à un ancien élève pour fabriquer et vendre de la méthamphétamine afin d'assurer l'avenir financier de sa famille.",
+    "status": "Terminée",
+    "videos": [
+      {
+        "id": "tmdb:1396:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2008-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/tP2wgZfzkZxL18jImD2YXqEUXQA.jpg"
+      }
+    ]
+  }
+}

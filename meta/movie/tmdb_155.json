@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "tmdb:155",
+    "type": "movie",
+    "name": "The Dark Knight : Le Chevalier noir",
+    "poster": "https://image.tmdb.org/t/p/w500/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg",
+    "background": "https://image.tmdb.org/t/p/original/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
+    "logo": "https://images.metahub.space/logo/medium/tt0468569/img",
+    "year": "2008",
+    "genres": [
+      "Drame",
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine",
+      "Maggie Gyllenhaal",
+      "Gary Oldman"
+    ],
+    "imdbRating": "8.5",
+    "runtime": "152 min",
+    "description": "Batman aborde une phase décisive de sa guerre contre le crime à Gotham City. Avec l'aide du lieutenant de police Jim Gordon et du nouveau procureur Harvey Dent, il entreprend de démanteler les dernières organisations criminelles qui infestent les rues de la ville. L'association s'avère efficace, mais le trio se heurte bientôt à un nouveau génie du crime qui répand la terreur et le chaos dans Gotha...",
+    "videos": [
+      {
+        "id": "tmdb:155",
+        "title": "The Dark Knight : Le Chevalier noir",
+        "released": "2008-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg"
+      }
+    ]
+  }
+}

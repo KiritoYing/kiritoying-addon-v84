@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": "tmdb:157336",
+    "type": "movie",
+    "name": "Interstellar",
+    "poster": "https://image.tmdb.org/t/p/w500/1pnigkWWy8W032o9TKDneBa3eVK.jpg",
+    "background": "https://image.tmdb.org/t/p/original/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+    "logo": "https://images.metahub.space/logo/medium/tt0816692/img",
+    "year": "2014",
+    "genres": [
+      "Aventure",
+      "Drame",
+      "Science-Fiction"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Michael Caine",
+      "Jessica Chastain",
+      "Casey Affleck",
+      "Wes Bentley"
+    ],
+    "imdbRating": "8.4",
+    "runtime": "169 min",
+    "description": "Dans un futur proche, face à une Terre exsangue, un groupe d’explorateurs utilise un vaisseau interstellaire pour franchir un trou de ver permettant de parcourir des distances jusque‐là infranchissables. Leur but : trouver un nouveau foyer pour l’humanité.",
+    "videos": [
+      {
+        "id": "tmdb:157336",
+        "title": "Interstellar",
+        "released": "2014-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/1pnigkWWy8W032o9TKDneBa3eVK.jpg"
+      }
+    ]
+  }
+}

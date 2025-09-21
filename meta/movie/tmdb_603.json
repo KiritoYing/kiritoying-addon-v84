@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": "tmdb:603",
+    "type": "movie",
+    "name": "Matrix",
+    "poster": "https://image.tmdb.org/t/p/w500/pEoqbqtLc4CcwDUDqxmEDSWpWTZ.jpg",
+    "background": "https://image.tmdb.org/t/p/original/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+    "logo": "https://images.metahub.space/logo/medium/tt0133093/img",
+    "year": "1999",
+    "genres": [
+      "Action",
+      "Science-Fiction"
+    ],
+    "director": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Gloria Foster",
+      "Joe Pantoliano"
+    ],
+    "imdbRating": "8.2",
+    "runtime": "135 min",
+    "description": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui‐ci l'exhorte à aller au‐delà des apparences et à trouver la réponse à la question qui h...",
+    "videos": [
+      {
+        "id": "tmdb:603",
+        "title": "Matrix",
+        "released": "1999-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/pEoqbqtLc4CcwDUDqxmEDSWpWTZ.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "id": "tmdb:2316",
+    "type": "series",
+    "name": "The Office",
+    "poster": "https://image.tmdb.org/t/p/w500/2dApsoX4bd98szjrbj5i3syYOh2.jpg",
+    "background": "https://image.tmdb.org/t/p/original/bX6Sypdpk0r8YFdVPoc3yeyvSmm.jpg",
+    "logo": null,
+    "year": "2005",
+    "genres": [
+      "Comédie"
+    ],
+    "cast": [
+      "Rainn Wilson",
+      "John Krasinski",
+      "Jenna Fischer",
+      "Ed Helms"
+    ],
+    "creator": [
+      "Greg Daniels"
+    ],
+    "imdbRating": "8.6",
+    "runtime": "",
+    "description": "Le quotidien d'un groupe d'employés de bureau dans une fabrique de papier en Pennsylvanie. Michael Scott, le responsable régional, pense être le mec le plus drôle du bureau. Il ne se doute pas que ses employés le tolèrent uniquement parce que c'est lui qui signe les chèques. S'efforçant de paraître cool et apprécié de tous, Michael est en fait perçu comme étant pathétique…",
+    "status": "Terminée",
+    "videos": [
+      {
+        "id": "tmdb:2316:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2005-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2dApsoX4bd98szjrbj5i3syYOh2.jpg"
+      }
+    ]
+  }
+}

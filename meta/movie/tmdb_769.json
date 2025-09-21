@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "id": "tmdb:769",
+    "type": "movie",
+    "name": "Les Affranchis",
+    "poster": "https://image.tmdb.org/t/p/w500/kc55cCUCZKtAFpsCnZKM5uLBzwh.jpg",
+    "background": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU877yTpZCud90M.jpg",
+    "logo": "https://images.metahub.space/logo/medium/tt0099685/img",
+    "year": "1990",
+    "genres": [
+      "Drame",
+      "Crime"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco",
+      "Paul Sorvino",
+      "Frank Sivero"
+    ],
+    "imdbRating": "8.4",
+    "runtime": "141 min",
+    "description": "Brooklyn, dans les années 50. Depuis l'enfance, le jeune Henry Hill rêve de devenir gangster. À 16 ans, il se met en selle auprès de Paul Cicero, un caïd local, et commet ses premiers délits. Arrêté et interrogé, il refuse de parler et gagne ainsi le respect du milieu. À sa sortie de prison, il fait la connaissance de James Conway et de Tommy DeVito, deux truands d'une extrême violence, et se lanc...",
+    "videos": [
+      {
+        "id": "tmdb:769",
+        "title": "Les Affranchis",
+        "released": "1990-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/kc55cCUCZKtAFpsCnZKM5uLBzwh.jpg"
+      }
+    ]
+  }
+}

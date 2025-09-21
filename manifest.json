@@ -1,0 +1,81 @@
+{
+  "id": "com.kiritoying.french.v84.final",
+  "version": "8.4.1",
+  "name": "🇫🇷 KiritoYing V84 FINAL - Affiches Françaises",
+  "description": "Addon personnel avec affiches françaises TMDB authentifiées + métadonnées complètes",
+  "logo": "https://i.postimg.cc/1XqBP8vT/kiritoying-addon-logo.png",
+  "background": "https://i.postimg.cc/3RvMg3dC/kiritoying-background.jpg",
+  "resources": [
+    {
+      "name": "catalog",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tmdb:",
+        "tvdb:",
+        "kiri:"
+      ]
+    },
+    {
+      "name": "meta",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tmdb:",
+        "tvdb:",
+        "kiri:"
+      ]
+    }
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "id": "kiritoying_films_francais",
+      "type": "movie",
+      "name": "🎬 Mes Films (Affiches FR)",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action",
+            "drame",
+            "comédie",
+            "thriller",
+            "aventure",
+            "fantaisie",
+            "crime"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kiritoying_series_francaises",
+      "type": "series",
+      "name": "📺 Mes Séries (Français)",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "drame",
+            "comédie",
+            "action",
+            "thriller",
+            "fantaisie",
+            "crime"
+          ]
+        }
+      ]
+    }
+  ],
+  "behaviorHints": {
+    "adult": false,
+    "configurable": false
+  }
+}

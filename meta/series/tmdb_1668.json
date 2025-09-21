@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": "tmdb:1668",
+    "type": "series",
+    "name": "Friends",
+    "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+    "background": "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+    "logo": null,
+    "year": "1994",
+    "genres": [
+      "Comédie"
+    ],
+    "cast": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Matt LeBlanc",
+      "Matthew Perry",
+      "David Schwimmer"
+    ],
+    "creator": [
+      "Marta Kauffman",
+      "David Crane"
+    ],
+    "imdbRating": "8.4",
+    "runtime": "",
+    "description": "Les péripéties de 6 jeunes newyorkais liés par une profonde amitié. Entre amour, travail, famille, ils partagent leurs bonheurs et leurs soucis au Central Perk, leur café favori...",
+    "status": "Terminée",
+    "videos": [
+      {
+        "id": "tmdb:1668:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "1994-01-01",
+        "thumbnail": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg"
+      }
+    ]
+  }
+}
