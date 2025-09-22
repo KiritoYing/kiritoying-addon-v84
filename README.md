@@ -48,7 +48,7 @@ Puis parmi TOUS les résultats cumulés → prendre le meilleur % de corresponda
 
 ## Installation Stremio
 ```
-https://KiritoYing.github.io/kiritoying-addon-v85-ultimate-selecteurs-exacts/manifest.json
+https://KiritoYing.github.io/kiritoying-addon-v85/manifest.json
 ```
 
 ## 📊 Catalogues Disponibles
@@ -89,3 +89,4 @@ SÉRIES: a.xXx.titlebar-link → "Fargo (2014)" (pur)
 ```
 
 **Généré le 2025-09-22 22:42 - V85 Ultimate Sélecteurs HTML Exacts**
+
