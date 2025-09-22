@@ -1,0 +1,3043 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:289",
+      "type": "movie",
+      "name": "Casablanca",
+      "poster": "https://image.tmdb.org/t/p/w500/5tVekU5MvJjws4MDr3lXYL8tLjf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+      "year": "1943",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Michael Curtiz"
+      ],
+      "cast": [
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Paul Henreid",
+        "Claude Rains",
+        "Conrad Veidt",
+        "Sydney Greenstreet"
+      ],
+      "description": "À Casablanca, pendant la Seconde Guerre mondiale, le night‐club le plus couru de la ville est tenu par Rick Blaine, un Américain en exil. Mais l’établissement sert également de refuge à ceux qui voudraient se procurer les papiers nécessaires pour quitter le pays. Lorsque Rick voit débarquer un soir le dissident politique Victor Laszlo et son épouse Ilsa, quelle n’est pas sa surprise de retrouver dans ces circonstances le grand amour de sa vie.",
+      "runtime": "1h42",
+      "logo": "https://image.tmdb.org/t/p/w500/jQwYsh4DyPZEb5xJmEpnMeVOKMk.png"
+    },
+    {
+      "id": "tmdb:313369",
+      "type": "movie",
+      "name": "La La Land",
+      "poster": "https://image.tmdb.org/t/p/w500/5KIj6aioW1UtUT1IV0qqW5iZbNH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+      "year": "2016",
+      "imdbRating": "4.2",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Musique"
+      ],
+      "director": [
+        "Damien Chazelle"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "John Legend",
+        "Rosemarie DeWitt",
+        "J.K. Simmons",
+        "Amiée Conn"
+      ],
+      "description": "Au cœur de Los Angeles, une actrice en devenir prénommée Mia sert des cafés entre deux auditions. De son côté, Sebastian, passionné de jazz, joue du piano dans des clubs miteux pour assurer sa subsistance. Tous deux sont bien loin de la vie rêvée à laquelle ils aspirent… Le destin va réunir ces doux rêveurs, mais leur coup de foudre résistera-t-il aux tentations, aux déceptions, et à la vie trépidante d’Hollywood ?",
+      "runtime": "2h08",
+      "logo": "https://image.tmdb.org/t/p/w500/97DYpdDmiOpfn9l9I2dGxDH01t1.svg"
+    },
+    {
+      "id": "tmdb:398818",
+      "type": "movie",
+      "name": "Call Me by Your Name",
+      "poster": "https://image.tmdb.org/t/p/w500/mLXvHMUiob0fgT4G6RazE6X7SY0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+      "year": "2017",
+      "imdbRating": "4.2",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Luca Guadagnino"
+      ],
+      "cast": [
+        "Armie Hammer",
+        "Timothée Chalamet",
+        "Michael Stuhlbarg",
+        "Amira Casar",
+        "Esther Garrel",
+        "Victoire du Bois"
+      ],
+      "description": "Été 1983. Elio Perlman, 17 ans, passe ses vacances dans la villa du XVIIe siècle que possède sa famille en Italie, à jouer de la musique classique, à lire et à flirter avec son amie Marzia. Son père, éminent professeur, et sa mère, traductrice, lui ont donné une excellente éducation. Un jour, Oliver, un séduisant Américain qui prépare son doctorat, vient travailler auprès du père d'Elio. Elio et Oliver vont bientôt découvrir l'éveil du désir...",
+      "runtime": "2h11",
+      "logo": "https://image.tmdb.org/t/p/w500/7trVPcYwQU63pctlSPqR7amlcs0.png"
+    },
+    {
+      "id": "tmdb:266856",
+      "type": "movie",
+      "name": "Une merveilleuse histoire du temps",
+      "poster": "https://image.tmdb.org/t/p/w500/ab7iTHrBR0Ik1tJnLW3JauLImH9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ke3lanTAgCqPMpOyutIfXzYih2s.jpg",
+      "year": "2014",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "James Marsh"
+      ],
+      "cast": [
+        "Eddie Redmayne",
+        "Felicity Jones",
+        "Charlie Cox",
+        "Emily Watson",
+        "Simon McBurney",
+        "David Thewlis"
+      ],
+      "description": "À l’âge de 21 ans, Stephen Hawking est un brillant étudiant en Cosmologie à l’Université de Cambridge, passionné par les mystères de l’univers. De nouveaux horizons s’ouvrent lorsqu’il tombe amoureux d’une étudiante en arts, Jane Wilde. Mais le jeune homme se heurte alors à un diagnostic médical sans appel qui vient bouleverser ce bonheur. Alors que ses jours sont comptés, l’amour et le soutien sans faille de Jane, vont lui donner la force de s’attaquer aux recherches sur ce qu’il a désormais de plus précieux : le temps. Ensemble, ils défient l’impossible, pour aller au-delà de ce qu’ils auraient pu imaginer : le vingt et unième siècle.",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/1UbqTvskRCJFWoAwwONPsodrxbx.png"
+    },
+    {
+      "id": "tmdb:782",
+      "type": "movie",
+      "name": "Bienvenue à Gattaca",
+      "poster": "https://image.tmdb.org/t/p/w500/a9KIIpkR6sXGHLJiXse9A7p7l9k.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+      "year": "1997",
+      "imdbRating": "4.2",
+      "genres": [
+        "Thriller",
+        "Science-Fiction",
+        "Mystère",
+        "Romance"
+      ],
+      "director": [
+        "Andrew Niccol"
+      ],
+      "cast": [
+        "Ethan Hawke",
+        "Uma Thurman",
+        "Jude Law",
+        "Alan Arkin",
+        "Loren Dean",
+        "Gore Vidal"
+      ],
+      "description": "Vincent Freeman est l'un des derniers êtres \"naturels\" nés dans un monde conçu génétiquement: il ne possède donc pas l'ADN prérequis pour lui garantir le succès. Prêt à tout pour accomplir son rêve d'explorer l'espace, il emprunte l'identité d'un athlète biologiquement supérieur. Évitant d'être démasqué en utilisant les marqueurs génétiques de ce dernier, Vincent devient rapidement l'étoile montante de GATTACA, attirant l'attention d'une collègue mystérieuse. Mais quand un directeur de vol est sauvagement assassiné, un indice laissé sur la scène du crime menace de contrecarrer les plans de Vincent.",
+      "runtime": "1h46",
+      "logo": "https://image.tmdb.org/t/p/w500/kZlUf4nsbfXnzxW8DPMMvBWZbic.png"
+    },
+    {
+      "id": "tmdb:11216",
+      "type": "movie",
+      "name": "Cinema Paradiso",
+      "poster": "https://image.tmdb.org/t/p/w500/ywJsnH7BmM6GmugCvN6ZjIfgSHv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "year": "1988",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Giuseppe Tornatore"
+      ],
+      "cast": [
+        "Philippe Noiret",
+        "Jacques Perrin",
+        "Marco Leonardi",
+        "Salvatore Cascio",
+        "Agnese Nano",
+        "Antonella Attili"
+      ],
+      "description": "Alfredo vient de mourir. Pour Salvatore, cinéaste en vogue, c’est tout un pan de son passé qui s’écroule. On l’appelait Toto a l’époque. Il partageait son temps libre entre l’office où il était enfant de chœur et la salle de cinéma paroissiale, en particulier la cabine de projection où régnait Alfredo.",
+      "runtime": "2h47",
+      "logo": "https://image.tmdb.org/t/p/w500/ai7T0EYyCL2guG3o62jwuECvEjK.png"
+    },
+    {
+      "id": "tmdb:152601",
+      "type": "movie",
+      "name": "Her",
+      "poster": "https://image.tmdb.org/t/p/w500/nkWXW5blXGmOEoDejRgy83sSb6T.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zxttikp0SNEtF4vWsg70Vs6McFi.jpg",
+      "year": "2013",
+      "imdbRating": "4.1",
+      "genres": [
+        "Romance",
+        "Science-Fiction",
+        "Drame"
+      ],
+      "director": [
+        "Spike Jonze"
+      ],
+      "cast": [
+        "Joaquin Phoenix",
+        "Scarlett Johansson",
+        "Lynn Adrianna",
+        "Lisa Renee Pitts",
+        "Gabe Gomez",
+        "Chris Pratt"
+      ],
+      "description": "Los Angeles, dans un futur proche. Theodore Twombly, un homme sensible au caractère complexe, est inconsolable suite à une rupture difficile. Il fait alors l'acquisition d'un programme informatique ultramoderne, capable de s'adapter à la personnalité de chaque utilisateur. En lançant le système, il fait la connaissance de 'Samantha', une voix féminine intelligente, intuitive et étonnamment drôle. Les besoins et les désirs de Samantha grandissent et évoluent, tout comme ceux de Theodore, et peu à peu, ils tombent amoureux…",
+      "runtime": "2h06",
+      "logo": "https://image.tmdb.org/t/p/w500/euFg9ZE59r6tWTq2vtjENupUdk7.svg"
+    },
+    {
+      "id": "tmdb:296096",
+      "type": "movie",
+      "name": "Avant toi",
+      "poster": "https://image.tmdb.org/t/p/w500/uNpiKNBkY2RV1uyYpDle9LAU0VH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+      "year": "2016",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Thea Sharrock"
+      ],
+      "cast": [
+        "Emilia Clarke",
+        "Sam Claflin",
+        "Janet McTeer",
+        "Charles Dance",
+        "Brendan Coyle",
+        "Jenna Coleman"
+      ],
+      "description": "Une charmante petite ville de l'Angleterre rurale. Si elle est originale et artiste dans l'âme, Louisa «Lou» Clark, 26 ans, n'a aucune ambition particulière. Elle se contente d'enchaîner les boulots pour permettre à ses proches de joindre les deux bouts. Jeune et riche banquier, Will Traynor était un garçon plein d'audace et d'optimisme jusqu'à ce qu'il se retrouve paralysé, suite à un accident survenu deux ans plus tôt. Devenu cynique, il a renoncé à tout et n'est plus que l'ombre de lui-même. Autant dire que ces deux-là auraient pu ne jamais se rencontrer. Mais lorsque Lou accepte de travailler comme aide-soignante auprès de Will, elle est bien décidée à lui redonner goût à la vie. Et peu à peu, les deux jeunes gens s'éprennent passionnément l'un de l'autre. La force de leur amour pourra-t-elle survivre à leur destin qui semble inexorable ?",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/kjVLDWskGTnVDRfPaBxAl0zr31j.png"
+    },
+    {
+      "id": "tmdb:332562",
+      "type": "movie",
+      "name": "A Star is Born",
+      "poster": "https://image.tmdb.org/t/p/w500/uoq8DobPxciPEJ5EuBeqDt8av76.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+      "year": "2018",
+      "imdbRating": "4.1",
+      "genres": [
+        "Musique",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Bradley Cooper"
+      ],
+      "cast": [
+        "Lady Gaga",
+        "Bradley Cooper",
+        "Sam Elliott",
+        "Andrew Dice Clay",
+        "Rafi Gavron",
+        "Anthony Ramos"
+      ],
+      "description": "Star de country un peu oubliée, Jackson Maine découvre Ally, une jeune chanteuse très prometteuse. Tandis qu’ils tombent follement amoureux l’un de l’autre, Jack propulse Ally sur le devant de la scène et fait d’elle une artiste adulée par le public. Bientôt éclipsé par le succès de la jeune femme, il vit de plus en plus mal son propre déclin…",
+      "runtime": "2h15",
+      "logo": "https://image.tmdb.org/t/p/w500/px1y5QKnt2VReQsOk4sfh71tINy.png"
+    },
+    {
+      "id": "tmdb:137",
+      "type": "movie",
+      "name": "Un jour sans fin",
+      "poster": "https://image.tmdb.org/t/p/w500/kSdgmtOmxFxdiJqK1R3kfKBqRUo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+      "year": "1993",
+      "imdbRating": "4.1",
+      "genres": [
+        "Romance",
+        "Drame",
+        "Comédie",
+        "Short"
+      ],
+      "director": [
+        "Harold Ramis"
+      ],
+      "cast": [
+        "Bill Murray",
+        "Andie MacDowell",
+        "Chris Elliott",
+        "Stephen Tobolowsky",
+        "Brian Doyle-Murray",
+        "Marita Geraghty"
+      ],
+      "description": "Phil Connors, présentateur météo grincheux et arrogant, doit tourner un reportage sur la fête de la marmotte. Mais lorsqu'il se réveille le lendemain, il découvre avec stupeur que la date n'a pas changé et qu'il est condamné à revivre un par un les événements de la veille. Connors se voit dès lors obligé de faire face à la répétition infinie du Jour de la marmotte.",
+      "runtime": "1h41",
+      "logo": "https://image.tmdb.org/t/p/w500/73sLA2qfkWg0F8oQAruLToZ1LVd.png"
+    },
+    {
+      "id": "tmdb:6114",
+      "type": "movie",
+      "name": "Dracula",
+      "poster": "https://image.tmdb.org/t/p/w500/scFDS0U5uYAjcVTyjNc7GmcZw1q.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+      "year": "1992",
+      "imdbRating": "4.1",
+      "genres": [
+        "Romance",
+        "Horreur"
+      ],
+      "director": [
+        "Francis Ford Coppola"
+      ],
+      "cast": [
+        "Gary Oldman",
+        "Winona Ryder",
+        "Anthony Hopkins",
+        "Keanu Reeves",
+        "Sadie Frost",
+        "Cary Elwes"
+      ],
+      "description": "En 1492, le prince Vlad Dracul, revenant de combattre les armées turques, trouve sa fiancée suicidée. Fou de douleur, il défie Dieu, et devient le comte Dracula, vampire de son état. Quatre cents ans plus tard, désireux de quitter la Transylvanie pour s’établir en Angleterre, il fait appel à Jonathan Harker, clerc de notaire et fiancé de la jolie Mina Murray. La jeune fille est le sosie d’Elisabeta, l’amour ancestral du comte…",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/pf0yHWRteuDq5z8qaYnqvSfxePf.png"
+    },
+    {
+      "id": "tmdb:770",
+      "type": "movie",
+      "name": "Autant en emporte le vent",
+      "poster": "https://image.tmdb.org/t/p/w500/z5cBuLqlIho5k6rIqjOVIKbwvg6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+      "year": "1939",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Guerre",
+        "Romance"
+      ],
+      "director": [
+        "Victor Fleming"
+      ],
+      "cast": [
+        "Vivien Leigh",
+        "Clark Gable",
+        "Olivia de Havilland",
+        "Leslie Howard",
+        "Hattie McDaniel",
+        "Thomas Mitchell"
+      ],
+      "description": "En Géorgie, en 1861, Scarlett O'Hara est une jeune femme fière et volontaire de la haute société sudiste. Courtisée par tous les bons partis du pays, elle n'a d'yeux que pour Ashley Wilkes malgré ses fiançailles avec sa douce et timide cousine, Melanie Hamilton. Scarlett est pourtant bien décidée à le faire changer d'avis, mais à la réception des Douze Chênes c'est du cynique Rhett Butler qu'elle retient l'attention…",
+      "runtime": "3h53",
+      "logo": "https://image.tmdb.org/t/p/w500/zWjLtMFwcsf5qFWpnvTRCjElXWb.png"
+    },
+    {
+      "id": "tmdb:843",
+      "type": "movie",
+      "name": "In the Mood for Love",
+      "poster": "https://image.tmdb.org/t/p/w500/9iciwUJTFBbjnmwfgkg6jmt8zHa.jpg",
+      "background": "https://image.tmdb.org/t/p/original/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg",
+      "year": "2000",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Wong Kar-wai"
+      ],
+      "cast": [
+        "Maggie Cheung",
+        "Tony Leung Chiu-Wai",
+        "Rebecca Pan",
+        "雷震",
+        "萧炳林",
+        "Chin Tsi-Ang"
+      ],
+      "description": "Hong Kong, 1962. M. et Mme Chow emménagent dans leur nouvel appartement le même jour que leurs voisins, M. et Mme Chan. Sans comprendre comment cela a commencé, Chow Mo-wan et Chan Li-zhen apprennent que leurs époux respectifs ont une liaison. Cette découverte les choque mais les rapproche. Ils se voient de plus en plus souvent mais le voisinage commence à s'en apercevoir. Il semble n'y avoir aucune possibilité pour eux de vivre une relation amoureuse. Mais la retenue, les réserves émotionnelles de Mme Chan hantent M. Chow, qui sent ses sentiments changer.",
+      "runtime": "1h38",
+      "logo": "https://image.tmdb.org/t/p/w500/xIQTGS3sCwZUXbMRU2FAJrqTME5.png"
+    },
+    {
+      "id": "tmdb:33320",
+      "type": "movie",
+      "name": "Millennium Actress",
+      "poster": "https://image.tmdb.org/t/p/w500/sbrJA7GSBhLBMbBRUp2NFl0Vo4H.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jZW391Kknf4YiIaZ1XHyVjnJaKe.jpg",
+      "year": "2002",
+      "imdbRating": "4.1",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Romance",
+        "Comédie",
+        "Short"
+      ],
+      "director": [
+        "Satoshi Kon"
+      ],
+      "cast": [
+        "荘司美代子",
+        "Mami Koyama",
+        "Fumiko Orikasa",
+        "津田匠子",
+        "Shōzō Iizuka",
+        "小野坂昌也"
+      ],
+      "description": "Chiyoko Fujiwara est une ancienne gloire du cinéma japonais. Aujourd'hui, âgée de 70 ans, elle vit recluse chez elle. Un jour, un homme vient lui rendre visite pour l'interviewer sur son passé. Il lui remet une clé, que Chiyoko avait perdu voilà 30 ans. Devant le journaliste et son caméraman elle se met à raconter son histoire. Une vie pleine d'amour et de passion, passée à rechercher un étrange inconnu, celui-là même qui lui a un jour remis cette clé en lui faisant la promesse de se revoir…",
+      "runtime": "1h27",
+      "logo": "https://image.tmdb.org/t/p/w500/hcocuNWjEbnk0LnQxNKCIpKwirH.png"
+    },
+    {
+      "id": "tmdb:570131",
+      "type": "movie",
+      "name": "Mon Inconnue",
+      "poster": "https://image.tmdb.org/t/p/w500/6SltsxgH5feW5cJTxjmJupEGgme.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oxcaIxASeu57f6VSn8awiXz6yZS.jpg",
+      "year": "2019",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Hugo Gélin"
+      ],
+      "cast": [
+        "François Civil",
+        "Joséphine Japy",
+        "Benjamin Lavernhe",
+        "Camille Lellouche",
+        "Amaury de Crayencour",
+        "Édith Scob"
+      ],
+      "description": "Du jour au lendemain, Raphaël se retrouve plongé dans un monde où il n'a jamais rencontré Olivia, la femme de sa vie. Comment va-t-il s’y prendre pour reconquérir sa femme, devenue une parfaite inconnue?",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/qV2Y3P9ZlYG29xjQiaa5WsnwnBa.png"
+    },
+    {
+      "id": "tmdb:1032472",
+      "type": "movie",
+      "name": "Touch - Nos étreintes passées",
+      "poster": "https://image.tmdb.org/t/p/w500/ozlQnkSWLtEvdF0Xax0HspowccO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yexLinpa15gWj3LGYOcpFwOHbnU.jpg",
+      "year": "2024",
+      "imdbRating": "4.1",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Baltasar Kormákur"
+      ],
+      "cast": [
+        "Egill Ólafsson",
+        "Kōki,",
+        "Pálmi Kormákur Baltasarsson",
+        "本木雅弘",
+        "Yōko Narahashi",
+        "Ruth Sheen"
+      ],
+      "description": "Kristofer, un vieillard solitaire, mène une existence résignée depuis la mort de son épouse, survenue quelques années plus tôt. Inquiété par ses problèmes de mémoire, il consulte un médecin, qui lui apprend qu'il souffre des premiers symptômes de la maladie d'Alzheimer. Kristofer décide alors de profiter du temps qui lui reste pour découvrir ce qui est arrivé à son premier amour, Miko, une japonaise disparue dans des circonstances mystérieuses, il y a 50 ans, à Londres. Alors qu’il s’apprête à retourner en Angleterre, Kristofer apprend que les voyages deviendront bientôt difficiles à cause de la pandémie de COVID-19, qui vient d'éclore. Pour le vieillard, c’est le début d’une véritable course contre la montre.",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/iVbfbuWBPGgO9ZA9C4AsNppwzKJ.png"
+    },
+    {
+      "id": "tmdb:194",
+      "type": "movie",
+      "name": "Le Fabuleux Destin d'Amélie Poulain",
+      "poster": "https://image.tmdb.org/t/p/w500/tdXtLG6L1QMwrv0MNdW6B9IwC8B.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+      "year": "2001",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Jean-Pierre Jeunet"
+      ],
+      "cast": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus",
+        "Serge Merlin",
+        "Jamel Debbouze",
+        "Clotilde Mollet"
+      ],
+      "description": "Amélie, une jeune serveuse dans un bar de Montmartre, passe son temps à observer les gens et à laisser son imagination divaguer. Elle s'est fixée un but : faire le bien de ceux qui l'entourent. Elle invente alors des stratagèmes pour intervenir incognito dans leur existence. Le chemin d'Amélie est jalonné de rencontres: Georgette, la buraliste hypocondriaque, Lucien, le commis d'épicerie, Madeleine Wallace, la concierge portée sur le porto et les chiens empaillés, ou encore Raymond Dufayel alias « l'homme de verre », son voisin qui ne vit qu'à travers une reproduction d'un tableau de Renoir. Cette quête du bonheur amène Amélie à faire la connaissance de Nino Quincampoix, un étrange « prince charmant ». Celui-ci partage son temps entre un train fantôme et un sex-shop, et cherche à identifier un inconnu dont la photo réapparaît sans cesse dans plusieurs cabines de photomaton.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/4D1vBiCPo8imH2bM9xHSW4FmR5n.png"
+    },
+    {
+      "id": "tmdb:142",
+      "type": "movie",
+      "name": "Le Secret de Brokeback Mountain",
+      "poster": "https://image.tmdb.org/t/p/w500/oyDdvdDZPcNNNOJJXNwmLDw9jGL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+      "year": "2005",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Ang Lee"
+      ],
+      "cast": [
+        "Heath Ledger",
+        "Jake Gyllenhaal",
+        "Michelle Williams",
+        "Anne Hathaway",
+        "Randy Quaid",
+        "Linda Cardellini"
+      ],
+      "description": "Été 1963, Wyoming. Deux jeunes cow-boys, Jack et Ennis, sont engagés pour garder ensemble un troupeau de moutons à Brokeback Mountain. Isolés au milieu d'une nature sauvage, leur complicité se transforme lentement en une attirance aussi irrésistible qu'inattendue. À la fin de la saison de transhumance, les deux hommes doivent se séparer. Ennis se marie avec sa fiancée, Alma, tandis que Jack épouse Lureen. Quand ils se revoient quatre ans plus tard, un seul regard suffit pour raviver l'amour né à Brokeback Mountain.",
+      "runtime": "2h08",
+      "logo": "https://image.tmdb.org/t/p/w500/rCSrQKlrs0MXlBXgps60gSZW2TI.png"
+    },
+    {
+      "id": "tmdb:293863",
+      "type": "movie",
+      "name": "Adaline",
+      "poster": "https://image.tmdb.org/t/p/w500/yxQ84WS0zaeMBkWsbJcO8GlQEKf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wTvDGO0xGMmnScqjuiDeWU7PkcB.jpg",
+      "year": "2015",
+      "imdbRating": "4.0",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Lee Toland Krieger"
+      ],
+      "cast": [
+        "Blake Lively",
+        "Michiel Huisman",
+        "Harrison Ford",
+        "Ellen Burstyn",
+        "Kathy Baker",
+        "Amanda Crew"
+      ],
+      "description": "Après un accident qui aurait dû lui être fatal, la belle Adaline cesse de vieillir. Aujourd'hui, bien qu'ayant vécu près de huit décennies, elle est toujours âgée de 29 ans. Après avoir mené une existence solitaire afin de ne jamais révéler son secret, une rencontre fortuite avec le philanthrope et charismatique Ellis Jones, va raviver sa passion de la vie et de l'amour.",
+      "runtime": "1h53",
+      "logo": "https://image.tmdb.org/t/p/w500/7kb04lA8J8jCCYg7HLrO3e05nZ9.png"
+    },
+    {
+      "id": "tmdb:449176",
+      "type": "movie",
+      "name": "Love, Simon",
+      "poster": "https://image.tmdb.org/t/p/w500/qnA8dIE9yrI4KGO9qgemu79YBCR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rqMEeajyzSF4PpJtdCB816Iz8Vr.jpg",
+      "year": "2018",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Greg Berlanti"
+      ],
+      "cast": [
+        "Nick Robinson",
+        "Logan Miller",
+        "Alexandra Shipp",
+        "Katherine Langford",
+        "Jorge Lendeborg Jr.",
+        "Jennifer Garner"
+      ],
+      "description": "On mérite tous une première grande histoire d’amour. Pourtant pour le jeune Simon, c’est compliqué. Il a une vie normale, dans une famille qu’il adore, et est entouré d’amis extraordinaires, mais il garde pour lui un grand secret : personne ne sait qu’il est gay et il ne connaît pas l’identité de son premier coup de coeur, avec qui il communique en ligne. Alors que son secret est menacé d’être révélé, la vie de Simon bascule dans une aventure aussi drôle que bouleversante... Ses amis prendront alors une place essentielle pour l’aider à changer sa vie et découvrir le premier amour.",
+      "runtime": "1h49",
+      "logo": "https://image.tmdb.org/t/p/w500/vTdwi2Oz6TxD6075ptwy8IS6DAT.png"
+    },
+    {
+      "id": "tmdb:83666",
+      "type": "movie",
+      "name": "Moonrise Kingdom",
+      "poster": "https://image.tmdb.org/t/p/w500/iDfjUWJ0w8XmEgaL4n1m7GI86BE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9lARefvwwjSvHai0ruqwKNqA9Jz.jpg",
+      "year": "2012",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Wes Anderson"
+      ],
+      "cast": [
+        "Jared Gilman",
+        "Kara Hayward",
+        "Bruce Willis",
+        "Edward Norton",
+        "Bill Murray",
+        "Frances McDormand"
+      ],
+      "description": "Sur une île au large de la Nouvelle-Angleterre, au cœur de l’été 1965, Suzy et Sam, douze ans, tombent amoureux, concluent un pacte secret et s’enfuient ensemble. Alors que chacun se mobilise pour les retrouver, une violente tempête s’approche des côtes et va bouleverser davantage encore la vie de la communauté.",
+      "runtime": "1h34",
+      "logo": "https://image.tmdb.org/t/p/w500/rMROETV7jYPi01iSUAkE3HPFGX2.png"
+    },
+    {
+      "id": "tmdb:12163",
+      "type": "movie",
+      "name": "The Wrestler",
+      "poster": "https://image.tmdb.org/t/p/w500/7QpX4fwxAG6F90dCp6TgXYX0YkI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wcJmFsz8RqIhozMwvU81hreTX4i.jpg",
+      "year": "2008",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Darren Aronofsky"
+      ],
+      "cast": [
+        "Mickey Rourke",
+        "Marisa Tomei",
+        "Evan Rachel Wood",
+        "Mark Margolis",
+        "Todd Barry",
+        "Wass Stevens"
+      ],
+      "description": "A la fin des années 80, Randy Robinson, dit The Ram (\"Le Bélier\"), était une star du catch. Vingt ans plus tard, il ne se produit plus que dans des salles de gym de lycées ou des maisons de quartier... Brouillé avec sa fille, il est incapable d'entretenir une relation durable avec quiconque : il ne vit que pour le plaisir du spectacle et l'adoration de ses fans. Mais lorsqu'il est foudroyé par une crise cardiaque au beau milieu d'un match, son médecin lui ordonne d'abandonner le catch : un autre combat pourrait lui être fatal. Contraint de se ranger, il tente de renouer avec sa fille et, dans le même temps, entame une liaison avec une strip-teaseuse vieillissante. Pourtant, son goût du spectacle et sa passion pour le catch risquent bien de reprendre le dessus et de le propulser de nouveau sur le ring...",
+      "runtime": "1h49",
+      "logo": "https://image.tmdb.org/t/p/w500/xf8bapYElfbnpKEVRUAiylJANEq.png"
+    },
+    {
+      "id": "tmdb:15121",
+      "type": "movie",
+      "name": "La Mélodie du bonheur",
+      "poster": "https://image.tmdb.org/t/p/w500/yhU480VM3EMEb1O8u5gbLeG7QqT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ioQYjcRnU54ir5ltgyS7k53zw5x.jpg",
+      "year": "1965",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Familial",
+        "Musique",
+        "Romance"
+      ],
+      "director": [
+        "Robert Wise"
+      ],
+      "cast": [
+        "Julie Andrews",
+        "Christopher Plummer",
+        "Eleanor Parker",
+        "Richard Haydn",
+        "Peggy Wood",
+        "Charmian Carr"
+      ],
+      "description": "En Autriche, Maria est une jeune femme qui se prépare à devenir religieuse dans une abbaye bénédictine située à Salzbourg. Son couvent l'envoie en tant que gouvernante de sept enfants, dans la famille d'un veuf, le capitaine Georg Ritter von Trapp. Au début, les enfants se montrent hostiles et espiègles. Elle tient bon, tout en leur enseignant le chant. Bientôt, elle leur sert d'amie et de confidente.",
+      "runtime": "2h54",
+      "logo": "https://image.tmdb.org/t/p/w500/puBfisleykHnt7GawgPf5TcIUL8.png"
+    },
+    {
+      "id": "tmdb:74643",
+      "type": "movie",
+      "name": "The Artist",
+      "poster": "https://image.tmdb.org/t/p/w500/khtVL4abxYczXAWbo1wAz13CLx3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+      "year": "2011",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Michel Hazanavicius"
+      ],
+      "cast": [
+        "Jean Dujardin",
+        "Bérénice Bejo",
+        "John Goodman",
+        "James Cromwell",
+        "Penelope Ann Miller",
+        "Missi Pyle"
+      ],
+      "description": "Hollywood 1927. George Valentin est une vedette du cinéma muet à qui tout sourit. L’arrivée des films parlants va le faire sombrer dans l’oubli. Peppy Miller, jeune figurante, va elle, être propulsée au firmament des stars.",
+      "runtime": "1h40",
+      "logo": "https://image.tmdb.org/t/p/w500/qsD9bZC1trW1BZ3WFdBUnSGvpBL.png"
+    },
+    {
+      "id": "tmdb:228205",
+      "type": "movie",
+      "name": "Chemins croisés",
+      "poster": "https://image.tmdb.org/t/p/w500/8F0VQbginY7eqV1dnueEP3CJHbR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gmCo8EaYhvHx2zRw70KcjhVA7wn.jpg",
+      "year": "2015",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "George Tillman Jr."
+      ],
+      "cast": [
+        "Britt Robertson",
+        "Scott Eastwood",
+        "Alan Alda",
+        "Jack Huston",
+        "Oona Chaplin",
+        "Melissa Benoist"
+      ],
+      "description": "L'histoire d'amour de Luke, un ancien champion de rodéo et Sophia, une étudiante à l'unversité qui aspire à travailler dans le monde de l'art à New York. Alors que leur couple est mis à l'epreuve par les difficultés de la vie, Sophia et Luke se lient d'amitié avec Ira, un vétéran de la Seconde Guerre mondiale qui leur raconte son propre parcours amoureux tumultueux et tragique.",
+      "runtime": "2h19",
+      "logo": "https://image.tmdb.org/t/p/w500/rEoMrJ0GxvmiSNguEURCrUbrk1w.png"
+    },
+    {
+      "id": "tmdb:84199",
+      "type": "movie",
+      "name": "The First Time",
+      "poster": "https://image.tmdb.org/t/p/w500/tG6jUndWd9FRuvI4j5Z2bhTuq0V.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dE0NoGwzU81sYTLY9gUGEzLjozG.jpg",
+      "year": "2012",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Jon Kasdan"
+      ],
+      "cast": [
+        "Dylan O'Brien",
+        "Britt Robertson",
+        "Craig Roberts",
+        "James Frecheville",
+        "Victoria Justice",
+        "Maggie Elizabeth Jones"
+      ],
+      "description": "Dave, un lycéen timide, est amoureux d'une fille superficielle qui ne voit en lui que son meilleur confident. Aubrey, lycéenne sensible qui apprécie les arts plastiques, flirte avec un musicien plutôt égocentrique. Dave et Aubrey se rencontrent par hasard à une fête et s'aperçoivent qu'ils peuvent dialoguer comme ils ne l'ont encore jamais fait avec personne. Cette découverte modifie leurs sentiments, et les amène à reconsidérer leurs choix, ce qui est perturbant pour eux comme pour leur entourage. D'autant que tout se joue en un week-end.",
+      "runtime": "1h35",
+      "logo": "https://image.tmdb.org/t/p/w500/wpcRvjMJeAnNRreDbI6Sh5Kz1Z0.png"
+    },
+    {
+      "id": "tmdb:511809",
+      "type": "movie",
+      "name": "West Side Story",
+      "poster": "https://image.tmdb.org/t/p/w500/bIIZD2Lg29vMRtz8ApsuD8iqqmu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+      "year": "2021",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Crime"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Ansel Elgort",
+        "Rachel Zegler",
+        "Ariana DeBose",
+        "David Alvarez",
+        "Mike Faist",
+        "Brian d'Arcy James"
+      ],
+      "description": "Dans les années 1950, deux bandes de jeunes s'affrontent pour le contrôle d'un quartier défavorisé de l'Upper West Side en pleine gentrification. Il y d'un côté les immigrés portoricains des Sharks, dirigés par Bernardo et de l'autre les Américains des Jets, avec Riff à leur tête. Récemment sorti de prison, Tony, lié aux Jets, en a marre de cette violence quotidienne. Il préfère travailler dans la boutique de Valentina, veuve de Doc. Un jour, lors d'une soirée dansante au lycée, Tony tombe sous le charme de María, la sœur de Bernardo. Cependant, du fait de leur appartenance à ces bandes opposées, il s’agit d’un amour impossible.",
+      "runtime": "2h36",
+      "logo": "https://image.tmdb.org/t/p/w500/kM1lOQcZKpsD0l6O1JVsVOdhHQE.png"
+    },
+    {
+      "id": "tmdb:283552",
+      "type": "movie",
+      "name": "Une vie entre deux océans",
+      "poster": "https://image.tmdb.org/t/p/w500/2TsTOMryTX19Ksq0ThKSdMAQF8k.jpg",
+      "background": "https://image.tmdb.org/t/p/original/s72jkxT7xPbfGxnE1lETq5OywvY.jpg",
+      "year": "2016",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Derek Cianfrance"
+      ],
+      "cast": [
+        "Michael Fassbender",
+        "Alicia Vikander",
+        "Rachel Weisz",
+        "Bryan Brown",
+        "Jack Thompson",
+        "Caren Pistorius"
+      ],
+      "description": "Sur une petite île sauvage perdue au large de l'Australie, peu après la Première Guerre mondiale, Tom Sherbourne, le gardien du phare, vit heureux avec son épouse Isabel. Loin du tumulte du monde, il peut enfin oublier tout ce qu'il a vécu au combat. Mais leur bonheur se ternit peu à peu : Isabel ne peut pas avoir d'enfant, et elle se désespère... Un jour, un canot vient s'échouer sur la plage, avec à son bord le cadavre d'un homme et un bébé bien vivant. Isabel supplie son mari de garder le secret, de passer outre le règlement et de ne pas signaler l'événement. Elle veut garder l'enfant et l'élever comme le leur... Par amour pour sa femme, Tom accepte. Mais la réalité va les rattraper et le secret ronger leur cœur et leur vie...",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/tijc6rw5a5iqxjKgiHMQHN6TmRP.png"
+    },
+    {
+      "id": "tmdb:994108",
+      "type": "movie",
+      "name": "Sans jamais nous connaître",
+      "poster": "https://image.tmdb.org/t/p/w500/tNM9eZorWI2meW3rxpenu6YjdtC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8yjHiSuSEhzR916LcIecuQ8tETG.jpg",
+      "year": "2023",
+      "imdbRating": "4.0",
+      "genres": [
+        "Romance",
+        "Drame",
+        "Short"
+      ],
+      "director": [
+        "Andrew Haigh"
+      ],
+      "cast": [
+        "Andrew Scott",
+        "Paul Mescal",
+        "Carter John Grout",
+        "Jamie Bell",
+        "Claire Foy",
+        "Ami Tredrea"
+      ],
+      "description": "Le scénariste Adam rencontre son mystérieux voisin Harry. Alors qu'Adam et Harry se rapprochent, Adam est ramené dans sa maison d'enfance où il découvre que ses parents - décédés depuis longtemps - sont tous deux vivants et semblent avoir le même âge que le jour de leur mort, il y a plus de 30 ans.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/j4Qy7g0dPE1Fel6g0TcEd7cIJwR.png"
+    },
+    {
+      "id": "tmdb:407445",
+      "type": "movie",
+      "name": "Breathe",
+      "poster": "https://image.tmdb.org/t/p/w500/s5F2PXTubh6IZr1gIvQ8EYDdMHH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/quVfDYktBYQfojgZ3E9pYrclGse.jpg",
+      "year": "2017",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Andy Serkis"
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Claire Foy",
+        "Hugh Bonneville",
+        "Tom Hollander",
+        "Miranda Raison",
+        "Dean-Charles Chapman"
+      ],
+      "description": "Le jeune Robin Cavendish semble avoir la vie devant lui: brillant, talentueux, aventurier, il fait la rencontre de la belle Diana qui devient très vite sa femme. Lors d’un voyage en Afrique, Robin est soudainement terrassé par la polio. Ses chances de survie sont faibles… Mais l’amour indéfectible qu’ils se portent permettra à Robin de vivre une vie meilleure hors des murs de l’hôpital. Leur combat va changer les conditions de vie de millions de personnes à travers le monde. Breathe retrace l’histoire vraie de ce destin hors-norme fait de courage et détermination.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/1we38oBDrTvcyZbI9kpiXzsHs1f.png"
+    },
+    {
+      "id": "tmdb:851644",
+      "type": "movie",
+      "name": "20th Century Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/rSNtRQpCsDckczokmynAcVAt4Fm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/37y53Jt8K6MvN6s4zJVFa61luO2.jpg",
+      "year": "2022",
+      "imdbRating": "4.0",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Bang Woo-ri"
+      ],
+      "cast": [
+        "Kim You-jung",
+        "Byeon Woo-seok",
+        "박정우",
+        "노윤서",
+        "김성경",
+        "정석용"
+      ],
+      "description": "En 1999, Bo-ra, 17 ans, s'attelle à la tâche la plus importante de son adolescence, car l'amitié est plus forte que tout, plus forte même que l'amour. Quand Yeon-doo se rend à l'étranger pour être opérée du cœur, Bo-ra promet de surveiller le premier amour de son amie et de lui raconter tous ses faits et gestes.",
+      "runtime": "1h59",
+      "logo": "https://image.tmdb.org/t/p/w500/cT5t0754dRzgxbOOcG3q4Tk4yRG.png"
+    },
+    {
+      "id": "tmdb:814757",
+      "type": "movie",
+      "name": "Empire of Light",
+      "poster": "https://image.tmdb.org/t/p/w500/g4o4ssQtSW0YpcQD6AZDZRtNzCV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/frV7YxDmZizcFjP5kKMFK37OrCC.jpg",
+      "year": "2022",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Sam Mendes"
+      ],
+      "cast": [
+        "Olivia Colman",
+        "Micheal Ward",
+        "Toby Jones",
+        "Colin Firth",
+        "Tom Brooke",
+        "Tanya Moodie"
+      ],
+      "description": "Angleterre, 1980. Hilary travaille dans un cinéma : un lieu tout indiqué qui lui permet d'être en contact avec des gens et de rompre la solitude. Cette femme d'âge mûr est chargée d'apprendre les rudiments du métier à Stephen, un jeune homme noir charismatique. Bien que tout semble les séparer, une solide complicité et même une relation amoureuse se dessinent entre les deux employés.",
+      "runtime": "1h53",
+      "logo": "https://image.tmdb.org/t/p/w500/naU2A3rXkVbOAzlH9iL8OuKBFiT.png"
+    },
+    {
+      "id": "tmdb:431937",
+      "type": "movie",
+      "name": "Mr & Mme Adelman",
+      "poster": "https://image.tmdb.org/t/p/w500/53Zy4zL31TSjxjQ0awxVQTOVtBn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uyYgW4aUwGRh2pdyMgNfeqBC0Jc.jpg",
+      "year": "2017",
+      "imdbRating": "4.0",
+      "genres": [
+        "Romance",
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Nicolas Bedos"
+      ],
+      "cast": [
+        "Nicolas Bedos",
+        "Doria Tillier",
+        "Denis Podalydès",
+        "Pierre Arditi",
+        "Zabou Breitman",
+        "Julien Boisselier"
+      ],
+      "description": "C’est l’enterrement d’un célèbre écrivain. Les hommages pleuvent mais certains s'interrogent sur les étranges circonstances de sa mort. Un jeune biographe demande à la veuve de raconter toute leur histoire. Ne fut-elle pas sa muse, sa première lectrice et sa compagne depuis les années 70? Commence alors un récit retraçant cinquante ans de vie commune, d'amour, de jalousie, de tromperies…",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/j7sCAsudMOzlAMFrodR37dxyzWl.png"
+    },
+    {
+      "id": "tmdb:64682",
+      "type": "movie",
+      "name": "Gatsby le Magnifique",
+      "poster": "https://image.tmdb.org/t/p/w500/apvQQZTVLTEHrkQiDdUe3jUDY9Y.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5mQZqk2qSJCsYmvw1cQJLEcLNYM.jpg",
+      "year": "2013",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Baz Luhrmann"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Tobey Maguire",
+        "Carey Mulligan",
+        "Joel Edgerton",
+        "Elizabeth Debicki",
+        "Isla Fisher"
+      ],
+      "description": "Printemps 1922. L'époque est propice au relâchement des mœurs, à l'essor du jazz et à l’enrichissement des contrebandiers d’alcool… Apprenti écrivain, Nick Carraway quitte la région du Middle‐West pour s'installer à New York. Voulant sa part du rêve américain, il vit désormais entouré d'un mystérieux millionnaire, Jay Gatsby, qui s'étourdit en fêtes mondaines, et de sa cousine Daisy et de son mari volage, Tom Buchanan, issu de sang noble. C’est ainsi que Nick se retrouve au cœur du monde fascinant des milliardaires, de leurs illusions, de leurs amours et de leurs mensonges. Témoin privilégié de son temps, il se met à écrire une histoire où se mêlent des amours impossibles, des rêves d’absolu et des tragédies ravageuses et, chemin faisant, nous tend un miroir où se reflètent notre époque moderne et ses combats.",
+      "runtime": "2h22",
+      "logo": "https://image.tmdb.org/t/p/w500/8fqb5aVk9qWrIJjjMhCImTlugwT.png"
+    },
+    {
+      "id": "tmdb:153",
+      "type": "movie",
+      "name": "Lost in Translation",
+      "poster": "https://image.tmdb.org/t/p/w500/bUDD5bfF5EHzBwPhL9iJeZuHjVE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+      "year": "2003",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Comédie",
+        "Short"
+      ],
+      "director": [
+        "Sofia Coppola"
+      ],
+      "cast": [
+        "Bill Murray",
+        "Scarlett Johansson",
+        "Giovanni Ribisi",
+        "Anna Faris",
+        "Akiko Takeshita",
+        "Kazuyoshi Minamimagoe"
+      ],
+      "description": "Bob Harris, acteur sur le déclin, se rend à Tokyo pour tourner un spot publicitaire. Il a conscience qu'il se trompe - il devrait être chez lui avec sa famille, jouer au théâtre ou encore chercher un rôle dans un film -, mais il a besoin d'argent. Du haut de son hôtel de luxe, il contemple la ville, mais ne voit rien. Il est ailleurs, détaché de tout, incapable de s'intégrer à la réalité qui l'entoure, incapable également de dormir à cause du décalage horaire. Dans ce même établissement, Charlotte, une jeune Américaine fraîchement diplômée, accompagne son mari, photographe de mode. Ce dernier semble s'intéresser davantage à son travail qu'à sa femme. Se sentant délaissée, Charlotte cherche un peu d'attention. Elle va en trouver auprès de Bob...",
+      "runtime": "1h42",
+      "logo": "https://image.tmdb.org/t/p/w500/pMVDJOPEEhQ0ATtmuk48xEdmyMT.png"
+    },
+    {
+      "id": "tmdb:11224",
+      "type": "movie",
+      "name": "Cendrillon",
+      "poster": "https://image.tmdb.org/t/p/w500/nqSJwBdvG89uHRpDDdaAy5YhogZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+      "year": "1950",
+      "imdbRating": "3.9",
+      "genres": [
+        "Familial",
+        "Animation",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Clyde Geronimi",
+        "Wilfred Jackson"
+      ],
+      "cast": [
+        "Ilene Woods",
+        "Eleanor Audley",
+        "Verna Felton",
+        "Claire Du Brey",
+        "Rhoda Williams",
+        "James MacDonald"
+      ],
+      "description": "D’un coup de baguette magique, la fée Marraine transforme les haillons de Cendrillon en robe féérique et, dans une citrouille changée en carrosse, l’envoie au bal. Mais le charme se rompt à minuit. Les souris, Jaq et Gus, et une pantoufle de vair contribueront au dénouement d'un conte de fées des plus mémorables.",
+      "runtime": "1h14",
+      "logo": "https://image.tmdb.org/t/p/w500/klVAyNv6I0rGLP5BiatEDGAnnz8.png"
+    },
+    {
+      "id": "tmdb:31011",
+      "type": "movie",
+      "name": "Mr. Nobody",
+      "poster": "https://image.tmdb.org/t/p/w500/aEvRQX3X6xCaB45zPr6rIj4inou.jpg",
+      "background": "https://image.tmdb.org/t/p/original/y9zcjxEilWr44c4vJbEaLTgE0Uw.jpg",
+      "year": "2009",
+      "imdbRating": "3.9",
+      "genres": [
+        "Science-Fiction",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Jaco Van Dormael"
+      ],
+      "cast": [
+        "Jared Leto",
+        "Sarah Polley",
+        "Diane Kruger",
+        "Linh-Dan Pham",
+        "Rhys Ifans",
+        "Natasha Little"
+      ],
+      "description": "En 2092, Nemo Nobody, âgé de 118 ans, est le dernier mortel vivant dans un monde d'immortels. Il est interrogé sur son passé et se retrouve sous les soins du docteur Feldheim, qui veut l'aider à mettre de l'ordre dans ses souvenirs brouillés. Profondément marqué par le divorce de ses parents et par ses échecs sentimentaux, le vieillard a des trous de mémoire et son témoignage est constitué d’épisodes contradictoires de son enfance, de ses amours et de sa vie conjugale.  Nemo Nobody se remémore à travers différents flashbacks ses différentes vies dans des espaces-temps différents. Il imagine alors douze vies parallèles dont chacune est caractérisée par une épouse différente. Les variations de cette arborescence s'en tiennent parfois à très peu de choses, soit une illustration de l'effet papillon. Nemo livre par intermittence au spectateur quelques réflexions sur l'espace-temps, notamment le Big Crunch.",
+      "runtime": "2h21",
+      "logo": "https://image.tmdb.org/t/p/w500/yZgjTXSy7hL9BUcCqwdOofeASNt.png"
+    },
+    {
+      "id": "tmdb:116",
+      "type": "movie",
+      "name": "Match Point",
+      "poster": "https://image.tmdb.org/t/p/w500/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
+      "background": "https://image.tmdb.org/t/p/original/w281eYXUFwrcPLiifaJRpE2LwlA.jpg",
+      "year": "2005",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Thriller"
+      ],
+      "director": [
+        "Woody Allen"
+      ],
+      "cast": [
+        "Jonathan Rhys Meyers",
+        "Scarlett Johansson",
+        "Emily Mortimer",
+        "Matthew Goode",
+        "Brian Cox",
+        "Penelope Wilton"
+      ],
+      "description": "Jeune professeur de tennis issu d'un milieu modeste, Chris Wilton se fait embaucher dans un club huppé des beaux quartiers de Londres. Il ne tarde pas à sympathiser avec Tom Hewett, un jeune homme de la haute société avec qui il partage sa passion pour l'opéra. Très vite, Chris fréquente régulièrement les Hewett et séduit Chloe, la sœur de Tom. Alors qu'il s'apprête à l'épouser et qu'il voit sa situation sociale se métamorphoser, il fait la connaissance de la ravissante fiancée de Tom, Nola Rice, une jeune Américaine venue tenter sa chance comme comédienne en Angleterre...",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/li2Pac8gJXr7Azkz6RRmn4IKebj.png"
+    },
+    {
+      "id": "tmdb:1443",
+      "type": "movie",
+      "name": "Virgin Suicides",
+      "poster": "https://image.tmdb.org/t/p/w500/yHIAt0xdPis7UwoJuM2AwORsLAM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6b6UpsOXmjO8mJKYsGTG9HW49CN.jpg",
+      "year": "2000",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Sofia Coppola"
+      ],
+      "cast": [
+        "Kirsten Dunst",
+        "Josh Hartnett",
+        "James Woods",
+        "Kathleen Turner",
+        "Michael Paré",
+        "A. J. Cook"
+      ],
+      "description": "Dans une ville américaine tranquille et puritaine des années soixante-dix, Cecilia Lisbon, 13 ans, tente de se suicider. Elle a 4 sœurs, de jolies adolescentes. Cet incident éclaire d'un jour nouveau le mode de vie de toute la famille. L'histoire, relatée par l’intermédiaire de la vision des garçons du voisinage, obsédés par ces sœurs mystérieuses, dépeint avec cynisme la vie adolescente. Petit a petit, la famille se referme et les filles reçoivent rapidement l'interdiction de sortir. Alors que la situation s'enlise, les garçons envisagent de secourir les filles.",
+      "runtime": "1h36",
+      "logo": "https://image.tmdb.org/t/p/w500/fqhpF4eXvK5ASG4ljuZxR89MyCf.png"
+    },
+    {
+      "id": "tmdb:409",
+      "type": "movie",
+      "name": "Le Patient anglais",
+      "poster": "https://image.tmdb.org/t/p/w500/r6xJpyD0KuIBW891S1SxNn1XuAQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yYe63HwFBNFDcnWtBm8KR6NSAeg.jpg",
+      "year": "1996",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Guerre"
+      ],
+      "director": [
+        "Anthony Minghella"
+      ],
+      "cast": [
+        "Ralph Fiennes",
+        "Juliette Binoche",
+        "Willem Dafoe",
+        "Kristin Scott Thomas",
+        "Naveen Andrews",
+        "Colin Firth"
+      ],
+      "description": "En 1945, quatre personnes déchirées par la guerre se réfugient dans un monastère abandonné de Toscane pour se guérir de leurs maux. Peu à peu le passé va resurgir et la présence d'un homme mystérieux et méconnaissable, le patient anglais, va bouleverser le destin de ceux qui croisent son chemin.",
+      "runtime": "2h40",
+      "logo": "https://image.tmdb.org/t/p/w500/zN0v8YRDOWeV3ATyVvgppVXG3XH.png"
+    },
+    {
+      "id": "tmdb:921",
+      "type": "movie",
+      "name": "De l'ombre à la lumière",
+      "poster": "https://image.tmdb.org/t/p/w500/3WFqefpOIBmj6kqZ5zvnZw8Dy6M.jpg",
+      "background": "https://image.tmdb.org/t/p/original/huf42HJE04aFDr6RZEGw1Xxb6Pv.jpg",
+      "year": "2005",
+      "imdbRating": "3.9",
+      "genres": [
+        "Romance",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Ron Howard"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Renée Zellweger",
+        "Paul Giamatti",
+        "Craig Bierko",
+        "Paddy Considine",
+        "Bruce McGill"
+      ],
+      "description": "Autrefois boxeur prometteur, Jim Braddock s'est vu contraint d'abandonner la compétition après une série de défaites. Alors que l'Amérique sombre dans la `Grande Dépression', Jim accepte n'importe quel petit boulot pour faire vivre sa femme Mae et leurs enfants. Il n'abandonne pourtant pas l'espoir de remonter un jour sur le ring. Grâce à une annulation de dernière minute, Jim est appelé à combattre le deuxième challenger mondial, à la stupéfaction générale il gagne au troisième round.",
+      "runtime": "2h24",
+      "logo": "https://image.tmdb.org/t/p/w500/qJyLTfIq65XFCqRZ7MY4MXH7ySM.png"
+    },
+    {
+      "id": "tmdb:802",
+      "type": "movie",
+      "name": "Lolita",
+      "poster": "https://image.tmdb.org/t/p/w500/oNTBCmVYgPNsGZXb3zMB8X5tp03.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xGiqZw1AJJ6BZRNUT1XVBMBofnr.jpg",
+      "year": "1962",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Stanley Kubrick"
+      ],
+      "cast": [
+        "James Mason",
+        "Shelley Winters",
+        "Sue Lyon",
+        "Gary Cockrell",
+        "Jerry Stovin",
+        "Diana Decker"
+      ],
+      "description": "L'écrivain Humbert Humbert vient d'obtenir une chaire de littérature française à l'université de Ramsdale. Il trouve une chambre chez une jeune veuve, Charlotte Haze, qui tombe rapidement amoureuse de lui. Mais les yeux d'Humbert ne voient que Lolita, l'aguichante et troublante fille de Charlotte. Pour être sûr de rester toujours auprès de la jeune fille, il finit par céder aux multiples avances de sa mère, et accepte de l'épouser. Un accident vient à point nommé abréger la vie de Charlotte, au moment même où elle apprend la vérité sur les sentiments de Humbert. L'écrivain entraîne alors Lolita dans une folle passion qui les mènera jusqu'au meurtre…",
+      "runtime": "2h33",
+      "logo": "https://image.tmdb.org/t/p/w500/b9NhXfe4t3Ka7lK3OPYivbNWwSu.png"
+    },
+    {
+      "id": "tmdb:130150",
+      "type": "movie",
+      "name": "Last Days of Summer",
+      "poster": "https://image.tmdb.org/t/p/w500/d31FFx2ymTw9UvlK1SO3inDoT4t.jpg",
+      "background": "https://image.tmdb.org/t/p/original/feO6v1UMaCDFsshStLpAv2FwARz.jpg",
+      "year": "2013",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Thriller"
+      ],
+      "director": [
+        "Jason Reitman"
+      ],
+      "cast": [
+        "Kate Winslet",
+        "Josh Brolin",
+        "Gattlin Griffith",
+        "Tobey Maguire",
+        "Tom Lipinski",
+        "Maika Monroe"
+      ],
+      "description": "À Holton Mills, dans le New Hampshire, Henry, un adolescent solitaire de 13 ans, passe son été devant la télévision à fantasmer sur une fille de sa classe. Mais le jour précédant la Fête du Travail, Henry vient en aide à un mystérieux homme…",
+      "runtime": "1h51"
+    },
+    {
+      "id": "tmdb:458534",
+      "type": "movie",
+      "name": "Tout le monde debout",
+      "poster": "https://image.tmdb.org/t/p/w500/h065db1br7f9VW0x0LkOVfdtZqG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/f5GsxbAgEDl0kHUkxrl0da7QVta.jpg",
+      "year": "2018",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Franck Dubosc"
+      ],
+      "cast": [
+        "Franck Dubosc",
+        "Alexandra Lamy",
+        "Elsa Zylberstein",
+        "Gérard Darmon",
+        "Caroline Anglade",
+        "Laurent Bateau"
+      ],
+      "description": "Jocelyn, homme d'affaire en pleine réussite, égoïste et misogyne, lassé d'être lui-même, se retrouve malgré lui à séduire une jeune et jolie femme en se faisant passer pour un handicapé. Jusqu'au jour où elle lui présente sa sœur elle-même handicapée…",
+      "runtime": "1h47",
+      "logo": "https://image.tmdb.org/t/p/w500/nqppen2QghKeNJNWPceE6OpMHPM.png"
+    },
+    {
+      "id": "tmdb:744114",
+      "type": "movie",
+      "name": "My Policeman",
+      "poster": "https://image.tmdb.org/t/p/w500/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
+      "year": "2022",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Michael Grandage"
+      ],
+      "cast": [
+        "Gina McKee",
+        "Linus Roache",
+        "Rupert Everett",
+        "Harry Styles",
+        "Emma Corrin",
+        "David Dawson"
+      ],
+      "description": "Le destin de Tom, policier, de Marion et de Patrick, conservateur de musée. Tous trois vont vivre un voyage riche en émotions dans la Grande-Bretagne des années 50. Dans les années 90, Tom, Marion et Patrick sont toujours transportés par le désir et le regret, mais ils ont une dernière chance de réparer les dégâts du passé.",
+      "runtime": "1h53",
+      "logo": "https://image.tmdb.org/t/p/w500/tOw0YQM2N6IocbDdlVWqQyrRJNL.png"
+    },
+    {
+      "id": "tmdb:988402",
+      "type": "movie",
+      "name": "Vampire humaniste cherche suicidaire consentant",
+      "poster": "https://image.tmdb.org/t/p/w500/dbasJMS6qn8OdEQR0E2ZLz4pkLg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7t7IQhdA5rO8jhinE3ig258hqlf.jpg",
+      "year": "2023",
+      "imdbRating": "3.9",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Horreur",
+        "Short"
+      ],
+      "director": [
+        "Ariane Louis-Seize"
+      ],
+      "cast": [
+        "Sara Montpetit",
+        "Félix-Antoine Bénard",
+        "Steve Laplante",
+        "Sophie Cadieux",
+        "Noémie O'Farrell",
+        "Arnaud Vachon"
+      ],
+      "description": "Sasha est une jeune vampire avec un grave problème : elle est trop humaniste pour mordre ! Lorsque ses parents, exaspérés, décident de lui couper les vivres, sa survie est menacée. Heureusement pour elle, Sasha fait la rencontre de Paul, un adolescent solitaire aux comportements suicidaires qui consent à lui offrir sa vie. Ce qui devait être un échange de bons procédés se transforme alors en épopée nocturne durant laquelle les deux nouveaux amis chercheront à réaliser les dernières volontés de Paul avant le lever du soleil.",
+      "runtime": "1h32",
+      "logo": "https://image.tmdb.org/t/p/w500/fbhYLr5uRs8eATedrPYubJY3nuM.png"
+    },
+    {
+      "id": "tmdb:321612",
+      "type": "movie",
+      "name": "La Belle et la Bête",
+      "poster": "https://image.tmdb.org/t/p/w500/3q0cUUmlNtton1fx6ZrQx31MV6v.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+      "year": "2017",
+      "imdbRating": "3.8",
+      "genres": [
+        "Familial",
+        "Romance"
+      ],
+      "director": [
+        "Bill Condon"
+      ],
+      "cast": [
+        "Emma Watson",
+        "Dan Stevens",
+        "Luke Evans",
+        "Josh Gad",
+        "Kevin Kline",
+        "Hattie Morahan"
+      ],
+      "description": "Une nouvelle adaptation live du conte \"La Belle et la Bête\".  Belle, jeune fille rêveuse et passionnée de littérature, vit avec son père, un vieil inventeur farfelu. S'étant perdu une nuit dans la fôret, ce dernier se réfugie au château de la Bête, qui la jette au cachot. Ne pouvant supporter de voir son père emprisonné, Belle accepte alors de prendre sa place, ignorant que sous le masque du monstre se cache un Prince Charmant tremblant d'amour pour elle, mais victime d'une terrible malédiction.",
+      "runtime": "2h09",
+      "logo": "https://image.tmdb.org/t/p/w500/dqGJo9qv03dEew1BKDOlzEyOnUR.png"
+    },
+    {
+      "id": "tmdb:50646",
+      "type": "movie",
+      "name": "Crazy, Stupid, Love",
+      "poster": "https://image.tmdb.org/t/p/w500/wYQ8LLOGoxqVtRTdKPmi1J59FWo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+      "year": "2011",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Glenn Ficarra",
+        "John Requa"
+      ],
+      "cast": [
+        "Steve Carell",
+        "Ryan Gosling",
+        "Julianne Moore",
+        "Emma Stone",
+        "Lio Tipton",
+        "Jonah Bobo"
+      ],
+      "description": "À tout juste quarante ans, Cal Weaver mène une vie de rêve, bonne situation, belle maison, enfants formidables et mariage parfait avec sa petite amie du lycée. Mais lorsqu'il apprend que sa femme, Emily, le trompe et demande le divorce, sa vie « parfaite » s'écroule. Pire, dans le monde des célibataires d'aujourd'hui, Cal, qui n'a plus dragué depuis des lustres, se révèle un modèle d'anti-séduction. Passant désormais ses soirées à bouder tout seul au bar du coin, l'infortuné Cal est pris en main comme complice et protégé d'un séduisant trentenaire, Jacob Palmer. Pour l'aider à oublier sa femme et à commencer une nouvelle vie, Jacob tente de faire découvrir à Cal les nombreuses perspectives qui s'offrent à lui : femmes en quête d'aventures, soirées arrosées entre copains et un chic supérieur à la moyenne.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/c0nXE13RGeAf0xpdwlE9YIGPCzU.svg"
+    },
+    {
+      "id": "tmdb:22538",
+      "type": "movie",
+      "name": "Scott Pilgrim",
+      "poster": "https://image.tmdb.org/t/p/w500/wDBkpNmt7yeMRsBENN4VOdc0usx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rUAZnGMgISkZYJU8o7kuSNj3mPl.jpg",
+      "year": "2010",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Michael Cera",
+        "Mary Elizabeth Winstead",
+        "Ellen Wong",
+        "Kieran Culkin",
+        "Alison Pill",
+        "Mark Webber"
+      ],
+      "description": "Scott Pilgrim n’a jamais eu de problème à trouver une petite amie, mais s’en débarrasser s’avère plus compliqué. Entre celle qui lui a brisé le cœur – et qui est de retour en ville – et l’adolescente qui lui sert de distraction au moment où Ramona entre dans sa vie - en rollers - l’amour n’a jamais été chose facile. Il va cependant vite réaliser que le nouvel objet de son affection traîne les plus singulières casseroles jamais rencontrées : une infâme ligue d’ex qui contrôlent sa vie amoureuse et sont prêts à tout pour éliminer son nouveau prétendant. À mesure que Scott se rapproche de Ramona, il est confronté à une palette grandissante d’individus patibulaires qui peuplent le passé de sa dulcinée : du mesquin skateur à la rock star végétarienne en passant par une affreuse paire de jumeaux. Et s’il espère séduire l’amour de sa vie, il doit triompher de chacun d’eux avant que la partie soit bel et bien « over ».",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/yDgC7RbMgXeBTIBalKowWQ1RWlJ.png"
+    },
+    {
+      "id": "tmdb:331482",
+      "type": "movie",
+      "name": "Les Filles du docteur March",
+      "poster": "https://image.tmdb.org/t/p/w500/A1OAKgItnKEilZkInZxUiKADhmZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
+      "year": "2019",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Histoire"
+      ],
+      "director": [
+        "Greta Gerwig"
+      ],
+      "cast": [
+        "Saoirse Ronan",
+        "Emma Watson",
+        "Florence Pugh",
+        "Eliza Scanlen",
+        "Laura Dern",
+        "Timothée Chalamet"
+      ],
+      "description": "Aux États-Unis, pendant la guerre de Sécession, 4 sœurs issues de la classe moyenne font face aux difficultés de la vie quotidienne en ce temps de conflit. La raisonnable Mege, l’intrépide Jo, la charitable Beth et l’orgueilleuse May vivent dans l’ombre protectrice et bienveillante de leur mère Marnee et de sa tante March. Mais la rencontre de leur voisin Laurie va transformer les premiers émois du bal des débutantes en véritables histoires d’amour…  Une nouvelle adaptation du classique de Louisa May Alcott.",
+      "runtime": "2h15",
+      "logo": "https://image.tmdb.org/t/p/w500/nebg9PPasOPUctGCmMLUwycstaw.png"
+    },
+    {
+      "id": "tmdb:4347",
+      "type": "movie",
+      "name": "Reviens-moi",
+      "poster": "https://image.tmdb.org/t/p/w500/tEx2nyFU3WimKeceEZtZg2Jjvky.jpg",
+      "background": "https://image.tmdb.org/t/p/original/prH7Lmo7V9GuMbhCaDCSa6kvZvs.jpg",
+      "year": "2007",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Joe Wright"
+      ],
+      "cast": [
+        "James McAvoy",
+        "Keira Knightley",
+        "Saoirse Ronan",
+        "Romola Garai",
+        "Vanessa Redgrave",
+        "Brenda Blethyn"
+      ],
+      "description": "Août 1935. Malgré la canicule qui frappe l'Angleterre, la famille Tallis mène une vie insouciante à l'abri dans sa gigantesque demeure victorienne. La jeune Briony a trouvé sa vocation, elle sera romancière. Mais quand du haut de ses treize ans, elle surprend sa sœur aînée Cecilia dans les bras de Robbie, fils de domestique, sa réaction naïve face aux désirs des adultes va provoquer une tragédie et marquer à jamais le destin du jeune homme.",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/vMjv7n9s1aqsZOCWbbciMfDJo99.png"
+    },
+    {
+      "id": "tmdb:400617",
+      "type": "movie",
+      "name": "Phantom Thread",
+      "poster": "https://image.tmdb.org/t/p/w500/ihUl0Gqb0BIeOrvYVmHol8CZLv0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vpRMzPqHC03I7hPPET4Av2OT8dI.jpg",
+      "year": "2017",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Paul Thomas Anderson"
+      ],
+      "cast": [
+        "Daniel Day-Lewis",
+        "Vicky Krieps",
+        "Lesley Manville",
+        "Camilla Rutherford",
+        "Gina McKee",
+        "Brian Gleeson"
+      ],
+      "description": "Dans le Londres glamour des années 50, le célèbre couturier Reynold Woodcock et sa sœur Cyril sont au cœur de la mode britannique, habillant la famille royale, les stars de cinéma, les héritières, les mondains et les dames dans le style reconnaissable de la Maison Woodcock. Les femmes défilent dans la vie de Woodcock, apportant à ce célibataire endurci inspiration et compagnie, jusqu’au jour où il rencontre Alma, une jeune femme au caractère fort qui deviendra rapidement sa muse et son amante. Lui qui contrôlait et planifiait sa vie au millimètre près, le voici bouleversé par l’amour.",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/4hahmt4w2o79NSEQNQnzYslEDxu.png"
+    },
+    {
+      "id": "tmdb:55787",
+      "type": "movie",
+      "name": "De l'Eau pour les Éléphants",
+      "poster": "https://image.tmdb.org/t/p/w500/ipAu79Bup4cR679F3j7xVYVqb0r.jpg",
+      "background": "https://image.tmdb.org/t/p/original/12xU204ABgr31iCTM57JT6wGFMg.jpg",
+      "year": "2011",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Reese Witherspoon",
+        "Christoph Waltz",
+        "Paul Schneider",
+        "Jim Norton",
+        "Hal Holbrook"
+      ],
+      "description": "1931, période de Grande Dépression aux Etats-Unis. A la suite d'une tragédie familiale, Jacob, un jeune étudiant en école vétérinaire, se retrouve subitement plongé dans la misère et rejoint par hasard un cirque itinérant de seconde classe. Il se fait accepter en échange des soins qu'il pourra apporter aux animaux et ne tarde pas à tomber sous le charme de la belle écuyère Marlène. Elle est l'épouse du directeur du cirque, un être d'une rare violence et totalement imprévisible. Derrière la beauté et la magie des spectacles, Jacob découvre un univers impitoyable et miséreux. Lorsqu'une éléphante rejoint le cirque, Marlène et Jacob se rapprochent l'un de l'autre et préparent un nouveau spectacle qui permet un temps de renouer avec le succès. Mais leurs sentiments deviennent de plus en plus perceptibles et sous les yeux d'August, cette histoire d'amour les met irrémédiablement en danger.",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/cwSEiG5nCkOC51ijZay1FSXnjUm.png"
+    },
+    {
+      "id": "tmdb:34653",
+      "type": "movie",
+      "name": "A Single Man",
+      "poster": "https://image.tmdb.org/t/p/w500/aLapokvVl15SEBman7Oxmsntpj8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4rHZyoFxGxvkMNiLFEqwm19HCtc.jpg",
+      "year": "2009",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Tom Ford"
+      ],
+      "cast": [
+        "Colin Firth",
+        "Julianne Moore",
+        "Nicholas Hoult",
+        "Matthew Goode",
+        "Jon Kortajarena",
+        "Paulette Lamori"
+      ],
+      "description": "Los Angeles, 1962. Depuis qu'il a perdu son compagnon Jim dans un accident, George Falconer, professeur d'université Britannique, se sent incapable d'envisager l'avenir. Solitaire malgré le soutien de son amie la belle Charley, elle-même confrontée à ses propres interrogations sur son futur, George ne peut imaginer qu'une série d'évènements vont l'amener à décider qu'il y a peut-être une vie après Jim.",
+      "runtime": "1h39",
+      "logo": "https://image.tmdb.org/t/p/w500/asCDX7ghxuoYrvmnXyYYAPN5ZjK.png"
+    },
+    {
+      "id": "tmdb:930094",
+      "type": "movie",
+      "name": "My Dear F***ing Prince",
+      "poster": "https://image.tmdb.org/t/p/w500/5OaYaunPjCbuqaSQ8KgDM01QMOr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7QDWTqSGqI2Q5dOBtvT64MOhmwJ.jpg",
+      "year": "2023",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Matthew López"
+      ],
+      "cast": [
+        "Taylor Zakhar Perez",
+        "Nicholas Galitzine",
+        "Uma Thurman",
+        "Clifton Collins Jr.",
+        "Rachel Hilson",
+        "Sarah Shahi"
+      ],
+      "description": "Le fils de la présidente américaine, Alex Claremont-Diaz, est un beau parti. Cependant, il a une altercation avec son homologue royal britannique, le prince Henry, prise en photo par des paparazzis. Cette querelle remet en cause les relations diplomatiques anglo-américaines. Les deux familles organisent alors un rapprochement amical entre les deux jeunes hommes.",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/uUf1T4EedX8Fpd2r8U10EhtyExK.png"
+    },
+    {
+      "id": "tmdb:722913",
+      "type": "movie",
+      "name": "Malcolm & Marie",
+      "poster": "https://image.tmdb.org/t/p/w500/bdidDnAZwchN5vTenoNuhGPJTri.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xLsM5yTg9he5PWXXbrwzw1Wg8xp.jpg",
+      "year": "2021",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Sam Levinson"
+      ],
+      "cast": [
+        "John David Washington",
+        "Zendaya"
+      ],
+      "description": "Au retour d'une première, les tensions accumulées et des révélations douloureuses poussent un réalisateur et sa compagne à faire l'examen de leur relation sentimentale.",
+      "runtime": "1h46",
+      "logo": "https://image.tmdb.org/t/p/w500/uWOfVf9hPdTK2lUQevnBjWUnsID.png"
+    },
+    {
+      "id": "tmdb:638449",
+      "type": "movie",
+      "name": "La Dernière Lettre de son amant",
+      "poster": "https://image.tmdb.org/t/p/w500/cnqqOIkj9ImkGpFUrls9trI6fMe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/AmzVV7kqds8BJBXwnQtx5YpqFdU.jpg",
+      "year": "2021",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Augustine Frizzell"
+      ],
+      "cast": [
+        "Shailene Woodley",
+        "Felicity Jones",
+        "Callum Turner",
+        "Joe Alwyn",
+        "Nabhaan Rizwan",
+        "Ncuti Gatwa"
+      ],
+      "description": "En fouillant dans les archives de son journal dans le cadre d'un article, une journaliste anglaise découvre une lettre d'amour égarée. Intriguée, elle poursuit ses recherches et remonte jusque dans les années 1960, quand une jeune femme mariée et un jeune homme sont tombés éperdument amoureux l'un de l'autre.",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/oZhP99sAyBOmIKBQMCs6xCBUTeY.png"
+    },
+    {
+      "id": "tmdb:916192",
+      "type": "movie",
+      "name": "Tunnel to Summer",
+      "poster": "https://image.tmdb.org/t/p/w500/bALfx3j0H4CaH0DFU4t5DT1XZWV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rWJc5BkI7Op1IYMb3gW6qGjOnIp.jpg",
+      "year": "2022",
+      "imdbRating": "3.8",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Romance",
+        "Science-Fiction",
+        "Short"
+      ],
+      "director": [
+        "Tomohisa Taguchi"
+      ],
+      "cast": [
+        "鈴鹿央士",
+        "飯豊まりえ",
+        "畠中祐",
+        "小宮有紗",
+        "照井春佳",
+        "Rikiya Koyama"
+      ],
+      "description": "Selon une légende urbaine, un mystérieux tunnel offre à celui qui ose s’y aventurer ce qu’il désire de plus cher… Mais à un prix : le temps s’écoule à un autre rythme rendant l’expérience dangereuse. Kaoru, un jeune lycéen, vit tant bien que mal depuis la disparition de sa petite sœur. Un jour, il découvre par hasard le tunnel, mais se rend compte qu’il est suivi par Anzu, une jeune fille venant d’arriver dans le même lycée. Elle lui propose son aide pour tenter l’expérience. Mais que va-t-elle lui demander en échange ?",
+      "runtime": "1h23",
+      "logo": "https://image.tmdb.org/t/p/w500/3og8aeYFSVKOz1pYEfWE0xxaztU.png"
+    },
+    {
+      "id": "tmdb:345920",
+      "type": "movie",
+      "name": "Beauté cachée",
+      "poster": "https://image.tmdb.org/t/p/w500/qlhXbUnZ120GHkakyrnOhW6eyEo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iovi35nPfjbYTw2gRo7uImWblRU.jpg",
+      "year": "2016",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "David Frankel"
+      ],
+      "cast": [
+        "Will Smith",
+        "Edward Norton",
+        "Kate Winslet",
+        "Michael Peña",
+        "Helen Mirren",
+        "Jacob Latimore"
+      ],
+      "description": "Suite à une terrible tragédie, un publicitaire new-yorkais à la réussite exemplaire sombre dans la dépression. Ses collègues échafaudent alors un stratagème radical pour l'obliger à affronter sa souffrance de manière inattendue…",
+      "runtime": "1h37",
+      "logo": "https://image.tmdb.org/t/p/w500/g2OiD7UqufCiorluuEHfSADCKJt.png"
+    },
+    {
+      "id": "tmdb:515195",
+      "type": "movie",
+      "name": "Yesterday",
+      "poster": "https://image.tmdb.org/t/p/w500/rtGkbWkt9udXzKacs1bLKGGiV8N.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5om2iHhm2dgv0s2YgPDSEMIkRNx.jpg",
+      "year": "2019",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Musique",
+        "Romance"
+      ],
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Himesh Patel",
+        "Lily James",
+        "Sophia Di Martino",
+        "Ellise Chappell",
+        "Meera Syal",
+        "Harry Michell"
+      ],
+      "description": "Un musicien en difficulté se rend compte qu'il est la seule personne sur Terre qui se souvient des Beatles.",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/8GZtYlUmFPpXkX6Fk0aq1ILk3no.png"
+    },
+    {
+      "id": "tmdb:4148",
+      "type": "movie",
+      "name": "Les Noces rebelles",
+      "poster": "https://image.tmdb.org/t/p/w500/kVEOftGJlrfObA2UUfI9MaNrkjJ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ra9aXj8PpUbUHwwTRSl5zsL6WHM.jpg",
+      "year": "2008",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Sam Mendes"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Kathy Bates",
+        "Michael Shannon",
+        "Kathryn Hahn",
+        "David Harbour"
+      ],
+      "description": "Dans l'Amérique des années 50, Frank et April Wheeler se considèrent comme des êtres à part, des gens spéciaux, différents des autres. Ils ont toujours voulu fonder leur existence sur des idéaux élevés. Lorsqu'ils emménagent dans leur nouvelle maison sur Revolutionary Road, ils proclament fièrement leur indépendance. Jamais ils ne se conformeront à l'inertie banlieusarde qui les entoure, jamais ils ne se feront piéger par les conventions sociales. Pourtant, malgré leur charme et leur insolence, les Wheeler deviennent exactement ce qu'ils ne voulaient pas : un homme coincé dans un emploi sans intérêt ; une ménagère qui rêve de passion et d'une existence trépidante. Une famille américaine ordinaire ayant perdu ses rêves et ses illusions. Décidée à changer de vie, April imagine un plan audacieux pour tout recommencer, quitter leur petite routine confortable dans le Connecticut pour aller vivre à Paris...",
+      "runtime": "2h05",
+      "logo": "https://image.tmdb.org/t/p/w500/un5ypPVaNPC7FqybTlekmom9L2r.png"
+    },
+    {
+      "id": "tmdb:347031",
+      "type": "movie",
+      "name": "Swiss Army Man",
+      "poster": "https://image.tmdb.org/t/p/w500/2yOcTP8s3SD6GVzqKWnk5tBfS7h.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dxa8tPKsGYH7KQJew6OlKaeFRLX.jpg",
+      "year": "2016",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Aventure",
+        "Short"
+      ],
+      "director": [
+        "Daniel Kwan",
+        "Daniel Scheinert"
+      ],
+      "cast": [
+        "Paul Dano",
+        "Daniel Radcliffe",
+        "Mary Elizabeth Winstead",
+        "Antonia Ribero",
+        "Timothy Eulich",
+        "Richard Gross"
+      ],
+      "description": "Hank, un homme désespéré errant dans la nature, découvre un mystérieux cadavre. Ils vont tous les deux embarquer dans un voyage épique afin de retrouver leur foyer. Lorsque Hank réalise que ce corps abandonné est la clé de sa survie, le suicidaire d'autrefois est forcé de convaincre un cadavre que la vie vaut la peine d'être vécue.",
+      "runtime": "1h37",
+      "logo": "https://image.tmdb.org/t/p/w500/kbkjJWED7jHIVCx9WLFtvapQKxe.png"
+    },
+    {
+      "id": "tmdb:23169",
+      "type": "movie",
+      "name": "Remember me",
+      "poster": "https://image.tmdb.org/t/p/w500/lCLCJF9f3Wwhnr9mt1mhRx9lEch.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bSYnRf7nzKLtJ3RIKAVCl9ttuls.jpg",
+      "year": "2010",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Allen Coulter"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Emilie de Ravin",
+        "Pierce Brosnan",
+        "Lena Olin",
+        "Chris Cooper",
+        "Ruby Jerins"
+      ],
+      "description": "Tyler est un jeune New-yorkais de 22 ans en rébellion contre sa famille et la société suite à un drame familial. Après une altercation avec un policier, il décide de se venger en séduisant la fille de celui-ci. Mais Ally se révèle être une jeune fille fragile et imprévisible dont il va tomber fou amoureux. Ce qui ne devait être qu'une plaisanterie cruelle se transforme vite en une histoire qui les marquera à jamais...",
+      "runtime": "1h53",
+      "logo": "https://image.tmdb.org/t/p/w500/5IXmNcBM9bcbh6F2nJyEiFoiIQQ.png"
+    },
+    {
+      "id": "tmdb:46705",
+      "type": "movie",
+      "name": "Blue Valentine",
+      "poster": "https://image.tmdb.org/t/p/w500/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sZRErzShw9N77TEcxX3DBpDPmCc.jpg",
+      "year": "2010",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Derek Cianfrance"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Michelle Williams",
+        "John Doman",
+        "Mike Vogel",
+        "Ben Shenkman",
+        "Jen Jones"
+      ],
+      "description": "À travers une galerie d’instants volés, passés ou présents, l’histoire d’un amour que l’on pensait avoir trouvé, et qui pourtant s’échappe… Dean et Cindy se remémorent les bons moments de leur histoire et se donnent encore une chance pour sauver leur mariage vacillant.",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/uQpy1m2LMha3NtZ2i5CtD7sACbf.png"
+    },
+    {
+      "id": "tmdb:146",
+      "type": "movie",
+      "name": "Tigre & Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/ldUsOVdypZ5X4CbucXjMgtrTXp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+      "year": "2000",
+      "imdbRating": "3.7",
+      "genres": [
+        "Aventure",
+        "Drame",
+        "Action",
+        "Romance"
+      ],
+      "director": [
+        "Ang Lee"
+      ],
+      "cast": [
+        "Chow Yun-fat",
+        "Michelle Yeoh",
+        "章子怡",
+        "張震",
+        "郎雄",
+        "Cheng Pei-Pei"
+      ],
+      "description": "Dans la Chine ancienne, Li Mu Bai est un virtuose des arts martiaux. Las des combats, il décide de confier « Destinée », son épée rapide et magique à Yu Shu Lien, à qui il n’ose pas avouer son amour. Celle‐ci doit remettre la fameuse épée au seigneur Té, à la résidence duquel elle fait la connaissance de Jiao Long, la fille du gouverneur Yu, qui a été promise à un homme qu’elle n’aime pas et ferait tout pour mener une vie aussi libre que Shu Lien. Mais une fois la nuit tombée, un habile voleur parvient à la lui dérober. Li et Shu Lien partent récupérer l’épée aux vertus magiques.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/nrlTQLK1RMP9XP3lewMo7pmU1nF.png"
+    },
+    {
+      "id": "tmdb:157386",
+      "type": "movie",
+      "name": "The Spectacular Now",
+      "poster": "https://image.tmdb.org/t/p/w500/tYDbDuZ3K4Xwp3cwtmZM6k53bwq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xy5YazEiPb3Nij6TUEP9Dq3LDhp.jpg",
+      "year": "2013",
+      "imdbRating": "3.7",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "James Ponsoldt"
+      ],
+      "cast": [
+        "Miles Teller",
+        "Shailene Woodley",
+        "Masam Holden",
+        "Kaitlyn Dever",
+        "Brie Larson",
+        "Kyle Chandler"
+      ],
+      "description": "Sutter est un adolescent brillant, drôle, charmant... et très porté sur la boisson. Son quotidien est chamboulé par sa rencontre avec la timide Aimee, une jeune femme totalement différente de lui.",
+      "runtime": "1h35",
+      "logo": "https://image.tmdb.org/t/p/w500/eRphQl6lncyz9hrv2TsZJkIB0cv.png"
+    },
+    {
+      "id": "tmdb:483",
+      "type": "movie",
+      "name": "Sailor et Lula",
+      "poster": "https://image.tmdb.org/t/p/w500/uvfZtoos9bbSKaLDUnCE2O73kkZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
+      "year": "1990",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Romance"
+      ],
+      "director": [
+        "David Lynch"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Laura Dern",
+        "Willem Dafoe",
+        "Diane Ladd",
+        "Harry Dean Stanton",
+        "J.E. Freeman"
+      ],
+      "description": "Sailor et Lula, deux jeunes amoureux, fuient Marietta, la mère de la jeune fille qui s’oppose à leurs amours, ainsi que toute une série de personnages dangereux et mystérieux qui les menacent. L’amour triomphera‐t‐il de la violence qui les entoure ?",
+      "runtime": "2h07",
+      "logo": "https://image.tmdb.org/t/p/w500/3QmAorQlBnAdp2mfp9uPxdV8exv.png"
+    },
+    {
+      "id": "tmdb:468224",
+      "type": "movie",
+      "name": "Tolkien",
+      "poster": "https://image.tmdb.org/t/p/w500/sA9vfeiGFQDpQDHeEQsKKJKzEgQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4HXiEsWUEMzJNFwjJv6oUaocqJU.jpg",
+      "year": "2019",
+      "imdbRating": "3.7",
+      "genres": [
+        "Guerre",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Dome Karukoski"
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Lily Collins",
+        "Colm Meaney",
+        "Derek Jacobi",
+        "Harry Gilby",
+        "Mimi Keene"
+      ],
+      "description": "Né en Afrique du Sud, le jeune Tolkien doit aller vivre à Birmingham, en Angleterre après la mort de son père. Peu de temps après, quand sa mère décède, il est confié à un prêtre qui le fait intégrer à la King Edward's School. Sur place, il rencontre trois élèves avec lesquels il forme un club littéraire…",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/f3POb4q9WTVOy7miAhGwfyLYLbc.png"
+    },
+    {
+      "id": "tmdb:1555",
+      "type": "movie",
+      "name": "L'Auberge espagnole",
+      "poster": "https://image.tmdb.org/t/p/w500/qKq4uLZDAJhBfpRsfPRYouQ5jW5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kiSderXBFLpkSp7dZ5RQkHOD5nh.jpg",
+      "year": "2002",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Cédric Klapisch"
+      ],
+      "cast": [
+        "Romain Duris",
+        "Judith Godrèche",
+        "Audrey Tautou",
+        "Kelly Reilly",
+        "Cécile de France",
+        "Cristina Brondo"
+      ],
+      "description": "Xavier, un jeune homme de 25 ans, part à Barcelone pour terminer ses études en économie et apprendre l’espagnol. Cette langue est nécessaire pour occuper un poste, que lui promet un ami de son père, au ministère des Finances. Mais pour ce faire, il doit quitter sa petite amie Martine, avec qui il vit depuis quatre ans. En Espagne, Xavier cherche un logement et trouve finalement un appartement dans le centre de Barcelone qu’il compte partager avec 7 autres personnes. Chacun de ses co‐locataires est originaire d’un pays différent.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/aws4h2aFlUr1ij2NRNoaqs7l2Y7.png"
+    },
+    {
+      "id": "tmdb:758330",
+      "type": "movie",
+      "name": "Mes rendez-vous avec Léo",
+      "poster": "https://image.tmdb.org/t/p/w500/hup8Hj4qbcrnOQz4FmX4Y1Ztai0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3oAmqJxMqOgmnEhoOP3swpOUwzC.jpg",
+      "year": "2022",
+      "imdbRating": "3.7",
+      "genres": [
+        "Romance",
+        "Drame",
+        "Short"
+      ],
+      "director": [
+        "Sophie Hyde"
+      ],
+      "cast": [
+        "Emma Thompson",
+        "Daryl McCormack",
+        "Isabella Laughland",
+        "Les Mabaleka",
+        "Lennie Beare",
+        "Carina Lopes"
+      ],
+      "description": "Nancy Stokes, enseignante à la retraite, a vécu une vie sage et sans excès. Après la mort de son mari, elle est prise d'un inavouable désir d’aventure. Elle s’offre alors les services d’un jeune escort boy, Leo Grande. Mais cette rencontre improbable pourrait leur apporter bien plus que ce qu’ils recherchaient et bouleverser le cours de leur vie.",
+      "runtime": "1h37",
+      "logo": "https://image.tmdb.org/t/p/w500/cdJqek6HwCz4Hat1ULFxqcwF698.png"
+    },
+    {
+      "id": "tmdb:967545",
+      "type": "movie",
+      "name": "16 ans",
+      "poster": "https://image.tmdb.org/t/p/w500/xxu4Z5lYY22k5mQNS7Uh9ihR9rU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aFY8TgmabfvM3vylLL9VWxcEspm.jpg",
+      "year": "2023",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Philippe Lioret"
+      ],
+      "cast": [
+        "Sabrina Levoye",
+        "Teïlo Azaïs",
+        "Nassim Lyes",
+        "Jean-Pierre Lorit",
+        "Marie Dompnier",
+        "Arsène Mosca"
+      ],
+      "description": "Nora et Léo se rencontrent le jour de la rentrée en classe de Seconde. Leur regard s’enchâssent et tout est dit. Nora vit dans l’ensemble HLM de la Ville, Léo dans le quartier résidentiel. Le frère de Nora, Tarek, travaille comme manutentionnaire à l’hypermaché local. Accusé de vol, il clame son innocence, mais le directeur du magasin ne veut rien entendre et le vire sur le champ. Le directeur, c’est Franck, le père de Léo. Les deux familles s’affrontent, les différences s’exacerbent et le chaos s’installe. Les vies de Nora et Léo s’embrasent et virent à la tragédie…",
+      "runtime": "1h34"
+    },
+    {
+      "id": "tmdb:509",
+      "type": "movie",
+      "name": "Coup de foudre à Notting Hill",
+      "poster": "https://image.tmdb.org/t/p/w500/z9pPrJjpiVNvfE5Yke9aoq2PjJD.jpg",
+      "background": "https://image.tmdb.org/t/p/original/egyi9TQjLhNEQuEsK1dXovdHOHL.jpg",
+      "year": "1999",
+      "imdbRating": "3.6",
+      "genres": [
+        "Romance",
+        "Comédie"
+      ],
+      "director": [
+        "Roger Michell"
+      ],
+      "cast": [
+        "Julia Roberts",
+        "Hugh Grant",
+        "Gina McKee",
+        "Tim McInnerny",
+        "Rhys Ifans",
+        "Emma Chambers"
+      ],
+      "description": "William vit à Notting Hill, à l'ouest de Londres. Divorcé, ce trentenaire mène une existence paisible entre sa librairie et la maison qu'il partage avec Spike, un ami. Lorsqu'un matin la belle Anna Scott, l'actrice la plus célèbre d'Hollywood, pousse la porte de sa boutique, William ignore que débute une grande aventure. Ils tombent amoureux, mais la vie les éloigne l'un de l'autre.\r Quelques mois plus tard, Anna, traquée par la presse, se réfugie chez William...",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/rvW9IC0rnOLHxKZYyTu1pYxq7yp.png"
+    },
+    {
+      "id": "tmdb:82654",
+      "type": "movie",
+      "name": "Warm Bodies",
+      "poster": "https://image.tmdb.org/t/p/w500/yJw1f2xD1evLDzvVO2jnYdSRzWt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/d2nWERbNIKA9dBDWbRReK0cRBD4.jpg",
+      "year": "2013",
+      "imdbRating": "3.6",
+      "genres": [
+        "Horreur",
+        "Comédie",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Jonathan Levine"
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Teresa Palmer",
+        "Lio Tipton",
+        "John Malkovich",
+        "Dave Franco",
+        "Rob Corddry"
+      ],
+      "description": "Ces derniers temps, R s'interroge sur son existence et son avenir. Il est pâle, maladroit, s'exprime avec difficulté et s'ennuie. R est un Zombie en quête de sens. Julie vit dans une cité fortifiée avec les derniers humains du continent. Elle fait partie d'une unité militaire qui protège les survivants. Au cours d'une attaque, contre toute attente, R sauve la jeune fille et lui trouve un abri...",
+      "runtime": "1h37",
+      "logo": "https://image.tmdb.org/t/p/w500/roiGmyc6glmfoPXcIiCruoeTJwL.png"
+    },
+    {
+      "id": "tmdb:152584",
+      "type": "movie",
+      "name": "La Vie d'Adèle - Chapitres 1 et 2",
+      "poster": "https://image.tmdb.org/t/p/w500/2rcR4ep2XEreDyEG3TTJW6saNi5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg",
+      "year": "2013",
+      "imdbRating": "3.6",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Abdellatif Kechiche"
+      ],
+      "cast": [
+        "Léa Seydoux",
+        "Adèle Exarchopoulos",
+        "Salim Kéchiouche",
+        "Aurélien Recoing",
+        "Catherine Salée",
+        "Benjamin Siksou"
+      ],
+      "description": "À 15 ans, Adèle ne se pose pas de questions : une fille, ça sort avec des garçons. Sa vie bascule le jour où elle rencontre Emma, une jeune femme aux cheveux bleus, qui lui fait découvrir le désir et lui permettra de s’affirmer en tant que femme et adulte. Face au regard des autres, Adèle grandit, se cherche, se perd, se trouve…",
+      "runtime": "2h59",
+      "logo": "https://image.tmdb.org/t/p/w500/2hYAbj48fB3BHoAp3teCK2UEVkc.png"
+    },
+    {
+      "id": "tmdb:5038",
+      "type": "movie",
+      "name": "Vicky Cristina Barcelona",
+      "poster": "https://image.tmdb.org/t/p/w500/dtP0Xv5ZOlH2eGuEqrNMof7IfaR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ebSJ7RBicfONHjtEVdOhAqPuFS8.jpg",
+      "year": "2008",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Woody Allen"
+      ],
+      "cast": [
+        "Scarlett Johansson",
+        "Rebecca Hall",
+        "Javier Bardem",
+        "Penélope Cruz",
+        "Christopher Evan Welch",
+        "Chris Messina"
+      ],
+      "description": "Vicky et Cristina, deux jeunes américaines, passent l'été en Espagne. Elles font la connaissance d'un artiste flamboyant et de son ex-epouse, une belle femme mais folle. Vicky est fiancée et sur le point de se marier. Cristina est d'esprit libre et sexuellement aventureuse. Quand les deux amies tombent amoureuses, le résultat ne peut que ressembler au chaos…",
+      "runtime": "1h37",
+      "logo": "https://image.tmdb.org/t/p/w500/7UPUrDgIKsKs9BeO1fXTLTyJANk.png"
+    },
+    {
+      "id": "tmdb:229297",
+      "type": "movie",
+      "name": "Magic in the Moonlight",
+      "poster": "https://image.tmdb.org/t/p/w500/cfpdn7dw07HxWfVBNadDvj2RtTw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gdUqfMhx1pqOj4BoI3lYAl8zaln.jpg",
+      "year": "2014",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Woody Allen"
+      ],
+      "cast": [
+        "Colin Firth",
+        "Emma Stone",
+        "Hamish Linklater",
+        "Marcia Gay Harden",
+        "Jacki Weaver",
+        "Erica Leerhsen"
+      ],
+      "description": "Le prestidigitateur chinois Wei Ling Soo est le plus célèbre magicien de son époque, mais peu savent qu’il s’agit en réalité du nom de scène de Stanley Crawford. Cet anglais arrogant et grognon a une très haute estime de lui-même mais ne supporte pas les soi-disant médiums qui prétendent prédire l’avenir. Se laissant convaincre par son fidèle ami Howard Burkan, Stanley se rend chez les Catledge qui possèdent une somptueuse propriété sur la Côte d’Azur. Il y fait la connaissance de la mère Grace, du fils Brice et de la fille Caroline.",
+      "runtime": "1h38",
+      "logo": "https://image.tmdb.org/t/p/w500/kTXUpFgsdMJx2ddOrGkikLOaxeR.png"
+    },
+    {
+      "id": "tmdb:950396",
+      "type": "movie",
+      "name": "The Gorge",
+      "poster": "https://image.tmdb.org/t/p/w500/1Np511QIqSs0s3iDpWXPbuY4o5o.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "year": "2025",
+      "imdbRating": "3.5",
+      "genres": [
+        "Romance",
+        "Science-Fiction",
+        "Thriller"
+      ],
+      "director": [
+        "Scott Derrickson"
+      ],
+      "cast": [
+        "Miles Teller",
+        "Anya Taylor-Joy",
+        "Sigourney Weaver",
+        "Ṣọpẹ́ Dìrísù",
+        "William Houston",
+        "Kobna Holdbrook-Smith"
+      ],
+      "description": "Deux agents hautement entraînés se rapprochent malgré la distance lorsqu'ils sont envoyés garder deux côtés opposés d'une mystérieuse gorge. Quand un mal surgit des profondeurs, ils doivent faire équipe pour survivre à ce qui est tapi sous la surface.",
+      "runtime": "2h07",
+      "logo": "https://image.tmdb.org/t/p/w500/pmuKVL5wPvKYVl5Md3JZlV1Axev.png"
+    },
+    {
+      "id": "tmdb:1391",
+      "type": "movie",
+      "name": "Y tu mamá también",
+      "poster": "https://image.tmdb.org/t/p/w500/99eRV6tjlowL84D2hO6xdEVzmWe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7aW9IZjpsoTXYEARlnOvTtl6EBr.jpg",
+      "year": "2001",
+      "imdbRating": "3.5",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Alfonso Cuarón"
+      ],
+      "cast": [
+        "Diego Luna",
+        "Gael García Bernal",
+        "Maribel Verdú",
+        "Daniel Giménez Cacho",
+        "Diana Bracho",
+        "Verónica Langer"
+      ],
+      "description": "Les vies de Julio et Tenoch, deux adolescents de 17 ans, sont régies par leurs hormones, leur amitié et la vitesse précipitée avec laquelle ils cherchent à passer à l'âge adulte. Au cours d'un après-midi de fête familiale, ils font la rencontre de Luisa, une Espagnole de 28 ans, et ne tardent pas à flirter avec. En plaisantant, ils l'invitent à les accompagner en voiture sur une plage sauvage appelée la Boca del cielo, sans lui dire où elle se situe, ni même si elle existe vraiment. Luisa les ignore aimablement, ils prennent des routes différentes, l'incident est rapidement oublié. Cependant, celle-ci reçoit des nouvelles dévastatrices. Devant la nécessité d'un changement dans sa vie, elle retrouve les garçons et accepte leur offre.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/t6RxzSEdjrqXbWqPvESZGXhtH7t.png"
+    },
+    {
+      "id": "tmdb:8390",
+      "type": "movie",
+      "name": "Un jour, peut-être...",
+      "poster": "https://image.tmdb.org/t/p/w500/qBzVq3PJXi1OrzsI35JZDWPxRnj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wid86tR3KvQ8SBzjmlcXMTSRXsy.jpg",
+      "year": "2008",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Adam Brooks"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Abigail Breslin",
+        "Elizabeth Banks",
+        "Isla Fisher",
+        "Rachel Weisz",
+        "Kevin Kline"
+      ],
+      "description": "Will Hayes est un jeune père New Yorkais d'une trentaine d'années en plein divorce lorsque sa fille de onze ans, Maya, le questionne sur sa vie avant qu'il ne soit marié. Elle veut savoir comment ses parents se sont rencontrés et comment ils sont tombés amoureux. L'histoire de Will commence en 1992 alors qu'il n'était encore qu'un jeune politicien qui débarquait de son Wisconsin natal à New York pour travailler sur la campagne de Clinton. Will raconte ses péripéties avec son meilleur ami, Russell, et, sous forme de puzzle, ses 3 grandes histoires d'amour. Il y a eu Emily, son amour de lycée; April, sa meilleure-amie et confidente de toujours et Summer, une journaliste ambitieuse. L'une d'entre elles est la mère de Maya mais ce n'est qu'à la fin de l'histoire qu'elle saura avec laquelle il s'est marié.",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/72Ptl5PcGEV4HEqYDxCKXFNDxA4.png"
+    },
+    {
+      "id": "tmdb:42188",
+      "type": "movie",
+      "name": "Auprès de moi toujours",
+      "poster": "https://image.tmdb.org/t/p/w500/zNsDlu6JuqUvDwte1lj8cfdSvOV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ppf18IfACeWmkObqyjrhmNiL6G4.jpg",
+      "year": "2010",
+      "imdbRating": "3.4",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Science-Fiction",
+        "Short"
+      ],
+      "director": [
+        "Mark Romanek"
+      ],
+      "cast": [
+        "Carey Mulligan",
+        "Keira Knightley",
+        "Andrew Garfield",
+        "Izzy Meikle-Small",
+        "Ella Purnell",
+        "Charlie Rowe"
+      ],
+      "description": "Depuis l'enfance, Kathy, Ruth et Tommy sont les pensionnaires d'une école en apparence idyllique, une institution coupée du monde où seuls comptent leur éducation et leur bien-être. Devenus jeunes adultes, leur vie bascule : ils découvrent un inquiétant secret qui va bouleverser jusqu'à leurs amours, leur amitié, leur perception de tout ce qu'ils ont vécu jusqu'à présent.",
+      "runtime": "1h43",
+      "logo": "https://image.tmdb.org/t/p/w500/2KgzuOojMnk7Azc19XxFRUQ3Upc.png"
+    },
+    {
+      "id": "tmdb:417261",
+      "type": "movie",
+      "name": "Forever My Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/tHWknf62KnpvFBFmpru6FmsFy3a.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gEsBPNcGAuNBU5MGaOAlnm6uDe7.jpg",
+      "year": "2018",
+      "imdbRating": "3.4",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Bethany Ashton Wolf"
+      ],
+      "cast": [
+        "Alex Roe",
+        "Jessica Rothe",
+        "John Benjamin Hickey",
+        "Abby Ryder Fortson",
+        "Peter Cambor",
+        "Gillian Vigman"
+      ],
+      "description": "Le jour du mariage, Liam quitte son amour de jeunesse, Josie… Huit ans plus tard, il est devenu une star de la chanson. Quand il apprend qu’un ami d’enfance a eu un accident mortel, il quitte sa tournée et revient dans sa petite ville natale pour assister aux funérailles. Il revoit alors Josie pour la première fois depuis leur séparation. Liam découvre avec surprise qu’elle est maintenant mère d’une adorable jeune fille de 7 ans…",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/AqGle1tpAYb1ngOMv3BfmRelhZz.png"
+    },
+    {
+      "id": "tmdb:254320",
+      "type": "movie",
+      "name": "The Lobster",
+      "poster": "https://image.tmdb.org/t/p/w500/nSE3MHSJktdxUjWPUKaKREkPAzm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2wiMb1RBskEW9Uml5bGDEUHFbv8.jpg",
+      "year": "2015",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Yorgos Lanthimos"
+      ],
+      "cast": [
+        "Colin Farrell",
+        "Rachel Weisz",
+        "Olivia Colman",
+        "Léa Seydoux",
+        "Michael Smiley",
+        "Ariane Labed"
+      ],
+      "description": "Dans un futur proche, la société ne tolère plus les célibataires. Ceux-ci sont arrêtés et sommés de passer 45 jours maximum dans un hôtel. Là, entre différentes activités, ils doivent rencontrer un ou une élue qu'ils épouseront par la suite. S'ils n'y parviennent pas avant le délai imposé, ils seront transformés en l'animal qu'ils ont choisi à leur arrivée. David, qui vient d'intégrer l'établissement, a choisi le homard comme animal de réincarnation. Il apprend difficilement les règles de l'établissement. Puis, il fait la connaissance d'un homme qui a un défaut d'élocution et d'un autre qui boite. Pour échapper à son destin, il s'enfuit et rejoint dans les bois un groupe de résistants : les Solitaires...",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/AbEtgMEOZc9S9TJvbrO9EpmKRQh.png"
+    },
+    {
+      "id": "tmdb:212716",
+      "type": "movie",
+      "name": "Et (beaucoup) plus si affinités",
+      "poster": "https://image.tmdb.org/t/p/w500/ayUv0cmorkuIYsgP9QWdWa5cpm8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iIcJ72VzqAIw5NT6bOYqfHB2ukM.jpg",
+      "year": "2013",
+      "imdbRating": "3.3",
+      "genres": [
+        "Drame",
+        "Comédie",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Michael Dowse"
+      ],
+      "cast": [
+        "Daniel Radcliffe",
+        "Zoe Kazan",
+        "Megan Park",
+        "Adam Driver",
+        "Mackenzie Davis",
+        "Rafe Spall"
+      ],
+      "description": "Wallace, un étudiant en médecine, tombe amoureux de la pétillante Chantry au cours d'une soirée. Leur complicité est immédiate, mais la jeune fille lui apprend qu'elle vit déjà en couple. Chantry propose alors a Wallace qu'ils deviennent amis, ce qu'il accepte. Mais cette relation sera-t-elle viable ?",
+      "runtime": "1h38",
+      "logo": "https://image.tmdb.org/t/p/w500/tJSMU7ao8eXknOH6mM5oxfYGTy3.png"
+    },
+    {
+      "id": "tmdb:1079091",
+      "type": "movie",
+      "name": "Jamais plus - It Ends with Us",
+      "poster": "https://image.tmdb.org/t/p/w500/o9WutcofxYyxicnoiw1QNNJaDz3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8yPSYhooj8nyBbmV3GVdLDwuE7e.jpg",
+      "year": "2024",
+      "imdbRating": "3.3",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Justin Baldoni"
+      ],
+      "cast": [
+        "Blake Lively",
+        "Justin Baldoni",
+        "Jenny Slate",
+        "Brandon Sklenar",
+        "Hasan Minhaj",
+        "Kevin McKidd"
+      ],
+      "description": "Fragilisée par une enfance traumatisante, Lily Bloom se lance dans une nouvelle vie à Boston en ouvrant sa propre boutique de fleurs, son rêve de toujours. De sa rencontre fortuite avec le charmant Ryle Kincaid nait une connexion intense mais, alors que les deux tombent profondément amoureux, Lily commence à entrevoir des aspects sombres de Ryle qui lui rappellent ses parents. La situation se complique davantage lorsque son premier amour réapparait dans sa vie. Lily réalise alors qu'elle va devoir faire face à un choix impossible qui dessinera son avenir.",
+      "runtime": "2h11",
+      "logo": "https://image.tmdb.org/t/p/w500/wB4lGIEKB5tKYAGUUvapQmAmejc.png"
+    },
+    {
+      "id": "tmdb:791177",
+      "type": "movie",
+      "name": "Bones and All",
+      "poster": "https://image.tmdb.org/t/p/w500/fmjOEHYMQang2sMuM1fz5ddaEc2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8sPxa4sdRvjgRG3GgkO8RQxUR9P.jpg",
+      "year": "2022",
+      "imdbRating": "3.3",
+      "genres": [
+        "Horreur",
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Luca Guadagnino"
+      ],
+      "cast": [
+        "Taylor Russell",
+        "Timothée Chalamet",
+        "Mark Rylance",
+        "Anna Cobb",
+        "André Holland",
+        "David Gordon Green"
+      ],
+      "description": "Maren, une jeune femme apprenant à survivre en marge de la société, découvre l'amour avec Lee, un intense et marginal vagabond. Ensemble, ils s'embarquent dans une odyssée de mille kilomètres qui les amène à traverser les routes délaissées de l'Amérique profonde de Ronald Reagan. En dépit de leurs efforts pour échapper à leurs passés terrifiants, tout les ramène à leurs démons.",
+      "runtime": "2h11",
+      "logo": "https://image.tmdb.org/t/p/w500/3k8OEnsAXAVqsYKk938eljc0Uhf.png"
+    },
+    {
+      "id": "tmdb:465914",
+      "type": "movie",
+      "name": "Si Beale Street pouvait parler",
+      "poster": "https://image.tmdb.org/t/p/w500/m7v60wgJbZkIgYpsYLjUuhdi2Ne.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg",
+      "year": "2018",
+      "imdbRating": "3.3",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Barry Jenkins"
+      ],
+      "cast": [
+        "KiKi Layne",
+        "Stephan James",
+        "Regina King",
+        "Colman Domingo",
+        "Aunjanue Ellis-Taylor",
+        "Michael Beach"
+      ],
+      "description": "Harlem, dans les années 70. Tish et Fonny s'aiment depuis toujours et envisagent de se marier. Alors qu'ils s'apprêtent à avoir un enfant, le jeune homme, victime d'une erreur judiciaire, est arrêté et incarcéré. Avec l'aide de sa famille, Tish s'engage dans un combat acharné pour prouver l'innocence de Fonny et le faire libérer…",
+      "runtime": "1h59",
+      "logo": "https://image.tmdb.org/t/p/w500/st7w6ykRDDMQIgSM6L20kupekFW.png"
+    },
+    {
+      "id": "tmdb:256591",
+      "type": "movie",
+      "name": "Diversion",
+      "poster": "https://image.tmdb.org/t/p/w500/opGNFbQUyiod4FUx6vRrtsIIcpW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+      "year": "2015",
+      "imdbRating": "3.2",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Crime",
+        "Short"
+      ],
+      "director": [
+        "John Requa",
+        "Glenn Ficarra"
+      ],
+      "cast": [
+        "Will Smith",
+        "Margot Robbie",
+        "Rodrigo Santoro",
+        "Gerald McRaney",
+        "Adrian Martinez",
+        "Robert Taylor"
+      ],
+      "description": "Nicky Spurgeon est un escroc “professionnel” à la tête d'une équipe de nombreux arnaqueurs et pickpockets. Un soir, il croise Jess Barrett, une arnaqueuse débutante. Nicky décide de l'intégrer pour un gros coup à La Nouvelle-Orléans. Trois ans plus tard, il la retrouve sur sa route à Buenos Aires...",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/gDWCm7PsWbOK4gJCbEv6SGJJV71.png"
+    },
+    {
+      "id": "tmdb:8488",
+      "type": "movie",
+      "name": "Hitch - Expert en séduction",
+      "poster": "https://image.tmdb.org/t/p/w500/d3b1doh9yAlr8rUel13YL93MMkB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fmDYTtZZQHLBAvvqgdXItqMXBNG.jpg",
+      "year": "2005",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Andy Tennant"
+      ],
+      "cast": [
+        "Will Smith",
+        "Eva Mendes",
+        "Kevin James",
+        "Amber Valletta",
+        "Julie Ann Emery",
+        "Adam Arkin"
+      ],
+      "description": "Alex Hitchens est un entremetteur (marieur) professionnel qui utilise des moyens peu orthodoxes pour coacher ses clients et jouer avec le destin. Il réussit ainsi avec succès à unir des hommes ordinaires avec des femmes extraordinaires. Malgré tout cela, Hitch ne croit pas en l'amour. Pourtant sa rencontre avec Sara, une jeune journaliste sexy qui partage les mêmes points de vue cyniques sur les relations amoureuses va les amener sur un territoire inconnu...",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/sl4AjKJrUPJk8HA9WizVp22kybg.png"
+    },
+    {
+      "id": "tmdb:9390",
+      "type": "movie",
+      "name": "Jerry Maguire",
+      "poster": "https://image.tmdb.org/t/p/w500/4tWyDzqDIRWV7oFT2QIPVXZfWyY.jpg",
+      "background": "https://image.tmdb.org/t/p/original/n1Gh3MJAVvXmkgSDf3SOLlPCjag.jpg",
+      "year": "1996",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Cameron Crowe"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Renée Zellweger",
+        "Cuba Gooding Jr.",
+        "Kelly Preston",
+        "Jerry O'Connell",
+        "Jay Mohr"
+      ],
+      "description": "Riche, beau et célèbre, Jerry Maguire, agent des stars du sport américain, l'est. Mais sa vie mondaine et factice lui pèse, et une nuit il se remet en question dans une note qu'il rédige, où il tente de définir le sens qu'il voudrait donner à sa vie. Cette note va provoquer son licenciement et tous ses amis vont le trahir. Seule Dorothy, son assistante, et Rod, un footballeur facétieux, vont lui rester fidèles.",
+      "runtime": "2h18",
+      "logo": "https://image.tmdb.org/t/p/w500/ugdHX6ac3m2qR46qWxtNrQ8UADW.png"
+    },
+    {
+      "id": "tmdb:58244",
+      "type": "movie",
+      "name": "Upside Down",
+      "poster": "https://image.tmdb.org/t/p/w500/f7G2omtnbeeCLKEFw4KyUIq21pn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sKWh9hF0ekVhHHyGuJwdA3fnMGZ.jpg",
+      "year": "2012",
+      "imdbRating": "3.2",
+      "genres": [
+        "Romance",
+        "Science-Fiction",
+        "Drame"
+      ],
+      "director": [
+        "Juan Diego Solanas"
+      ],
+      "cast": [
+        "Kirsten Dunst",
+        "Jim Sturgess",
+        "Timothy Spall",
+        "James Kidnie",
+        "Holly Uloth",
+        "Blu Mankuma"
+      ],
+      "description": "Adam et Eden vivent depuis toujours à l'envers, sur deux planètes situées l'une au-dessus de l'autre. Elle appartient au monde d'En Haut, prospère. Lui tente de survivre dans le monde d'En Bas, miséreux et détruit par la guerre. Le seul contact autorisé entre ces deux univers se fait via la société Transworld, dont l'immeuble forme un pont. Un jour, le jeune orphelin gravit le sommet de la montagne et aperçoit Eden. Les deux enfants prennent l'habitude de se retrouver clandestinement, là où leurs mondes se touchent presque, et tombent éperdument amoureux. Faisant fi des lois physiques et politiques, ils franchissent la frontière interdite pour se voir jusqu'au jour où un accident laisse Eden pour morte.  10 ans plus tard, Adam retrouve sa trace, mais la jeune femme, amnésique, n'a gardé aucun souvenir de lui...",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/n0KT678hKSnacZjIFjOf862dSzw.png"
+    },
+    {
+      "id": "tmdb:974635",
+      "type": "movie",
+      "name": "Hit Man",
+      "poster": "https://image.tmdb.org/t/p/w500/e6iM3aeu0cx46Dry22WgU8aUDwq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+      "year": "2024",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Romance",
+        "Crime"
+      ],
+      "director": [
+        "Richard Linklater"
+      ],
+      "cast": [
+        "Glen Powell",
+        "Adria Arjona",
+        "Austin Amelio",
+        "Retta",
+        "Sanjay Rao",
+        "Molly Bernard"
+      ],
+      "description": "Gary Johnson, policier à Houston, est en mission d'infiltration en se faisant passer pour un tueur à gages. Il rencontre alors une femme battue par son petit ami violent. Pour la secourir, il va devoir oublier toutes les procédures.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/AfgFS0ULYK5wAKZKX8zatxlNB5X.png"
+    },
+    {
+      "id": "tmdb:1272149",
+      "type": "movie",
+      "name": "Bridget Jones : Folle de lui",
+      "poster": "https://image.tmdb.org/t/p/w500/17skglkX7rRDayZyFW1YotbUk5H.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+      "year": "2025",
+      "imdbRating": "3.2",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Michael Morris"
+      ],
+      "cast": [
+        "Renée Zellweger",
+        "Chiwetel Ejiofor",
+        "Leo Woodall",
+        "Hugh Grant",
+        "Jim Broadbent",
+        "Gemma Jones"
+      ],
+      "description": "Bridget Jones a cinquante-deux ans et deux enfants. Après le décès de Mark Darcy, avec qui elle a vécu dix ans de bonheur, elle est à nouveau en quête de l'homme idéal. Mais ce n'est pas si facile de se remettre sur le marché du célibat. Les mésaventures de Bridget n'ont rien perdu de leur piquant.",
+      "runtime": "2h04",
+      "logo": "https://image.tmdb.org/t/p/w500/uwTkmbOCMhjDjZNsm09uwPSYknn.png"
+    },
+    {
+      "id": "tmdb:18240",
+      "type": "movie",
+      "name": "La Proposition",
+      "poster": "https://image.tmdb.org/t/p/w500/A89kCsYnOneJ2X7FxmCynh0pfNR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
+      "year": "2009",
+      "imdbRating": "3.1",
+      "genres": [
+        "Comédie",
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Anne Fletcher"
+      ],
+      "cast": [
+        "Sandra Bullock",
+        "Ryan Reynolds",
+        "Malin Åkerman",
+        "Craig T. Nelson",
+        "Mary Steenburgen",
+        "Betty White"
+      ],
+      "description": "Une patronne exigeante est forcée de quitter les États-Unis pour retourner dans son pays d'origine : le Canada. Elle accepte par la force des choses de contracter un mariage blanc avec son jeune assistant, dans le but de ne pas partir.",
+      "runtime": "1h47",
+      "logo": "https://image.tmdb.org/t/p/w500/9S0hgiQ0Ge7kabffcMsIyAxV4Xh.png"
+    },
+    {
+      "id": "tmdb:459992",
+      "type": "movie",
+      "name": "Séduis-moi si tu peux !",
+      "poster": "https://image.tmdb.org/t/p/w500/9WhbRgCW30ZXRtJ4jwPNAfJgIEy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jYnQgKYACzQ06gRf15hRbyRkQsp.jpg",
+      "year": "2019",
+      "imdbRating": "3.1",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Jonathan Levine"
+      ],
+      "cast": [
+        "Charlize Theron",
+        "Seth Rogen",
+        "O'Shea Jackson Jr.",
+        "June Diane Raphael",
+        "Ravi Patel",
+        "Andy Serkis"
+      ],
+      "description": "Un journaliste tente de surmonter une dépression en retrouvant son amoureuse qu'il avait perdu de vue. Celle-ci est depuis devenue une des femmes les plus puissantes de la planète...",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/pOJbUR10riCbs2A0HfZJcEgjh0B.png"
+    },
+    {
+      "id": "tmdb:460668",
+      "type": "movie",
+      "name": "Moi, belle et jolie",
+      "poster": "https://image.tmdb.org/t/p/w500/jDuX9UbyhIGbLSEjfWZMELpr1Ny.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7XM7kxa3U2g8TO3OGSiETCroNRD.jpg",
+      "year": "2018",
+      "imdbRating": "3.1",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Abby Kohn",
+        "Marc Silverstein"
+      ],
+      "cast": [
+        "Amy Schumer",
+        "Michelle Williams",
+        "Tom Hopper",
+        "Rory Scovel",
+        "Adrian Martinez",
+        "Emily Ratajkowski"
+      ],
+      "description": "Après une chute à la gym, une trentenaire sans confiance en elle se découvre soudain courageuse et sexy... même sur scène !",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/ptjLv3KjBYcgCH9Q4CEGppM0PCL.png"
+    },
+    {
+      "id": "tmdb:1267905",
+      "type": "movie",
+      "name": "La Guerre des Rose",
+      "poster": "https://image.tmdb.org/t/p/w500/eb5IcEIr9YWu22BxLlELfabVqLA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
+      "year": "2025",
+      "imdbRating": "3.1",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Jay Roach"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Olivia Colman",
+        "Andy Samberg",
+        "Kate McKinnon",
+        "Allison Janney",
+        "Belinda Bromilow"
+      ],
+      "description": "L'architecte Theo Rose et sa femme Ivy, chef cuisinière, sont un couple exemplaire et leur quotidien est tissé de soutien mutuel et de tendresse. Lorsque la carrière du mari s'écroule à la suite d'un accident, le restaurant de sa conjointe devient extrêmement populaire. Après une période amère de sa vie professionnelle, Theo reprend son travail avec l'aide d'Ivy et dévoile son vrai talent. Une petite dispute entre les deux dégénère en affrontement impitoyable avec des conséquences fatales.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/rp8h95pm0a8DMrJedtOdBys7rXh.png"
+    },
+    {
+      "id": "tmdb:574451",
+      "type": "movie",
+      "name": "Turtles All the Way Down",
+      "poster": "https://image.tmdb.org/t/p/w500/apdfKuF32HpbQxmhbPQa6gxSo1Q.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yt5LbZJkZdnSQiLo3t892l7Rhr7.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Hannah Marks"
+      ],
+      "cast": [
+        "Isabela Merced",
+        "Cree Cicchino",
+        "Judy Reyes",
+        "Felix Mallard",
+        "Maliq Johnson",
+        "Miles Ekhardt"
+      ],
+      "description": "Aza est confrontée à son potentiel d'amour, de bonheur, d'amitié et d'espoir tout en naviguant dans un barrage incessant de pensées envahissantes et obsessionnelles.",
+      "runtime": "1h51",
+      "logo": "https://image.tmdb.org/t/p/w500/qbq6Y2daz6AuBWLrDaupAV3tlLJ.png"
+    },
+    {
+      "id": "tmdb:1098378",
+      "type": "movie",
+      "name": "Your Monster",
+      "poster": "https://image.tmdb.org/t/p/w500/nHlHRntqfDM0ORsfgPL28u4GiTT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uiEgyO6bFsNRt4CGd8VJwXcBnmD.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Horreur",
+        "Short"
+      ],
+      "director": [
+        "Caroline Lindy"
+      ],
+      "cast": [
+        "Melissa Barrera",
+        "Tommy Dewey",
+        "Edmund Donovan",
+        "Kayla Foster",
+        "Taylor Trensch",
+        "Brandon Victor Dixon"
+      ],
+      "description": "Après avoir subi une intervention chirurgicale et une rupture amoureuse, Laura traverse une période difficile. Actrice de comédie musicale, elle se remémore les bons moments passés avec Jacob, son ex-petit ami réalisateur qui avait écrit pour elle le rôle principal dans sa prochaine pièce. Un soir, elle entend des bruits étranges venant du placard et fait la rencontre d'un homme à l'apparence monstrueuse. Au début, Laura est terrifiée, puis elle découvre en lui une personne charmante.",
+      "runtime": "1h43",
+      "logo": "https://image.tmdb.org/t/p/w500/3PTUGHhUoDLWrfYInp9eFpOrmek.png"
+    },
+    {
+      "id": "tmdb:1014590",
+      "type": "movie",
+      "name": "Surclassée",
+      "poster": "https://image.tmdb.org/t/p/w500/yOfQk4MSLN4yWJiCRbq7TGLjp7X.jpg",
+      "background": "https://image.tmdb.org/t/p/original/77Fqz6PFCSnWySDOmEL6ZPcaYIl.jpg",
+      "year": "2024",
+      "imdbRating": "2.9",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Short"
+      ],
+      "director": [
+        "Carlson Young"
+      ],
+      "cast": [
+        "Camila Mendes",
+        "Archie Renaux",
+        "Marisa Tomei",
+        "Lena Olin",
+        "Anthony Stewart Head",
+        "Thomas Kretschmann"
+      ],
+      "description": "Contre toute attente, Ana, stagiaire dans une salle de ventes, se voit offrir par sa patronne un voyage professionnel de dernière minute pour Londres. Ayant la chance d'être surclassée, elle rencontre le beau et riche William et décide de vivre son rêve éveillé plus longtemps qu'elle ne le devrait.",
+      "runtime": "1h44",
+      "logo": "https://image.tmdb.org/t/p/w500/bpDFnI0InQdUOfp5MQgi0qB6lW6.png"
+    },
+    {
+      "id": "tmdb:912916",
+      "type": "movie",
+      "name": "L'Autre Zoey",
+      "poster": "https://image.tmdb.org/t/p/w500/596eFlS6qytLwbDNIdQQ5FTjK3G.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hZgl3mdHx1kfnIIVBdgBAm2sWNI.jpg",
+      "year": "2023",
+      "imdbRating": "2.8",
+      "genres": [
+        "Romance",
+        "Drame",
+        "Comédie",
+        "Short"
+      ],
+      "director": [
+        "Sara Zandieh"
+      ],
+      "cast": [
+        "Josephine Langford",
+        "Drew Starkey",
+        "Archie Renaux",
+        "Mallori Johnson",
+        "Andie MacDowell",
+        "Patrick Fabian"
+      ],
+      "description": "Zoey Miller, une étudiante surdouée en informatique qui ne croit pas au grand amour, voit sa vie basculer quand Zach, une star de foot de la fac, devient amnésique et la prend pour sa petite amie.",
+      "runtime": "1h26",
+      "logo": "https://image.tmdb.org/t/p/w500/yJ2kPLh5w3rhidYJtop977qNe8B.png"
+    },
+    {
+      "id": "tmdb:889675",
+      "type": "movie",
+      "name": "The Pod Generation",
+      "poster": "https://image.tmdb.org/t/p/w500/iCIa3RXsJOMsfb07jR90tEKFCww.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3Ed9375VaD20Ko9Asf58wvP4PgT.jpg",
+      "year": "2023",
+      "imdbRating": "2.7",
+      "genres": [
+        "Science-Fiction",
+        "Comédie",
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Sophie Barthes"
+      ],
+      "cast": [
+        "Emilia Clarke",
+        "Chiwetel Ejiofor",
+        "Rosalie Craig",
+        "Vinette Robinson",
+        "Kathryn Hunter",
+        "Jean-Marc Barr"
+      ],
+      "description": "Vivant dans un futur pas si lointain, un couple de New York se lance dans une aventure folle vers la parentalité après avoir obtenu une place convoitée au Centre de la Matrice, qui offre aux couples une grossesse pratique et partageable grâce à des utérus artificiels détachables, ou des capsules.",
+      "runtime": "1h51",
+      "logo": "https://image.tmdb.org/t/p/w500/xYot0RWB6IakvKdKTN7rVdZ967f.png"
+    },
+    {
+      "id": "tmdb:1084849",
+      "type": "movie",
+      "name": "Elle & lui et le reste du monde",
+      "poster": "https://image.tmdb.org/t/p/w500/tLcJi8D6gAcKGTGPTjCIV2GrUrW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/w4P0HFp0vNJGE0Vf5csAOGbC0Ve.jpg",
+      "year": "2024",
+      "imdbRating": "2.7",
+      "genres": [
+        "Comédie",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Emmanuelle Belohradsky"
+      ],
+      "cast": [
+        "Victor Belmondo",
+        "Galatéa Bellugi",
+        "Inas Chanti",
+        "Charline Ben Larbi",
+        "Antoine Levannier",
+        "Frédéric Maranber"
+      ],
+      "description": "Marco, la vingtaine, un peu paumé, dépanne un ami en le remplaçant à son lieu de travail : une centrale d'urgence pour ascenseurs. Vers 3h du matin, une jeune femme l’appelle : coincée dans une cabine en panne, elle est en pleine crise d'angoisse. Marco tente de la rassurer au téléphone mais ne trouvant aucun technicien disponible pour intervenir, il décide d’aller lui-même la secourir ! Une fois sur place hélas, la jeune femme s’est envolée. Ainsi débute sa quête rocambolesque à la poursuite de cette énigmatique inconnue, dans Paris, la nuit de la Saint-Valentin.",
+      "runtime": "1h22"
+    },
+    {
+      "id": "tmdb:16996",
+      "type": "movie",
+      "name": "17 ans encore",
+      "poster": "https://image.tmdb.org/t/p/w500/gSLMT1Nio75oxpxeU7fbBGg6a7f.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8urrLPW6HFaIuRhJ1G3iQ7usEo7.jpg",
+      "year": "2009",
+      "imdbRating": "2.6",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Burr Steers"
+      ],
+      "cast": [
+        "Zac Efron",
+        "Leslie Mann",
+        "Thomas Lennon",
+        "Michelle Trachtenberg",
+        "Sterling Knight",
+        "Matthew Perry"
+      ],
+      "description": "Mike O'Donnell, un homme de 37 ans, trouve sa vie ennuyeuse et pathétique. Il se sépare de sa femme et vit avec son meilleur ami. Ses enfants le considèrent comme un looser. « Si seulement on avait droit à une seconde chance ? ». Et il ne croyait pas si bien dire ! Son vœu va être exaucé. Le lendemain matin, Mike découvre qu'il a à nouveau 17 ans ! Bien décidé à réparer ses erreurs personnelles, il s'inscrit au lycée pour aider ses enfants. Mike s'aperçoit vite que sa fille est beaucoup moins sage qu'elle ne parait et que son fils, Alex, est le bouc-émissaire de l'athlète de l'école. Son adolescence était bien différente de celle d'aujourd'hui !",
+      "runtime": "1h40",
+      "logo": "https://image.tmdb.org/t/p/w500/inGWIWbDebMCc0z9Z1UcxQPeNHu.png"
+    },
+    {
+      "id": "tmdb:138697",
+      "type": "movie",
+      "name": "Don Jon",
+      "poster": "https://image.tmdb.org/t/p/w500/mfmJ0ML3ZguMrKEFqw8Euqbo7pC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4QBI1pdjr2hH1fgC8NqwZZnWNso.jpg",
+      "year": "2013",
+      "imdbRating": "2.6",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Drame",
+        "Short"
+      ],
+      "director": [
+        "Joseph Gordon-Levitt"
+      ],
+      "cast": [
+        "Joseph Gordon-Levitt",
+        "Scarlett Johansson",
+        "Julianne Moore",
+        "Tony Danza",
+        "Glenne Headly",
+        "Brie Larson"
+      ],
+      "description": "Jon Martello est un beau mec que ses amis ont surnommé Don Jon en raison de son talent à séduire une nouvelle fille chaque week-end. Mais pour lui, même les rencontres les plus excitantes ne valent pas les moments solitaires qu'il passe devant son ordinateur à regarder des films pornographiques. Barbara Sugarman est une jeune femme lumineuse, nourrie aux comédies romantiques hollywoodiennes, bien décidée à trouver son Prince Charmant. Leur rencontre est un choc, une explosion dans la vie de chacun. Bourrés d'illusions et d'idées reçues sur le sexe opposé, Jon et Barbara vont devoir laisser tomber leurs fantasmes s'ils veulent avoir une chance de vivre enfin une vraie relation...",
+      "runtime": "1h30",
+      "logo": "https://image.tmdb.org/t/p/w500/ylfAIKoNKpknNOeCsKBmZzvEjgq.png"
+    },
+    {
+      "id": "tmdb:868759",
+      "type": "movie",
+      "name": "Ghosted",
+      "poster": "https://image.tmdb.org/t/p/w500/tds2CSzH5tPAc9CbeUDRtSVzFhs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pp3QUzMXfP7q0ocmE1b15FH6PQ6.jpg",
+      "year": "2023",
+      "imdbRating": "2.6",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Dexter Fletcher"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Ana de Armas",
+        "Adrien Brody",
+        "Mike Moh",
+        "Amy Sedaris",
+        "Tate Donovan"
+      ],
+      "description": "Cole, un agriculteur sans histoire, tombe éperdument amoureux de la mystérieuse Sadie, mais découvre avec stupeur qu'elle est agent secret. Avant même un second rencard, Cole et Sadie vont être embarqués dans une aventure au-delà des frontières lors de laquelle ils vont devoir sauver le monde.",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/80qAhzlfQiYdcy1cjn0hsD3a0sM.png"
+    },
+    {
+      "id": "tmdb:1026436",
+      "type": "movie",
+      "name": "Miller's Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/6ICEPOoDRPoTCKS7GFuqPnSlgv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ifRqavcREHdS0FN9KtVMXghgryK.jpg",
+      "year": "2024",
+      "imdbRating": "2.4",
+      "genres": [
+        "Thriller",
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Jade Halley Bartlett"
+      ],
+      "cast": [
+        "Jenna Ortega",
+        "Martin Freeman",
+        "Bashir Salahuddin",
+        "Gideon Adlon",
+        "Dagmara Dominczyk",
+        "Christine Adams"
+      ],
+      "description": "Une jeune écrivaine talentueuse se lance dans une odyssée créative lorsque son professeur lui confie un projet qui les enchevêtre tous les deux dans une toile de plus en plus complexe. Alors que les lignes s’estompent et que leurs vies s’entrelacent, le professeur et sa protégée doivent affronter leur moi le plus sombre tout en s’efforçant de préserver leur sens individuel du but et les choses qui leur sont les plus chères.",
+      "runtime": "1h33",
+      "logo": "https://image.tmdb.org/t/p/w500/jdUjlsYfL4AkUw34MdtPvHbab8I.png"
+    },
+    {
+      "id": "tmdb:976576",
+      "type": "movie",
+      "name": "Emmanuelle",
+      "poster": "https://image.tmdb.org/t/p/w500/31byjbcGFDpuYdKiM6bRpArvjXw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xqIstzB0ELbYyfzKcYaSwLb4Whs.jpg",
+      "year": "2024",
+      "imdbRating": "1.6",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Short"
+      ],
+      "director": [
+        "Audrey Diwan"
+      ],
+      "cast": [
+        "Noémie Merlant",
+        "Will Sharpe",
+        "Naomi Watts",
+        "Jamie Campbell Bower",
+        "Chacha Huang",
+        "Anthony Wong Chau-sang"
+      ],
+      "description": "Emmanuelle est en quête d’un plaisir perdu. Elle s’envole seule à Hong Kong, pour un voyage professionnel. Dans cette ville-monde sensuelle, elle multiplie les expériences et fait la rencontre de Kei, un homme qui ne cesse de lui échapper.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/AlfHKY2LoqEhaaEVK4YG3W5V1Tm.png"
+    },
+    {
+      "id": "tmdb:881415",
+      "type": "movie",
+      "name": "Love Me",
+      "poster": "https://image.tmdb.org/t/p/w500/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jEB9bDNRjV6ziEzrPZrItjZBMx2.jpg",
+      "year": "2025",
+      "imdbRating": "TMDB: 6.3",
+      "genres": [
+        "Romance",
+        "Drame",
+        "Science-Fiction",
+        "Animation",
+        "Short"
+      ],
+      "director": [
+        "Andrew Zuchero",
+        "Sam Zuchero"
+      ],
+      "cast": [
+        "Kristen Stewart",
+        "Steven Yeun"
+      ],
+      "description": "Bien après l'extinction de l'humanité, une bouée et un satellite héritent de la Terre. Avec internet pour seul guide, ils tentent d'apprendre la vie et l'amour. Le premier film novateur de Sam et Andy Zuchero, \"Love Me\", explore la question de l'intelligence artificielle et de l'identité par le biais d'images réelles, d'animatroniques et d'animations dans un récit épique de rencontre et d'évolution.",
+      "runtime": "1h32",
+      "logo": "https://image.tmdb.org/t/p/w500/eiEVRlcvX90tfRinpYyINoet29p.png"
+    },
+    {
+      "id": "tmdb:967941",
+      "type": "movie",
+      "name": "Wicked : Partie II",
+      "poster": "https://image.tmdb.org/t/p/w500/qEpRUVmn1wWtfiao6FLyeznLyGR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+      "year": "2025",
+      "imdbRating": "N/A",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "director": [
+        "Jon M. Chu"
+      ],
+      "cast": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jonathan Bailey",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Michelle Yeoh"
+      ],
+      "description": "Depuis qu'elle s'est opposée au Magicien d'Oz, Elphaba est surnommée la Méchante sorcière de l'Ouest par la population du Pays d'Oz qui pense qu'elle est maléfique. De son côté, Glinda est devenu la figure populaire du régime du Magicien et est surnommée la Bonne Glinda, tandis que Fiyero devient le capitaine de la garde du Magicien, bien qu'il doute encore de la culpabilité d'Elphaba.",
+      "runtime": "2h18",
+      "logo": "https://image.tmdb.org/t/p/w500/zldCYU15d5ezIlTXux8ikram6Q4.png"
+    }
+  ]
+}
