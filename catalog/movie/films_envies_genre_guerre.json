@@ -1,0 +1,985 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:424",
+      "type": "movie",
+      "name": "La Liste de Schindler",
+      "poster": "https://image.tmdb.org/t/p/w500/fLRbv1fGQD0OCPWkFy7PI2sESLj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "year": "1993",
+      "imdbRating": "4.6",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Liam Neeson",
+        "Ben Kingsley",
+        "Ralph Fiennes",
+        "Caroline Goodall",
+        "Jonathan Sagall",
+        "Embeth Davidtz"
+      ],
+      "description": "Évocation des années de guerre d’Oskar Schindler, fils d’industriel d’origine autrichienne rentré à Cracovie en 1939 avec les troupes allemandes. Il va, tout au long de la guerre, protéger des juifs en les faisant travailler dans sa fabrique et en 1944 sauver 800 hommes et 300 femmes du camp d’extermination d’Auschwitz‐Birkenau.",
+      "runtime": "3h15",
+      "logo": "https://image.tmdb.org/t/p/w500/pB0OrouW51LGauEjOY0JegWGPOm.png"
+    },
+    {
+      "id": "tmdb:857",
+      "type": "movie",
+      "name": "Il faut sauver le soldat Ryan",
+      "poster": "https://image.tmdb.org/t/p/w500/mlSsQWIQV0NKIqqRQRI0yi9gqk8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+      "year": "1998",
+      "imdbRating": "4.4",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Tom Hanks",
+        "Tom Sizemore",
+        "Edward Burns",
+        "Barry Pepper",
+        "Adam Goldberg",
+        "Vin Diesel"
+      ],
+      "description": "Vue à travers le regard d’une escouade de soldats américains, l’histoire débute le jour du Débarquement au cours de la 2ème Guerre Mondiale, le long des plages de Normandie. Le capitaine John Miller a pour mission de retrouver le soldat James Ryan, dont les trois frères sont morts au combat et il s’expose ainsi à de nombreux risques. Confrontés à une situation périlleuse, les hommes discutent les ordres. Pourquoi huit hommes risqueraient-ils leur vie pour un seul homme ? Rattrapés par la brutalité de la guerre, chacun cherche sa propre réponse ainsi que la force de vaincre un futur incertain avec honneur, décence et courage.",
+      "runtime": "2h49",
+      "logo": "https://image.tmdb.org/t/p/w500/Acfr0s5zTzGSCaKHiEHIvrhunea.png"
+    },
+    {
+      "id": "tmdb:324786",
+      "type": "movie",
+      "name": "Tu ne tueras point",
+      "poster": "https://image.tmdb.org/t/p/w500/zyxSZvaA7mU7mwnO1lR2cXUdQdV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+      "year": "2016",
+      "imdbRating": "4.4",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Mel Gibson"
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Sam Worthington",
+        "Vince Vaughn",
+        "Teresa Palmer",
+        "Luke Bracey",
+        "Hugo Weaving"
+      ],
+      "description": "Quand la Seconde Guerre mondiale a éclaté, Desmond, un jeune américain, s’est retrouvé confronté à un dilemme: comme n’importe lequel de ses compatriotes, il voulait servir son pays, mais la violence était incompatible avec ses croyances et ses principes moraux. Il s’opposait ne serait-ce qu’à tenir une arme et refusait d’autant plus de tuer. Il s’engagea tout de même dans l’infanterie comme médecin. Son refus d’infléchir ses convictions lui valut d’être rudement mené par ses camarades et sa hiérarchie, mais c’est armé de sa seule foi qu’il est entré dans l’enfer de la guerre pour en devenir l’un des plus grands héros. Lors de la bataille d’Okinawa sur l’imprenable falaise de Maeda, il a réussi à sauver des dizaines de vies seul sous le feu de l’ennemi, ramenant en sureté, du champ de bataille, un à un les soldats blessés.",
+      "runtime": "2h19",
+      "logo": "https://image.tmdb.org/t/p/w500/l9s1f81O73NdgRbiqYh0XQ6VYNh.png"
+    },
+    {
+      "id": "tmdb:600",
+      "type": "movie",
+      "name": "Full Metal Jacket",
+      "poster": "https://image.tmdb.org/t/p/w500/cShwwkz4gBBIRj8yFy8TP2tEWZ4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yYderAvjtKnYLBxKujVpmKTVlOM.jpg",
+      "year": "1987",
+      "imdbRating": "4.4",
+      "genres": [
+        "Drame",
+        "Guerre"
+      ],
+      "director": [
+        "Stanley Kubrick"
+      ],
+      "cast": [
+        "Matthew Modine",
+        "Adam Baldwin",
+        "Vincent D'Onofrio",
+        "R. Lee Ermey",
+        "Dorian Harewood",
+        "Kevyn Major Howard"
+      ],
+      "description": "Pendant la guerre du Vietnam, la préparation et l’entraînement d’un groupe de jeunes marines, jusqu’au terrible baptême du feu et la sanglante offensive du Tết à Hue, en 1968.",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/qwdLJlmyWD1Laak24kskzXmSFh0.png"
+    },
+    {
+      "id": "tmdb:12477",
+      "type": "movie",
+      "name": "Le Tombeau des lucioles",
+      "poster": "https://image.tmdb.org/t/p/w500/r9a6jyW4CBsQ5QyF12eJC84YdAd.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg",
+      "year": "1988",
+      "imdbRating": "4.4",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Guerre"
+      ],
+      "director": [
+        "Isao Takahata"
+      ],
+      "cast": [
+        "Tsutomu Tatsumi",
+        "Ayano Shiraishi",
+        "Yoshiko Shinohara",
+        "Akemi Yamaguchi",
+        "Masayo Sakai",
+        "Kozo Hashida"
+      ],
+      "description": "Japon, été 1945. Après le bombardement de Kobé, Seita, un adolescent de quatorze ans et sa petite sœur de quatre ans, Setsuko, orphelins, vont s’installer chez leur tante à quelques dizaines de kilomètres de chez eux. Celle‐ci leur fait comprendre qu’ils sont une gêne pour la famille et doivent mériter leur riz quotidien. Seita décide de partir avec sa petite sœur. Ils se réfugient dans un bunker désaffecté en pleine campagne et vivent des jours heureux illuminés par la présence de milliers de lucioles. Mais bientôt la nourriture commence cruellement à manquer.",
+      "runtime": "1h28",
+      "logo": "https://image.tmdb.org/t/p/w500/gpWvGjU5Ju5ZaxMLoPiTpSBAQhh.png"
+    },
+    {
+      "id": "tmdb:975",
+      "type": "movie",
+      "name": "Les Sentiers de la gloire",
+      "poster": "https://image.tmdb.org/t/p/w500/nLGw5N5VLmQR8bPbRMt772FWzCz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+      "year": "1957",
+      "imdbRating": "4.4",
+      "genres": [
+        "Guerre",
+        "Drame"
+      ],
+      "director": [
+        "Stanley Kubrick"
+      ],
+      "cast": [
+        "Kirk Douglas",
+        "Ralph Meeker",
+        "Adolphe Menjou",
+        "George Macready",
+        "Wayne Morris",
+        "Richard Anderson"
+      ],
+      "description": "En 1916, durant la Première Guerre mondiale, le général français Broulard ordonne au général Mireau de lancer une offensive suicidaire contre une position allemande imprenable, surnommée la « Fourmilière ». Au moment de l'attaque, les soldats tombent par dizaines et leurs compagnons, épuisés, refusent d'avancer…",
+      "runtime": "1h26",
+      "logo": "https://image.tmdb.org/t/p/w500/fmnWH0423owSJnm8oBgvxacU2ll.png"
+    },
+    {
+      "id": "tmdb:16869",
+      "type": "movie",
+      "name": "Inglourious Basterds",
+      "poster": "https://image.tmdb.org/t/p/w500/lPKwFzX4TiWLA4Mo5Bnf8aIIrJm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+      "year": "2009",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Guerre"
+      ],
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "Brad Pitt",
+        "Mélanie Laurent",
+        "Christoph Waltz",
+        "Eli Roth",
+        "Michael Fassbender",
+        "Diane Kruger"
+      ],
+      "description": "Dans la France occupée de 1940, un groupe de soldats juifs américains, les bâtards, mène des actions punitives particulièrement sanglantes contre les nazis du Troisième Reich. Leur chemin rencontre celui de Shosanna Dreyfus, une jeune juive réfugiée à Paris exploitante d'une salle de cinéma qui entend elle aussi assouvir sa propre vengeance envers les nazis.",
+      "runtime": "2h33",
+      "logo": "https://image.tmdb.org/t/p/w500/4hvZyon2TzS511LVG3xAiNU2d4P.png"
+    },
+    {
+      "id": "tmdb:205596",
+      "type": "movie",
+      "name": "Imitation Game",
+      "poster": "https://image.tmdb.org/t/p/w500/gBxCZuieAe8KClWWP1vVijXBlTp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+      "year": "2014",
+      "imdbRating": "4.3",
+      "genres": [
+        "Histoire",
+        "Drame",
+        "Thriller",
+        "Guerre"
+      ],
+      "director": [
+        "Morten Tyldum"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Keira Knightley",
+        "Matthew Goode",
+        "Rory Kinnear",
+        "Allen Leech",
+        "Matthew Beard"
+      ],
+      "description": "1940 : Alan Turing, mathématicien, cryptologue, est chargé par le gouvernement Britannique de percer le secret de la célèbre machine de cryptage allemande Enigma, réputée inviolable. À la tête d'une équipe improbable de savants, linguistes, champions d'échecs et agents du renseignement, Turing s'attaque au chef-d'œuvre de complexité dont la clef peut conduire à la victoire. IMITATION GAME relate la façon dont Alan Turing, soumis à une intense pression, contribua à changer le cours de la Seconde Guerre mondiale et de l'Histoire. C'est aussi le portrait d'un homme qui se retrouva condamné par la société de l'époque en raison de son homosexualité et en mourut.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/aouMBqB20VBFM3J8V02hBkfWVq6.png"
+    },
+    {
+      "id": "tmdb:197",
+      "type": "movie",
+      "name": "Braveheart",
+      "poster": "https://image.tmdb.org/t/p/w500/cteCb7HgeNmx8aeu5drpTb7N8fB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+      "year": "1995",
+      "imdbRating": "4.2",
+      "genres": [
+        "Action",
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Mel Gibson"
+      ],
+      "cast": [
+        "Mel Gibson",
+        "Catherine McCormack",
+        "Sophie Marceau",
+        "Patrick McGoohan",
+        "Angus Macfadyen",
+        "Brendan Gleeson"
+      ],
+      "description": "À la fin du XIIIe siècle, le roi Edward 1er d'Angleterre s'empare du trône d’Écosse, réduisant son peuple à la misère. William Wallace donne le signe de la révolte et, à la tête d'une armée de gueux, parvient à reconquérir plusieurs places fortes. Mais les nobles écossais sont lâchés et par deux fois trahissent le héros de leur peuple…",
+      "runtime": "2h58",
+      "logo": "https://image.tmdb.org/t/p/w500/pR5G2Uac1QcbTUY4zJa3NEexlYb.png"
+    },
+    {
+      "id": "tmdb:14574",
+      "type": "movie",
+      "name": "Le Garçon au pyjama rayé",
+      "poster": "https://image.tmdb.org/t/p/w500/9OlMcVcuFl2cjUKLvLYBael6kkX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/A63giQFJP4ABqNk4sLzegVeqVdl.jpg",
+      "year": "2008",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Guerre",
+        "Histoire"
+      ],
+      "director": [
+        "Mark Herman"
+      ],
+      "cast": [
+        "Asa Butterfield",
+        "Vera Farmiga",
+        "David Thewlis",
+        "Jack Scanlon",
+        "Amber Beattie",
+        "Rupert Friend"
+      ],
+      "description": "Seconde Guerre mondiale. Bruno a tout juste 9 ans lorsque son père, un officier nazi remarqué par le Führer, se voit confier le commandement du camp de concentration polonais d'Auschwitz. Le petit garçon n'apprécie guère de devoir quitter la belle et grande maison de Berlin pour se retrouver dans une demeure isolée et triste. De sa chambre, il aperçoit des hommes, des femmes et des enfants tous vêtus de pyjamas rayés. Personne ne lui explique qui ils sont, mais l'innocence aidant, il va se lier d'amitié avec un enfant juif…",
+      "runtime": "1h30",
+      "logo": "https://image.tmdb.org/t/p/w500/8JtfpYqBprvqPYfrdGZ9ONiVh0p.png"
+    },
+    {
+      "id": "tmdb:792",
+      "type": "movie",
+      "name": "Platoon",
+      "poster": "https://image.tmdb.org/t/p/w500/rehBWOx9AIkZRKVuiemWvAMH40.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wjt1dwtabVm9vujAteDTnXnpHfZ.jpg",
+      "year": "1986",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Guerre",
+        "Action"
+      ],
+      "director": [
+        "Oliver Stone"
+      ],
+      "cast": [
+        "Charlie Sheen",
+        "Willem Dafoe",
+        "Tom Berenger",
+        "Kevin Dillon",
+        "Forest Whitaker",
+        "Mark Moses"
+      ],
+      "description": "Septembre 1967 : Chris Taylor, dix‐neuf ans, rejoint la compagnie Bravo du 25ème régiment d’infanterie, près de la frontière cambodgienne. Chris, issu d’une famille bourgeoise s’est engagé volontairement et, plein d’idéal entend bien servir son pays. Mais la réalité est tout autre et ses illusions vont tomber les unes après les autres. Il sera également témoin de la rivalité sanglante qui oppose deux officiers qu’il admire.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/72IANM0v3DTzYel7Oc8pUSyAeau.png"
+    },
+    {
+      "id": "tmdb:193756",
+      "type": "movie",
+      "name": "Du Sang et des Larmes",
+      "poster": "https://image.tmdb.org/t/p/w500/uCW7HmDXijX4ML8CqDRT7E9anBj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/g6QPI70Kzt91Q0lGyLfsVqZAwlJ.jpg",
+      "year": "2013",
+      "imdbRating": "4.2",
+      "genres": [
+        "Guerre",
+        "Action",
+        "Drame"
+      ],
+      "director": [
+        "Peter Berg"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Taylor Kitsch",
+        "Emile Hirsch",
+        "Ben Foster",
+        "Eric Bana",
+        "Ali Suliman"
+      ],
+      "description": "Le 28 juin 2005, un commando de quatre Navy Seals prend part à l'opération «Red Wing», qui a pour but de localiser et éliminer le leader taliban Ahmad Shah. Mais rapidement repérés et encerclés, les quatre soldats vont se retrouver pris au piège.",
+      "runtime": "1h57",
+      "logo": "https://image.tmdb.org/t/p/w500/vMZ8s55hh5SKaFm8biSa0DqyZfH.png"
+    },
+    {
+      "id": "tmdb:2440",
+      "type": "movie",
+      "name": "JSA (Joint Security Area)",
+      "poster": "https://image.tmdb.org/t/p/w500/rudBOKESMvmbN3SKd2Ta3l9GlrS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tAxFr4RkDcRzTqRgZ0pDNvrSTrN.jpg",
+      "year": "2000",
+      "imdbRating": "4.2",
+      "genres": [
+        "Guerre",
+        "Drame",
+        "Thriller",
+        "Mystère",
+        "Action"
+      ],
+      "director": [
+        "Park Chan-Wook"
+      ],
+      "cast": [
+        "이영애",
+        "Lee Byung-hun",
+        "Song Kang-ho",
+        "Tae-woo Kim",
+        "신하균",
+        "Herbert Ulrich"
+      ],
+      "description": "A la suite d'une fusillade dans la Zone Commune de Sécurité (Joint Security Area) séparant les deux Corée : deux soldats de l’armée nord-coréenne sont retrouvés morts. Cette affaire donne lieu a un incident diplomatique majeur entre les deux pays. Afin que la situation ne dégénère pas, une jeune enquêtrice suisse est chargée de mener les auditions des soldats qui étaient en poste... Elle se rend très vite compte que les divers témoignages rendent l’enquête complètement indémêlable… Que s’est-il vraiment passé, ce soir-là, entre les soldats des deux Corée, dans la Zone Commune de Sécurité ?",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/9ywLvpdildlqI9ZZXc56t0F3CvX.png"
+    },
+    {
+      "id": "tmdb:190859",
+      "type": "movie",
+      "name": "American Sniper",
+      "poster": "https://image.tmdb.org/t/p/w500/9BEN7zRpoLBaBU3t97kPJkHUgnv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+      "year": "2014",
+      "imdbRating": "4.1",
+      "genres": [
+        "Guerre",
+        "Action"
+      ],
+      "director": [
+        "Clint Eastwood"
+      ],
+      "cast": [
+        "Bradley Cooper",
+        "Sienna Miller",
+        "Kyle Gallner",
+        "Cole Konis",
+        "Ben Reed",
+        "Elise Robertson"
+      ],
+      "description": "Tireur d’élite des Navy SEAL, Chris Kyle est envoyé en Irak dans un seul but : protéger ses camarades. Sa précision chirurgicale sauve d’innombrables vies humaines sur le champ de bataille et, tandis que les récits de ses exploits se multiplient, il décroche le surnom de « La Légende ». Cependant, sa réputation se propage au-delà des lignes ennemies, si bien que sa tête est mise à prix et qu’il devient une cible privilégiée des insurgés. Malgré le danger, et l’angoisse dans laquelle vit sa famille, Chris participe à quatre batailles décisives parmi les plus terribles de la guerre en Irak, s’imposant ainsi comme l’incarnation vivante de la devise des SEAL : « Pas de quartier ! ». Mais en rentrant au pays, Chris prend conscience qu’il ne parvient pas à retrouver une vie normale.",
+      "runtime": "2h12",
+      "logo": "https://image.tmdb.org/t/p/w500/wnN9XK82o5LMp0Okh583lOV7HYk.png"
+    },
+    {
+      "id": "tmdb:228150",
+      "type": "movie",
+      "name": "Fury",
+      "poster": "https://image.tmdb.org/t/p/w500/7V05gBGiE5LCTKzylIva2nG3JVW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg",
+      "year": "2014",
+      "imdbRating": "4.1",
+      "genres": [
+        "Guerre",
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "David Ayer"
+      ],
+      "cast": [
+        "Brad Pitt",
+        "Shia LaBeouf",
+        "Logan Lerman",
+        "Michael Peña",
+        "Jon Bernthal",
+        "Jim Parrack"
+      ],
+      "description": "Avril 1945. Les Alliés mènent leur ultime offensive en Europe. À bord d’un tank Sherman, le sergent Wardaddy et ses 4 hommes s’engagent dans une mission à très haut risque bien au-delà des lignes ennemies. Face à un adversaire dont le nombre et la puissance de feu les dépassent, Wardaddy et son équipage vont devoir tout tenter pour frapper l’Allemagne nazie en plein cœur…",
+      "runtime": "2h14",
+      "logo": "https://image.tmdb.org/t/p/w500/v3ticRB3hl6Iw9aiJm5cYJn7qub.png"
+    },
+    {
+      "id": "tmdb:770",
+      "type": "movie",
+      "name": "Autant en emporte le vent",
+      "poster": "https://image.tmdb.org/t/p/w500/z5cBuLqlIho5k6rIqjOVIKbwvg6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+      "year": "1939",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Guerre",
+        "Romance"
+      ],
+      "director": [
+        "Victor Fleming"
+      ],
+      "cast": [
+        "Vivien Leigh",
+        "Clark Gable",
+        "Olivia de Havilland",
+        "Leslie Howard",
+        "Hattie McDaniel",
+        "Thomas Mitchell"
+      ],
+      "description": "En Géorgie, en 1861, Scarlett O'Hara est une jeune femme fière et volontaire de la haute société sudiste. Courtisée par tous les bons partis du pays, elle n'a d'yeux que pour Ashley Wilkes malgré ses fiançailles avec sa douce et timide cousine, Melanie Hamilton. Scarlett est pourtant bien décidée à le faire changer d'avis, mais à la réception des Douze Chênes c'est du cynique Rhett Butler qu'elle retient l'attention…",
+      "runtime": "3h53",
+      "logo": "https://image.tmdb.org/t/p/w500/zWjLtMFwcsf5qFWpnvTRCjElXWb.png"
+    },
+    {
+      "id": "tmdb:882569",
+      "type": "movie",
+      "name": "The Covenant",
+      "poster": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+      "year": "2023",
+      "imdbRating": "4.1",
+      "genres": [
+        "Guerre",
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Dar Salim",
+        "Sean Sagar",
+        "Jason Wong",
+        "Rhys Yates",
+        "Christian Ochoa"
+      ],
+      "description": "Lors de sa dernière mission en Afghanistan, le sergent John Kinley fait équipe avec l'interprète Ahmed pour arpenter la région. Lorsque leur unité tombe dans une embuscade au cours d'une patrouille, Kinley et Ahmed sont les seuls survivants. Alors que des combattants ennemis les poursuivent, Ahmed risque sa vie pour transporter Kinley, blessé, en sécurité. De retour sur le sol américain, Kinley apprend qu'Ahmed et sa famille n'ont pas obtenu la possibilité d'entrer aux Etats-Unis comme promis. Déterminé à protéger son ami et à rembourser sa dette, Kinley retourne dans la zone de guerre pour récupérer Ahmed et les siens...",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/bG4HWmMwcTWHPnVde2YtnbW40QH.png"
+    },
+    {
+      "id": "tmdb:7445",
+      "type": "movie",
+      "name": "Brothers",
+      "poster": "https://image.tmdb.org/t/p/w500/nSdAZw7HmcABKxxyjeC9C1h4CNg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xERofiEyzGekTNi3oIppQvdLDZB.jpg",
+      "year": "2009",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Guerre"
+      ],
+      "director": [
+        "Jim Sheridan"
+      ],
+      "cast": [
+        "Tobey Maguire",
+        "Jake Gyllenhaal",
+        "Natalie Portman",
+        "Sam Shepard",
+        "Mare Winningham",
+        "Bailee Madison"
+      ],
+      "description": "Sam, Grace, leurs deux petites filles forment une famille parfaite. Sam, envoyé par l'ONU en mission à l'étranger, confie alors à Tommy, son frère tout juste sorti de prison, le soin de s'occuper de sa famille. Mais lorsque Sam est porté disparu, présumé mort, Tommy et Grace se rapprochent contre toute attente. Jusqu'au jour où Sam revient du front...",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/jZsODN4kbqyl7Y5bGQrAVQ1MBLZ.png"
+    },
+    {
+      "id": "tmdb:801",
+      "type": "movie",
+      "name": "Good Morning, Vietnam",
+      "poster": "https://image.tmdb.org/t/p/w500/yPszN5iNKr3MmFq0dMhAyvzW0kb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7HWx6ADPMGmzoZh1LLpzJZLKsbx.jpg",
+      "year": "1987",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Guerre"
+      ],
+      "director": [
+        "Barry Levinson"
+      ],
+      "cast": [
+        "Robin Williams",
+        "Forest Whitaker",
+        "Tom T. Tran",
+        "จินตหรา สุขพัฒน์",
+        "Bruno Kirby",
+        "Robert Wuhl"
+      ],
+      "description": "Un nouveau disc jockey est envoyé au Vietnam pour animer la radio des forces armées et distraire les soldats. Son ton frais et irrévérencieux le rend vite populaire aux yeux des militaires.",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/3b18uJZnQXeymwzfpseViKHT5A5.png"
+    },
+    {
+      "id": "tmdb:1271",
+      "type": "movie",
+      "name": "300",
+      "poster": "https://image.tmdb.org/t/p/w500/hGZ9sDGcekhJUFmu3NnOhRT8uQS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+      "year": "2007",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Guerre"
+      ],
+      "director": [
+        "Zack Snyder"
+      ],
+      "cast": [
+        "Gerard Butler",
+        "Lena Headey",
+        "Dominic West",
+        "David Wenham",
+        "Vincent Regan",
+        "Michael Fassbender"
+      ],
+      "description": "Adapté du roman graphique de Frank Miller, 300 est un récit épique de la Bataille des Thermopyles qui opposa en l’an –480 le roi Léonidas et 300 soldats spartiates à Xerxès et l’immense armée perse. Face à un invincible ennemi, les 300 déployèrent jusqu’à leur dernier souffle un courage surhumain ; leur vaillance et leur héroïque sacrifice inspirèrent toute la Grèce à se dresser contre la Perse, posant ainsi les premières pierres de la démocratie.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/nodzyMLZpqzh1U0FgUXamgjd7mZ.png"
+    },
+    {
+      "id": "tmdb:1417",
+      "type": "movie",
+      "name": "Le Labyrinthe de Pan",
+      "poster": "https://image.tmdb.org/t/p/w500/bpzGLrQC5nXvU3wrLtp1TDIKYX9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+      "year": "2006",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Guerre"
+      ],
+      "director": [
+        "Guillermo del Toro"
+      ],
+      "cast": [
+        "Ivana Baquero",
+        "Sergi López",
+        "Maribel Verdú",
+        "Ariadna Gil",
+        "Doug Jones",
+        "Álex Angulo"
+      ],
+      "description": "Espagne 1944. Ofelia s’installe avec sa mère dans une garnison dirigée par Vidal, son beau‐père, capitaine autoritaire de l’armée franquiste. À proximité de la grande maison familiale, la jeune fille découvre un étrange labyrinthe gardé par une créature nommée Pan. Le monstre lui révèle qu’elle n’est autre que la princesse d’un royaume enchanté. Afin de découvrir la vérité, Ofelia devra se soumettre à trois épreuves que rien ne l’a préparée à affronter…",
+      "runtime": "1h53",
+      "logo": "https://image.tmdb.org/t/p/w500/lEVXjLwP17FmDiQRSUdlDZ715N6.png"
+    },
+    {
+      "id": "tmdb:515001",
+      "type": "movie",
+      "name": "Jojo Rabbit",
+      "poster": "https://image.tmdb.org/t/p/w500/1uiuoWE0XUqCZpwWKMQwoFpqjkp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+      "year": "2019",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie",
+        "Guerre",
+        "Drame"
+      ],
+      "director": [
+        "Taika Waititi"
+      ],
+      "cast": [
+        "Roman Griffin Davis",
+        "Thomasin McKenzie",
+        "Scarlett Johansson",
+        "Taika Waititi",
+        "Sam Rockwell",
+        "Rebel Wilson"
+      ],
+      "description": "Jojo est un petit allemand solitaire. Sa vision du monde est mise à l’épreuve quand il découvre que sa mère cache une jeune fille juive dans leur grenier. Avec la seule aide de son ami aussi grotesque qu'imaginaire, Adolf Hitler, Jojo va devoir faire face à son nationalisme aveugle.",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/5J1srYM2q1MSgUICBIkfY4xPyOL.png"
+    },
+    {
+      "id": "tmdb:855",
+      "type": "movie",
+      "name": "La Chute du faucon noir",
+      "poster": "https://image.tmdb.org/t/p/w500/8PbLgvdfcdBad3sie9cfIBHq2Xz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+      "year": "2001",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Guerre",
+        "Histoire"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Josh Hartnett",
+        "Eric Bana",
+        "Ewan McGregor",
+        "Tom Sizemore",
+        "William Fichtner",
+        "Sam Shepard"
+      ],
+      "description": "Le 3 octobre 1993, avec l'appui des Nations Unies, une centaine de marines américains de la Task Force Ranger est envoyée en mission à Mogadiscio, en Somalie, pour assurer le maintien de la paix et capturer les deux principaux lieutenants et quelques autres associés de Mohamed Farrah Aidïd, un chef de guerre local. Cette opération de routine vire rapidement au cauchemar lorsque les militaires sont pris pour cibles par les factions armées rebelles et la population, résolument hostiles à toute présence étrangère sur leur territoire.",
+      "runtime": "2h23",
+      "logo": "https://image.tmdb.org/t/p/w500/tny6YcKWXWUHbFkr9aYzYE761HB.png"
+    },
+    {
+      "id": "tmdb:57212",
+      "type": "movie",
+      "name": "Cheval de guerre",
+      "poster": "https://image.tmdb.org/t/p/w500/o0NjYQiVRYq9fNOSnepe2MgmPdO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tcx15vswrQJCGET5lGxESQ4J5LG.jpg",
+      "year": "2011",
+      "imdbRating": "3.9",
+      "genres": [
+        "Guerre",
+        "Histoire",
+        "Aventure"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Jeremy Irvine",
+        "Peter Mullan",
+        "Emily Watson",
+        "Niels Arestrup",
+        "David Thewlis",
+        "Tom Hiddleston"
+      ],
+      "description": "De la magnifique campagne anglaise aux contrées d’une Europe plongée en pleine Première Guerre mondiale, «Cheval de guerre» raconte l’amitié exceptionnelle qui unit un jeune homme, Albert, et le cheval qu’il a dressé, Joey. Séparés aux premières heures du conflit, l’histoire suit l’extraordinaire périple du cheval alors que de son côté Albert va tout faire pour le retrouver. Joey, animal hors du commun, va changer la vie de tous ceux dont il croisera la route: soldats de la cavalerie britannique, combattants allemands, et même un fermier français et sa petite-fille…",
+      "runtime": "2h26",
+      "logo": "https://image.tmdb.org/t/p/w500/xE2B8Njb4mhaNSXfk1BtGs2KRsB.png"
+    },
+    {
+      "id": "tmdb:409",
+      "type": "movie",
+      "name": "Le Patient anglais",
+      "poster": "https://image.tmdb.org/t/p/w500/r6xJpyD0KuIBW891S1SxNn1XuAQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yYe63HwFBNFDcnWtBm8KR6NSAeg.jpg",
+      "year": "1996",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Guerre"
+      ],
+      "director": [
+        "Anthony Minghella"
+      ],
+      "cast": [
+        "Ralph Fiennes",
+        "Juliette Binoche",
+        "Willem Dafoe",
+        "Kristin Scott Thomas",
+        "Naveen Andrews",
+        "Colin Firth"
+      ],
+      "description": "En 1945, quatre personnes déchirées par la guerre se réfugient dans un monastère abandonné de Toscane pour se guérir de leurs maux. Peu à peu le passé va resurgir et la présence d'un homme mystérieux et méconnaissable, le patient anglais, va bouleverser le destin de ceux qui croisent son chemin.",
+      "runtime": "2h40",
+      "logo": "https://image.tmdb.org/t/p/w500/zN0v8YRDOWeV3ATyVvgppVXG3XH.png"
+    },
+    {
+      "id": "tmdb:9665",
+      "type": "movie",
+      "name": "Glory",
+      "poster": "https://image.tmdb.org/t/p/w500/o7sePmQCAmlgfF50vDb3n7MZgf9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wwZoJCpz9sJIXOiP4LW5iKHZvIe.jpg",
+      "year": "1989",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Edward Zwick"
+      ],
+      "cast": [
+        "Matthew Broderick",
+        "Denzel Washington",
+        "Cary Elwes",
+        "Morgan Freeman",
+        "Jihmi Kennedy",
+        "Andre Braugher"
+      ],
+      "description": "1863. La guerre de Sécession ravage l'Amérique et tourne à l'avantage du Sud. Lincoln proclame l'émancipation officielle des noirs et décide que les volontaires noirs pourront s'engager sous les ordres d'officiers blancs. Un régiment de volontaires noirs est alors créé et le jeune Robert Gould Shaw est nommé colonel de ces soldats méprisés. Les volontaires sont nombreux et parmi eux Searles, un ami de Shaw, et Trip, une tête brûlée qui refuse l'autorité. En s'engageant, ces hommes veulent enfin conquérir une dignité qu'ils n'ont jamais connue. Aidé par Forbes, un de ses camarades nommé commandant, Shaw commence à former ses recrues pour le combat.",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/qrcLJEEPZkNMbr7mwe1jSBnyipG.png"
+    },
+    {
+      "id": "tmdb:12162",
+      "type": "movie",
+      "name": "Démineurs",
+      "poster": "https://image.tmdb.org/t/p/w500/sn5QHR0Fz3YbCUepbTYPALH7wr1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9UAhRDffrWkOwxqzqAF6ls1iEZ8.jpg",
+      "year": "2008",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Guerre"
+      ],
+      "director": [
+        "Kathryn Bigelow"
+      ],
+      "cast": [
+        "Jeremy Renner",
+        "Anthony Mackie",
+        "Brian Geraghty",
+        "David Morse",
+        "Guy Pearce",
+        "Evangeline Lilly"
+      ],
+      "description": "Bagdad. Le lieutenant James est à la tête de la meilleure unité de déminage de l'US Army. Leur mission: désamorcer des bombes dans des quartiers civils ou des théâtres de guerre, au péril de leur vie, alors que la situation locale est encore... explosive.",
+      "runtime": "2h11",
+      "logo": "https://image.tmdb.org/t/p/w500/eNqMBZeURzaWTBqq9MNdmdMCnLk.png"
+    },
+    {
+      "id": "tmdb:467244",
+      "type": "movie",
+      "name": "La Zone d'intérêt",
+      "poster": "https://image.tmdb.org/t/p/w500/wD2eFNkSLV0ACM9C82qIYfTMFv9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bq9FpkTw9I3s1cSRuZxQibM2xOx.jpg",
+      "year": "2023",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Jonathan Glazer"
+      ],
+      "cast": [
+        "Christian Friedel",
+        "Sandra Hüller",
+        "Johann Karthaus",
+        "Luis Noah Witte",
+        "Nele Ahrensmeier",
+        "Lilli Falk"
+      ],
+      "description": "Le commandant d'Auschwitz Rudolf Höss et son épouse Hedwig réalisent sur un terrain directement adjacent au mur du camp leur vision d'une vie de rêve avec une famille nombreuse, une maison et un grand jardin. Cependant, lorsque Rudolf doit être muté à Oranienburg, leur petite vie idéale menace de s'effondrer et il cache l'information à son épouse. Quand Hedwig l'apprend, elle refuse de quitter sa maison de rêve.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/1x3KOkzAds7UmHRy53Esc8wBfmi.png"
+    },
+    {
+      "id": "tmdb:2604",
+      "type": "movie",
+      "name": "Né un 4 juillet",
+      "poster": "https://image.tmdb.org/t/p/w500/xLzpwCskq5ZYNIsfSj7GKEOWSXv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3nx1jkMcWlcjmlDgEDFzW1Tykv0.jpg",
+      "year": "1989",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Guerre"
+      ],
+      "director": [
+        "Oliver Stone"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Raymond J. Barry",
+        "Caroline Kava",
+        "Kyra Sedgwick",
+        "Willem Dafoe",
+        "Jerry Levine"
+      ],
+      "description": "Ron Kovic, né un 4 juillet, au jour de l'Indépendance, et fervent patriote, est volontaire pour se battre au Viêt Nam. Il en revient paraplégique et remet en question ses valeurs sur la guerre.",
+      "runtime": "2h25",
+      "logo": "https://image.tmdb.org/t/p/w500/1ynM5IBQYnaNC6sAD8iA0Wc0G86.png"
+    },
+    {
+      "id": "tmdb:454227",
+      "type": "movie",
+      "name": "Outlaw King : Le Roi hors-la-loi",
+      "poster": "https://image.tmdb.org/t/p/w500/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9uIyOsywwi7bDvHxv3QdiimUtd5.jpg",
+      "year": "2018",
+      "imdbRating": "3.7",
+      "genres": [
+        "Action",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "David Mackenzie"
+      ],
+      "cast": [
+        "Chris Pine",
+        "Aaron Taylor-Johnson",
+        "Florence Pugh",
+        "Billy Howle",
+        "Sam Spruell",
+        "Tony Curran"
+      ],
+      "description": "Dans l'Écosse médiévale, Robert Bruce revendique la couronne et mène une révolte féroce pour remporter l'indépendance de son pays contre le joug de l'Angleterre.\r L'histoire vraie et inédite de Robert Bruce, noble vaincu de l'Écosse médiévale devenu roi contre son gré puis héros hors-la-loi en l'espace d'une année. Contraint à se battre pour sauver sa famille, son peuple et son pays de l'envahisseur anglais, Robert Bruce s'empare de la couronne écossaise et rassemble une troupe de soldats hétéroclites. Avec eux, il devra affronter la colère de l'armée la plus puissante au monde, menée par le féroce roi Édouard 1er et son imprévisible fils, le prince de Galles.",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/91K2RrPcygScvsoTCIeaU2wHpaM.png"
+    },
+    {
+      "id": "tmdb:468224",
+      "type": "movie",
+      "name": "Tolkien",
+      "poster": "https://image.tmdb.org/t/p/w500/sA9vfeiGFQDpQDHeEQsKKJKzEgQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4HXiEsWUEMzJNFwjJv6oUaocqJU.jpg",
+      "year": "2019",
+      "imdbRating": "3.7",
+      "genres": [
+        "Guerre",
+        "Drame",
+        "Romance"
+      ],
+      "director": [
+        "Dome Karukoski"
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Lily Collins",
+        "Colm Meaney",
+        "Derek Jacobi",
+        "Harry Gilby",
+        "Mimi Keene"
+      ],
+      "description": "Né en Afrique du Sud, le jeune Tolkien doit aller vivre à Birmingham, en Angleterre après la mort de son père. Peu de temps après, quand sa mère décède, il est confié à un prêtre qui le fait intégrer à la King Edward's School. Sur place, il rencontre trois élèves avec lesquels il forme un club littéraire…",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/f3POb4q9WTVOy7miAhGwfyLYLbc.png"
+    },
+    {
+      "id": "tmdb:832964",
+      "type": "movie",
+      "name": "Lee Miller",
+      "poster": "https://image.tmdb.org/t/p/w500/toURZvfEnRf3HOPjhERWO3CSxMB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9SvSJJSgufM76vn9ddB0YMF6lzs.jpg",
+      "year": "2024",
+      "imdbRating": "3.7",
+      "genres": [
+        "Histoire",
+        "Drame",
+        "Guerre"
+      ],
+      "director": [
+        "Ellen Kuras"
+      ],
+      "cast": [
+        "Kate Winslet",
+        "Andy Samberg",
+        "Alexander Skarsgård",
+        "Marion Cotillard",
+        "Andrea Riseborough",
+        "Noémie Merlant"
+      ],
+      "description": "L’incroyable vie de Lee Miller, ex-modèle pour Vogue et muse de Man Ray devenue l’une des premières femmes photographes de guerre. Partie sur le front et prête à tout pour témoigner des horreurs de la Seconde Guerre, elle a, par son courage et son refus des conventions, changé la façon de voir le monde.",
+      "runtime": "1h57",
+      "logo": "https://image.tmdb.org/t/p/w500/x6cQGVKKQuMIb3QdmlKHGNO84N7.png"
+    },
+    {
+      "id": "tmdb:1495",
+      "type": "movie",
+      "name": "Kingdom of Heaven",
+      "poster": "https://image.tmdb.org/t/p/w500/wJDtVqtj6PVjxGYd6dhIED7PS4U.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "year": "2005",
+      "imdbRating": "3.5",
+      "genres": [
+        "Drame",
+        "Action",
+        "Aventure",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Orlando Bloom",
+        "Eva Green",
+        "Jeremy Irons",
+        "David Thewlis",
+        "غسان مسعود",
+        "Liam Neeson"
+      ],
+      "description": "Balian le forgeron découvre que son père est un seigneur Croisé, peu avant que celui-ci ne meure et que ses terres à Jérusalem ne lui reviennent. Parti sur place, il se range au côté des fidèles du roi Baudoin, qui tentent de maintenir un équilibre fragile entre les Croisés et les troupes de Saladin. Mais le roi est mourant et puissants sont ceux qui s'opposent à lui et à la paix.",
+      "runtime": "2h24",
+      "logo": "https://image.tmdb.org/t/p/w500/q6AAUGkAQWHwmraSKBC0EiGxUKq.png"
+    },
+    {
+      "id": "tmdb:799583",
+      "type": "movie",
+      "name": "Le Ministère de la Sale Guerre",
+      "poster": "https://image.tmdb.org/t/p/w500/cEsfWlqC89pec6402kGUaw3J48L.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jLRtQNOwA0ul2gnRoZ0QjNwMUN1.jpg",
+      "year": "2024",
+      "imdbRating": "3.5",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Guerre"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Henry Cavill",
+        "Eiza González",
+        "Alan Ritchson",
+        "Henry Golding",
+        "Cary Elwes",
+        "Alex Pettyfer"
+      ],
+      "description": "L'histoire de la toute première organisation de forces spéciales créée pendant la Seconde Guerre mondiale par le Premier ministre britannique Winston Churchill et un petit groupe de responsables militaires, dont l'auteur Ian Fleming. Cette unité de combat ultrasecrète, composée d'une équipe hétéroclite de voyous et de francs-tireurs, entreprend une mission audacieuse contre les nazis en utilisant des techniques de combat tout à fait non conventionnelles et tout à fait \"non gentleman\". En fin de compte, leur approche audacieuse a changé le cours de la guerre et a jeté les bases du SAS britannique et de la guerre moderne des opérations secrètes.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/iECwcOwnqhBytE7jcuhCZwqatr8.png"
+    },
+    {
+      "id": "tmdb:567189",
+      "type": "movie",
+      "name": "Sans aucun remords",
+      "poster": "https://image.tmdb.org/t/p/w500/mqFZul2C3xWP1IFoXvuiHU69GmN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+      "year": "2021",
+      "imdbRating": "2.8",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Guerre"
+      ],
+      "director": [
+        "Stefano Sollima"
+      ],
+      "cast": [
+        "Michael B. Jordan",
+        "Jamie Bell",
+        "Guy Pearce",
+        "Jodie Turner-Smith",
+        "Lauren London",
+        "Brett Gelman"
+      ],
+      "description": "Un Marine des forces spéciales découvre une conspiration internationale alors qu’il cherche à obtenir justice pour le meurtre de sa femme enceinte. Lorsque des soldats russes tuent sa famille en représailles de son implication dans une opération secrète, le chef John Kelly poursuit les assassins à tout prix. En rejoignant les forces de la marine de guerre américaine aux côtés d’un confrère et d’un mystérieux agent de la CIA, la mission de Kelly révèle involontairement un complot secret qui menace d'entraîner les États-Unis et la Russie dans une guerre totale. Tiraillé entre honneur et loyauté envers son pays, Kelly doit combattre ses ennemis sans aucun remords s’il souhaite éviter le désastre et révéler les puissants derrière le complot.",
+      "runtime": "1h49",
+      "logo": "https://image.tmdb.org/t/p/w500/jci0FQsJTe2gjKXtEQBvFufDA3H.png"
+    }
+  ]
+}

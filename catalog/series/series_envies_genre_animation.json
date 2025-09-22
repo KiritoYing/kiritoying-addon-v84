@@ -1,0 +1,228 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:95557",
+      "type": "series",
+      "name": "INVINCIBLE",
+      "poster": "https://image.tmdb.org/t/p/w500/s2cmk5aVFddnUeXHvRJMPhhShtE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
+      "year": "2021",
+      "imdbRating": "4.3",
+      "genres": [
+        "Animation",
+        "Drame"
+      ],
+      "cast": [
+        "Steven Yeun",
+        "Sandra Oh",
+        "J.K. Simmons"
+      ],
+      "description": "Après avoir découvert que son père est le super-héros le plus puissant du monde, un ado développe lui aussi des pouvoirs et décide de suivre les traces de son géniteur...",
+      "logo": "https://image.tmdb.org/t/p/w500/zwJwLPuwx6s0vaVzWEE7EpL1mFd.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:89456",
+      "type": "series",
+      "name": "Primal",
+      "poster": "https://image.tmdb.org/t/p/w500/ebupzTwgP8nBy0T5J3abqTqUMjK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zBfnpI8883yeQkXK2kpLavHv9Yw.jpg",
+      "year": "2019",
+      "imdbRating": "4.3",
+      "genres": [
+        "Animation",
+        "Drame"
+      ],
+      "director": [
+        "Genndy Tartakovsky"
+      ],
+      "cast": [
+        "Aaron LaPlante"
+      ],
+      "description": "L'amitié improbable entre un homme des cavernes à l'aube de l'évolution et un dinosaure dont l'espèce est sur le point de s'éteindre. Les deux s'unissent pour leur survie dans un monde primaire et violent.",
+      "logo": "https://image.tmdb.org/t/p/w500/hwlZlgTPMAoHdE7DA9Fil7K6EDr.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:67075",
+      "type": "series",
+      "name": "Mob Psycho 100",
+      "poster": "https://image.tmdb.org/t/p/w500/zCLAgtNDTugHHbf9lXcol1sBpqF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+      "year": "2016",
+      "imdbRating": "4.2",
+      "genres": [
+        "Animation",
+        "Comédie"
+      ],
+      "cast": [
+        "伊藤節生",
+        "Takahiro Sakurai",
+        "Miyu Irino",
+        "Akio Ōtsuka"
+      ],
+      "description": "Shigeo Kageyama, surnommé Mob, est un lycéen tout ce qu’il y a de plus ordinaire. Pourtant, il possède de puissants pouvoirs psychiques, mais il préfère rester discret, afin d’avoir une vie la plus normale possible. De plus, il comprend en grandissant que ce pouvoir peut être dangereux et qu’il augmente en même temps que sa charge émotionnelle. Mais pourra-t-il contenir longtemps ses émotions ?",
+      "logo": "https://image.tmdb.org/t/p/w500/yuu8zpoZWNZIj7W2o6GBJm8VEVp.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:79141",
+      "type": "series",
+      "name": "Scissor Seven",
+      "poster": "https://image.tmdb.org/t/p/w500/jz9ii5sft8l6zP3lzu51xNWmgiO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/80AhZSbY4eYe7HZnmkqX18ZcAFj.jpg",
+      "year": "2018",
+      "imdbRating": "4.2",
+      "genres": [
+        "Animation",
+        "Comédie"
+      ],
+      "director": [
+        "何小疯"
+      ],
+      "cast": [
+        "何小疯",
+        "段艺璇"
+      ],
+      "description": "Pour retrouver la mémoire, un coiffeur armé de ciseaux se reconvertit en assassin, mais incapable de faire du mal à une mouche, il finit mêlé à une âpre lutte de pouvoir.",
+      "logo": "https://image.tmdb.org/t/p/w500/grqtAHANswfQfrtV3gFZdSNsn1q.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:204635",
+      "type": "series",
+      "name": "Du mouvement de la Terre",
+      "poster": "https://image.tmdb.org/t/p/w500/hDTk1UOcuSCPzYnJ9LGH1sHrIAX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/o5GDX8zmKLpOxRkBoAonoQL8gbg.jpg",
+      "year": "2024",
+      "imdbRating": "3.9",
+      "genres": [
+        "Animation",
+        "Drame"
+      ],
+      "description": "Lorsqu'il reçoit des enseignements hérétiques sur la Terre et le Soleil, un jeune prodige se met en quête des recherches secrètes de son maître tout en échappant à l'Inquisition.",
+      "logo": "https://image.tmdb.org/t/p/w500/yOSaA0Wzlo30jVfvGlEsgtQP9Qr.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:49530",
+      "type": "series",
+      "name": "Dexter: Early Cuts",
+      "poster": "https://image.tmdb.org/t/p/w500/zMfOoSAB7q3xclhUEavyv5MR5iU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/51GXeBZY5IYMY0bFtvCtaIYAh6Q.jpg",
+      "year": "2009",
+      "imdbRating": "3.9",
+      "genres": [
+        "Animation",
+        "Crime",
+        "Drame"
+      ],
+      "cast": [
+        "Michael C. Hall"
+      ],
+      "description": "Série Web animée fournissant un contexte et une profondeur au personnage et aux relations de Dexter.",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:9343",
+      "type": "series",
+      "name": "Paranoia Agent",
+      "poster": "https://image.tmdb.org/t/p/w500/gVsTX3EJIsq3fHx2xLDFEeWMYDe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "year": "2004",
+      "imdbRating": "3.8",
+      "genres": [
+        "Animation",
+        "Mystère"
+      ],
+      "director": [
+        "Satoshi Kon"
+      ],
+      "cast": [
+        "Mamiko Noto",
+        "阪口大助",
+        "桃井はるこ",
+        "Shōzō Iizuka",
+        "Toshihiko Seki",
+        "京田尚子"
+      ],
+      "description": "Au milieu de la vie frénétique de Tokyo, la créatrice d'un personnage à la mode (le chien Maromi) est agressée devant chez elle par un jeune garçon portant une casquette, des rollers et une batte de base-ball dorés. \n\nDeux inspecteurs de police, l'un jeune et enthousiaste, son aîné plus blasé, mènent leur enquête pendant que de nouvelles agressions ont lieu, toujours par celui que l'on nomme \"le jeune homme à la batte\". Alors que les victimes ne semblent posséder aucun lien entre elles, la paranoïa s'installe au sein de la population de la capitale... ",
+      "logo": "https://image.tmdb.org/t/p/w500/aNh5IhfP6bg244MADQGQ3Yb6jBC.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:25760",
+      "type": "series",
+      "name": "Hinamizawa, le village maudit",
+      "poster": "https://image.tmdb.org/t/p/w500/oEHxQwmXvcfOYycgUanPB11uiB3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uVKUGxUSfdsGk9mvLt9mDkbATw5.jpg",
+      "year": "2006",
+      "imdbRating": "3.8",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Mystère"
+      ],
+      "cast": [
+        "保志総一朗",
+        "Mai Nakahara",
+        "Satsuki Yukino",
+        "Mika Kanai",
+        "Yukari Tamura",
+        "Yui Horie"
+      ],
+      "description": "Juin 1983. Hinamizawa est une petite ville d'apparence paisible de la campagne japonaise où le personnage principal, Keiichi Maebara, vient emménager avec sa famille. Il va très vite se lier avec quatre de ses camarades de classe, quatre jeunes filles nommées Rena Ryugū, Mion Sonozaki, Rika Furude, et Satoko Hōjō, qui l'acceptent dans leur club d'amateurs de jeux de société.\n\nLeur bonne entente commence toutefois à se détériorer quand Keiichi apprend petit à petit certains éléments de l'histoire récente du village. Tout débute apparemment par un meurtre horrible commis quatre ans auparavant suivi d'une série de mystérieuses disparitions, mais ces faits sont passés sous silence. Pire, il semblerait que les amies de Keiichi aient été mêlées à ces événements !\n\nAprès le festival de Watanagashi, célébrant une déité locale, Oyashiro, de nouvelles énigmes apparaissent...",
+      "logo": "https://image.tmdb.org/t/p/w500/tTvuMbaNKIKwsrw8zqrrUPKeCzI.svg",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:117933",
+      "type": "series",
+      "name": "Summer Time Rendering",
+      "poster": "https://image.tmdb.org/t/p/w500/36RTVhPywiKnOToLsa692DIi3iS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
+      "year": "2022",
+      "imdbRating": "3.7",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Mystère"
+      ],
+      "cast": [
+        "Natsuki Hanae",
+        "永瀬アンナ",
+        "白砂沙帆",
+        "Yōko Hikasa",
+        "浦山迅",
+        "小野賢章"
+      ],
+      "description": "Lorsqu'il apprend que Ushio, son amie d'enfance, est décédée, Shimpei décide de retourner sur son île natale, Hitogashima. Là-bas, il se rend vite compte que quelque chose ne tourne pas rond...\n\nS'il s'agissait d'une mort accidentelle, pourquoi une autopsie a-t-elle été réalisée ? Qu'a bien pu voir Mio, la petite sœur d'Ushio ? Mais avant de pouvoir répondre à ses questions, Shimpei et Mio sont assassinés par un double de cette dernière...\n\nEt voilà que Shimpei se réveille à nouveau sur le bateau qui le conduit à Hitogashima pour assister à l'enterrement d'Ushio...",
+      "logo": "https://image.tmdb.org/t/p/w500/vFb7iWw6MUbLIAB4RMKDhsSlt8X.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:75775",
+      "type": "series",
+      "name": "Junji Itô Collection",
+      "poster": "https://image.tmdb.org/t/p/w500/4tRv9ZSW4OqQG74NcGUjFPf1jtH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/33szknNsrRWiw8NPJZbVXOkfBfy.jpg",
+      "year": "2018",
+      "imdbRating": "3.1",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Mystère"
+      ],
+      "cast": [
+        "三ツ矢雄二",
+        "Mami Koyama",
+        "末柄里恵",
+        "Hiro Shimono",
+        "Hikaru Midorikawa"
+      ],
+      "description": "Une collection d’histoires courtes, toutes adaptées de célèbres mangas de Junji Itô, le maître de l’horreur japonais. Parmi celles-ci, Tomié, Spirale ou encore Le Journal de Soïchi.",
+      "logo": "https://image.tmdb.org/t/p/w500/8woLl7LdexI3WeiPegB2fauC9lD.png",
+      "status": "Terminée"
+    }
+  ]
+}

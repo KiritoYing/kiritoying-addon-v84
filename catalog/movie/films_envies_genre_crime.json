@@ -1,0 +1,3837 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:680",
+      "type": "movie",
+      "name": "Pulp Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/4TBdF7nFw2aKNM0gPOlDNq3v3se.jpg",
+      "background": "https://image.tmdb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "year": "1994",
+      "imdbRating": "4.5",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Comédie",
+        "Drame"
+      ],
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Bruce Willis",
+        "Ving Rhames",
+        "Harvey Keitel"
+      ],
+      "description": "L’odyssée sanglante et burlesque de petits malfrats dans la jungle d’Hollywood : Deux petits tueurs, un dangereux gangster marié à une camée, un boxeur roublard, des prêteurs sur gages sadiques, un caïd élégant et dévoué, un dealer bon mari et deux tourtereaux à la gâchette facile.",
+      "runtime": "2h34",
+      "logo": "https://image.tmdb.org/t/p/w500/rtLFVljaE4Zf5E9qRA8cibBBhdC.png"
+    },
+    {
+      "id": "tmdb:807",
+      "type": "movie",
+      "name": "Seven",
+      "poster": "https://image.tmdb.org/t/p/w500/upIOOLVeOoUkTM5fVWwXW2JmBrW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+      "year": "1995",
+      "imdbRating": "4.5",
+      "genres": [
+        "Crime",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "David Fincher"
+      ],
+      "cast": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Gwyneth Paltrow",
+        "John Cassini",
+        "Peter Crombie",
+        "Reg E. Cathey"
+      ],
+      "description": "À New York, un criminel anonyme a décidé de commettre 7 meurtres basés sur les 7 pêchés capitaux énoncés dans la Bible : gourmandise, avarice, paresse, orgueil, luxure, envie et colère. Vieux flic blasé à 7 jours de la retraite, l'inspecteur Somerset mène l'enquête tout en formant son remplaçant, l'ambitieux inspecteur David Mills…",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/8DfvUgzaTfoXgMEgq9XcQJ610rJ.png"
+    },
+    {
+      "id": "tmdb:769",
+      "type": "movie",
+      "name": "Les Affranchis",
+      "poster": "https://image.tmdb.org/t/p/w500/kc55cCUCZKtAFpsCnZKM5uLBzwh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sw7mordbZxgITU877yTpZCud90M.jpg",
+      "year": "1990",
+      "imdbRating": "4.5",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Ray Liotta",
+        "Joe Pesci",
+        "Lorraine Bracco",
+        "Paul Sorvino",
+        "Frank Sivero"
+      ],
+      "description": "Brooklyn, dans les années 50. Depuis l'enfance, le jeune Henry Hill rêve de devenir gangster. À 16 ans, il se met en selle auprès de Paul Cicero, un caïd local, et commet ses premiers délits. Arrêté et interrogé, il refuse de parler et gagne ainsi le respect du milieu. À sa sortie de prison, il fait la connaissance de James Conway et de Tommy DeVito, deux truands d'une extrême violence, et se lance avec eux dans des trafics de grande envergure. Karen, une jeune bourgeoise qu'il courtise et finit par épouser, ne devine sa profession qu'après être passée devant l'officier d'état-civil. Grisé par le succès, Henry multiplie les coups les plus audacieux…",
+      "runtime": "2h21",
+      "logo": "https://image.tmdb.org/t/p/w500/y3uMg4x3wLnTpv8wRfL4qABr3Uq.png"
+    },
+    {
+      "id": "tmdb:274",
+      "type": "movie",
+      "name": "Le Silence des agneaux",
+      "poster": "https://image.tmdb.org/t/p/w500/sSQDxwm4r28YpJSQVyVOtpYVs0E.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+      "year": "1991",
+      "imdbRating": "4.4",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drame"
+      ],
+      "director": [
+        "Jonathan Demme"
+      ],
+      "cast": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Scott Glenn",
+        "Ted Levine",
+        "Anthony Heald",
+        "Brooke Smith"
+      ],
+      "description": "Un psychopathe connu sous le nom de Buffalo Bill sème la terreur dans le Middle West en kidnappant et en assassinant de jeunes femmes. Clarice Starling, une jeune stagiaire du FBI, est chargée d’interroger l’ex‐psychiatre Hannibal Lecter. Psychopathe redoutablement intelligent et porté sur le cannibalisme, Lecter est capable de lui fournir des informations concernant Buffalo Bill ainsi que son portrait psychologique. Mais il n’accepte de l’aider qu’en échange d’informations sur la vie privée de la jeune femme. Entre eux s’établit un lien de fascination et de répulsion.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/ziQvs1zjNr4UhVLYeXnKTgfMZFg.png"
+    },
+    {
+      "id": "tmdb:101",
+      "type": "movie",
+      "name": "Léon",
+      "poster": "https://image.tmdb.org/t/p/w500/oBhmd3261OkJ4Yg2FdSiD2wnyfe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jynfI114q3kOAbIiVjVfFFmttU2.jpg",
+      "year": "1994",
+      "imdbRating": "4.3",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "Luc Besson"
+      ],
+      "cast": [
+        "Jean Reno",
+        "Natalie Portman",
+        "Gary Oldman",
+        "Danny Aiello",
+        "Peter Appel",
+        "Michael Badalucco"
+      ],
+      "description": "Léon est un tueur professionnel redoutable et insaisissable. Il vit seul à New York avec sa plante verte et ses habitudes jusqu'au jour où une petite Mathilda de douze ans sonne à sa porte et fait irruption dans sa vie.",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/2BHg0eOTo98nR8yQelAfNYFUSih.png"
+    },
+    {
+      "id": "tmdb:146233",
+      "type": "movie",
+      "name": "Prisoners",
+      "poster": "https://image.tmdb.org/t/p/w500/fUk1f0iOAezl5PZ7gQW6nrguOXk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+      "year": "2013",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Viola Davis",
+        "Maria Bello",
+        "Terrence Howard",
+        "Melissa Leo"
+      ],
+      "description": "Dans la banlieue de Boston, deux fillettes de 6 ans, Anna et Joy, ont disparu. Le détective Loki privilégie la thèse du kidnapping suite au témoignage de Keller, le père d’Anna. Le suspect numéro 1 est rapidement arrêté mais est relâché quelques jours plus tard faute de preuve, entrainant la fureur de Keller. Aveuglé par sa douleur, le père dévasté se lance alors dans une course contre la montre pour retrouver les enfants disparus. De son côté, Loki essaie de trouver des indices pour arrêter le coupable avant que Keller ne commette l’irréparable… Les jours passent et les chances de retrouver les fillettes s’amenuisent…",
+      "runtime": "2h33",
+      "logo": "https://image.tmdb.org/t/p/w500/kUl7SJfk6QxmghB7nI25p8bhckC.png"
+    },
+    {
+      "id": "tmdb:524",
+      "type": "movie",
+      "name": "Casino",
+      "poster": "https://image.tmdb.org/t/p/w500/4a0I37pYcdFY6HeutalHQTGs0sl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+      "year": "1995",
+      "imdbRating": "4.3",
+      "genres": [
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Sharon Stone",
+        "Joe Pesci",
+        "James Woods",
+        "Don Rickles",
+        "Alan King"
+      ],
+      "description": "Dans les années soixante-dix à Las Vegas, Ace Rothstein dirige d'une main de fer l'hôtel-casino Tangiers, financé en sous-main par le puissant syndicat des camionneurs. Le Tangiers est l'un des casinos les plus prospères de la ville et Ace est devenu le grand manitou de Las Vegas, secondé par son ami d'enfance, Nicky Santoro. Impitoyable avec les tricheurs, Rothstein se laisse un jour séduire par une virtuose de l'arnaque d'une insolente beauté, Ginger McKenna. Amoureux, il lui ouvre les portes de son paradis et l'épouse. Ses ennuis commencent alors.",
+      "runtime": "2h58",
+      "logo": "https://image.tmdb.org/t/p/w500/Aozl6IvcXDfJhOcY8EkF0sOeHrG.png"
+    },
+    {
+      "id": "tmdb:117",
+      "type": "movie",
+      "name": "Les Incorruptibles",
+      "poster": "https://image.tmdb.org/t/p/w500/xrdMy48NrJSJYRplKfuQT0sDfSI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qJbMgG2ZkWOk7zdMfC4JVfEk10N.jpg",
+      "year": "1987",
+      "imdbRating": "4.3",
+      "genres": [
+        "Crime",
+        "Histoire",
+        "Thriller"
+      ],
+      "director": [
+        "Brian De Palma"
+      ],
+      "cast": [
+        "Kevin Costner",
+        "Sean Connery",
+        "Robert De Niro",
+        "Charles Martin Smith",
+        "Andy García",
+        "Richard Bradford"
+      ],
+      "description": "À Chicago en 1930, à l’époque de la prohibition, le trafic d’alcool bat son plein et permet à des truands de bâtir des fortunes colossales. Eliot Ness, jeune policier frais émoulu du FBI, est chargé de démanteler un réseau de contrebande d’alcool. L’ennemi est facilement identifiable : Al Capone, inattaquable officiellement, est pourtant impliqué dans les affaires les plus sordides. La première mission de Ness, maladroitement conduite, se solde par un échec humiliant. Loin de se laisser décourager par ce premier affront, Ness décide de s’entourer de personnes de confiance. Il recrute ainsi Jim Malone, un flic qui connaît bien le monde des truands…",
+      "runtime": "1h59",
+      "logo": "https://image.tmdb.org/t/p/w500/asO4rfQboDFWGeznuDYk1oV1esT.png"
+    },
+    {
+      "id": "tmdb:11423",
+      "type": "movie",
+      "name": "Memories of Murder",
+      "poster": "https://image.tmdb.org/t/p/w500/fz5NYI8PUmPplu3UA70AOqEDJL7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2NArMoObkAbnIPvqlHC3gRGsfBb.jpg",
+      "year": "2003",
+      "imdbRating": "4.3",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Bong Joon-ho"
+      ],
+      "cast": [
+        "Song Kang-ho",
+        "김상경",
+        "Kim Roi-ha",
+        "Song Jae-ho",
+        "변희봉",
+        "고서희"
+      ],
+      "description": "Province de Gyunggi 1986. Le corps d'une jeune femme brutalement violée puis assassinée est retrouvé dans la campagne. Deux mois plus tard, d'autres crimes similaires ont lieu. Dans un pays qui n'a jamais connu de telles atrocités, la rumeur d'actes commis par un serial killer grandit de jour en jour. Une unité spéciale de la police est ainsi créée dans la région afin de trouver rapidement le coupable. Elle est placée sous les ordres d'un policier local et d'un détective spécialement envoyé de Séoul à sa demande. Devant l'absence de preuves concrètes, les deux hommes sombrent peu à peu dans le doute...",
+      "runtime": "2h09",
+      "logo": "https://image.tmdb.org/t/p/w500/vggVpoQHP3wzifGYA6UJQL9pq7Y.png"
+    },
+    {
+      "id": "tmdb:25253",
+      "type": "movie",
+      "name": "Les Tontons flingueurs",
+      "poster": "https://image.tmdb.org/t/p/w500/1aZixNERm68Y5ZMzTxWl1PdDyFo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2pnfUSFqUPn9F4mzl1MLKrlnNbU.jpg",
+      "year": "1963",
+      "imdbRating": "4.3",
+      "genres": [
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Georges Lautner"
+      ],
+      "cast": [
+        "Lino Ventura",
+        "Bernard Blier",
+        "Francis Blanche",
+        "Claude Rich",
+        "Pierre Bertin",
+        "Jean Lefebvre"
+      ],
+      "description": "Propriétaire d’une petite usine de tracteurs, Fernand Naudin mène une vie tranquille et sans histoire quand un télégramme l’appelle à Paris. Il arrive à temps pour recueillir le dernier soupir d’un ami de jeunesse, Louis dit « le Mexicain », qui lui confie ses affaires louches en même temps que la garde de sa fille Patricia. Épaulé par maître Folace, un curieux notaire et Pascal, première gâchette du « Mexicain », les ennuis commencent…",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/i2y2T3Yb4zhFmrQvyxm7diC4csW.png"
+    },
+    {
+      "id": "tmdb:24",
+      "type": "movie",
+      "name": "Kill Bill : Volume 1",
+      "poster": "https://image.tmdb.org/t/p/w500/udRaQKzT0LG4iQFxHLaYjno9uAT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p3WiF8qYS7Qp17YRYgrFh7gf9P9.jpg",
+      "year": "2003",
+      "imdbRating": "4.2",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "Uma Thurman",
+        "Lucy Liu",
+        "Vivica A. Fox",
+        "Daryl Hannah",
+        "David Carradine",
+        "Michael Madsen"
+      ],
+      "description": "Au cours d'un mariage, un commando armé massacre l'assistance, laissant pour morte la Mariée et l'enfant qu'elle porte. Après 4 ans de coma, la Mariée se lance à la poursuite des assassins, membres du clan de Bill, au sein duquel, sous le pseudonyme de Black Mamba, elle exerça elle-même autrefois ses talents de redoutable tueuse…",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/dvdglKNKGk43p4jiA3FnTQ3oB75.png"
+    },
+    {
+      "id": "tmdb:640",
+      "type": "movie",
+      "name": "Arrête-moi si tu peux",
+      "poster": "https://image.tmdb.org/t/p/w500/S2w6manFJTMiq0RdgMacSN3nee.jpg",
+      "background": "https://image.tmdb.org/t/p/original/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+      "year": "2002",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken",
+        "Martin Sheen",
+        "Nathalie Baye",
+        "Amy Adams"
+      ],
+      "description": "Dans les années soixante, le jeune Frank Abagnale Jr. est passé maître dans l’art de l’escroquerie, allant jusqu’à détourner 2,5 millions de dollars et à figurer sur les listes du FBI comme l’un des dix individus les plus recherchés des États‐Unis. Véritable caméléon, Frank revêt des identités aussi diverses que celles de pilote de ligne, de médecin, de professeur d’université ou encore d’assistant du procureur. Carl Hanratty, agent du FBI à l’apparence stricte, fait de la traque de Frank Abagnale Jr. sa mission prioritaire, mais ce dernier reste pendant longtemps insaisissable…",
+      "runtime": "2h21",
+      "logo": "https://image.tmdb.org/t/p/w500/84QhHIm1pjQCAXaxTsOAnoEDbEH.png"
+    },
+    {
+      "id": "tmdb:1422",
+      "type": "movie",
+      "name": "Les Infiltrés",
+      "poster": "https://image.tmdb.org/t/p/w500/xHeuF5zzlx1YxkULiz0mx1TMBJ7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+      "year": "2006",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson",
+        "Mark Wahlberg",
+        "Martin Sheen",
+        "Ray Winstone"
+      ],
+      "description": "À Boston, une lutte sans merci oppose la police à la pègre irlandaise. Pour mettre fin au règne du parrain Frank Costello, la police infiltre son gang avec « un bleu » issu des bas quartiers, Billy Costigan. Tandis que Billy s’efforce de gagner la confiance du malfrat vieillissant, Colin Sullivan entre dans la police au sein de l’Unité des Enquêtes Spéciales, chargée d’éliminer Costello. Mais Colin fonctionne en « sous‑marin » et informe Costello des opérations qui se trament contre lui. Risquant à tout moment d’être démasqués, Billy et Colin sont contraints de mener une double vie qui leur fait perdre leurs repères et leur identité. Traquenards et contre‑offensives s’enchaînent jusqu’au jour où chaque camp réalise qu’il héberge une taupe. Une course contre la montre s’engage entre les deux hommes avec un seul objectif : découvrir l’identité de l’autre sous peine d’y laisser sa peau…",
+      "runtime": "2h31",
+      "logo": "https://image.tmdb.org/t/p/w500/vVscOrCv01VwrKRjKMD2YJExI12.png"
+    },
+    {
+      "id": "tmdb:185",
+      "type": "movie",
+      "name": "Orange mécanique",
+      "poster": "https://image.tmdb.org/t/p/w500/n2oKNiEq9DZljqs6xsxs8hnsW9p.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+      "year": "1971",
+      "imdbRating": "4.2",
+      "genres": [
+        "Science-Fiction",
+        "Crime"
+      ],
+      "director": [
+        "Stanley Kubrick"
+      ],
+      "cast": [
+        "Malcolm McDowell",
+        "Patrick Magee",
+        "Carl Duering",
+        "Michael Bates",
+        "Warren Clarke",
+        "James Marcus"
+      ],
+      "description": "Au XXIe siècle, où règnent la violence et le sexe, Alex, jeune chef de bande, exerce avec sadisme une terreur aveugle. Après son emprisonnement, des psychanalystes l'emploient comme cobaye dans des expériences destinées à juguler la criminalité…",
+      "runtime": "2h17",
+      "logo": "https://image.tmdb.org/t/p/w500/xzYe4SIUkqTrERJdLXkhTor4nW7.png"
+    },
+    {
+      "id": "tmdb:6977",
+      "type": "movie",
+      "name": "No Country for Old Men",
+      "poster": "https://image.tmdb.org/t/p/w500/hxVT4KTmjVxVbsnvImm6WWgLMzg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mkXwF7FFWpf2dkOGCzQoeWX7M6R.jpg",
+      "year": "2007",
+      "imdbRating": "4.2",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Western"
+      ],
+      "director": [
+        "Joel Coen",
+        "Ethan Coen"
+      ],
+      "cast": [
+        "Javier Bardem",
+        "Tommy Lee Jones",
+        "Josh Brolin",
+        "Woody Harrelson",
+        "Kelly Macdonald",
+        "Garret Dillahunt"
+      ],
+      "description": "1980, États-Unis, à la frontière qui sépare le Texas du Mexique, les trafiquants mexicains de drogue ont depuis longtemps remplacé les voleurs de bétail. Lorsque Llewelyn Moss découvre dans une plaine des véhicules abandonnés, cernée de cadavres ensanglantés, il ne sait rien de ce qui a conduit à ce drame. Mais il comprend qu'un échange a mal tourné et qu'ils se sont entre-tués. Il recherche un éventuel survivant, le piste et le retrouve mort, au pied d'un arbre avec une valise contenant deux millions de dollars qu'il emporte. Il ne se doute pas de ce que cela va provoquer, mais il se doute que les trafiquants ne vont pas abandonner l'argent. Moss a déclenché une réaction en chaîne que le shérif Ed Tom Bell, un homme proche de la retraite, lucide et clairvoyant, va suivre à la trace...",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/a3Cfpm8yIHBc5e37QFopqQOdoTl.png"
+    },
+    {
+      "id": "tmdb:107",
+      "type": "movie",
+      "name": "Snatch, tu braques ou tu raques",
+      "poster": "https://image.tmdb.org/t/p/w500/oCJSanfnNimhbrI6KMZqEXbE9IA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+      "year": "2000",
+      "imdbRating": "4.2",
+      "genres": [
+        "Crime",
+        "Comédie"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Jason Statham",
+        "Alan Ford",
+        "Stephen Graham",
+        "Brad Pitt",
+        "Dennis Farina",
+        "Robbie Gee"
+      ],
+      "description": "Franky vient de voler un énorme diamant qu’il doit livrer à Avi, un mafieux new‐yorkais. En chemin, il fait escale à Londres où il se laisse convaincre par Boris de parier sur un combat de boxe clandestin. Il ignore, bien sûr, qu’il s’agit d’un coup monté avec Vinny et Sol, afin de le délester de son magnifique caillou. Turkish et Tommy, eux, ont un problème avec leur boxeur, un gitan complètement fêlé qui refuse de se coucher au quatrième round comme prévu. C’est au tour d’Avi de débarquer, bien décidé à récupérer son bien, avec l’aide de Tony, une légende de la gâchette.",
+      "runtime": "1h43",
+      "logo": "https://image.tmdb.org/t/p/w500/7NhHRiPG3t2JWI1NQwimmiBkC8y.png"
+    },
+    {
+      "id": "tmdb:275",
+      "type": "movie",
+      "name": "Fargo",
+      "poster": "https://image.tmdb.org/t/p/w500/pvpLgOyk9SllaHv5N2Lokhdz2Me.jpg",
+      "background": "https://image.tmdb.org/t/p/original/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+      "year": "1996",
+      "imdbRating": "4.2",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Joel Coen"
+      ],
+      "cast": [
+        "Frances McDormand",
+        "William H. Macy",
+        "Steve Buscemi",
+        "Peter Stormare",
+        "Harve Presnell",
+        "John Carroll Lynch"
+      ],
+      "description": "Jerry Lundegaard, vendeur de voitures d’occasion à Minneapolis est endetté jusqu’au cou. Pour s’en sortir, il fait appel à Carl Showalter et Gaear Grimsrud, deux escrocs à la petite semaine, pour qu’ils enlèvent son épouse Jean. Il pourra ainsi partager avec les ravisseurs la rançon que son riche beau-père paiera pour la libération de sa fille. Mais le plan va rapidement tourner au désastre.",
+      "runtime": "1h38",
+      "logo": "https://image.tmdb.org/t/p/w500/b7uDnKFHUpRleDkiQywBv2EUA8E.png"
+    },
+    {
+      "id": "tmdb:598",
+      "type": "movie",
+      "name": "La Cité de Dieu",
+      "poster": "https://image.tmdb.org/t/p/w500/53mEWbkbGD7jILQoiYuvLQHAfrJ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+      "year": "2002",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Fernando Meirelles"
+      ],
+      "cast": [
+        "Alexandre Rodrigues",
+        "Leandro Firmino",
+        "Phellipe Haagensen",
+        "Douglas Silva",
+        "Jonathan Haagensen",
+        "Matheus Nachtergaele"
+      ],
+      "description": "Dans une favela qui a vu le jour à Rio de Janeiro dans les années soixante, Fusée est un gamin noir, pauvre, trop fragile pour devenir hors-la-loi, mais assez malin pour ne pas se contenter d'un travail sous payé. Il grandit dans un environnement violent, mais tente de voir la réalité autrement, avec l'œil d'un artiste. Il rêve de devenir photographe professionnel. Petit Dé, un enfant de onze ans, emménage dans la Cité. Il souhaite pour sa part devenir le plus grand criminel de Rio et commence son apprentissage en rendant de menus services à la pègre locale. Il admire Tignasse et son gang, qui arraisonnent les camions et cambriolent à tout va. Tignasse donne à Petit Dé l'occasion de commettre un meurtre, le premier d'une longue série…",
+      "runtime": "2h15",
+      "logo": "https://image.tmdb.org/t/p/w500/2RZIcdz9lEAbRC6LVIceZaUfByZ.png"
+    },
+    {
+      "id": "tmdb:1830",
+      "type": "movie",
+      "name": "Lord of War",
+      "poster": "https://image.tmdb.org/t/p/w500/xdtwvmZaYiDMivwQLuuM146rrCj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/d3C6ZzIaq1I8q2LpL1TnUQaMlVb.jpg",
+      "year": "2005",
+      "imdbRating": "4.2",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Andrew Niccol"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Bridget Moynahan",
+        "Jared Leto",
+        "Ethan Hawke",
+        "Eamonn Walker",
+        "Ian Holm"
+      ],
+      "description": "Né en Ukraine avant l'effondrement du bloc soviétique, Yuri arrive aux États-Unis avec ses parents. Il se fait passer pour un émigrant juif...Audacieux et fin négociateur, il se fait une place dans le trafic d'armes. Les énormes sommes d'argent qu'il gagne lui permettent aussi de conquérir celle qui l'a toujours fasciné, la belle Ava. Parallèlement à cette vie de mari et de père idéal, Yuri devient l'un des plus gros vendeurs d'armes clandestins du monde. Utilisant ses relations à l'Est, il multiplie les coups toujours plus risqués, mais parvient chaque fois à échapper à Jack Valentine, l'agent d'Interpol qui le pourchasse. Des luxueux immeubles new-yorkais aux palais des dictateurs africains, Yuri joue de plus en plus gros. Convaincu de sa chance, il poursuit sa double vie explosive, jusqu'à ce que le destin et sa conscience le rattrapent...",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/aTge6bXOGuJQ7xgXhFsUAxZFy4C.png"
+    },
+    {
+      "id": "tmdb:1541",
+      "type": "movie",
+      "name": "Thelma & Louise",
+      "poster": "https://image.tmdb.org/t/p/w500/3iBFj4jc0ik32eIG9QG1OKY6T1J.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gXPtXbvI0nfLihu1dXgehAxsvm1.jpg",
+      "year": "1991",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Crime",
+        "Aventure"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Susan Sarandon",
+        "Geena Davis",
+        "Harvey Keitel",
+        "Michael Madsen",
+        "Christopher McDonald",
+        "Stephen Tobolowsky"
+      ],
+      "description": "Deux amies, Thelma et Louise, frustrées par une existence monotone l'une avec son mari, l'autre avec son petit ami, décident de s'offrir un week-end sur les routes magnifiques de l'Arkansas. Premier arrêt, premier saloon, premiers ennuis et tout bascule. Un événement tragique va changer définitivement le cours de leurs vies.",
+      "runtime": "2h09",
+      "logo": "https://image.tmdb.org/t/p/w500/t1hY7OuUZ1DplIlOuMKjBIQLzTS.png"
+    },
+    {
+      "id": "tmdb:1632",
+      "type": "movie",
+      "name": "Mississippi Burning",
+      "poster": "https://image.tmdb.org/t/p/w500/RBsp4xVqAre5VpuF6tbWv8Duve.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aTJJ38M7zLAmJZ7vl0vyKn69zzw.jpg",
+      "year": "1988",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Crime",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "Alan Parker"
+      ],
+      "cast": [
+        "Gene Hackman",
+        "Willem Dafoe",
+        "Frances McDormand",
+        "Brad Dourif",
+        "R. Lee Ermey",
+        "Gailard Sartain"
+      ],
+      "description": "Alors qu'ils roulent sur une autoroute déserte, 3 activistes des Droits Civiques aperçoivent, dans leur rétroviseurs, des phares qui se rapprochent dangereusement. À cet instant, ils ignorent encore qu'ils disparaîtront à tout jamais dans la nuit. Ces meurtres marquent le début de l'une des enquêtes les plus explosives de l'histoire, menée par deux agents du FBI qui vont devoir faire face à une explosion de violence raciale…",
+      "runtime": "2h07",
+      "logo": "https://image.tmdb.org/t/p/w500/fx80xupFYKhQxONEtra4mECdBK.png"
+    },
+    {
+      "id": "tmdb:21575",
+      "type": "movie",
+      "name": "Un prophète",
+      "poster": "https://image.tmdb.org/t/p/w500/bdLXfqAK17eRszckhph8IcFzxLZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7en9qwF88VfxPXsN6azHmUxRBNy.jpg",
+      "year": "2009",
+      "imdbRating": "4.2",
+      "genres": [
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Jacques Audiard"
+      ],
+      "cast": [
+        "Tahar Rahim",
+        "Niels Arestrup",
+        "Adel Bencherif",
+        "Hichem Yacoubi",
+        "Reda Kateb",
+        "Jean-Philippe Ricci"
+      ],
+      "description": "Condamné à six ans de prison, Malik El Djebena ne sait ni lire, ni écrire. À son arrivée en Centrale, seul au monde, il paraît plus jeune, plus fragile que les autres détenus. Il a 19 ans. D'emblée, il tombe sous la coupe d'un groupe de prisonniers corses qui fait régner sa loi dans la prison. Le jeune homme apprend vite. Au fil des \"missions\", il s'endurcit et gagne la confiance des corses. Mais, très vite, Malik utilise toute son intelligence pour développer discrètement son propre réseau...",
+      "runtime": "2h35",
+      "logo": "https://image.tmdb.org/t/p/w500/z1JieVJ33K4mvDLOw8zeo5i4uJN.png"
+    },
+    {
+      "id": "tmdb:637534",
+      "type": "movie",
+      "name": "BAC Nord",
+      "poster": "https://image.tmdb.org/t/p/w500/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vkIJ2QgcKMJRvi6pBW4Tr2kgLdy.jpg",
+      "year": "2021",
+      "imdbRating": "4.2",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "director": [
+        "Cédric Jimenez"
+      ],
+      "cast": [
+        "Gilles Lellouche",
+        "François Civil",
+        "Karim Leklou",
+        "Adèle Exarchopoulos",
+        "Cyril Lecomte",
+        "Kenza Fortas"
+      ],
+      "description": "2012. Les quartiers Nord de Marseille détiennent un triste record : la zone au taux de criminalité le plus élevé de France. Poussée par sa hiérarchie, la BAC Nord, brigade de terrain, cherche sans cesse à améliorer ses résultats. Dans un secteur à haut risque, les flics adaptent leurs méthodes, franchissant parfois la ligne jaune. Jusqu'au jour où le système judiciaire se retourne contre eux…",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/mLS4PmwEEcMHiz73Ssnwdzimf0f.svg"
+    },
+    {
+      "id": "tmdb:64690",
+      "type": "movie",
+      "name": "Drive",
+      "poster": "https://image.tmdb.org/t/p/w500/mUKm5eaYm30KYyaudRn5tA204ua.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg",
+      "year": "2011",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Nicolas Winding Refn"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Carey Mulligan",
+        "Bryan Cranston",
+        "Albert Brooks",
+        "Oscar Isaac",
+        "Christina Hendricks"
+      ],
+      "description": "Un cascadeur tranquille et anonyme se métamorphose dès que la nuit tombe : il devient pilote de voitures pour le compte de la mafia. La combine est bien rodée jusqu’au jour où l’un des casses tourne mal et l’entraîne dans une course-poursuite infernale. Il veut se venger de ceux qui l’ont trahi...",
+      "runtime": "1h40",
+      "logo": "https://image.tmdb.org/t/p/w500/3joUcZ9dgqpOlJXxxA0b2M9mkx5.png"
+    },
+    {
+      "id": "tmdb:242582",
+      "type": "movie",
+      "name": "Night Call",
+      "poster": "https://image.tmdb.org/t/p/w500/pATJSq0OobFU9DmcKQUqQPpzDET.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yFPaqqXMGsdOKit3fsAJ9tqPJRP.jpg",
+      "year": "2014",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Dan Gilroy"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Riz Ahmed",
+        "Rene Russo",
+        "Bill Paxton",
+        "Kevin Rahm",
+        "Michael Hyatt"
+      ],
+      "description": "Branché sur les fréquences radios de la police, Lou parcourt Los Angeles la nuit à la recherche d’images choc qu’il vend à prix d’or aux chaînes de TV locales. La course au spectaculaire n'aura aucune limite...",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/5loiIHHkwKciMFKPAxgDTMsAqQK.png"
+    },
+    {
+      "id": "tmdb:627",
+      "type": "movie",
+      "name": "Trainspotting",
+      "poster": "https://image.tmdb.org/t/p/w500/wSjSdfnVjD6r8Fnn0K8FXz3JciM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wUc83y8kXNdRK66o0HU5X8eBri4.jpg",
+      "year": "1996",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Ewan McGregor",
+        "Ewen Bremner",
+        "Jonny Lee Miller",
+        "Kevin McKidd",
+        "Robert Carlyle",
+        "Kelly Macdonald"
+      ],
+      "description": "Les aventures tragi-comiques de Mark Renton, junkie d’Édimbourg, qui va tenter de se séparer de sa bande de copains, losers, menteurs, psychopathes et voleurs.",
+      "runtime": "1h33",
+      "logo": "https://image.tmdb.org/t/p/w500/4zY2iILBbtNF8sHLi3j6sUgj84B.png"
+    },
+    {
+      "id": "tmdb:522627",
+      "type": "movie",
+      "name": "The Gentlemen",
+      "poster": "https://image.tmdb.org/t/p/w500/86UEvw3t8amtxepQRtBiQHkk954.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tintsaQ0WLzZsTMkTiqtMB3rfc8.jpg",
+      "year": "2020",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Charlie Hunnam",
+        "Michelle Dockery",
+        "Jeremy Strong",
+        "Lyne Renee",
+        "Colin Farrell"
+      ],
+      "description": "Quand Mickey Pearson, baron de la drogue à Londres, laisse entendre qu’il pourrait se retirer du marché, il déclenche une guerre explosive : la capitale anglaise devient le théâtre de tous les chantages, complots, trahisons, corruptions et enlèvements… Dans cette jungle où l’on ne distingue plus ses alliés de ses ennemis, il n’y a de la place que pour un seul roi !",
+      "runtime": "1h53",
+      "logo": "https://image.tmdb.org/t/p/w500/e7lsq7MIK9PEegMvgvTd8hl2gG0.png"
+    },
+    {
+      "id": "tmdb:4982",
+      "type": "movie",
+      "name": "American Gangster",
+      "poster": "https://image.tmdb.org/t/p/w500/dAyd6g9C9LwsLvlCUlAeXtiLi2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dLL90vskYFn1S89RZp5TUguK9wl.jpg",
+      "year": "2007",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Russell Crowe",
+        "Josh Brolin",
+        "Chiwetel Ejiofor",
+        "Cuba Gooding Jr.",
+        "Lymari Nadal"
+      ],
+      "description": "En 1968, à New York, Frank Lucas a vécu pendant vingt ans dans l’ombre du Parrain noir de Harlem, Bumpy Johnson, qui en fait son garde du corps et confident. Lorsque son patron succombe à une crise cardiaque, Lucas assure discrètement la relève et ne tarde pas à révéler son leadership, son sens aigu des affaires et son extrême prudence, en prenant pour auxiliaires ses frères et cousins et en gardant un profil bas. Inconnu de la police comme des hautes instances de la Cosa Nostra, Lucas organise avec la complicité d’officiers basés au Vietnam un véritable pont aérien et importe ainsi par avions entiers des centaines de kilos d’héroïne pure, qu’il revend à bas prix dans les rues de New York.",
+      "runtime": "2h37",
+      "logo": "https://image.tmdb.org/t/p/w500/rhc5cTgFF6F8B6iPfF26KVB4pNQ.png"
+    },
+    {
+      "id": "tmdb:466420",
+      "type": "movie",
+      "name": "Killers of the Flower Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/t51ReMWxWcAOqKrGKw29OK2WhNz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
+      "year": "2023",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Histoire",
+        "Drame"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Robert De Niro",
+        "Lily Gladstone",
+        "Jesse Plemons",
+        "Tantoo Cardinal",
+        "John Lithgow"
+      ],
+      "description": "Au début du XXe siècle, le pétrole a apporté la fortune au peuple osage qui, du jour au lendemain, est devenu l’un des plus riches du monde. La richesse de ces Amérindiens attire aussitôt la convoitise de Blancs peu recommandables qui intriguent, soutirent et volent autant d’argent osage que possible avant de recourir au meurtre…",
+      "runtime": "3h26",
+      "logo": "https://image.tmdb.org/t/p/w500/xN6IF4M8cvOqimjJrIomiOszqr7.png"
+    },
+    {
+      "id": "tmdb:82633",
+      "type": "movie",
+      "name": "Des hommes sans loi",
+      "poster": "https://image.tmdb.org/t/p/w500/487JTmyO7RZvyCmLDr4bsQtY1XN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fEI7I233M9hkw1MRSBXEgauXhRl.jpg",
+      "year": "2012",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Western"
+      ],
+      "director": [
+        "John Hillcoat"
+      ],
+      "cast": [
+        "Shia LaBeouf",
+        "Tom Hardy",
+        "Gary Oldman",
+        "Guy Pearce",
+        "Jason Clarke",
+        "Jessica Chastain"
+      ],
+      "description": "1931, Au cœur de l’Amérique en pleine Prohibition, dans le comté de Franklin en Virginie, état célèbre pour sa production d’alcool de contrebande, les trois frères Bondurant sont des trafiquants notoires : Jack, le plus jeune, ambitieux et impulsif, veut transformer la petite affaire familiale en trafic d’envergure. Il rêve de beaux costumes, d’armes, et espère impressionner la sublime Bertha… Howard, le cadet, est le bagarreur de la famille. Loyal, son bon sens se dissout régulièrement dans l’alcool qu’il ne sait pas refuser… Forrest, l’aîné, fait figure de chef et reste déterminé à protéger sa famille des nouvelles règles qu’impose un nouveau monde économique. Lorsque Maggie débarque fuyant Chicago, il la prend aussi sous sa protection. Seuls contre une police corrompue, une justice arbitraire et des gangsters rivaux, les trois frères écrivent leur légende : une lutte pour rester sur leur propre chemin, au cours de la première grande ruée vers l’or du crime.",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/1JQV3FXpwag99XHU09zX1gYnlLM.png"
+    },
+    {
+      "id": "tmdb:915935",
+      "type": "movie",
+      "name": "Anatomie d'une chute",
+      "poster": "https://image.tmdb.org/t/p/w500/nSwQKCsDdj2S56mG7Yz2YGfrLT6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
+      "year": "2023",
+      "imdbRating": "4.1",
+      "genres": [
+        "Thriller",
+        "Mystère",
+        "Crime"
+      ],
+      "director": [
+        "Justine Triet"
+      ],
+      "cast": [
+        "Sandra Hüller",
+        "Swann Arlaud",
+        "Milo Machado-Graner",
+        "Antoine Reinartz",
+        "Samuel Theis",
+        "Jehnny Beth"
+      ],
+      "description": "Sandra, son mari Samuel et leur fils de onze ans, Daniel, vivent dans une ville isolée des Alpes françaises. Lorsque Samuel est retrouvé mort dans la neige au pied de leur chalet, la police se demande s’il a été assassiné ou s’il s’est suicidé. La mort suspecte de Samuel est alors reconnue comme un meurtre présumé, et Sandra devient le principal suspect. Peu à peu, le procès ne devient pas seulement une enquête sur les circonstances de la mort de Samuel, mais un voyage psychologique troublant dans les profondeurs de la relation conflictuelle entre Sandra et Samuel.",
+      "runtime": "2h31",
+      "logo": "https://image.tmdb.org/t/p/w500/oydIWRUWDhUBo4neLKxnfPp39JE.png"
+    },
+    {
+      "id": "tmdb:180299",
+      "type": "movie",
+      "name": "The Raid 2",
+      "poster": "https://image.tmdb.org/t/p/w500/mhHIzkPiPdHRwoik2ejYOZlr7U0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5dg3woJqG7kNBCEMZNGPUauHSnK.jpg",
+      "year": "2014",
+      "imdbRating": "4.1",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Gareth Evans"
+      ],
+      "cast": [
+        "Iko Uwais",
+        "Arifin Putra",
+        "Tio Pakusadewo",
+        "Oka Antara",
+        "Alex Abbad",
+        "Cecep Arif Rahman"
+      ],
+      "description": "Après un combat sans merci pour s’extirper d’un immeuble rempli de criminels et de fous furieux, laissant derrière lui des monceaux de cadavres de policiers et de dangereux truands, Rama, jeune flic de Jakarta, pensait retrouver une vie normale, avec sa femme et son tout jeune fils… Mais il se trompait. On lui impose en effet une nouvelle mission : Rama devra infiltrer le syndicat du crime, où coexistent dans une sorte de statu quo mafia indonésienne et yakusas. Sous l’identité de « Yuda », un tueur sans pitié, il se laisse jeter en prison afin d’y gagner la confiance d'Uco, le fils d'un magnat du crime indonésien - son ticket d’entrée pour intégrer l’organisation. Sur fond de guerre des gangs, il risquera sa vie dans un dangereux jeu de rôle destiné à porter un coup fatal à l’empire du crime.",
+      "runtime": "2h28",
+      "logo": "https://image.tmdb.org/t/p/w500/eAqQ3wvgsQD1zSYUNoC0e1SCdnO.png"
+    },
+    {
+      "id": "tmdb:522212",
+      "type": "movie",
+      "name": "La voie de la justice",
+      "poster": "https://image.tmdb.org/t/p/w500/au41t09zOULYgE0uwNZQ8H8VUSM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wfabrzHzfYTdCj3iSCY7OEQbND0.jpg",
+      "year": "2019",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Crime",
+        "Histoire"
+      ],
+      "director": [
+        "Destin Daniel Cretton"
+      ],
+      "cast": [
+        "Michael B. Jordan",
+        "Brie Larson",
+        "Jamie Foxx",
+        "O'Shea Jackson Jr.",
+        "Rafe Spall",
+        "Rob Morgan"
+      ],
+      "description": "Le combat historique du jeune avocat Bryan Stevenson. Après ses études à l’université de Harvard, Bryan Stevenson aurait pu se lancer dans une carrière des plus lucratives. Il décide pourtant de se rendre en Alabama pour défendre ceux qui ont été condamnés à tort, avec le soutien d’une militante locale, Eva Ansley. Un de ses premiers cas - le plus incendiaire - est celui de Walter McMillian qui, en 1987, est condamné à mort pour le meurtre retentissant d’une jeune fille de 18 ans. Et ce en dépit d’un grand nombre de preuves attestant de son innocence et d’un unique témoignage à son encontre provenant d’un criminel aux motivations douteuses. Au fil des années, Bryan se retrouve empêtré dans un imbroglio de manœuvres juridiques et politiques. Il doit aussi faire face à un racisme manifeste et intransigeant alors qu’il se bat pour Walter et d’autres comme lui au sein d’un système hostile.",
+      "runtime": "2h17",
+      "logo": "https://image.tmdb.org/t/p/w500/gDMzY6usetPB64ZAkos2Tmoy7ty.png"
+    },
+    {
+      "id": "tmdb:407448",
+      "type": "movie",
+      "name": "Detroit",
+      "poster": "https://image.tmdb.org/t/p/w500/3QXRmgspZsTtlObSZGWNPcD69b7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5C01GuAmEJp951X7fm66SPBlsxU.jpg",
+      "year": "2017",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller",
+        "Histoire"
+      ],
+      "director": [
+        "Kathryn Bigelow"
+      ],
+      "cast": [
+        "John Boyega",
+        "Will Poulter",
+        "Anthony Mackie",
+        "Algee Smith",
+        "Hannah Murray",
+        "Jason Mitchell"
+      ],
+      "description": "Été 1967. Les États-Unis connaissent une vague d’émeutes sans précédent. La guerre du Vietnam, vécue comme une intervention néocoloniale, et la ségrégation raciale nourrissent la contestation. À Detroit, alors que le climat est insurrectionnel depuis deux jours, des coups de feu sont entendus en pleine nuit à proximité d’une base de la Garde nationale. Les forces de l’ordre encerclent l’Algiers Motel d’où semblent provenir les détonations. Bafouant toute procédure, les policiers soumettent une poignée de clients de l’hôtel à un interrogatoire sadique pour extorquer leurs aveux. Le bilan sera très lourd: trois hommes, non armés, seront abattus à bout portant, et plusieurs autres blessés…",
+      "runtime": "2h23",
+      "logo": "https://image.tmdb.org/t/p/w500/w9yeYLp48rb0xiNVtBEsGkESM39.png"
+    },
+    {
+      "id": "tmdb:30018",
+      "type": "movie",
+      "name": "Mother",
+      "poster": "https://image.tmdb.org/t/p/w500/7apBOPjrD7vdSvUdxF473O4Hevt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mnNkHbs2onvP54zND5c1Ah5Usaa.jpg",
+      "year": "2009",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Bong Joon-ho"
+      ],
+      "cast": [
+        "Kim Hye-ja",
+        "Won Bin",
+        "Jin Goo",
+        "Yoon Je-moon",
+        "Jeon Mi-seon",
+        "Song Sae-byuk"
+      ],
+      "description": "Une veuve élève son fils unique Do-joon qui est sa seule raison d'être. À 28 ans, il est loin d'être indépendant et sa naïveté le conduit à se comporter parfois bêtement et dangereusement ce qui rend sa mère anxieuse. Un jour, une fille est retrouvée morte et Do-joon est accusé de ce meurtre. Afin de sauver son fils, sa mère remue ciel et terre mais l'avocat incompétent qu'elle a choisi ne lui apporte guère d'aide. La police classe très vite l'affaire. Comptant sur son seul instinct maternel, ne se fiant à personne, la mère part elle-même à la recherche du meurtrier, prête à tout pour prouver l'innocence de son fils...",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/2cculaOoKi9tuQ3TfGRQRTpDuwt.png"
+    },
+    {
+      "id": "tmdb:71157",
+      "type": "movie",
+      "name": "Polisse",
+      "poster": "https://image.tmdb.org/t/p/w500/jt5iH1ffawf3NXX0YVgfSexQH8H.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1nR9mCsJD02j13wet0yAnVhEG6Y.jpg",
+      "year": "2011",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Maïwenn"
+      ],
+      "cast": [
+        "Frédéric Pierrot",
+        "JoeyStarr",
+        "Nicolas Duvauchelle",
+        "Karin Viard",
+        "Naidra Ayadi",
+        "Karole Rocher"
+      ],
+      "description": "Le quotidien des policiers de la BPM (Brigade de Protection des Mineurs) ce sont les gardes à vue de pédophiles, les arrestations de pickpockets mineurs mais aussi la pause déjeuner où l’on se raconte ses problèmes de couple ; ce sont les auditions de parents maltraitants, les dépositions des enfants, les dérives de la sexualité chez les adolescents, mais aussi la solidarité entre collègues et les fous rires incontrôlables dans les moments les plus impensables ; c’est savoir que le pire existe, et tenter de faire avec… Comment ces policiers parviennent-ils à trouver l’équilibre entre leurs vies privées et la réalité à laquelle ils sont confrontés, tous les jours ? Fred, l’écorché du groupe, aura du mal à supporter le regard de Melissa, mandatée par le ministère de l’intérieur pour réaliser un livre de photos sur cette brigade.",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/5WWzgcLSTxzBcRcJtWZ5jGxLiff.png"
+    },
+    {
+      "id": "tmdb:197950",
+      "type": "movie",
+      "name": "La French",
+      "poster": "https://image.tmdb.org/t/p/w500/f1ZihdwexPoB49G8BGpvTtsqKNk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yJIRptBDdt92JS4decYj5HL3Q60.jpg",
+      "year": "2014",
+      "imdbRating": "4.1",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Cédric Jimenez"
+      ],
+      "cast": [
+        "Jean Dujardin",
+        "Gilles Lellouche",
+        "Céline Sallette",
+        "Mélanie Doutey",
+        "Benoît Magimel",
+        "Guillaume Gouix"
+      ],
+      "description": "Marseille. 1975. Pierre Michel, jeune magistrat venu de Metz avec femme et enfants, est nommé juge du grand banditisme. Il décide de s’attaquer à la French Connection, organisation mafieuse qui exporte l’héroïne dans le monde entier. N’écoutant aucune mise en garde, le juge Michel part seul en croisade contre Gaëtan Zampa, figure emblématique du milieu et parrain intouchable. Mais il va rapidement comprendre que, pour obtenir des résultats, il doit changer ses méthodes.",
+      "runtime": "2h15",
+      "logo": "https://image.tmdb.org/t/p/w500/h5cE4KD6vblKrc9yf76V1Rygaxw.png"
+    },
+    {
+      "id": "tmdb:14748",
+      "type": "movie",
+      "name": "Boy A",
+      "poster": "https://image.tmdb.org/t/p/w500/wrQQUjeiHFPvTfaaB3vtNLLZ8kv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gCPaaz5fkbHBaU2DIK2rhNIIxZF.jpg",
+      "year": "2007",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "John Crowley"
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Katie Lyons",
+        "Peter Mullan",
+        "Shaun Evans",
+        "Siobhan Finneran",
+        "Alfie Owen"
+      ],
+      "description": "À 24 ans, Jack sort de prison où il a passé toute son adolescence pour un meurtre qu'il a commis lorsqu'il était enfant. Dès sa libération, Terry, assistant social, l'emmène le plus loin possible de ce scandale encore présent dans tous les esprits. Terry lui donne un autre nom, lui trouve un travail, une maison.",
+      "runtime": "1h40"
+    },
+    {
+      "id": "tmdb:161",
+      "type": "movie",
+      "name": "Ocean's Eleven",
+      "poster": "https://image.tmdb.org/t/p/w500/sLiFrrQn2iqfn3gYciJF1yqJCOU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+      "year": "2001",
+      "imdbRating": "4.0",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Steven Soderbergh"
+      ],
+      "cast": [
+        "George Clooney",
+        "Brad Pitt",
+        "Andy García",
+        "Matt Damon",
+        "Julia Roberts",
+        "Casey Affleck"
+      ],
+      "description": "A peine sorti de prison, Danny Ocean n'a qu'une idée en tête : organiser le casse du siècle en cambriolant les trois plus grands casinos de Las Vegas. Pour cela il réunit une équipe de malfrats spécialistes dans des domaines aussi variés que les explosifs, l'informatique, le bluff...",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/p8OAQOQWdTjuGsBJCleal3n6Bfk.png"
+    },
+    {
+      "id": "tmdb:273481",
+      "type": "movie",
+      "name": "Sicario",
+      "poster": "https://image.tmdb.org/t/p/w500/uYMvoFiatbs1G3ybN8Wd8VpJWxn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+      "year": "2015",
+      "imdbRating": "4.0",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "Benicio del Toro",
+        "Josh Brolin",
+        "Victor Garber",
+        "Jon Bernthal",
+        "Daniel Kaluuya"
+      ],
+      "description": "La zone frontalière entre les États‐Unis et le Mexique est devenue un territoire de non‐droit. Kate, une jeune recrue idéaliste du FBI, y est enrôlée pour aider un groupe d’intervention d’élite dirigé par un agent du gouvernement dans la lutte contre le trafic de drogues. Menée par un consultant énigmatique l’équipe se lance dans un périple clandestin, obligeant Kate à remettre en question ses convictions pour pouvoir survivre.",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/eLRCr2HctuoBum1e4vB0336wALT.png"
+    },
+    {
+      "id": "tmdb:187",
+      "type": "movie",
+      "name": "Sin City",
+      "poster": "https://image.tmdb.org/t/p/w500/rrS6R9Reqiev2BbyYWpGiZUpslk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+      "year": "2005",
+      "imdbRating": "4.0",
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Robert Rodriguez",
+        "Frank Miller"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Jessica Alba",
+        "Clive Owen",
+        "Mickey Rourke",
+        "Rutger Hauer",
+        "Benicio del Toro"
+      ],
+      "description": "Sin City est une ville infestée de criminels, de flics ripoux et de femmes fatales. Hartigan s’est juré de protéger Nancy, une strip‐teaseuse qui l’a fait craquer. Marv, un marginal brutal mais philosophe, part en mission pour venger la mort de son unique véritable amour, Goldie. Dwight est l’amant secret de Shellie. Il passe ses nuits à protéger Gail et les filles des bas quartiers de Jackie Boy, un flic pourri, violent et incontrôlable. Certains ont soif de vengeance, d’autres recherchent leur salut. Bienvenue à Sin City, la ville du vice et du péché.",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/aLGTGrHh4H25Au4Tj79cyL7y1UX.png"
+    },
+    {
+      "id": "tmdb:487558",
+      "type": "movie",
+      "name": "BlacKkKlansman : J'ai infiltré le Ku Klux Klan",
+      "poster": "https://image.tmdb.org/t/p/w500/z8vDfDI7SOVasPlqUT38Pm0wyEZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+      "year": "2018",
+      "imdbRating": "4.0",
+      "genres": [
+        "Crime",
+        "Comédie",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Spike Lee"
+      ],
+      "cast": [
+        "John David Washington",
+        "Adam Driver",
+        "Topher Grace",
+        "Laura Harrier",
+        "Alec Baldwin",
+        "Jasper Pääkkönen"
+      ],
+      "description": "Au début des années 70, au plus fort de la lutte pour les droits civiques, plusieurs émeutes raciales éclatent dans les grandes villes des États-Unis. Ron Stallworth devient le premier officier Noir américain du Colorado Springs Police Department, mais son arrivée est accueillie avec scepticisme, voire avec une franche hostilité, par les agents les moins gradés du commissariat. Prenant son courage à deux mains, Stallworth va tenter de faire bouger les lignes et, peut-être, de laisser une trace dans l'histoire. Il se fixe alors une mission des plus périlleuses : infiltrer le Ku Klux Klan pour en dénoncer les exactions.",
+      "runtime": "2h08",
+      "logo": "https://image.tmdb.org/t/p/w500/rWN88a9qSd0sOTEStoB4NdlVfns.png"
+    },
+    {
+      "id": "tmdb:100",
+      "type": "movie",
+      "name": "Arnaques, crimes et botanique",
+      "poster": "https://image.tmdb.org/t/p/w500/yCWGMcU0rI0dGq0snlKlCf9RZXR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+      "year": "1998",
+      "imdbRating": "4.0",
+      "genres": [
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Vinnie Jones",
+        "Jason Flemyng",
+        "Dexter Fletcher",
+        "Nick Moran",
+        "Jason Statham",
+        "Steven Mackintosh"
+      ],
+      "description": "Eddy, un joueur invétéré, s'apprête à participer à la plus grosse partie de cartes de sa vie avec un enjeu de cent mille Livres, somme qu'il a durement amassée avec ses trois acolytes, Tom, Baco et Soap. Eddy est considéré comme l'un des meilleurs joueurs du circuit, mais la partie s'avère être un coup monté à l'issue duquel il doit cinq cent mille Livres à son adversaire Hatchet Harry. Ce dernier lui donne une semaine pour réunir cette somme, sinon il aura les doigts coupés. Seul JD, le père d'Eddy, pourrait annuler la dette en cédant son bar à son vieux rival, Harry.",
+      "runtime": "1h46",
+      "logo": "https://image.tmdb.org/t/p/w500/f0Cz9AvZYfOEQFloY8tJwBoRO87.png"
+    },
+    {
+      "id": "tmdb:3131",
+      "type": "movie",
+      "name": "Gangs of New York",
+      "poster": "https://image.tmdb.org/t/p/w500/UYbOQyJkfHWejmIq0k10hPb7w8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+      "year": "2002",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Crime"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Daniel Day-Lewis",
+        "Cameron Diaz",
+        "Jim Broadbent",
+        "John C. Reilly",
+        "Henry Thomas"
+      ],
+      "description": "En 1846, le quartier de Five Points, un faubourg pauvre de New York, est le théâtre d'une guerre des gangs entre émigrants irlandais d'un côté, les Dead Rabbits menés par Père Vallon, et les Native Americans de l'autre, dirigés par le sanguinaire Bill le Boucher. Ce dernier met rapidement en déroute les Dead Rabbits en assassinant leur chef, et prend par la même occasion le contrôle exclusif des rues de la \"grosse pomme\". Afin de renforcer ses pouvoirs, Bill s'allie avec Boss Tweed, un politicien influent. Seize ans plus tard, le gang des Native Americans règne toujours en maître dans New York. Devenu adulte, Amsterdam Vallon souhaite venger la mort de son père en éliminant Bill. Mais sa rencontre avec Jenny Everdeane, une énigmatique pickpocket dont l'indépendance et la beauté le fascinent, va compliquer les choses...",
+      "runtime": "2h50",
+      "logo": "https://image.tmdb.org/t/p/w500/gPduLazH0Tq61ZJxqX52rtTPamE.png"
+    },
+    {
+      "id": "tmdb:184",
+      "type": "movie",
+      "name": "Jackie Brown",
+      "poster": "https://image.tmdb.org/t/p/w500/9kXL2QGonp0D2ipqoKxEpTK8XRS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg",
+      "year": "1997",
+      "imdbRating": "4.0",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "Pam Grier",
+        "Samuel L. Jackson",
+        "Robert De Niro",
+        "Bridget Fonda",
+        "Michael Keaton",
+        "Robert Forster"
+      ],
+      "description": "Hôtesse de l’air, Jackie Brown arrondit ses fins de mois en convoyant de l’argent liquide pour le compte de Ordell Robbie, trafiquant d’armes. Quand la police et le FBI lui signifient qu’ils comptent sur elle pour faire tomber Robbie, Jackie Brown échafaude un plan audacieux.",
+      "runtime": "2h34",
+      "logo": "https://image.tmdb.org/t/p/w500/xWcQ53h5LdaKIbRR9N9NqMQsUqt.png"
+    },
+    {
+      "id": "tmdb:1538",
+      "type": "movie",
+      "name": "Collatéral",
+      "poster": "https://image.tmdb.org/t/p/w500/x6OIJWkwe6Kj4pQXTkhhBb7gluA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eY6bnNP10bWljC19v8UXAScHyuP.jpg",
+      "year": "2004",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Michael Mann"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Jamie Foxx",
+        "Jada Pinkett Smith",
+        "Mark Ruffalo",
+        "Peter Berg",
+        "Javier Bardem"
+      ],
+      "description": "Max est taxi de nuit à Los Angeles. Un soir, il se lie d'amitié avec une dénommée Annie Farrell, une belle femme procureur montée à l'arrière de son véhicule. Quelques minutes plus tard, c'est au tour d'un homme prénommé Vincent de monter dans le taxi. Un businessman, selon toute apparence, avec un emploi du temps chargé : pas moins de cinq rendez-vous à tenir dans la nuit. Max accepte de lui louer ses services jusqu'au petit matin, en échange de 600 dollars. Premier arrêt. Vincent entre dans un immeuble. Un coup de feu éclate aussitôt, un corps plonge dans le vide, s'écrasant sur le toit du taxi. Vincent redescend et, sous la menace de son arme, oblige Max à dissimuler le cadavre dans le coffre et à reprendre son mortel périple. Un chauffeur de taxi, un tueur implacable, cinq \"cibles\" à éliminer, des agents des stups et une équipe du FBI... Leurs destins se joueront cette nuit...",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/hRJVvPkHZZtGMHegZnl53CimXVZ.png"
+    },
+    {
+      "id": "tmdb:302401",
+      "type": "movie",
+      "name": "Snowden",
+      "poster": "https://image.tmdb.org/t/p/w500/ev8fOrdeuf8zQyzhtOA3I6bBPCj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mYZYVrQ2ghU3m79q7byeLzNXo1M.jpg",
+      "year": "2016",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Histoire",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Oliver Stone"
+      ],
+      "cast": [
+        "Joseph Gordon-Levitt",
+        "Shailene Woodley",
+        "Melissa Leo",
+        "Zachary Quinto",
+        "Tom Wilkinson",
+        "Scott Eastwood"
+      ],
+      "description": "Patriote idéaliste et enthousiaste, le jeune Edward Snowden semble réaliser son rêve quand il rejoint les équipes de la CIA puis de la NSA. Il découvre alors au cœur des Services de Renseignements américains l'ampleur insoupçonnée de la cyber-surveillance. Violant la Constitution, soutenue par de grandes entreprises, la NSA collecte des montagnes de données et piste toutes les formes de télécommunications à un niveau planétaire.  Choqué par cette intrusion systématique dans nos vies privées, Snowden décide de rassembler des preuves et de tout divulguer. Devenu lanceur d'alerte, il sacrifiera sa liberté et sa vie privée.  En juin 2013, deux journalistes prennent le risque de le rencontrer dans une chambre d'hôtel à Hong Kong. Une course contre la montre s'engage pour analyser les preuves irréfutables présentées par Snowden avant leur publication.  Les révélations qui vont être faites dans cette pièce seront au cœur du plus grand scandale d'espionnage de l'histoire des États-Unis.",
+      "runtime": "2h14",
+      "logo": "https://image.tmdb.org/t/p/w500/4ktlhrlRshmDpi72AmvJZgFJ76y.png"
+    },
+    {
+      "id": "tmdb:511809",
+      "type": "movie",
+      "name": "West Side Story",
+      "poster": "https://image.tmdb.org/t/p/w500/bIIZD2Lg29vMRtz8ApsuD8iqqmu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+      "year": "2021",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Crime"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Ansel Elgort",
+        "Rachel Zegler",
+        "Ariana DeBose",
+        "David Alvarez",
+        "Mike Faist",
+        "Brian d'Arcy James"
+      ],
+      "description": "Dans les années 1950, deux bandes de jeunes s'affrontent pour le contrôle d'un quartier défavorisé de l'Upper West Side en pleine gentrification. Il y d'un côté les immigrés portoricains des Sharks, dirigés par Bernardo et de l'autre les Américains des Jets, avec Riff à leur tête. Récemment sorti de prison, Tony, lié aux Jets, en a marre de cette violence quotidienne. Il préfère travailler dans la boutique de Valentina, veuve de Doc. Un jour, lors d'une soirée dansante au lycée, Tony tombe sous le charme de María, la sœur de Bernardo. Cependant, du fait de leur appartenance à ces bandes opposées, il s’agit d’un amour impossible.",
+      "runtime": "2h36",
+      "logo": "https://image.tmdb.org/t/p/w500/kM1lOQcZKpsD0l6O1JVsVOdhHQE.png"
+    },
+    {
+      "id": "tmdb:11454",
+      "type": "movie",
+      "name": "Le Sixième Sens",
+      "poster": "https://image.tmdb.org/t/p/w500/veVPDIZ5cKDcxfeflSF0B3vD7qO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xmWBhzDODSmYKON4HMmB0UyQknc.jpg",
+      "year": "1986",
+      "imdbRating": "4.0",
+      "genres": [
+        "Crime",
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Michael Mann"
+      ],
+      "cast": [
+        "William Petersen",
+        "Tom Noonan",
+        "Dennis Farina",
+        "Brian Cox",
+        "Kim Greist",
+        "Joan Allen"
+      ],
+      "description": "Will Graham est un des experts-légistes les plus habiles du F.B.I. Il excelle dans l'art de reconstituer à partir d'éléments quasiment inexistants le profil d'un assassin. Mais son \"sixième sens\" lui a valu de frôler plusieurs fois la mort. Alors qu'il est retiré depuis trois ans, un ancien collègue, Crawford, vient le relancer pour une affaire qui s'annonce complexe : deux paisibles familles de Birminghan et Atlanta ont été, à un mois d'intervalle, sauvagement massacrées par un \"tueur de la pleine lune\".",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/ytg1nZWea5nhrMw4Evkd4bKaLys.png"
+    },
+    {
+      "id": "tmdb:544401",
+      "type": "movie",
+      "name": "Cherry",
+      "poster": "https://image.tmdb.org/t/p/w500/xBTqVSXTwu7VG75GWbBuHVfilNq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kzXUQnrUnHUGHuwWbgf9KpoU3qr.jpg",
+      "year": "2021",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Joe Russo",
+        "Anthony Russo"
+      ],
+      "cast": [
+        "Tom Holland",
+        "Ciara Bravo",
+        "Jack Reynor",
+        "Michael Rispoli",
+        "Jeffrey Wahlberg",
+        "Forrest Goodluck"
+      ],
+      "description": "Un aide-soignant militaire est de retour de la guerre en Irak. Atteint de stress post-traumatique, il se met à braquer des banques pour financer sa dépendance aux opiacés.",
+      "runtime": "2h22",
+      "logo": "https://image.tmdb.org/t/p/w500/9TIHJx1DI9KheZOibIzsejhROLP.png"
+    },
+    {
+      "id": "tmdb:488623",
+      "type": "movie",
+      "name": "Forgotten",
+      "poster": "https://image.tmdb.org/t/p/w500/pXHLaA2dvIfJ3NbslufKqvS48dt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tGFII2hY0O0qXPAPGE1fBDOONQJ.jpg",
+      "year": "2017",
+      "imdbRating": "4.0",
+      "genres": [
+        "Thriller",
+        "Mystère",
+        "Crime"
+      ],
+      "director": [
+        "Jang Hang-jun"
+      ],
+      "cast": [
+        "Ha-neul Kang",
+        "Kim Mu-yeol",
+        "Seong-kun Mun",
+        "Na Young-hee",
+        "남명렬",
+        "Lee Na-ra"
+      ],
+      "description": "Jin-seok s'installe dans une nouvelle maison avec son frère aîné Yoo-seok, sa mère et son père. Jin-seok souffre d'hypersensibilité mais s'il prend des médicaments, il est capable de vivre normalement. Un soir pluvieux, Jin-seok voit son frère aîné jeté dans une camionnette par un groupe d'hommes.",
+      "runtime": "1h49",
+      "logo": "https://image.tmdb.org/t/p/w500/cm7E7wLMj1zsNkXvyobLdsPYtNm.png"
+    },
+    {
+      "id": "tmdb:11782",
+      "type": "movie",
+      "name": "À toute épreuve",
+      "poster": "https://image.tmdb.org/t/p/w500/mai1O5tLfZO0uObW8ods0szMAjT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kxTWssqcwsHqH6Sj2ivu0FHP5QK.jpg",
+      "year": "1992",
+      "imdbRating": "4.0",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "John Woo"
+      ],
+      "cast": [
+        "Chow Yun-fat",
+        "Tony Leung Chiu-Wai",
+        "毛舜筠",
+        "陳欣健",
+        "郭追",
+        "Anthony Wong Chau-sang"
+      ],
+      "description": "En 1997, alors que les Britanniques sont sur le point de rendre à la Chine une Hong‐Kong gangrénée par le crime, et alors que bien des policiers ont baissé les bras, un groupe d’inspecteurs inflexibles mené par « Tequila » Yuen décide de mettre fin à la suprématie des gangs.",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/cMsFSfQGws1UT846mWUogZYmbMB.png"
+    },
+    {
+      "id": "tmdb:10528",
+      "type": "movie",
+      "name": "Sherlock Holmes",
+      "poster": "https://image.tmdb.org/t/p/w500/pfv5cjgE9HT2KTFv5JT4f7JHxKP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
+      "year": "2009",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Jude Law",
+        "Rachel McAdams",
+        "Mark Strong",
+        "Eddie Marsan",
+        "Robert Maillet"
+      ],
+      "description": "Aucune énigme ne résiste longtemps à Sherlock Holmes… Flanqué de son fidèle ami le Docteur John Watson, l’intrépide et légendaire détective traque sans relâche les criminels de tous poils. Ses armes : un sens aigu de l’observation et de la déduction, une érudition et une curiosité tous azimuts ; accessoirement, une droite redoutable… Mais une menace sans précédent plane aujourd’hui sur Londres – et c’est exactement le genre de défi dont notre homme a besoin pour ne pas sombrer dans l’ennui et la mélancolie. Après qu’une série de meurtres rituels a ensanglanté Londres, Holmes et Watson réussissent à intercepter le coupable : Lord Blackwood. À l’approche de son exécution, ce sinistre adepte de la magie noire annonce qu’il reviendra du royaume des morts pour exercer la plus terrible des vengeances.",
+      "runtime": "2h09",
+      "logo": "https://image.tmdb.org/t/p/w500/fuVkbIGbx8AMPnMxCPfSDMwXH8i.png"
+    },
+    {
+      "id": "tmdb:1949",
+      "type": "movie",
+      "name": "Zodiac",
+      "poster": "https://image.tmdb.org/t/p/w500/ajHaO6hqFmvRNsUh3BIFwE5ghsI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+      "year": "2007",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "David Fincher"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Mark Ruffalo",
+        "Anthony Edwards",
+        "Robert Downey Jr.",
+        "Chloë Sevigny",
+        "Elias Koteas"
+      ],
+      "description": "Zodiac, l'insaisissable tueur en série qui sévit à la fin des années 60 et répandit la terreur dans la région de San Francisco, fut le Jack l'Éventreur de l'Amérique. Prodigue en messages cryptés, il semait les indices comme autant de cailloux blancs, et prenait un malin plaisir à narguer la presse et la police. Il s'attribua une trentaine d'assassinats, mais fit bien d'autres dégâts collatéraux parmi ceux qui le traquèrent. Ceci est la chronique de sa traque qui s'étire sur deux décennies…",
+      "runtime": "2h36",
+      "logo": "https://image.tmdb.org/t/p/w500/A72r2v40TWiVn2sARQCkFfrBLSF.png"
+    },
+    {
+      "id": "tmdb:58574",
+      "type": "movie",
+      "name": "Sherlock Holmes : Jeu d'ombres",
+      "poster": "https://image.tmdb.org/t/p/w500/kbeSPWIRkWZYQgLCyPqxjj4G0kx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg",
+      "year": "2011",
+      "imdbRating": "3.9",
+      "genres": [
+        "Aventure",
+        "Action",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Jude Law",
+        "Noomi Rapace",
+        "Jared Harris",
+        "Rachel McAdams",
+        "Eddie Marsan"
+      ],
+      "description": "Sherlock Holmes a toujours été le plus brillant de sa classe… jusqu’à maintenant. Car un nouveau grand esprit criminel s’est fait remarquer en Europe : le professeur Moriarty. Non seulement il est l’égal intellectuel de Holmes, mais sa capacité pour le mal, couplée à une absence totale de conscience, pourrait effectivement lui donner l’avantage face au détective de renom. Lorsque le prince héritier d’Autriche est retrouvé mort, les preuves, telle qu’interprétées par l’inspecteur Lestrade, pointe le suicide. Sauf que Sherlock Holmes en a, lui, déduit un assassinat… qui ne pourrait être qu’une seule pièce d’un puzzle plus vaste et de beaucoup plus mauvais augure, conçu par le professeur Moriarty.",
+      "runtime": "2h09",
+      "logo": "https://image.tmdb.org/t/p/w500/fDn3wn7T552EsFqcQx97JFsTLnd.png"
+    },
+    {
+      "id": "tmdb:4638",
+      "type": "movie",
+      "name": "Hot Fuzz",
+      "poster": "https://image.tmdb.org/t/p/w500/tddbD3ETiKucVg15GKWkzveU7SI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "year": "2007",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Action",
+        "Comédie"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Simon Pegg",
+        "Nick Frost",
+        "Jim Broadbent",
+        "Paddy Considine",
+        "Rafe Spall",
+        "Kevin Eldon"
+      ],
+      "description": "À Londres, le policier Nicholas Angel est le meilleur de son équipe. Tellement bon qu'il fait passer ses collègues pour de simples gardiens de la paix. Le chef de la brigade décide donc de le « promouvoir » dans le petit village de Sandford, où il ne se passe rien. Aux côtés du policier local Danny Butterman qui rêve de devenir Mel Gibson, Nicholas règle quelques contraventions sans grand intérêt. Une série de crimes étranges va le remettre dans l'action…",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/m5Lxfq0buYJg53xR1neJ9yuvArF.png"
+    },
+    {
+      "id": "tmdb:398978",
+      "type": "movie",
+      "name": "The Irishman",
+      "poster": "https://image.tmdb.org/t/p/w500/W9xPACmHuhFC0xHwpyFvGbapUT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+      "year": "2019",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Al Pacino",
+        "Joe Pesci",
+        "Harvey Keitel",
+        "Ray Romano",
+        "Bobby Cannavale"
+      ],
+      "description": "Cette saga sur le crime organisé dans l'Amérique de l'après-guerre est racontée du point de vue de Frank Sheeran, un ancien soldat de la Seconde Guerre mondiale devenu escroc et tueur à gages ayant travaillé aux côtés de quelques-unes des plus grandes figures du 20e siècle. Couvrant plusieurs décennies, le film relate l'un des mystères insondables de l'histoire des États-Unis : la disparition du légendaire dirigeant syndicaliste Jimmy Hoffa. Il offre également une plongée monumentale dans les arcanes de la mafia en révélant ses rouages, ses luttes internes et ses liens avec le monde politique.",
+      "runtime": "3h29",
+      "logo": "https://image.tmdb.org/t/p/w500/bGpCp6uET96fjnqOMPmalWFSGRE.png"
+    },
+    {
+      "id": "tmdb:302946",
+      "type": "movie",
+      "name": "Mr Wolff",
+      "poster": "https://image.tmdb.org/t/p/w500/o7073AlEoBqltpsRBRDI6b5CyM6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+      "year": "2016",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drame"
+      ],
+      "director": [
+        "Gavin O'Connor"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Cynthia Addai-Robinson",
+        "Anna Kendrick",
+        "J.K. Simmons",
+        "Jon Bernthal",
+        "John Lithgow"
+      ],
+      "description": "Petit génie des mathématiques, Christian Wolff est plus à l’aise avec les chiffres qu’avec les gens. Expert‐comptable dans le civil, il travaille en réalité pour plusieurs organisations mafieuses parmi les plus dangereuses au monde. Lorsque la brigade anti‐criminalité du ministère des Finances s’intéresse d’un peu trop près à ses affaires, Christian cherche à faire diversion : il accepte de vérifier les comptes d’une entreprise de robotique ayant pignon sur rue. Problème : la comptable de la société a décelé un détournement de fonds de plusieurs millions de dollars. Tandis que Christian épluche les comptes et découvre les rouages de l’escroquerie, les cadavres s’accumulent…",
+      "runtime": "2h08",
+      "logo": "https://image.tmdb.org/t/p/w500/7adZZ0TVysbZli0wUBQs33nX0uh.png"
+    },
+    {
+      "id": "tmdb:2034",
+      "type": "movie",
+      "name": "Training Day",
+      "poster": "https://image.tmdb.org/t/p/w500/pDctIlugIuDZivzihCAEs7Ofymx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+      "year": "2001",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Antoine Fuqua"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Ethan Hawke",
+        "Scott Glenn",
+        "Tom Berenger",
+        "Harris Yulin",
+        "Raymond J. Barry"
+      ],
+      "description": "Jake Hoyt est une nouvelle recrue de la police de Los Angeles. Décidé à devenir inspecteur, il sollicite une mise à l'essai de 24 heures auprès du sergent chef Alonzo Harris, un vétéran de la lutte antidrogue qui opère depuis douze ans dans les quartiers les plus chauds de la ville. D'emblée, Harris fait monter la pression, considérant Jake comme un gamin, raillant sa candeur et son inexpérience. Commencent alors une longue et périlleuse tournée à travers les bas-quartiers, les premiers contacts rudes avec les dealers et les informateurs, la découverte d'un monde trouble où Harris se meut en grand seigneur. Peu à peu, Jake apprend à connaître le policier : son cynisme et son jusqu'au-boutisme fanatique, qui les entraîneront dans des situations de plus en plus dangereuses.",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/nKFdvaX9SV2haYGs2jyjrbyieiE.png"
+    },
+    {
+      "id": "tmdb:388",
+      "type": "movie",
+      "name": "Inside Man : L'Homme de l'intérieur",
+      "poster": "https://image.tmdb.org/t/p/w500/FFmOisKfYgCDzuWC5tf8m98U78.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tOkSenL74N23O4S7wjJSUHz7Aeh.jpg",
+      "year": "2006",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Spike Lee"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Clive Owen",
+        "Jodie Foster",
+        "Christopher Plummer",
+        "Willem Dafoe",
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Ce devait être le hold-up parfait, le chef-d’œuvre d'un génie du crime. Le décor: une grande banque de Manhattan. Les protagonistes: un commando masqué, cagoulé, lunetté et des dizaines d'otages affolés, contraints de revêtir la même combinaison passe-partout que les braqueurs. L'enjeu: la salle des coffres et ses trésors? Ou un vieux secret dont seules 2 personnes connaissent l'importance? Aujourd'hui, confiné dans une cellule, le cerveau de la bande s'explique. Mais attention, chaque mot compte, et aucun indice ne vous sera livré au hasard. Prêts?  Ce matin-là, donc, 4 peintres en bâtiment franchissaient le seuil de la Manhattan Trust Bank…",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/fZSxDb5LDSprSGyVYTUlQesJV0W.png"
+    },
+    {
+      "id": "tmdb:754",
+      "type": "movie",
+      "name": "Volte/Face",
+      "poster": "https://image.tmdb.org/t/p/w500/kEluKUjEKFwCJWrxv2XPC1VTJT4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+      "year": "1997",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Crime",
+        "Science-Fiction"
+      ],
+      "director": [
+        "John Woo"
+      ],
+      "cast": [
+        "John Travolta",
+        "Nicolas Cage",
+        "Joan Allen",
+        "Alessandro Nivola",
+        "Gina Gershon",
+        "Dominique Swain"
+      ],
+      "description": "Castor Troy, dangereux terroriste, est tombé dans le coma à la suite d’un affrontement avec Sean Archer, agent de la CIA. Grâce à une intervention chirurgicale, Archer prend le visage de Troy pour faire avouer au frère de ce dernier l’emplacement d’une bombe. Mais Troy sort du coma et prend à son tour le visage d’Archer.",
+      "runtime": "2h19",
+      "logo": "https://image.tmdb.org/t/p/w500/uHzsz1k9LadTlSSvd2XRUzojBwQ.png"
+    },
+    {
+      "id": "tmdb:23168",
+      "type": "movie",
+      "name": "The Town",
+      "poster": "https://image.tmdb.org/t/p/w500/hFmB2E44cfQ48rIFNfqNp5qfSco.jpg",
+      "background": "https://image.tmdb.org/t/p/original/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
+      "year": "2010",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Ben Affleck"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Jeremy Renner",
+        "Rebecca Hall",
+        "Jon Hamm",
+        "Blake Lively",
+        "George Carroll"
+      ],
+      "description": "Doug MacRay est un criminel impénitent, le leader de facto d’une impitoyable bande de braqueurs de banque qui s’enorgueillit de voler à leur gré sans se faire prendre. Sans attaches particulières, Doug ne craint jamais la perte d’un être cher. Mais tout va changer le jour où, lors du dernier casse de la bande, ils prennent en otage la directrice de la banque, Claire Keesey. Bien qu’ils l’aient relâchée indemne, Claire est nerveuse car elle sait que les voleurs connaissent son nom…et savent où elle habite. Mais elle baisse la garde le jour où elle rencontre un homme discret et plutôt charmant du nom de Doug….ne réalisant pas qu’il est celui qui, quelques jours plus tôt, l’avait terrorisée. L’attraction instantanée entre eux va se transformer graduellement en une romance passionnée qui menacera de les entraîner tous deux sur un chemin dangereux et potentiellement mortel.",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/h8YdJkWFeW4Tn1VaI73Ouze9zlg.png"
+    },
+    {
+      "id": "tmdb:4771",
+      "type": "movie",
+      "name": "Gone Baby Gone",
+      "poster": "https://image.tmdb.org/t/p/w500/fW5eekLyNL7udqGP4O0DhPd3gNC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xcDiiWTFJ6T3D3qayL1DdlDeQz8.jpg",
+      "year": "2007",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Ben Affleck"
+      ],
+      "cast": [
+        "Casey Affleck",
+        "Michelle Monaghan",
+        "Morgan Freeman",
+        "Ed Harris",
+        "John Ashton",
+        "Amy Ryan"
+      ],
+      "description": "Dans une banlieue ouvrière de Boston, la petite Amanda a disparu. Après l'échec des recherches menées par la police, la tante et l'oncle de l'enfant décident de faire appel à des détectives privés du coin, Patrick Kenzie et Angie Gennaro. Patrick et Angie connaissent bien le quartier, au point de savoir que Hélène, la mère d'Amanda, est une droguée. Plus ils enquêtent, plus ils découvrent l'envers de la ville dans ce qu'il a de plus sombre. Ils s'enfoncent au-delà des mensonges et des faux-semblants, vers les secrets les plus noirs de la ville, là où règnent les dealers, les criminels et les pédophiles. Cela ne les aide pourtant pas dans leur enquête et Amanda reste introuvable. Face à la pression médiatique, Remy Bressant, un enquêteur qui ne lâche jamais, et le capitaine de police Jack Doyle vont aussi s'attaquer à l'enquête. La vérité finira par surgir, mais elle aura un prix. Chaque ville a ses secrets, chaque humain sa conscience...",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/6P7szbEAUayemQfHw526rtzzPdx.png"
+    },
+    {
+      "id": "tmdb:1598",
+      "type": "movie",
+      "name": "Les Nerfs à vif",
+      "poster": "https://image.tmdb.org/t/p/w500/gxHK0rpwyphzmBDFqjFTd7z54J5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
+      "year": "1991",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Martin Scorsese"
+      ],
+      "cast": [
+        "Robert De Niro",
+        "Nick Nolte",
+        "Jessica Lange",
+        "Juliette Lewis",
+        "Joe Don Baker",
+        "Robert Mitchum"
+      ],
+      "description": "Condamné à quatorze ans de prison pour viol et voie de fait sur une mineure, Max Cady n'a jamais pardonné à son avocat Sam Bowden de l'avoir abandonné. Tout au long de sa peine, il s'est employé à discipliner son corps et son esprit, se fixant pour unique but de châtier Bowden, de briser les siens. Et aujourd'hui, Max Cady est libre…",
+      "runtime": "2h08",
+      "logo": "https://image.tmdb.org/t/p/w500/wYvgaVmUioMTrTowBDvnQeNJ6Wf.png"
+    },
+    {
+      "id": "tmdb:9846",
+      "type": "movie",
+      "name": "Police Fédérale - Los Angeles",
+      "poster": "https://image.tmdb.org/t/p/w500/7ByJJMxg9WbkyldhXBggJJy7aT1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1fI06RK90Vp7ybQxs84ep1iQrqD.jpg",
+      "year": "1985",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action"
+      ],
+      "director": [
+        "William Friedkin"
+      ],
+      "cast": [
+        "William Petersen",
+        "Willem Dafoe",
+        "John Pankow",
+        "Debra Feuer",
+        "John Turturro",
+        "Dean Stockwell"
+      ],
+      "description": "Véritable tête brûlée, Richard Chance travaille pour les services secrets américains. Le jour où son coéquipier Jimmy Hart est abattu alors qu'il menait une opération en solo pour coincer le faussaire Rick Masters, Chance, obsédé à l'idée de se venger, décide de monter un coup tordu des plus illégaux avant l'arrivée de son nouveau coéquipier, John Vukovich, en braquant un convoyeur de fonds... qui s'avère être un agent du FBI infiltré et qui est abattu accidentellement. Obstiné, Chance continue à tendre son piège autour de Masters, malgré le déluge de violence qui s'abat autour de lui.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/6hMO0R6P6gnFLEOKj2ACcPf25Hu.png"
+    },
+    {
+      "id": "tmdb:581953",
+      "type": "movie",
+      "name": "BORDER 贖罪",
+      "poster": "https://image.tmdb.org/t/p/w500/iiVDIMStjhPxkC8l4vHsnjmfKch.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yVk1EURBK57kYhKu5jfmpbEKUAb.jpg",
+      "year": "2017",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "常廣丈太"
+      ],
+      "cast": [
+        "Shun Oguri",
+        "波瑠",
+        "Munetaka Aoki",
+        "Ken'ichi Endō",
+        "Arata Furuta",
+        "浜野謙太"
+      ],
+      "runtime": "1h35"
+    },
+    {
+      "id": "tmdb:290250",
+      "type": "movie",
+      "name": "The Nice Guys",
+      "poster": "https://image.tmdb.org/t/p/w500/p94BXHeJQagD3M8p4LuAB87RMQv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vTNzXPvFRn8Z4vn2myhkNpq26J6.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Shane Black"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Ryan Gosling",
+        "Angourie Rice",
+        "Matt Bomer",
+        "Margaret Qualley",
+        "Yaya DaCosta"
+      ],
+      "description": "Los Angeles. Années 70. Deux détectives privés enquêtent sur le prétendu suicide d’une starlette. Malgré des méthodes pour le moins « originales », leurs investigations vont mettre à jour une conspiration impliquant des personnalités très haut placées…",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/xRMh55XQrPCP1gAdQyQ6MpHz46M.png"
+    },
+    {
+      "id": "tmdb:308266",
+      "type": "movie",
+      "name": "War Dogs",
+      "poster": "https://image.tmdb.org/t/p/w500/3QsSKLq6yewtII9wx3yWVU92rxs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Todd Phillips"
+      ],
+      "cast": [
+        "Miles Teller",
+        "Jonah Hill",
+        "Ana de Armas",
+        "Bradley Cooper",
+        "Kevin Pollak",
+        "Patrick St. Esprit"
+      ],
+      "description": "Deux amis âgés d’une vingtaine d’années, vivant à Miami pendant la guerre en Irak, profitent d’un dispositif du gouvernement fédéral totalement méconnu, permettant à de petites entreprises de répondre à des appels d’offres de l’armée américaine. Si leurs débuts sont modestes, ils ne tardent pas à empocher de grosses sommes d’argent et à mener la grande vie. Mais les deux amis sont totalement dépassés par les événements lorsqu’ils décrochent un contrat de 300 millions de dollars destiné à armer les soldats afghans. Car, pour honorer leurs obligations, ils doivent entrer en contact avec des individus très peu recommandables et qu'il ne vaut pas mieux entourlouper… dont certains font partie du gouvernement américain…",
+      "runtime": "1h54",
+      "logo": "https://image.tmdb.org/t/p/w500/fkFJN9hZgmyOVbFiYMa2QGivm9v.png"
+    },
+    {
+      "id": "tmdb:37094",
+      "type": "movie",
+      "name": "Chute libre",
+      "poster": "https://image.tmdb.org/t/p/w500/11Ar6C286Uw7iYaSuMXb73iPCLB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+      "year": "1993",
+      "imdbRating": "3.8",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Joel Schumacher"
+      ],
+      "cast": [
+        "Michael Douglas",
+        "Robert Duvall",
+        "Barbara Hershey",
+        "Rachel Ticotin",
+        "Tuesday Weld",
+        "Frederic Forrest"
+      ],
+      "description": "Il a suffit d’un rien : une chaleur oppressante, l’éternel embouteillage aux abords de Los Angeles et un sentiment d’oppression insupportable, pour qu’un homme ordinaire abandonne sa voiture en plein trafic et sombre dans la folie. Devenu incontrôlable, sera-t-il arrêté avant qu’il ne commette l’irréparable ?",
+      "runtime": "1h53",
+      "logo": "https://image.tmdb.org/t/p/w500/4BNOIjxxaMfQCIGOL0h3eMhobw.png"
+    },
+    {
+      "id": "tmdb:94329",
+      "type": "movie",
+      "name": "The Raid",
+      "poster": "https://image.tmdb.org/t/p/w500/e0EeE8Rc5weReJNpwOP78DuCxdH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4zzWj2pVmkjN9yjsQesEEnNtlZ4.jpg",
+      "year": "2012",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Gareth Evans"
+      ],
+      "cast": [
+        "Iko Uwais",
+        "Joe Taslim",
+        "Donny Alamsyah",
+        "Yayan Ruhian",
+        "Pierre Gruno",
+        "Ray Sahetapy"
+      ],
+      "description": "Au cœur des quartiers pauvres de Jakarta, se trouve une citadelle imprenable dans laquelle se cache le plus dangereux trafiquant du pays. Une équipe de policiers d’élite est envoyée donner l’assaut lors d’un raid secret mené aux premières lueurs du jour. Mais grâce à ses indics, le baron de la drogue est déjà au courant et a eu amplement le temps de se préparer. À l’instant où le groupe d’intervention pénètre dans l’immeuble, le piège se referme : les portes sont condamnées, l’électricité est coupée et une armée d’hommes surentrainés débarque. Piégés dans cet immeuble étouffant, les policiers vont devoir se battre étage après étage pour avoir une chance de survivre.",
+      "runtime": "1h41",
+      "logo": "https://image.tmdb.org/t/p/w500/oDHFH3yIIi1WZvJkjPETNKRWrPL.png"
+    },
+    {
+      "id": "tmdb:77016",
+      "type": "movie",
+      "name": "End of Watch",
+      "poster": "https://image.tmdb.org/t/p/w500/tdD47kPosNyKqoQ0ioVV91uBZ6Y.jpg",
+      "background": "https://image.tmdb.org/t/p/original/l53K8Fp1WcOMRL33CMsnnMUPiWg.jpg",
+      "year": "2012",
+      "imdbRating": "3.8",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "David Ayer"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Michael Peña",
+        "Natalie Martinez",
+        "Anna Kendrick",
+        "David Harbour",
+        "Frank Grillo"
+      ],
+      "description": "Chaque jour, Brian Taylor et Mike Zavala, jeunes officiers de police, patrouillent dans les rues les plus dangereuses de Los Angeles. À travers les images filmées sur le vif, on découvre leur quotidien sous un angle jamais vu. Du danger partagé qui forge la fraternité à la peur et aux montées d’adrénaline, c’est une fascinante plongée au cœur de leur vie et d’un quartier, une histoire puissante sur l’amitié, la famille, l’honneur et le courage.",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/cygj4vZus34YXPwXBTMtAAnU07l.png"
+    },
+    {
+      "id": "tmdb:597208",
+      "type": "movie",
+      "name": "Nightmare Alley",
+      "poster": "https://image.tmdb.org/t/p/w500/tbMON6DrX7sb8MCbsPwyQhQkmi3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+      "year": "2021",
+      "imdbRating": "3.8",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Guillermo del Toro"
+      ],
+      "cast": [
+        "Bradley Cooper",
+        "Cate Blanchett",
+        "Toni Collette",
+        "Willem Dafoe",
+        "Richard Jenkins",
+        "Rooney Mara"
+      ],
+      "description": "Alors qu’il traverse une mauvaise passe, le charismatique Stanton Carlisle débarque dans une foire itinérante et parvient à s’attirer les bonnes grâces d’une voyante, Zeena  et de son mari Pete, une ancienne gloire du mentalisme. S’initiant auprès d’eux, il voit là un moyen de décrocher son ticket pour le succès et décide d’utiliser ses nouveaux talents pour arnaquer l’élite de la bonne société new-yorkaise des années 40. Avec la vertueuse et fidèle Molly à ses côtés, Stanton se met à échafauder un plan pour escroquer un homme aussi puissant que dangereux. Il va recevoir l’aide d’une mystérieuse psychiatre qui pourrait bien se révéler la plus redoutable de ses adversaires.",
+      "runtime": "2h20",
+      "logo": "https://image.tmdb.org/t/p/w500/2281UKckCbl5g7Cw5k8e5LViUsm.png"
+    },
+    {
+      "id": "tmdb:5236",
+      "type": "movie",
+      "name": "Kiss Kiss Bang Bang",
+      "poster": "https://image.tmdb.org/t/p/w500/zsKglygUu0RdiMXE2bJ2yW4eheb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/x29PYzoNYPGzdj3M8FDwSwEgNpf.jpg",
+      "year": "2005",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "Shane Black"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Val Kilmer",
+        "Michelle Monaghan",
+        "Corbin Bernsen",
+        "Dash Mihok",
+        "Larry Miller"
+      ],
+      "description": "Harry Lockhart, voleur en fuite, se retrouve accidentellement à auditionner dans un film policier Hollywoodien. Afin de préparer au mieux son rôle, il fait équipe avec un détective privé sans foi ni loi et une comédienne en herbe. Ils finiront par se retrouver impliqués dans une réelle et mystérieuse affaire de meurtre.",
+      "runtime": "1h42",
+      "logo": "https://image.tmdb.org/t/p/w500/A5U5WhCIgA8moT8m5Xvo0RhqYT0.png"
+    },
+    {
+      "id": "tmdb:388399",
+      "type": "movie",
+      "name": "Traque à Boston",
+      "poster": "https://image.tmdb.org/t/p/w500/3HSCwieOOCsw4294NbbLNCU7zF5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lWcNlDMmZ6xJVoCZjhFxqVl0TIa.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame",
+        "Histoire",
+        "Thriller"
+      ],
+      "director": [
+        "Peter Berg"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "John Goodman",
+        "J.K. Simmons",
+        "Kevin Bacon",
+        "Michelle Monaghan",
+        "Alex Wolff"
+      ],
+      "description": "Alors que la ville de Boston est sous le choc de multiples explosions, le sergent de police Tommy Saunders rejoint les enquêteurs sur le terrain dans une course contre la montre pour traquer et arrêter les auteurs avant qu'ils ne frappent à nouveau. Croisant les parcours de l'agent spécial Richard Deslauriers, du commissaire Ed Davis, du sergent Jeffrey Pugliese et de l'infirmière Carol Saunders, ce récit sans concession évoque la chasse à l'homme la plus complexe jamais mise en œuvre par la police américaine – et rend un vibrant hommage aux héros du quotidien.",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/5mWkitK7fzY3Bsq8X1TF9FwUCAj.png"
+    },
+    {
+      "id": "tmdb:10474",
+      "type": "movie",
+      "name": "Basketball Diaries",
+      "poster": "https://image.tmdb.org/t/p/w500/qx7nazcXb44ww5KB2c9sLR2dujr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oDdRrwTCgaDzAshScrFO09qWqPB.jpg",
+      "year": "1995",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Scott Kalvert"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Mark Wahlberg",
+        "James Madio",
+        "Lorraine Bracco",
+        "Patrick McGaw",
+        "Ernie Hudson"
+      ],
+      "description": "Quatre copains dissipés d'une école catholique de New York ont une passion en commun: le basket. Lorsque Bobby meurt d'une leucémie, Jim et ses copains sont confrontés à la dure réalité de la vie qui leur apparaît de plus en plus absurde. Jim se confie à son journal intime, mais l'écriture ne l'empêche pas de se droguer. Sa mère finit par le mettre à la porte. Il continue d'écrire, mais les pensées qu'il consigne dans son journal prennent une tournure surréaliste, témoignant au quotidien de sa descente aux enfers.",
+      "runtime": "1h40",
+      "logo": "https://image.tmdb.org/t/p/w500/3DR3RvQsBHLRTz0skWFpeHN7Blg.png"
+    },
+    {
+      "id": "tmdb:241239",
+      "type": "movie",
+      "name": "A Most Violent Year",
+      "poster": "https://image.tmdb.org/t/p/w500/iki3oBNMa5pB1rUiUCn5qKwcImw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aivbF72gqeFvEyi62PGjKuB3eh0.jpg",
+      "year": "2014",
+      "imdbRating": "3.8",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "J.C. Chandor"
+      ],
+      "cast": [
+        "Oscar Isaac",
+        "Jessica Chastain",
+        "David Oyelowo",
+        "Alessandro Nivola",
+        "Elyes Gabel",
+        "Albert Brooks"
+      ],
+      "description": "New York, 1981. L'année la plus violente qu'ait connu la ville. Le destin d'un immigré qui tente de se faire une place dans le business du pétrole. Son ambition se heurte à la corruption, la violence galopante et à la dépravation de l'époque qui menacent de détruire tout ce que lui et sa famille ont construit.",
+      "runtime": "2h04",
+      "logo": "https://image.tmdb.org/t/p/w500/2emxUHPhn6WOU8112vY4KqX2jUB.png"
+    },
+    {
+      "id": "tmdb:226",
+      "type": "movie",
+      "name": "Boys Don't Cry",
+      "poster": "https://image.tmdb.org/t/p/w500/qzRTq6IgMU2RFtXb1kNQZdfs4Hu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yV1s91RyHJIMIJ7KeyHsWJ0ayUv.jpg",
+      "year": "1999",
+      "imdbRating": "3.8",
+      "genres": [
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Kimberly Peirce"
+      ],
+      "cast": [
+        "Hilary Swank",
+        "Chloë Sevigny",
+        "Peter Sarsgaard",
+        "Brendan Sexton III",
+        "Alicia Goranson",
+        "Alison Folland"
+      ],
+      "description": "Teena Brandon, une jeune adolescente du Nebraska, assume mal sa condition de fille. Elle déménage à Falls City et devient Brandon, un garcon aux cheveux courts, très vite adopté par une bande de désoeuvrés. Teena-Brandon s'intègre au groupe mais reste toujours prisonnière de cette crise d'identité sexuelle qui l'a hantée sa vie entière. Elle tombe amoureuse de Lana, la petite amie de John. En découvrant la vérité sur Teena, ce dernier entre dans une rage meurtrière. D'après un fait divers authentique.",
+      "runtime": "1h54",
+      "logo": "https://image.tmdb.org/t/p/w500/cmIgZ6FCeDatZz8cwHmjuPbT3ql.png"
+    },
+    {
+      "id": "tmdb:605886",
+      "type": "movie",
+      "name": "Misanthrope",
+      "poster": "https://image.tmdb.org/t/p/w500/2DVMYCEjZGJDBWD5zDfeD8NNDTk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/T5xXoFqyc9jNXZIbH4Sw0jwWjw.jpg",
+      "year": "2023",
+      "imdbRating": "3.8",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Damián Szifron"
+      ],
+      "cast": [
+        "Shailene Woodley",
+        "Ben Mendelsohn",
+        "Jovan Adepo",
+        "Ralph Ineson",
+        "Richard Zeman",
+        "Dusan Dukic"
+      ],
+      "description": "La veille du jour de l'An, dans la ville de Baltimore, une agente de police au passé trouble est recrutée par l'enquêteur en chef du FBI pour tenter de dresser le profil psychologique du tueur en série qui terrorise la ville. Le duo veut mettre la main au collet du dangereux psychopathe avant qu'il ne fasse d'autres victimes.",
+      "runtime": "1h59",
+      "logo": "https://image.tmdb.org/t/p/w500/2xxYm937iM3gRPt1Qcm4glqtjDQ.png"
+    },
+    {
+      "id": "tmdb:10835",
+      "type": "movie",
+      "name": "The Killer",
+      "poster": "https://image.tmdb.org/t/p/w500/8b1BQvYlyNTbCt5JsjdWcscg8mK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
+      "year": "1989",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "John Woo"
+      ],
+      "cast": [
+        "Chow Yun-fat",
+        "Danny Lee",
+        "Sally Yeh",
+        "Paul Chu Kong",
+        "Kenneth Tsang",
+        "成奎安"
+      ],
+      "description": "Jeff est un tueur à gages. Lors d’une commande, il rend accidentellement aveugle une chanteuse de bar, Jennie. Hanté par le remords, il décide d’aider Jennie… et tombe progressivement amoureux d’elle. Alors qu’il décide d’accepter une dernière commande, dont l’argent doit servir à opérer Jennie, il se fait repérer par l’inspecteur Li. Les commanditaires de Jeff décident alors de se retourner contre lui et tentent de l’assassiner. Coincé entre l’inspecteur Li, flic acharné prêt à tout pour l’arrêter, et son ancien boss, Jeff n’a pas d’autre choix que de reprendre les armes. Alors que les amitiés sont trahies, aucun personnage n’apparaît ni tout blanc ni tout noir.",
+      "runtime": "1h51",
+      "logo": "https://image.tmdb.org/t/p/w500/yvdIg7MYA1dHQUBPjOAJiYxfSlm.png"
+    },
+    {
+      "id": "tmdb:19123",
+      "type": "movie",
+      "name": "La Chèvre",
+      "poster": "https://image.tmdb.org/t/p/w500/22waeCYVxm5aYoaCfKHrBSr3uvw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uE0YuEV8g6obeZ4nsyHw0wOKZcL.jpg",
+      "year": "1981",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Aventure"
+      ],
+      "director": [
+        "Francis Veber"
+      ],
+      "cast": [
+        "Pierre Richard",
+        "Gérard Depardieu",
+        "Pedro Armendáriz Jr.",
+        "Corynne Charbit",
+        "Michel Robin",
+        "André Valardy"
+      ],
+      "description": "La fille du président Bens a disparu en Amérique du Sud. Campana, détective privé, revient bredouille après avoir fouillé tout le pays. Reste une solution : pour retrouver sa fille, Bens doit envoyer sur ses traces quelqu’un d’aussi malchanceux qu’elle. Il se trouve un salarié de la société Bens, au service comptabilité, un François Perrin qui à la malchance dans la peau. Sur les conseils de Meyer, un cadre de son entreprise, qui pense que la seule façon de retrouver sa fille est d'envoyer quelqu'un aussi malchanceux qu'elle qui glissera sur les mêmes peaux de banane qu'elle. Bens envoie donc Perrin avec Campagna sur les traces de sa fille. Ainsi, part en mission ce couple que tout oppose. D’un côté Campana et ses idées arrêtées et de l’autre, Perrin avec son énorme bagage de malchance mais un optimisme imperturbable.",
+      "runtime": "1h30",
+      "logo": "https://image.tmdb.org/t/p/w500/6pbjDl5n6m2cxi5GaTFWAfcqGaJ.png"
+    },
+    {
+      "id": "tmdb:36095",
+      "type": "movie",
+      "name": "Cure",
+      "poster": "https://image.tmdb.org/t/p/w500/g8NvuhgqBD6LShECh20TPMSNMgC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xxIRKSd9LmHojUD5grvMuGypwVC.jpg",
+      "year": "1997",
+      "imdbRating": "3.8",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Horreur",
+        "Mystère"
+      ],
+      "director": [
+        "Kiyoshi Kurosawa"
+      ],
+      "cast": [
+        "役所広司",
+        "Masato Hagiwara",
+        "うじきつよし",
+        "中川安奈",
+        "Yukijirō Hotaru",
+        "Yoriko Douguchi"
+      ],
+      "description": "Un officier de police, Takabe, enquête sur une série de meurtres dont les victimes sont retrouvées avec une croix gravée dans le cou. Un jour, un jeune vagabond est arrêté près de l'endroit ou a été retrouvé le dernier corps. Il est vite identifié comme un ancien étudiant en psychologie, devenu fou et ayant d'inquiétants pouvoirs hypnotiques, lui permettant de pousser des gens à commettre des actes criminels…",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/pJQyjN3SnmYmbkkM3y5VrdHyxX0.png"
+    },
+    {
+      "id": "tmdb:912480",
+      "type": "movie",
+      "name": "Les Chambres rouges",
+      "poster": "https://image.tmdb.org/t/p/w500/iXk5ZR5yFUtEfcuIIVxxesr9Wjc.jpg",
+      "background": "https://image.tmdb.org/t/p/original/83g3gkDw6oc2mxkyB8DSoXQZJHl.jpg",
+      "year": "2023",
+      "imdbRating": "3.8",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Pascal Plante"
+      ],
+      "cast": [
+        "Juliette Gariépy",
+        "Laurie Babin",
+        "Élisabeth Locas",
+        "Maxwell McCabe-Lokos",
+        "Natalie Tannous",
+        "Pierre Chagnon"
+      ],
+      "description": "Kelly-Anne se réveille chaque matin aux portes du palais de justice pour s’assurer une place au procès hyper-médiatisé de Ludovic Chevalier, un tueur en série duquel elle est obsédée. Au fil des jours, la jeune femme tissera des liens avec une autre groupie, ce qui l’extirpera momentanément de sa solitude étouffante. Mais à force de côtoyer les parents des victimes dans un procès qui s’enlise, Kelly-Anne a de plus en plus de difficulté à maintenir son équilibre psychologique et à assumer sa fixation maladive pour le bourreau. Elle tentera alors par tous les moyens de mettre la main sur l’ultime pièce du puzzle : la vidéo manquante du meurtre d’une des victimes avec qui elle a une inquiétante ressemblance.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/ydNY36lvrozdpdwSTfyps6NSaLJ.png"
+    },
+    {
+      "id": "tmdb:198184",
+      "type": "movie",
+      "name": "Chappie",
+      "poster": "https://image.tmdb.org/t/p/w500/bcgg5H3ORynoJmsnqoNdIPfJNWL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
+      "year": "2015",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Action",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Neill Blomkamp"
+      ],
+      "cast": [
+        "Sharlto Copley",
+        "Dev Patel",
+        "Hugh Jackman",
+        "Ninja",
+        "Yo-Landi Visser",
+        "Sigourney Weaver"
+      ],
+      "description": "Dans un futur proche, la population, opprimée par une police entièrement robotisée, commence à se rebeller. Chappie, l’un de ces droïdes policiers, est kidnappé. Reprogrammé, il devient le premier robot capable de penser et ressentir par lui-même. Mais des forces puissantes, destructrices, considèrent Chappie comme un danger pour l’humanité et l’ordre établi. Elles vont tout faire pour maintenir le statu quo et s’assurer qu’il soit le premier, et le dernier, de son espèce.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/f9jEQr6YSatPrULo6gBpXDiHKdJ.png"
+    },
+    {
+      "id": "tmdb:390043",
+      "type": "movie",
+      "name": "Hitman & Bodyguard",
+      "poster": "https://image.tmdb.org/t/p/w500/miVyaIUEfG9q8VxMeSdhHTl9B9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+      "year": "2017",
+      "imdbRating": "3.7",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Patrick Hughes"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Samuel L. Jackson",
+        "Gary Oldman",
+        "Salma Hayek Pinault",
+        "Elodie Yung",
+        "Richard E. Grant"
+      ],
+      "description": "Un redoutable tueur à gages est contraint de témoigner contre son ancien employeur devant la Cour internationale de justice de La Haye. Interpol est alors chargée de l’escorter jusqu’aux Pays-Bas et engage le meilleur garde du corps du métier pour mener à bien cette mission. Mais c’était sans savoir que depuis des années, les deux hommes s’opposent : les voilà désormais obligés de s’associer pour tenter de survivre aux pires épreuves… De l’Angleterre à La Haye, ils vont vivre une aventure délirante, une succession infernale de tentatives de meurtre, de courses-poursuites pour échapper à un dictateur d’Europe de l’Est prêt à tout pour les éliminer.",
+      "runtime": "1h51",
+      "logo": "https://image.tmdb.org/t/p/w500/r0IKaC9zbEVjyAFF7xxfuCk7qvV.png"
+    },
+    {
+      "id": "tmdb:559969",
+      "type": "movie",
+      "name": "El Camino : Un film \"Breaking Bad\"",
+      "poster": "https://image.tmdb.org/t/p/w500/vGmDs7qGOgST23o9hKwiyGd6WeW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+      "year": "2019",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Vince Gilligan"
+      ],
+      "cast": [
+        "Aaron Paul",
+        "Jesse Plemons",
+        "Charles Baker",
+        "Matt Jones",
+        "Scott MacArthur",
+        "Larry Hankin"
+      ],
+      "description": "À la suite de sa tragique évasion, Jesse doit accepter son passé s’il veut se reconstruire un avenir…  ou quelque chose qui s'en rapproche.",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/39eCpEFQlKEP4UFtfF3R34hFNSU.png"
+    },
+    {
+      "id": "tmdb:4547",
+      "type": "movie",
+      "name": "Panic Room",
+      "poster": "https://image.tmdb.org/t/p/w500/hZRbJ9a7YhdDOx8BECb8svI6qOQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9G5bteYI8FXaY9EomnUP0kdHm66.jpg",
+      "year": "2002",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "David Fincher"
+      ],
+      "cast": [
+        "Jodie Foster",
+        "Kristen Stewart",
+        "Forest Whitaker",
+        "Dwight Yoakam",
+        "Jared Leto",
+        "Patrick Bauchau"
+      ],
+      "description": "Récemment séparée de son mari, Meg Altman est angoissée à l'idée de devoir élever seule sa fille Sarah. Elle achète une immense et splendide maison dans un quartier huppé à l'Ouest de New York. Son ancien propriétaire, un milliardaire, y a fait construire une pièce de sûreté dans laquelle on peut se réfugier en cas de menace extérieure et rester enfermé de nombreux jours grâce aux provisions qu'elle contient. Un soir, trois cambrioleurs pénètrent dans la maison avec la ferme intention de dérober une somme de 14 millions de dollars cachée par l'ancien maître des lieux. Ce butin serait-il dissimulé dans la pièce de sûreté, là où se sont réfugiées Meg et Sarah ?",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/oB6AF0y5ZuHMKRMaYTM25waqrAE.png"
+    },
+    {
+      "id": "tmdb:276907",
+      "type": "movie",
+      "name": "Legend",
+      "poster": "https://image.tmdb.org/t/p/w500/uFIBu8h4gFcbiGFrQVRbu03H1ku.jpg",
+      "background": "https://image.tmdb.org/t/p/original/v8zOcynvSd6IW3FzZrvst2HJ53s.jpg",
+      "year": "2015",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Brian Helgeland"
+      ],
+      "cast": [
+        "Tom Hardy",
+        "Emily Browning",
+        "Christopher Eccleston",
+        "David Thewlis",
+        "Taron Egerton",
+        "Chazz Palminteri"
+      ],
+      "description": "Londres, les années soixante. Les jumeaux Ronald et Reginald Kray à la tête du célèbre gang The Firm règnent en maîtres sur la ville. Legend nous fait découvrir les coulisses de l’ascension et la chute de ces deux grands noms du crime organisé, chute amorcée lorsque Frances, la femme de Reggie, incitera son mari à s’éloigner du business au grand désespoir de son frère.",
+      "runtime": "2h11",
+      "logo": "https://image.tmdb.org/t/p/w500/chGr6KUgn3nb11DZFBZ2RgfJq9O.png"
+    },
+    {
+      "id": "tmdb:499932",
+      "type": "movie",
+      "name": "Le Diable, tout le temps",
+      "poster": "https://image.tmdb.org/t/p/w500/2yWgc9c7qz2KO8Uy0SotutbLgT4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gWPz2ucZxzbnbTQCJHADDCcGi9o.jpg",
+      "year": "2020",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Antonio Campos"
+      ],
+      "cast": [
+        "Tom Holland",
+        "Robert Pattinson",
+        "Bill Skarsgård",
+        "Riley Keough",
+        "Jason Clarke",
+        "Sebastian Stan"
+      ],
+      "description": "Knockemstiff, Ohio. Face à sa femme mourante, un homme désespéré, Willard Russell, tente le tout pour le tout. Il se tourne vers la religion. Ses prières vont petit à petit s'apparenter à des sacrifices dont Arvin, le fils du couple, pourrait être l'offrande ultime.",
+      "runtime": "2h18",
+      "logo": "https://image.tmdb.org/t/p/w500/mcaS1ik3Pqr4R2e5qqaZnNPXJGP.png"
+    },
+    {
+      "id": "tmdb:504",
+      "type": "movie",
+      "name": "Monster",
+      "poster": "https://image.tmdb.org/t/p/w500/k8mazEQ935PbqbqRP7eBGssN3g9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nUJk4UjWS9YvBJUepCWziQ1QYSf.jpg",
+      "year": "2003",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Patty Jenkins"
+      ],
+      "cast": [
+        "Charlize Theron",
+        "Christina Ricci",
+        "Bruce Dern",
+        "Lee Tergesen",
+        "Annie Corley",
+        "Pruitt Taylor Vince"
+      ],
+      "description": "Depuis déjà longtemps, Aileen erre sans but et survit en se prostituant. Lorsqu'un soir, le moral au plus bas, elle rencontre dans un bar la jeune Selby, c'est le coup de foudre. Pour protéger leur amour et leur permettre de subsister, Aileen continue de se vendre jusqu'à cette nuit où, agressée par un de ses clients, elle le tue. Ce premier crime marque le déclenchement d'un terrible engrenage...",
+      "runtime": "1h49",
+      "logo": "https://image.tmdb.org/t/p/w500/sm0ISgGDeLlNF8DUdXLPDSZcG73.png"
+    },
+    {
+      "id": "tmdb:483",
+      "type": "movie",
+      "name": "Sailor et Lula",
+      "poster": "https://image.tmdb.org/t/p/w500/uvfZtoos9bbSKaLDUnCE2O73kkZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
+      "year": "1990",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Romance"
+      ],
+      "director": [
+        "David Lynch"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Laura Dern",
+        "Willem Dafoe",
+        "Diane Ladd",
+        "Harry Dean Stanton",
+        "J.E. Freeman"
+      ],
+      "description": "Sailor et Lula, deux jeunes amoureux, fuient Marietta, la mère de la jeune fille qui s’oppose à leurs amours, ainsi que toute une série de personnages dangereux et mystérieux qui les menacent. L’amour triomphera‐t‐il de la violence qui les entoure ?",
+      "runtime": "2h07",
+      "logo": "https://image.tmdb.org/t/p/w500/3QmAorQlBnAdp2mfp9uPxdV8exv.png"
+    },
+    {
+      "id": "tmdb:799876",
+      "type": "movie",
+      "name": "The Outfit",
+      "poster": "https://image.tmdb.org/t/p/w500/zbGN4QBrKoT3HO7etj4FvlM3OZb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jjXnYpRQMqzylAmYqKL7VFa3l9w.jpg",
+      "year": "2022",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller",
+        "Mystère"
+      ],
+      "director": [
+        "Graham Moore"
+      ],
+      "cast": [
+        "Mark Rylance",
+        "Zoey Deutch",
+        "Johnny Flynn",
+        "Dylan O'Brien",
+        "Simon Russell Beale",
+        "Nikki Amuka-Bird"
+      ],
+      "description": "1956. Ancien tailleur dans le célèbre quartier de Savile Row à Londres, Leonard Burling a quitté son pays pour s'installer en Amérique. À Chicago, il tient aujourd'hui une petite boutique de costumes, dans un quartier défavorisé. Malheureusement pour lui, la plupart de ses clients sont des gangsters de l’Outfit et de la mafia irlandaise dirigée par Roy Boyle. Le bras droit de Roy est son fils Richie. Ce dernier fréquente par ailleurs Mable, la réceptionniste de Leonard. Le tailleur anglais va se retrouver impliqué dans les activités des mafieux.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/qBosqerBjMgHKE9pH4vxgri7ZG1.png"
+    },
+    {
+      "id": "tmdb:9905",
+      "type": "movie",
+      "name": "Petits meurtres entre amis",
+      "poster": "https://image.tmdb.org/t/p/w500/7cYsaSkgAZnXgxgUXro5vGRSPh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qPm2JWGq3LnoTmfbi8flzJRImbc.jpg",
+      "year": "1994",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Danny Boyle"
+      ],
+      "cast": [
+        "Kerry Fox",
+        "Christopher Eccleston",
+        "Ewan McGregor",
+        "Ken Stott",
+        "Keith Allen",
+        "Colin McCredie"
+      ],
+      "description": "À la recherche du colocataire idéal, 3 amis font passer un examen d'entrée très strict à bon nombre de postulants jusqu'à ce qu'ils découvrent la perle rare en la personne de Hugo. Celui-ci se révèle tellement discret qu'il meurt en silence, enfermé dans sa chambre, quelques heures seulement après avoir emménagé. Avec le corps se trouve une valise pleine de billets qui va rapidement avoir raison d'une longue amitié.",
+      "runtime": "1h35",
+      "logo": "https://image.tmdb.org/t/p/w500/va4gVEKyBnFN0ItsxNdOWD4iaTY.png"
+    },
+    {
+      "id": "tmdb:591222",
+      "type": "movie",
+      "name": "Limbo",
+      "poster": "https://image.tmdb.org/t/p/w500/z8ZgT1bDb2KG9AmeT9zNKkADrzC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cPq0qrpFFbhYPGXBuVGH0DFk9sb.jpg",
+      "year": "2021",
+      "imdbRating": "3.7",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Soi Cheang"
+      ],
+      "cast": [
+        "林家棟",
+        "劉雅瑟",
+        "Mason Lee",
+        "池内博之",
+        "沈震軒",
+        "Fish Liew"
+      ],
+      "description": "Dans les bas-fonds de Hong-Kong, un flic vétéran et son jeune supérieur doivent faire équipe pour arrêter un tueur qui s’attaque aux femmes, laissant leur main coupée pour seule signature. Quand toutes leurs pistes s’essoufflent, ils décident d’utiliser une jeune délinquante comme appât.",
+      "runtime": "1h58"
+    },
+    {
+      "id": "tmdb:75780",
+      "type": "movie",
+      "name": "Jack Reacher",
+      "poster": "https://image.tmdb.org/t/p/w500/yx9jmcMWMfO0gJfpmmKR0u016VQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2v3pC01rf0uXnECOM94pjfqk1TY.jpg",
+      "year": "2012",
+      "imdbRating": "3.6",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller",
+        "Action"
+      ],
+      "director": [
+        "Christopher McQuarrie"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Rosamund Pike",
+        "Richard Jenkins",
+        "David Oyelowo",
+        "Werner Herzog",
+        "Jai Courtney"
+      ],
+      "description": "Lentement, méticuleusement, un sniper armé d’un fusil à lunettes repère ses victimes au sein de la foule affairée d’une grande ville. Il tire six fois, abat cinq personnes. Arrêté, interrogé, apparemment clairement responsable du carnage, l’homme n’avoue pas. Il ne prononce qu’une seule phrase lors de son interrogatoire: «Trouvez Jack Reacher». Et Reacher, justement, est perturbé par cette affaire dont la résolution lui semble trop simple. Il connaît le tireur, un militaire surentraîné, et sait que jamais, il n’aurait raté une de ses cibles. Avec l’aide d’une avocate, Helen Rodin, Reacher va mettre le nez dans un imbroglio aux allures de complot explosif…",
+      "runtime": "2h11",
+      "logo": "https://image.tmdb.org/t/p/w500/tJIcPoFv8J7g7gVOQIW0uC6B2h7.png"
+    },
+    {
+      "id": "tmdb:637649",
+      "type": "movie",
+      "name": "Un Homme en colère",
+      "poster": "https://image.tmdb.org/t/p/w500/pl2fI638OfSn12NFqHBoDTmfvEP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+      "year": "2021",
+      "imdbRating": "3.6",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Jason Statham",
+        "Holt McCallany",
+        "Rocci Williams",
+        "Josh Hartnett",
+        "Jeffrey Donovan",
+        "Scott Eastwood"
+      ],
+      "description": "Un convoyeur de fond, fraîchement engagé, surprend ses collègues par l’incroyable précision de ses tirs de riposte, alors qu’ils subissent les assauts de braqueurs expérimentés. Tous se demandent désormais qui il est, d’où il vient et pourquoi il est là.",
+      "runtime": "1h59",
+      "logo": "https://image.tmdb.org/t/p/w500/1p3NgkaajcYq32BRagcBdhie3aM.png"
+    },
+    {
+      "id": "tmdb:90",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills",
+      "poster": "https://image.tmdb.org/t/p/w500/wL8sSSJy4fYlIODtEmVgsx8qYOA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+      "year": "1984",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Martin Brest"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "John Ashton",
+        "Lisa Eilbacher",
+        "Ronny Cox",
+        "Steven Berkoff"
+      ],
+      "description": "Axel Foley, ancien voyou, est maintenant un des flics les plus efficaces de Detroit. Et même si ses méthodes sont loin d'être traditionnelles, ses supérieurs sont bien obligés de reconnaître ses qualités. Axel retrouve un ami d’enfance, mais celui-ci est assassiné le jour de leurs retrouvailles. L'enquête lui étant refusée, Axel prend ses congés et se lance à la poursuite du meurtrier. Le petit flic de Detroit se retrouve à Beverly Hills, entraîné dans le milieu des dealers et des truands…",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/aHhSSurjIT7F2c4T1Z87JuGjRpE.png"
+    },
+    {
+      "id": "tmdb:241",
+      "type": "movie",
+      "name": "Tueurs nés",
+      "poster": "https://image.tmdb.org/t/p/w500/4gvUftBY7aGT9RJemjOfqua1V9D.jpg",
+      "background": "https://image.tmdb.org/t/p/original/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+      "year": "1994",
+      "imdbRating": "3.6",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drame"
+      ],
+      "director": [
+        "Oliver Stone"
+      ],
+      "cast": [
+        "Woody Harrelson",
+        "Juliette Lewis",
+        "Robert Downey Jr.",
+        "Tommy Lee Jones",
+        "Tom Sizemore",
+        "Rodney Dangerfield"
+      ],
+      "description": "Mickey et Mallory Knox, un jeune couple, décident de s’embarquer dans une virée sanglante, tuant les gens qu’ils rencontrent sur leur route, eux qui ont été victimes de mauvais traitements de la part de leurs parents respectifs. Leur déchéance à travers les États-Unis est détaillée dans les médias.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/4p33iacgtBsC6On6c0XhFL59FSk.png"
+    },
+    {
+      "id": "tmdb:398173",
+      "type": "movie",
+      "name": "The House That Jack Built",
+      "poster": "https://image.tmdb.org/t/p/w500/phAw0knIPujeRP9TExz8aqMbigK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1UAjYFLLQYOzFd0Ud6YQq2HoubU.jpg",
+      "year": "2018",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Horreur",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Lars von Trier"
+      ],
+      "cast": [
+        "Matt Dillon",
+        "Bruno Ganz",
+        "Uma Thurman",
+        "Siobhan Fallon Hogan",
+        "Sofie Gråbøl",
+        "Riley Keough"
+      ],
+      "description": "États-Unis, années 70. Nous suivons le très brillant Jack à travers cinq incidents et découvrons les meurtres qui vont marquer son parcours de tueur en série. L’histoire est vécue du point de vue de Jack. Il considère chaque meurtre comme une œuvre d’art en soi. Alors que l’ultime et inévitable intervention de la police ne cesse de se rapprocher (ce qui exaspère Jack et lui met la pression) il décide — contrairement à toute logique — de prendre de plus en plus de risques. Tout au long du film, nous découvrons les descriptions de Jack sur sa situation personnelle, ses problèmes et ses pensées à travers sa conversation avec un inconnu, Verge. Un mélange grotesque de sophismes, d’apitoiement presque enfantin sur soi et d'explications détaillées sur les manœuvres dangereuses et difficiles de Jack.",
+      "runtime": "2h35",
+      "logo": "https://image.tmdb.org/t/p/w500/rkOnKVUTZChFAqkBfjAztidSxCb.png"
+    },
+    {
+      "id": "tmdb:7270",
+      "type": "movie",
+      "name": "Les Associés",
+      "poster": "https://image.tmdb.org/t/p/w500/gFR0zFKluQ032TUAJTmpzfv44Za.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7HiMvoDSYW4fyu4rkmWH6pcKKuF.jpg",
+      "year": "2003",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Sam Rockwell",
+        "Alison Lohman",
+        "Bruce Altman",
+        "Bruce McGill",
+        "Jenny O'Hara"
+      ],
+      "description": "Deux professionnels de l'arnaque à la petite semaine - Roy, le vétéran du tandem, et Franck, son jeune et ambitieux émule - fourguent à des coûts prohibitifs des «systèmes de filtrage d'eau» bas de gamme, assortis de lots alléchants: voitures, bijoux ou croisières tropicales, que leurs victimes ne collecteront bien sûr jamais. Ces opérations sont juteuses, mais la vie privée de Roy est moins reluisante. Agoraphobe et sujet à des tics obsessionnels compulsifs, il consulte un psy pour continuer à fonctionner. C'est alors qu'il découvre avec horreur qu'il a une fille - une enfant dont il soupçonnait l'existence, mais qu'il n'avait jamais cherché à rencontrer. Pis, Angela, 14 ans, n'a qu'une envie: retrouver son père. L'arrivée impromptue de l'adolescente bouleverse les routines névrotiques de Roy, mais passé le choc initial, celui-ci commence à prendre goût à sa tardive paternité…",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/kEOWY8kWu7M0ckFerpqh0EjDj4Y.png"
+    },
+    {
+      "id": "tmdb:281",
+      "type": "movie",
+      "name": "Strange Days",
+      "poster": "https://image.tmdb.org/t/p/w500/tI9ikzf6VOhgArBnF2lPcOUOB9Y.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zSFuvi6fIPT8CHpH1KMG25T2Iub.jpg",
+      "year": "1995",
+      "imdbRating": "3.6",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Science-Fiction",
+        "Thriller"
+      ],
+      "director": [
+        "Kathryn Bigelow"
+      ],
+      "cast": [
+        "Ralph Fiennes",
+        "Angela Bassett",
+        "Juliette Lewis",
+        "Tom Sizemore",
+        "Michael Wincott",
+        "Vincent D'Onofrio"
+      ],
+      "description": "Los Angeles 1999. Lenny Nero, flic déchu, mi-dandy, mi-gangster, s'est reconverti dans le trafic de vidéos très perfectionnées qui permettent de revivre n'importe quelle situation par procuration. Un jour, il découvre une vidéo révélant l'identité des meurtriers d'un leader noir.",
+      "runtime": "2h25",
+      "logo": "https://image.tmdb.org/t/p/w500/yN5mjlmiEAGvDuvad5nXy6Fyrxl.png"
+    },
+    {
+      "id": "tmdb:1426776",
+      "type": "movie",
+      "name": "À bout",
+      "poster": "https://image.tmdb.org/t/p/w500/v5Xsg4NGS4mJ3DpwuN5kUnZxhL3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
+      "year": "2025",
+      "imdbRating": "3.6",
+      "genres": [
+        "Thriller",
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Tyler Perry"
+      ],
+      "cast": [
+        "Taraji P. Henson",
+        "Sherri Shepherd",
+        "Teyana Taylor",
+        "Sinbad",
+        "Rockmond Dunbar",
+        "Ashley Versher"
+      ],
+      "description": "Quel sera le coup de grâce ? Une journée affreusement pénible pousse une mère célibataire travailleuse vers le point de rupture... et un acte de désespoir choquant.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/uyAe9SQa19IaiD7BZX17EUXigar.png"
+    },
+    {
+      "id": "tmdb:460059",
+      "type": "movie",
+      "name": "Burn Out",
+      "poster": "https://image.tmdb.org/t/p/w500/fVWcI3ZwHgBjbz24jZerJjRALYN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/JYyQPEd22hldQLIaNLZI5oFvmM.jpg",
+      "year": "2018",
+      "imdbRating": "3.6",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Yann Gozlan"
+      ],
+      "cast": [
+        "François Civil",
+        "Olivier Rabourdin",
+        "Manon Azem",
+        "Samuel Jouy",
+        "Narcisse Mame",
+        "Sam Louwyck"
+      ],
+      "description": "Tête brûlée, accro aux sensations fortes, Tony ne vit que pour une seule chose: devenir pilote professionnel de moto superbike. Jusqu'au jour où il découvre que la mère de son fils est liée à la pègre manouche. Seule issue pour la sortir de cet engrenage: mettre ses talents au service des truands. Pilote de circuit le jour, go faster la nuit, Tony est plongé dans une spirale infernale qui le mène au bord de la rupture…",
+      "runtime": "1h43",
+      "logo": "https://image.tmdb.org/t/p/w500/8491y74XoXI9PFXLOr5icXrpsPl.png"
+    },
+    {
+      "id": "tmdb:959092",
+      "type": "movie",
+      "name": "Farang",
+      "poster": "https://image.tmdb.org/t/p/w500/asUBBPvil6L6A2uXpwdKmA7f21r.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dSbHiA9m62FhQxiSZoJmhzKlmZD.jpg",
+      "year": "2023",
+      "imdbRating": "3.6",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Xavier Gens"
+      ],
+      "cast": [
+        "Nassim Lyes",
+        "Loryn Nounay",
+        "Olivier Gourmet",
+        "วิทยา ปานศรีงาม",
+        "Mehdi Hadim",
+        "Kenneth Won"
+      ],
+      "description": "Sam, un détenu sans problème, se retrouve malgré lui mêlé à une rixe qui se termine mal lors de sa première sortie conditionnelle : son seul salut : la fuite ! 5 ans plus tard, il cherche à acheter un terrain pour finaliser sa nouvelle vie : femme, enfant, travail, tout lui sourit, mais lors de l'achat, à la dernière minute, il apprend que le terrain n'est plus disponible. Il finit par rencontrer le mystérieux acheteur, qui n'est autre que Narong, le parrain local, qui lui fait une offre...",
+      "runtime": "1h39",
+      "logo": "https://image.tmdb.org/t/p/w500/6dNyCQ3kVO5PSgQAm3sPmKFrqfg.png"
+    },
+    {
+      "id": "tmdb:59859",
+      "type": "movie",
+      "name": "Kick-Ass 2",
+      "poster": "https://image.tmdb.org/t/p/w500/mhL6H8td9dsT5LMS2koyTqcn94H.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dHBYguQvCDa00GMoidNYa7IOD8y.jpg",
+      "year": "2013",
+      "imdbRating": "3.5",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Crime"
+      ],
+      "director": [
+        "Jeff Wadlow"
+      ],
+      "cast": [
+        "Aaron Taylor-Johnson",
+        "Chloë Grace Moretz",
+        "Christopher Mintz-Plasse",
+        "Lyndsy Fonseca",
+        "Jim Carrey",
+        "Iain Glen"
+      ],
+      "description": "L’audace insensée de Kick‐Ass a inspiré une pléthore de vengeurs masqués autodidactes, le Colonel Stars & Stripes en tête, auxquels notre héros va s’allier pour patrouiller les rues de la ville et assurer la sécurité générale. Mais quand Red Mist, réincarné en Motherfucker, décide de s’attaquer à ces super‐héros amateurs, seuls les sabres acérés de Hit Girl sauront les sauver de la destruction.",
+      "runtime": "1h43",
+      "logo": "https://image.tmdb.org/t/p/w500/jpAo8Xro29KhSKThundneOjUoWQ.png"
+    },
+    {
+      "id": "tmdb:9654",
+      "type": "movie",
+      "name": "Braquage à l'italienne",
+      "poster": "https://image.tmdb.org/t/p/w500/cLkVnUWFwt39ikAojwdFuOwNTwH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/haIHcieOlTlyAUr9cWukqyK5SaU.jpg",
+      "year": "2003",
+      "imdbRating": "3.5",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "director": [
+        "F. Gary Gray"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Charlize Theron",
+        "Edward Norton",
+        "Jason Statham",
+        "Seth Green",
+        "Yasiin Bey"
+      ],
+      "description": "Le plan audacieux et sans défaut, le braquage exécuté de main de maître, la fuite à travers les canaux de Venise nette et sans bavure... Charlie Croker, son mentor John Bridger et leurs hommes n'auraient pas assez d'une vie pour savourer les fruits amplement mérités de ce casse historique. Mais la bande hébergeait à son insu un traître, qui ruina d'un coup tout ses espoirs: tombant le masque, Steve Frezelli abattit froidement Bridger et s'enfuit avec les lingots tout juste extraits d'un coffre vénitien. Le hold-up du siècle s'achevait dans le sang. Quelques mois plus tard, Charlie retrouve la piste de Frezelli en Californie et persuade Stella, la fille de Bridger experte en coffres-forts, de venger avec lui la mort de son père. La bande se recompose alors pour se réapproprier l'or de Venise et faire de Los Angeles le théâtre du plus gigantesque embouteillage de son histoire...",
+      "runtime": "1h51",
+      "logo": "https://image.tmdb.org/t/p/w500/d5iKIcztkVX9LQQVeJ5Isau0sLx.png"
+    },
+    {
+      "id": "tmdb:429200",
+      "type": "movie",
+      "name": "Good Time",
+      "poster": "https://image.tmdb.org/t/p/w500/z5MjEedICxrJNwP7GoAOialXEoe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+      "year": "2017",
+      "imdbRating": "3.5",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drame"
+      ],
+      "director": [
+        "Josh Safdie",
+        "Benny Safdie"
+      ],
+      "cast": [
+        "Robert Pattinson",
+        "Benny Safdie",
+        "Buddy Duress",
+        "Taliah Webster",
+        "Jennifer Jason Leigh",
+        "Barkhad Abdi"
+      ],
+      "description": "Un braquage qui tourne mal… Connie réussit à s'enfuir mais son frère Nick est arrêté.  Alors que Connie tente de réunir la caution pour libérer son frère, une autre option s'offre à lui : le faire évader. Commence alors dans les bas-fonds de New York, une longue nuit sous adrénaline.",
+      "runtime": "1h41",
+      "logo": "https://image.tmdb.org/t/p/w500/3STqJu7o7zM2Pgxh3MxpKI9pgAE.png"
+    },
+    {
+      "id": "tmdb:164457",
+      "type": "movie",
+      "name": "Les Brasiers de la colère",
+      "poster": "https://image.tmdb.org/t/p/w500/u8KvAK01cgyDdTuSOYW1fqyurw1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/knK1NdE8fezJsOv3ZPzZdLnndla.jpg",
+      "year": "2013",
+      "imdbRating": "3.5",
+      "genres": [
+        "Thriller",
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Scott Cooper"
+      ],
+      "cast": [
+        "Christian Bale",
+        "Zoe Saldaña",
+        "Woody Harrelson",
+        "Sam Shepard",
+        "Willem Dafoe",
+        "Forest Whitaker"
+      ],
+      "description": "Russell sort de prison, après 4 ans passés derrière les barreaux. Il se lance à la recherche de son jeune frère, porté disparu. Depuis son retour d'Irak, celui-ci s'était retrouvé mêlé aux agissements d'un redoutable gang...",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/c58Kb9GmnVPnpWD35NJKVPmCgY2.png"
+    },
+    {
+      "id": "tmdb:245916",
+      "type": "movie",
+      "name": "Secret d'état",
+      "poster": "https://image.tmdb.org/t/p/w500/qAXyXJ7ywrzzw183F1430V8hGFa.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hYVAvYJXE4taTIh2y6F5mGJWfPm.jpg",
+      "year": "2014",
+      "imdbRating": "3.5",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère",
+        "Thriller",
+        "Histoire"
+      ],
+      "director": [
+        "Michael Cuesta"
+      ],
+      "cast": [
+        "Jeremy Renner",
+        "Mary Elizabeth Winstead",
+        "Michael Sheen",
+        "Ray Liotta",
+        "Robert Patrick",
+        "Andy García"
+      ],
+      "description": "L’histoire vraie du journaliste Gary Webb, lauréat du Prix Pullitzer, qui a révélé l’implication de la CIA dans le trafic de drogue organisé par des rebelles du Nicaragua vers la Californie, dans les années 80.",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/sBBlxLzwsgOUEmovSHM4xiqcNML.png"
+    },
+    {
+      "id": "tmdb:19092",
+      "type": "movie",
+      "name": "Above the Rim",
+      "poster": "https://image.tmdb.org/t/p/w500/q7CCx8aj8uME1fBa4KzTMdeWxXu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vEBGkO0D8Feh7jpwZGZ4UqEZZxQ.jpg",
+      "year": "1994",
+      "imdbRating": "3.5",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Jeff Pollack"
+      ],
+      "cast": [
+        "Duane Martin",
+        "Tupac Shakur",
+        "Bernie Mac",
+        "Marlon Wayans",
+        "Leon",
+        "Wood Harris"
+      ],
+      "description": "Shep, ancienne star de basketball, est devenu agent de sécurité dans une \"High School\" de Harlem. Cette star déchue vit avec l'angoisse de son passé et refuse tout contact avec la balle orange. Jusqu'au jour où il remarque Kyle, un jeune prodige du club de basket de l'école, pris au piège des gangs, de la drogue et du crime. Shep va alors aider Kyle à réaliser son rêve : accéder à la NBA mais par la seule loi du sport.",
+      "runtime": "1h36",
+      "logo": "https://image.tmdb.org/t/p/w500/2t99Jfr9fLOofqPOvUL3TlNiYuh.png"
+    },
+    {
+      "id": "tmdb:8065",
+      "type": "movie",
+      "name": "Las Vegas 21",
+      "poster": "https://image.tmdb.org/t/p/w500/6sQZmYAPiDXuMCBvtU8UuChhxrg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/u6OCGwhSWhfQX1LZ4NTq0bfcWxs.jpg",
+      "year": "2008",
+      "imdbRating": "3.4",
+      "genres": [
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Robert Luketic"
+      ],
+      "cast": [
+        "Jim Sturgess",
+        "Kevin Spacey",
+        "Kate Bosworth",
+        "Aaron Yoo",
+        "Liza Lapira",
+        "Jacob Pitts"
+      ],
+      "description": "Ben Campbell, étudiant doué au prestigieux M.I.T., est contraint de partager son temps entre ses études et petits boulots afin de pouvoir payer ses frais de scolarité. Lorsqu'un groupe d'élèves aussi doués que lui le repère, ils lui proposent de participer à un jeu bien plus lucratif. Tous les week-ends, cette petite bande de mathématiciens hors pair se rend à Las Vegas pour jouer au blackjack sous de fausses identités, avec des règles qui ne doivent plus rien au hasard. Guidés par le professeur et génie des statistiques Micky Rosa, ils ont compris comment prévoir les cartes et communiquer entre eux pour rafler de très grosses mises. Séduit par l'argent facile, la vie de rêve et Jill, sa très belle équipière, Ben multiplie les défis. Les risques augmentent pourtant rapidement avec les mises, et les cartes ne restent pas longtemps son seul adversaire : il doit désormais se méfier de Cole Williams, le plus terrifiant des hommes de main des casinos.",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/7XQDpoXbEgRuftW1Kp1N5mOJvc9.png"
+    },
+    {
+      "id": "tmdb:9533",
+      "type": "movie",
+      "name": "Dragon rouge",
+      "poster": "https://image.tmdb.org/t/p/w500/rGNHLRWTsoaGScN1j5k3apXzEsr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7c65xpnYlea6VITznLLRS9cTuwS.jpg",
+      "year": "2002",
+      "imdbRating": "3.4",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Horreur"
+      ],
+      "director": [
+        "Brett Ratner"
+      ],
+      "cast": [
+        "Edward Norton",
+        "Anthony Hopkins",
+        "Ralph Fiennes",
+        "Emily Watson",
+        "Harvey Keitel",
+        "Philip Seymour Hoffman"
+      ],
+      "description": "Trois ans après avoir arrêté le docteur Hannibal Lecter, Will Graham vit paisiblement avec sa femme et son fils en Floride. Les blessures physiques que lui a infligées ce dangereux criminel ont disparu, mais il garde encore quelques séquelles psychologiques de sa rencontre avec lui. Cette mauvaise expérience l’a amené à se retirer du FBI. Un jour, son ancien patron vient lui rendre visite. Il a besoin de son aide pour traquer un tueur en série connu sous le nom de «la petite souris». Ce dernier a déjà massacré deux familles durant des nuits de pleine lune. Le FBI ne dispose que de quelques jours avant qu’il ne frappe à nouveau. Will ne se sent pas prêt à reprendre du service, mais a‐t‐il réellement le choix ? Afin de comprendre les motivations de ce tueur, il se voit contraint de demander l’aide du docteur Lecter, qui se trouve au centre de détention psychiatrique de Baltimore.",
+      "runtime": "2h04",
+      "logo": "https://image.tmdb.org/t/p/w500/mZJgXFGBiUWnI2mL2LeOcEl2RB3.png"
+    },
+    {
+      "id": "tmdb:18533",
+      "type": "movie",
+      "name": "Bronson",
+      "poster": "https://image.tmdb.org/t/p/w500/6NF2do8CeQzaNQVpJ993Ek9EP8X.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uc8FwdCQi3eD7JIbyiZuzo5n6Jv.jpg",
+      "year": "2009",
+      "imdbRating": "3.4",
+      "genres": [
+        "Drame",
+        "Action",
+        "Crime"
+      ],
+      "director": [
+        "Nicolas Winding Refn"
+      ],
+      "cast": [
+        "Tom Hardy",
+        "Matt King",
+        "James Lance",
+        "Kelly Adams",
+        "Katy Barker",
+        "Amanda Burton"
+      ],
+      "description": "1974. Livré à lui-même, Michael Peterson, 19 ans, cherche à faire la Une des journaux: rêvant de devenir célèbre, il tente de braquer un bureau de poste avec un fusil à canon scié qu'il a lui-même bricolé. Rapidement interpelé, il est d'abord condamné à 7 ans de prison. À ce jour, il a passé 34 années en prison, dont 30 en isolement cellulaire. La métamorphose de Mickey Peterson en Charles Bronson, devenu le détenu le plus dangereux d'Angleterre.",
+      "runtime": "1h22",
+      "logo": "https://image.tmdb.org/t/p/w500/9OnwqKmn6iTcq4MXUlowXvBF1lI.png"
+    },
+    {
+      "id": "tmdb:244458",
+      "type": "movie",
+      "name": "The Voices",
+      "poster": "https://image.tmdb.org/t/p/w500/xGmZksEsxwP4urFNFDsRa05FWQb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/d5tcsjdLw3uxBd318EIcTn9e35X.jpg",
+      "year": "2014",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Horreur"
+      ],
+      "director": [
+        "Marjane Satrapi"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Gemma Arterton",
+        "Anna Kendrick",
+        "Jacki Weaver",
+        "Ella Smith",
+        "Paul Chahidi"
+      ],
+      "description": "Jerry vit à Milton, petite ville américaine bien tranquille où il travaille dans une usine de baignoires. Célibataire, il n’est pas solitaire pour autant dans la mesure où il s’entend très bien avec son chat, M. Moustache, et son chien, Bosco. Jerry voit régulièrement sa psy, aussi charmante que compréhensive, à qui il révèle un jour qu’il apprécie de plus en plus Fiona - la délicieuse Anglaise qui travaille à la comptabilité de l’usine. Bref, tout se passe bien dans sa vie plutôt ordinaire - du moins tant qu’il n’oublie pas de prendre ses médicaments...",
+      "runtime": "1h41",
+      "logo": "https://image.tmdb.org/t/p/w500/76KjqO4s9eqVHqHcadbTwMn1oYb.png"
+    },
+    {
+      "id": "tmdb:646097",
+      "type": "movie",
+      "name": "Rebel Ridge",
+      "poster": "https://image.tmdb.org/t/p/w500/8fQFQRgkF3wDw2L2uVakSOlvvwj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cyKH7pDFlxIXluqRyNoHHEpxSDX.jpg",
+      "year": "2024",
+      "imdbRating": "3.4",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Jeremy Saulnier"
+      ],
+      "cast": [
+        "Aaron Pierre",
+        "Don Johnson",
+        "AnnaSophia Robb",
+        "Emory Cohen",
+        "David Denman",
+        "Oscar Gale"
+      ],
+      "description": "Un ex-Marine s'attaque à la corruption dans une petite ville des États-Unis quand la police saisit injustement le sac contenant l'argent prévu pour payer la caution de son cousin.",
+      "runtime": "2h12",
+      "logo": "https://image.tmdb.org/t/p/w500/hkaOa76w0S5zsgjPiomUWzwjyYC.png"
+    },
+    {
+      "id": "tmdb:163",
+      "type": "movie",
+      "name": "Ocean's Twelve",
+      "poster": "https://image.tmdb.org/t/p/w500/x2lepGLOFv6XijMVl0mFpIs16AG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+      "year": "2004",
+      "imdbRating": "3.3",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Steven Soderbergh"
+      ],
+      "cast": [
+        "George Clooney",
+        "Julia Roberts",
+        "Brad Pitt",
+        "Matt Damon",
+        "Catherine Zeta-Jones",
+        "Andy García"
+      ],
+      "description": "Trois ans ont passé depuis le braquage historique du casino Bellagio de Las Vegas. Depuis, Danny Ocean et ses associés se sont dispersés dans la nature avec l'intention de mener une existence honnête. Remarié à Tess, ce dernier joue profil bas jusqu'au jour où Terry Benedict retrouve sa trace. Le propriétaire du Bellagio n'y va pas par quatre chemins: la bande doit, sous peine de mort, lui restituer le magot. Et ce n'est qu'un début, car quelqu'un d'autre s'intéresse de très près aux agissements de la bande des Onze...",
+      "runtime": "2h05",
+      "logo": "https://image.tmdb.org/t/p/w500/v1qYNUmp8UUgotsFPP0X64XTJVl.png"
+    },
+    {
+      "id": "tmdb:134374",
+      "type": "movie",
+      "name": "No Pain No Gain",
+      "poster": "https://image.tmdb.org/t/p/w500/dQ3rccFoj2asMRyOYJE3wUduxfv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/86rDAqR5oDu29qZTGyk88VdB2lI.jpg",
+      "year": "2013",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Michael Bay"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Dwayne Johnson",
+        "Anthony Mackie",
+        "Tony Shalhoub",
+        "Ed Harris",
+        "Rob Corddry"
+      ],
+      "description": "Basé sur une histoire vraie et inspiré d'articles de presse parus dans le Miami New Times, Pain and gain suit les aventures criminelles du \"Sun Gym gang\". Composé de bodybuilders dopés aux anabolisants, le gang s'est rendu célèbre au milieu des années 90 par ses multiples vols, enlèvements et meurtres.",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/98OP8DUkr4gQiKG0QmmLa32WVFl.png"
+    },
+    {
+      "id": "tmdb:1574",
+      "type": "movie",
+      "name": "Chicago",
+      "poster": "https://image.tmdb.org/t/p/w500/cNNOgpMwFxq24Xd3ktW37irImAN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/euxYhuuJjChU755u2YHj0ZPjww3.jpg",
+      "year": "2002",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Rob Marshall"
+      ],
+      "cast": [
+        "Renée Zellweger",
+        "Catherine Zeta-Jones",
+        "Richard Gere",
+        "Queen Latifah",
+        "Ekaterina Chtchelkanova",
+        "John C. Reilly"
+      ],
+      "description": "À Chicago, dans les années vingt, Roxie Hart, une jeune femme qui rêve de monter sur la scène de l'Onyx Club, est accusée du meurtre de son amant indélicat et envoyée en prison. Derrière les barreaux, elle retrouve celle qu'elle admire, Velma Kelly, une chanteuse de jazz condamnée pour avoir tué son mari et sa sœur, pris en flagrant délit d'adultère. Le très populaire avocat Billy Flynn va brillamment plaider leur cause et attirer l'attention des médias sur ces deux jeunes femmes à la superbe voix. Roxie, dont Billy a fait l'emblème de la naïveté abusée, devient en quelque temps une véritable star à Chicago…",
+      "runtime": "1h53",
+      "logo": "https://image.tmdb.org/t/p/w500/8OhuUTodb1f3NlL5xSNqVTimyjm.png"
+    },
+    {
+      "id": "tmdb:800158",
+      "type": "movie",
+      "name": "The Killer",
+      "poster": "https://image.tmdb.org/t/p/w500/8L1UfKriUAdz0uJVTpQxdEuBWe4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zEqfkiyWZILZKy2M1lgeGmIRzYR.jpg",
+      "year": "2023",
+      "imdbRating": "3.3",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "David Fincher"
+      ],
+      "cast": [
+        "Michael Fassbender",
+        "Tilda Swinton",
+        "Charles Parnell",
+        "Arliss Howard",
+        "Kerry O'Malley",
+        "Sophie Charlotte"
+      ],
+      "description": "Après un désastre évité de justesse, un tueur se bat contre ses employeurs et lui-même, dans une mission punitive à travers le monde qui n'a soi-disant rien de personnel.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/e7JZGCetc90anghzWiOfrK3kfDS.png"
+    },
+    {
+      "id": "tmdb:184346",
+      "type": "movie",
+      "name": "Délivre-nous du mal",
+      "poster": "https://image.tmdb.org/t/p/w500/4APJrITmxSY4EmjsTIHWhERFQt0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/JFQJDXEHnZmfJC1sWNbIrz0WS7.jpg",
+      "year": "2014",
+      "imdbRating": "3.3",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Horreur"
+      ],
+      "director": [
+        "Scott Derrickson"
+      ],
+      "cast": [
+        "Eric Bana",
+        "Olivia Munn",
+        "Edgar Ramírez",
+        "Joel McHale",
+        "Sean Harris",
+        "Chris Coy"
+      ],
+      "description": "La violence et la noirceur, le sergent Ralph Sarchie connaît bien. Flic dans le Bronx, il est chaque jour témoin du pire de la nature humaine. Ce qu’il endure a même fini par affecter sa relation avec sa femme, Jen, et leur petite fille, Christina. Pourtant, rien ne l’avait préparé à l’affaire que lui et son partenaire Butler vont découvrir. Dépassé, Sarchie va devoir s’allier à un prêtre renégat dont la foi a souvent vacillé, qui tente de le convaincre que les horribles événements qui se multiplient sont liés à des possessions démoniaques… Ensemble, le policier et le prêtre accumulent les preuves que le Mal est à l’œuvre, et Sarchie est forcé de remettre en cause tout ce en quoi il a toujours cru pour combattre les puissances occultes qui menacent la ville et sa famille…",
+      "runtime": "1h59",
+      "logo": "https://image.tmdb.org/t/p/w500/6H078wYj598hJYhDWlQ6vx97RfO.png"
+    },
+    {
+      "id": "tmdb:259695",
+      "type": "movie",
+      "name": "Live by Night",
+      "poster": "https://image.tmdb.org/t/p/w500/9KaBEDk3lOVn7qWeGUJXciQ2hhL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vClMoGPBTt2mh1NFthtBCZlwO2r.jpg",
+      "year": "2016",
+      "imdbRating": "3.3",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Ben Affleck"
+      ],
+      "cast": [
+        "Ben Affleck",
+        "Elle Fanning",
+        "Brendan Gleeson",
+        "Chris Messina",
+        "Sienna Miller",
+        "Zoe Saldaña"
+      ],
+      "description": "Hors-la-loi auto-proclamé, Joe Coughlin n'est pas exactement comme les gangsters pour lesquels il refuse de travailler : il a le sens de la justice et de l'honnêteté. Bien décidé à se venger des injustices dont il a été victime, il s'aventure sur un chemin risqué. Joe et son gang quittent Boston pour s'imposer au sein de la mafia de Floride. Et bien que la vengeance soit plus attirante que les bars illégaux dont il est propriétaire, il apprend vite qu'elle a un prix.",
+      "runtime": "2h09",
+      "logo": "https://image.tmdb.org/t/p/w500/oyrCrFpwQ0xSGA2vuI0sCkp4SiT.png"
+    },
+    {
+      "id": "tmdb:280180",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills : Axel F.",
+      "poster": "https://image.tmdb.org/t/p/w500/yr9vkWlXuysDeb5A7i82E6sPaab.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
+      "year": "2024",
+      "imdbRating": "3.3",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Mark Molloy"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Joseph Gordon-Levitt",
+        "Taylour Paige",
+        "Judge Reinhold",
+        "John Ashton",
+        "Paul Reiser"
+      ],
+      "description": "Quarante ans après sa première enquête mémorable à Beverly Hills, le flic de Détroit Axel Foley revient faire ce qu'il fait le mieux : résoudre les crimes et semer le chaos.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/gM0WvcLCcYW20GZnmvAERfrttag.png"
+    },
+    {
+      "id": "tmdb:256591",
+      "type": "movie",
+      "name": "Diversion",
+      "poster": "https://image.tmdb.org/t/p/w500/opGNFbQUyiod4FUx6vRrtsIIcpW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+      "year": "2015",
+      "imdbRating": "3.2",
+      "genres": [
+        "Romance",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Glenn Ficarra",
+        "John Requa"
+      ],
+      "cast": [
+        "Will Smith",
+        "Margot Robbie",
+        "Rodrigo Santoro",
+        "Gerald McRaney",
+        "Adrian Martinez",
+        "Robert Taylor"
+      ],
+      "description": "Nicky Spurgeon est un escroc “professionnel” à la tête d'une équipe de nombreux arnaqueurs et pickpockets. Un soir, il croise Jess Barrett, une arnaqueuse débutante. Nicky décide de l'intégrer pour un gros coup à La Nouvelle-Orléans. Trois ans plus tard, il la retrouve sur sa route à Buenos Aires...",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/gDWCm7PsWbOK4gJCbEv6SGJJV71.png"
+    },
+    {
+      "id": "tmdb:298",
+      "type": "movie",
+      "name": "Ocean's 13",
+      "poster": "https://image.tmdb.org/t/p/w500/73OQ7Qlkq6bpNJytnvQLpQs4boa.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gznaK2DnntjQKkK5Sp0OEkVYCp8.jpg",
+      "year": "2007",
+      "imdbRating": "3.2",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Steven Soderbergh"
+      ],
+      "cast": [
+        "George Clooney",
+        "Brad Pitt",
+        "Al Pacino",
+        "Matt Damon",
+        "Don Cheadle",
+        "Bernie Mac"
+      ],
+      "description": "Willy Bank n'aurait pas dû s'attaquer à un ami de Danny Ocean... Pour avoir trahi Reuben Tishkoff, Willy Bank, propriétaire sans scrupule d'un casino flambant neuf, va être sévèrement attaqué par toute l'équipe de Danny Ocean. Celle-ci n'aura plus qu'un objectif: infliger à Bank un châtiment exemplaire le soir de l'inauguration de son nouveau casino. Mais cette fois la chance ne leur suffira pas pour faire sauter The Bank...",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/xBnM8WcMJ5QYfhWDogr2G7x59A5.png"
+    },
+    {
+      "id": "tmdb:2757",
+      "type": "movie",
+      "name": "Adaptation.",
+      "poster": "https://image.tmdb.org/t/p/w500/ndlNK6qIQTCfalWuN4In1ZhHA0U.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mkjdussWOjts0Se6hEwfTQdwCv2.jpg",
+      "year": "2002",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Spike Jonze"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Meryl Streep",
+        "Chris Cooper",
+        "Tilda Swinton",
+        "Jay Tavare",
+        "Litefoot"
+      ],
+      "description": "Le scénariste Charlie Kaufman est rongé par le doute. Engagé pour adapter à l'écran un livre tiré de la vie de John Laroche, chasseur et trafiquant d'orchidées dans les Everglades, il est totalement bloqué. Comme Susan Orlean, la brillante journaliste new-yorkaise qui a rédigé le roman, Charlie est incapable de vivre une véritable histoire d'amour. Donald, son frère jumeau, aggrave la situation : non seulement, il réussit sans peine comme scénariste, mais il remporte également un franc succès auprès des femmes, ce qui n'est pas le cas de Charlie. Un jour, ce dernier croit avoir trouvé une solution : il va utiliser ses problèmes personnels comme base d'un scénario sur Laroche et Susan Orlean. Mais alors que l'inspiration vient et que l'histoire prend forme, Charlie va déclencher une série d'évènements qui vont bouleverser la vie de tous les protagonistes.",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/8eiiEK4CtjJnp7cCoutdE5CNEsO.png"
+    },
+    {
+      "id": "tmdb:974635",
+      "type": "movie",
+      "name": "Hit Man",
+      "poster": "https://image.tmdb.org/t/p/w500/e6iM3aeu0cx46Dry22WgU8aUDwq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nv6F6tz7r61DUhE7zgHwLJFcTYp.jpg",
+      "year": "2024",
+      "imdbRating": "3.2",
+      "genres": [
+        "Comédie",
+        "Romance",
+        "Crime"
+      ],
+      "director": [
+        "Richard Linklater"
+      ],
+      "cast": [
+        "Glen Powell",
+        "Adria Arjona",
+        "Austin Amelio",
+        "Retta",
+        "Sanjay Rao",
+        "Molly Bernard"
+      ],
+      "description": "Gary Johnson, policier à Houston, est en mission d'infiltration en se faisant passer pour un tueur à gages. Il rencontre alors une femme battue par son petit ami violent. Pour la secourir, il va devoir oublier toutes les procédures.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/AfgFS0ULYK5wAKZKX8zatxlNB5X.png"
+    },
+    {
+      "id": "tmdb:136797",
+      "type": "movie",
+      "name": "Need for Speed",
+      "poster": "https://image.tmdb.org/t/p/w500/kOaszlaotCGOu9BhFeeATnGkVMV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yII2mcnxUEPNAC9Urz0FvfS0P9f.jpg",
+      "year": "2014",
+      "imdbRating": "3.1",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Scott Waugh"
+      ],
+      "cast": [
+        "Aaron Paul",
+        "Dominic Cooper",
+        "Imogen Poots",
+        "Kid Cudi",
+        "Rami Malek",
+        "Ramón Rodríguez"
+      ],
+      "description": "À sa sortie de prison, un pilote clandestin trahi par son riche associé participe à une course à travers le pays et prépare sa revanche. Ayant eu vent de ce projet, le traître promet, dès le début de la course, une prime énorme à qui l'empêchera d'aller plus loin.",
+      "runtime": "2h05",
+      "logo": "https://image.tmdb.org/t/p/w500/vD7Bf5xF32b8DL83JnGZ82l8zc2.svg"
+    },
+    {
+      "id": "tmdb:96",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills 2",
+      "poster": "https://image.tmdb.org/t/p/w500/A4yhgMSb0TuyWhUxbW2SvFXzrC4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bIA65PCRtIQfBvIoKohJbtOPl3M.jpg",
+      "year": "1987",
+      "imdbRating": "3.1",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Tony Scott"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "John Ashton",
+        "Jürgen Prochnow",
+        "Ronny Cox",
+        "Brigitte Nielsen"
+      ],
+      "description": "Axel Foley est de retour à Beverly Hills. Cette fois, il vient prêter main forte à ses collègues et amis pour résoudre une affaire de vol de bijoux.",
+      "runtime": "1h43",
+      "logo": "https://image.tmdb.org/t/p/w500/bxHr3Q0ajkiRMjeq47tSw7IQRtF.png"
+    },
+    {
+      "id": "tmdb:396461",
+      "type": "movie",
+      "name": "Under the Silver Lake",
+      "poster": "https://image.tmdb.org/t/p/w500/jhi3jKu5biq5MpnaMzeM5QcfEf1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dR64XOEucCT2nEg47DeEaeMaD9F.jpg",
+      "year": "2018",
+      "imdbRating": "3.1",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "David Robert Mitchell"
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Riley Keough",
+        "Topher Grace",
+        "Callie Hernandez",
+        "Don McManus",
+        "Jeremy Bobb"
+      ],
+      "description": "À Los Angeles, Sam, 33 ans, sans emploi, rêve de célébrité. Lorsque Sarah, une jeune et énigmatique voisine, se volatilise brusquement, Sam se lance à sa recherche et entreprend alors une enquête obsessionnelle surréaliste à travers la ville. Elle le fera plonger jusque dans les profondeurs les plus ténébreuses de la Cité des Anges, où il devra élucider disparitions et meurtres mystérieux sur fond de scandales et de conspirations.",
+      "runtime": "2h19",
+      "logo": "https://image.tmdb.org/t/p/w500/fggA1H1dkkhHY4SdYvqfNuc9esn.png"
+    },
+    {
+      "id": "tmdb:877817",
+      "type": "movie",
+      "name": "Wolfs",
+      "poster": "https://image.tmdb.org/t/p/w500/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uXDwP5qPhuRyPpQ7WkLbE6t2z5W.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Crime",
+        "Comédie",
+        "Action"
+      ],
+      "director": [
+        "Jon Watts"
+      ],
+      "cast": [
+        "George Clooney",
+        "Brad Pitt",
+        "Austin Abrams",
+        "Amy Ryan",
+        "Poorna Jagannathan",
+        "Zlatko Burić"
+      ],
+      "description": "Les chemins de deux fixeurs rivaux se croisent quand ils sont chargés de couvrir le faux pas d'une haute fonctionnaire new-yorkaise. Au cours d'une nuit explosive, ils doivent mettre de côté leurs griefs (et leur ego) pour accomplir leur mission.",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/qQtmGtqfl3k7UrRGldOyvztcndO.png"
+    },
+    {
+      "id": "tmdb:1160018",
+      "type": "movie",
+      "name": "Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/xj4kJej7Bdfw6EjhEMESU3XY7JI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/m7gOuspedLcIZyQ5b40S7XMRChK.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Drame"
+      ],
+      "director": [
+        "Nikhil Nagesh Bhat"
+      ],
+      "cast": [
+        "Lakshya Lalwani",
+        "Raghav Juyal",
+        "Tanya Maniktala",
+        "Ashish Vidhyarthi",
+        "Abhishek Chauhan",
+        "Harsh Chhaya"
+      ],
+      "description": "Dans un train pour New Delhi, une bande de voleurs prend en otage les passagers, sans savoir qu’un homme bien plus redoutable qu’eux est à bord. Quand ils s’en prennent à la femme qu’il aime, Amrit, membre des forces spéciales, répond par une vengeance sans merci.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/kdry2LAkDhiGMKdfXZGwM9figRj.png"
+    },
+    {
+      "id": "tmdb:343611",
+      "type": "movie",
+      "name": "Jack Reacher : Never Go Back",
+      "poster": "https://image.tmdb.org/t/p/w500/yxvVAiTSfwDROzLEH8twDyWCmvb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
+      "year": "2016",
+      "imdbRating": "2.9",
+      "genres": [
+        "Action",
+        "Drame",
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Edward Zwick"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Cobie Smulders",
+        "Danika Yarosh",
+        "Aldis Hodge",
+        "Patrick Heusinger",
+        "Madalyn Horcher"
+      ],
+      "description": "Jack Reacher est de retour, prêt à tout pour obtenir justice. Susan Turner, qui dirige son ancienne unité, est arrêtée pour trahison : Jack Reacher ne reculera devant rien pour prouver l’innocence de la jeune femme. Ensemble, ils sont décidés à faire éclater la vérité sur ce complot d’État.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/dfygxEwEk35MvzShA1amuFREssH.png"
+    },
+    {
+      "id": "tmdb:522931",
+      "type": "movie",
+      "name": "Hitman & Bodyguard 2",
+      "poster": "https://image.tmdb.org/t/p/w500/dFMu4ZfJf0tfgJkR0x3sRpeG0Rj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bjIPzixuWnOzxDG25WaXKuy9lYZ.jpg",
+      "year": "2021",
+      "imdbRating": "2.7",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Patrick Hughes"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Samuel L. Jackson",
+        "Salma Hayek Pinault",
+        "Antonio Banderas",
+        "Morgan Freeman",
+        "Frank Grillo"
+      ],
+      "description": "Michael Bryce, le célèbre garde du corps, a besoin de repos. Il décide d’entamer un \" voyage spirituel \" en Italie, loin des armes et de la violence. C’est à Capri que Sonia, la femme de Darius Kincaid, vient le chercher pour qu’il l’aide à libérer son mari des griffes de Carlo, un caïd mafieux. Michael accepte – à condition de ne toucher à aucune arme à feu… Ils infiltrent le QG de l’organisation criminelle, faisant échouer au passage une opération de surveillance des autorités, ce qui va leur attirer un autre genre d’ennuis… Le trio va vite se retrouver au cœur d’un chassé-croisé rempli de criminels et d’officiels qui ont tous d’excellentes raisons de leur en vouloir. Est-il vraiment possible de sauver sa peau et le monde sans tirer un seul coup de feu ?",
+      "runtime": "1h40",
+      "logo": "https://image.tmdb.org/t/p/w500/zAgXLOZiCTkmXahbzh3kxrCanzD.png"
+    },
+    {
+      "id": "tmdb:1248",
+      "type": "movie",
+      "name": "Hannibal Lecter : Les Origines du mal",
+      "poster": "https://image.tmdb.org/t/p/w500/dDhHJysEmDRoNRJM0WHfUloI8cS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/am6ZfhUTUmcjPjjA4GIkLEJ33TN.jpg",
+      "year": "2007",
+      "imdbRating": "2.7",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Horreur"
+      ],
+      "director": [
+        "Peter Webber"
+      ],
+      "cast": [
+        "Gaspard Ulliel",
+        "Aaran Thomas",
+        "巩俐",
+        "Dominic West",
+        "Rhys Ifans",
+        "Richard Brake"
+      ],
+      "description": "Comment un petit garçon comme les autres est‐il devenu l’un des criminels les plus fascinant qui soit ? Au travers du parcours atypique d’un adolescent meurtri par les atrocités vécues pendant la Seconde Guerre Mondiale, suivez la naissance de l’incarnation absolue du mal… Hannibal Lecter.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/21hX2O8hJfS889mWd6zqbjhC6nQ.png"
+    },
+    {
+      "id": "tmdb:306",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills 3",
+      "poster": "https://image.tmdb.org/t/p/w500/hnBhVTb8xwxNFA02GwI43yQ4sVw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wnxg3DsHRlSyJNHpVwwqWdOedGN.jpg",
+      "year": "1994",
+      "imdbRating": "2.6",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "John Landis"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "Héctor Elizondo",
+        "Timothy Carhart",
+        "John Saxon",
+        "Jon Tenney"
+      ],
+      "description": "Dans cette nouvelle aventure Axel Foley va mener l'enquête dans le célèbre parc d'attractions de Wonderworld à Beverly Hills. Il recherche le dangereux commanditaire d'une bande de voleurs de voitures responsable de la mort de son ami Todd.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/nBybdbzcWUJbXU8nwDLZ2kRrnlZ.png"
+    },
+    {
+      "id": "tmdb:1115377",
+      "type": "movie",
+      "name": "Neurosis",
+      "poster": "https://image.tmdb.org/t/p/w500/qool8dwcvg1utKGSCHC9mAdc9qi.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cTE68uJ57CrhlWz0H0DQ3bABbFt.jpg",
+      "year": "2023",
+      "imdbRating": "2.3",
+      "genres": [
+        "Mystère",
+        "Thriller",
+        "Crime",
+        "Horreur"
+      ],
+      "director": [
+        "Julie R. Ølgaard",
+        "Esben Tønnesen"
+      ],
+      "cast": [
+        "Julie R. Ølgaard",
+        "Roland Møller",
+        "Stine Stengade",
+        "Christopher Læssø",
+        "Andrea Vagn Jensen",
+        "Amanda-Lie Rasmussen"
+      ],
+      "description": "Enquêtrice spécialisée en cybercriminalité, Laura fait une dépression depuis la mort de son bébé. Quand une série de meurtres de jeunes femmes a lieu à Copenhague, elle retrouve la motivation de reprendre du service. Elle doit faire équipe avec l’expérimenté Jesper. Cette affaire va la mener bien plus loin qu’elle n’aurait pu l’imaginer.",
+      "runtime": "1h30"
+    },
+    {
+      "id": "tmdb:12153",
+      "type": "movie",
+      "name": "F.B.I. Fausses Blondes Infiltrées",
+      "poster": "https://image.tmdb.org/t/p/w500/PedA5zKb8Y3nZEHPGx9LwGlfPx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+      "year": "2004",
+      "imdbRating": "1.9",
+      "genres": [
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Keenen Ivory Wayans"
+      ],
+      "cast": [
+        "Shawn Wayans",
+        "Marlon Wayans",
+        "Frankie Faison",
+        "Terry Crews",
+        "Faune Chambers Watkins",
+        "Rochelle Aytes"
+      ],
+      "description": "Les ambitieux mais malheureux agents du FBI Marcus et Kevin Copeland sont sur le point de perdre leur travail. Quand on découvre que deux riches héritières mondaines sont sur le point d'être enlevées, l'affaire est confiée à leurs rivaux et Kevin et Marcus sont promus gardes du corps pour escorter ces deux gamines de l'aéroport à leur hôtel dans les Hamptons. Malheureusement, leur gentil toutou cause un accident de la circulation. S'ensuit une bagarre et les deux sœurs se retrouvent légèrement mal en point. Elles refusent d'être vues lors de ce week-end mondain. Apeuré à l'idée de se retrouver au chômage, Kevin va élaborer un plan : Marcus et lui vont se faire passer pour les deux exigeantes divas, se mêler à la crème de la crème des Hamptons et, par la même occasion, piéger les ravisseurs et redorer leur réputation.",
+      "runtime": "1h49",
+      "logo": "https://image.tmdb.org/t/p/w500/4SS6cAyFqPFuUVFfRfMZ682nVsG.png"
+    },
+    {
+      "id": "tmdb:73861",
+      "type": "movie",
+      "name": "A Serbian Film",
+      "poster": "https://image.tmdb.org/t/p/w500/qT312t40YmlOSsOXOoOLDCvRbPx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/o0x4LOW8qzVNyqwWGMuFa3kE7Hs.jpg",
+      "year": "2010",
+      "imdbRating": "1.8",
+      "genres": [
+        "Crime",
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Srđan Spasojević"
+      ],
+      "cast": [
+        "Srđan 'Žika' Todorović",
+        "Sergej Trifunović",
+        "Jelena Gavrilović",
+        "Slobodan Beštić",
+        "Katarina Žutić",
+        "Anđela Nenadović"
+      ],
+      "description": "Milos, un acteur porno à la retraite, tente de survivre avec sa famille. Jusqu’au jour où une ancienne collègue lui présente Vukmir, figure influente de l'industrie pornographique, qui va lui faire une offre qu’il ne pourra refuser…",
+      "runtime": "1h44",
+      "logo": "https://image.tmdb.org/t/p/w500/crZCJ5Aec7XLwxF4Lo2s8eqtAXp.png"
+    }
+  ]
+}
