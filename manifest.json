@@ -1,0 +1,77 @@
+{
+  "id": "com.kiritoying.v85.ultimate.selecteurs.exacts",
+  "version": "8.5.45",
+  "name": "🇫🇷 KiritoYing V85 ULTIMATE (Sélecteurs HTML Exacts)",
+  "description": "🎬 Films + 📺 Séries | ✅ SÉLECTEURS HTML EXACTS | ✅ ORDRE PRIORITÉ EXACT | ✅ Déduplication notés | ✅ Genre Short | ✅ Date inconnue+année",
+  "resources": [
+    {
+      "name": "catalog",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tmdb:"
+      ]
+    }
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "id": "films_envies",
+      "type": "movie",
+      "name": "🎬 FILMS ENVIES (Sélecteurs HTML Exacts)",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Animation",
+            "Aventure",
+            "Comédie",
+            "Crime",
+            "Documentaire",
+            "Drame",
+            "Familial",
+            "Guerre",
+            "Histoire",
+            "Horreur",
+            "Musique",
+            "Mystère",
+            "Romance",
+            "Science-Fiction",
+            "Short",
+            "Thriller",
+            "Téléfilm",
+            "Western"
+          ],
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "series_envies",
+      "type": "series",
+      "name": "📺 SÉRIES ENVIES (Sélecteurs HTML Exacts)",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Animation",
+            "Comédie",
+            "Crime",
+            "Documentaire",
+            "Drame",
+            "Familial",
+            "Mystère",
+            "Western"
+          ],
+          "isRequired": false
+        }
+      ]
+    }
+  ]
+}
