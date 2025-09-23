@@ -1,70 +1,27 @@
-# 🇫🇷 KiritoYing V86 WORKING FIXED - GENRES RÉSOLUS !
+# 🇫🇷 AlloCiné Stremio (v8.7)
 
-## ✅ **PROBLÈME IDENTIFIÉ ET CORRIGÉ !**
+Cet addon permet d’afficher dans Stremio votre sélection de films et séries en “envies” depuis Allociné.
+- Accès direct à vos envies AlloCiné sur Stremio
+- Tri automatique par meilleure note spectateur
+- Navigation rapide par genres (Action, Drame, Films Courts…)
+- Catalogues personnalisés, films et séries avec affiches françaises
 
-### 🔴 **LE PROBLÈME ÉTAIT :**
+## Fonctions principales
 
-Les fichiers par genre étaient mal nommés :
-- ❌ **Avant:** `films_envies_genre_drame.json`
-- ✅ **Maintenant:** `films_envies/genre=Drame.json`
+- **Ajout automatique de vos envies Allociné dans Stremio** (films & séries)
+- **Tri selon la note spectateurs Allociné** (plus populaires en premier)
+- **Filtrage par genre**
+- **Section spéciale “Films Courts”** (tous les films de moins de 1h45)
+- **Affiches officielles françaises**
 
-**Stremio recherche les catalogues avec cette structure URL exacte :**
-```
-/catalog/movie/films_envies/genre=Drame.json
-/catalog/series/series_envies/genre=Crime.json
-```
+## Utilisation
 
-### 🎯 **STRUCTURE CORRIGÉE :**
+1. Ajoutez l’URL du manifest dans “Addon personnalisé” sur Stremio.
+2. Parcourez vos films et séries envies via Stremio, par genre ou popularité.
+3. Cliquez sur une fiche pour voir affiche, description, durée et note spectateur.
 
-```
-📁 kiritoying_addon_v86_WORKING/
-├── 📄 manifest.json
-├── 📁 catalog/
-│   ├── 📁 movie/
-│   │   ├── 📄 films_envies.json (catalogue principal)
-│   │   └── 📁 films_envies/
-│   │       ├── 📄 genre=Action.json
-│   │       ├── 📄 genre=Animation.json
-│   │       ├── 📄 genre=Comédie.json
-│   │       ├── 📄 genre=Crime.json
-│   │       ├── 📄 genre=Drame.json
-│   │       └── ... (tous les genres)
-│   └── 📁 series/
-│       ├── 📄 series_envies.json (catalogue principal)
-│       └── 📁 series_envies/
-│           ├── 📄 genre=Animation.json
-│           ├── 📄 genre=Comédie.json
-│           ├── 📄 genre=Crime.json
-│           ├── 📄 genre=Drame.json
-│           └── ... (tous les genres)
-```
+_Note : cet addon est une vue “publique” des envies Allociné, vos données restent privées et mises à jour selon vos envies !_
 
-## 📊 **RÉSULTATS :**
+---
 
-### 🎬 **FILMS** (704 total)
-- Action: 128 | Animation: 44 | Aventure: 71
-- Comédie: 170 | Crime: 141 | Drame: 448
-- Horreur: 90 | Mystère: 70 | Thriller: 210
-- Short: 224 | Et plus...
-
-### 📺 **SÉRIES** (150 total)  
-- Animation: 9 | Comédie: 29 | Crime: 49
-- Drame: 130 | Mystère: 46 | Et plus...
-
-## 🚀 **INSTALLATION STREMIO :**
-
-1. Ouvrir Stremio
-2. Ajouter addon avec l'URL :
-   ```
-   https://TON-SITE.github.io/kiritoying-addon-v86-working-fixed/manifest.json
-   ```
-3. ✅ Les genres vont maintenant **FONCTIONNER** !
-
-## 🎯 **MAINTENANT ÇA MARCHE !**
-
-- 🏷️ Structure URLs exacte selon Stremio
-- 🎭 Tous les genres fonctionnels  
-- 📦 704 films + 150 séries
-- ✅ Plus d'erreur 404 !
-
-**Généré le 2025-09-23 - V86 WORKING FIXED**
+**Si tu veux la version finale ZIP, il te suffira d'utiliser ces deux fichiers avec la structure validé (voir réponse précédente) pour que l’addon soit 100% compatible Stremio et utilisateur.**
