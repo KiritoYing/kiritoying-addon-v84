@@ -2,11 +2,10 @@
   "id": "allocine-stremio-addon-v87",
   "version": "8.7",
   "name": "🇫🇷 AlloCiné Stremio",
-  "description": "Ajoute vos listes d’envies de films et séries Allociné à Stremio. Navigation par genres, tri automatique par note spectateur.",
+  "description": "Ajoute vos listes d'envies de films et séries Allociné à Stremio. Navigation par genres, tri automatique par note spectateur.",
   "logo": "https://www.allocine.fr/favicon.ico",
   "resources": [
-    "catalog",
-    "meta"
+    "catalog"
   ],
   "types": [
     "movie",
@@ -18,45 +17,52 @@
       "id": "films_envies",
       "name": "🎬 Films - Envies Allociné",
       "extra": [
-        { "name": "genre", "isRequired": false }
-      ],
-      "genres": [
-        "Aucun",
-        "Action",
-        "Comédie",
-        "Drame",
-        "Thriller",
-        "Animation",
-        "Science-fiction",
-        "Policier",
-        "Epouvante-horreur",
-        "Aventure",
-        "Romance",
-        "Famille",
-        "Documentaire",
-        "Historique",
-        "Biopic",
-        "Films Courts"    // Remplacement de "Short"
+        { 
+          "name": "genre", 
+          "isRequired": false,
+          "options": [
+            "Action",
+            "Animation", 
+            "Aventure",
+            "Comédie",
+            "Crime",
+            "Documentaire",
+            "Drame",
+            "Familial",
+            "Films Courts",
+            "Guerre",
+            "Histoire",
+            "Horreur",
+            "Musique",
+            "Mystère",
+            "Romance",
+            "Science-Fiction",
+            "Thriller",
+            "Téléfilm",
+            "Western"
+          ]
+        }
       ]
     },
     {
       "type": "series",
-      "id": "series_envies",
+      "id": "series_envies", 
       "name": "📺 Séries - Envies Allociné",
       "extra": [
-        { "name": "genre", "isRequired": false }
-      ],
-      "genres": [
-        "Aucun",
-        "Comédie",
-        "Drame",
-        "Thriller",
-        "Animation",
-        "Science-fiction",
-        "Policier",
-        "Epouvante-horreur",
-        "Romance",
-        "Historique"
+        { 
+          "name": "genre", 
+          "isRequired": false,
+          "options": [
+            "Animation",
+            "Comédie", 
+            "Crime",
+            "Documentaire",
+            "Drame",
+            "Familial",
+            "Mystère",
+            "Western"
+          ]
+        }
       ]
     }
   ]
