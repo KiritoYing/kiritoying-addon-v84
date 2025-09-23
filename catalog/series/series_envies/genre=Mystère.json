@@ -1,0 +1,1227 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:19885",
+      "type": "series",
+      "name": "Sherlock",
+      "poster": "https://image.tmdb.org/t/p/w500/nBRtABdAHf4SWSAWHelXz0H6tY9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+      "year": "2010",
+      "imdbRating": "4.5",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Mark Gatiss",
+        "Steven Moffat"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Martin Freeman"
+      ],
+      "description": "Les aventures de Sherlock Holmes et de son acolyte de toujours, le docteur Watson, sont transposées au XXIème siècle...",
+      "logo": "https://image.tmdb.org/t/p/w500/5cTbld1BphDXeT2uyN6bMQ4wwGh.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:42009",
+      "type": "series",
+      "name": "Black Mirror",
+      "poster": "https://image.tmdb.org/t/p/w500/9acfIYfBuB4GFVROipM9YrqxsXd.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+      "year": "2011",
+      "imdbRating": "4.4",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Charlie Brooker"
+      ],
+      "description": "Les histoires tordues se succèdent dans cette série d'anthologie hallucinante qui révèle les plus grandes innovations de l'humanité, mais aussi ses côtés les plus sombres.",
+      "logo": "https://image.tmdb.org/t/p/w500/nDbdbw0KntwVV10C5hNDzy0VPXC.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:46648",
+      "type": "series",
+      "name": "True Detective",
+      "poster": "https://image.tmdb.org/t/p/w500/v1pOP44wChdvxoGhnjSmhnzyDje.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bRNTmuc1ZtEulhbhGo6230Y3doU.jpg",
+      "year": "2014",
+      "imdbRating": "4.4",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Nic Pizzolatto",
+        "Issa López"
+      ],
+      "cast": [
+        "Jodie Foster",
+        "Kali Reis",
+        "Fiona Shaw",
+        "Finn Bennett",
+        "Isabella Star LaBlanc",
+        "John Hawkes"
+      ],
+      "description": "Série d'anthologie dans laquelle les enquêtes policières mettent au jour les secrets personnels et professionnels des personnes impliquées, tant à l'intérieur qu'à l'extérieur de la loi.",
+      "logo": "https://image.tmdb.org/t/p/w500/6q4KzOcM2eEE1IbhFTadUsQkphl.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:72844",
+      "type": "series",
+      "name": "The Haunting of Hill House",
+      "poster": "https://image.tmdb.org/t/p/w500/fxXsZG4p0hjlMuF1q674dLuJdxV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg",
+      "year": "2018",
+      "imdbRating": "4.4",
+      "genres": [
+        "Mystère",
+        "Drame"
+      ],
+      "director": [
+        "Mike Flanagan"
+      ],
+      "cast": [
+        "Michiel Huisman",
+        "Elizabeth Reaser",
+        "Kate Siegel",
+        "Oliver Jackson-Cohen",
+        "Victoria Pedretti",
+        "Timothy Hutton"
+      ],
+      "description": "Entre passé et présent, les membres d'une famille éclatée font face aux souvenirs d'événements terrifiants survenus dans une maison qui les a autrefois obligés à fuir.",
+      "logo": "https://image.tmdb.org/t/p/w500/2fog8JmHUXf7AFTEB1dkXanQR0K.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:46511",
+      "type": "series",
+      "name": "Utopia",
+      "poster": "https://image.tmdb.org/t/p/w500/snOU6W5CU7aGVSVu29wBWzdzNzi.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kDhUhjBrJKVPvSSAmqncCJFvKFD.jpg",
+      "year": "2013",
+      "imdbRating": "4.4",
+      "genres": [
+        "Mystère",
+        "Drame",
+        "Comédie"
+      ],
+      "director": [
+        "Dennis Kelly"
+      ],
+      "cast": [
+        "Adeel Akhtar",
+        "Paul Higgins",
+        "Neil Maskell",
+        "Fiona O'Shaughnessy",
+        "Alexandra Roach",
+        "Nathan Stewart-Jarrett"
+      ],
+      "description": "\"Utopia\" est une bande-dessinée légendaire sur laquelle plane le mystère. Mais quand Ian, Becky, Grant et Wilson, un petit groupe de personnes qui n'avaient jusqu'alors aucun lien, se retrouvent chacun en possession d'un exemplaire original du manuscrit, leurs vies basculent soudainement et brutalement. Immédiatement pris pour cible par une impitoyable organisation meurtrière connue sous le nom du Network, les membres du groupe, terrifiés, n'ont plus qu'une seule solution s'ils veulent survivre : courir !",
+      "logo": "https://image.tmdb.org/t/p/w500/qgkuyBONdNJfhVn530fYQ4EHIme.png",
+      "status": "Annulée"
+    },
+    {
+      "id": "tmdb:70523",
+      "type": "series",
+      "name": "Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/vbG0zu0lIVDZZaUVOZuBIE9kno3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg",
+      "year": "2017",
+      "imdbRating": "4.3",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Baran bo Odar",
+        "Jantje Friese"
+      ],
+      "cast": [
+        "Louis Hofmann"
+      ],
+      "description": "Un enfant disparu lance quatre familles dans une quête éperdue pour trouver des réponses. La chasse au coupable fait émerger les péchés et les secrets d'une petite ville.",
+      "logo": "https://image.tmdb.org/t/p/w500/hZAw4fEQb4t5YVttZpcSIWv0fSQ.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:115004",
+      "type": "series",
+      "name": "Mare of Easttown",
+      "poster": "https://image.tmdb.org/t/p/w500/45Oz1v9rkwsJQBkNetvie5Ne3uR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7X1IGIl1JMJ9YFzJymCVoqZbvTR.jpg",
+      "year": "2021",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Mystère",
+        "Crime"
+      ],
+      "director": [
+        "Brad Ingelsby"
+      ],
+      "cast": [
+        "Kate Winslet",
+        "Jean Smart",
+        "Julianne Nicholson",
+        "Angourie Rice",
+        "Evan Peters",
+        "Sosie Bacon"
+      ],
+      "description": "Tandis que sa vie va à vau-l'eau, une détective d'une petite ville de Pennsylvanie enquête sur un meurtre.",
+      "logo": "https://image.tmdb.org/t/p/w500/fXPfsUKzpMa640m2OAsRRJms054.svg",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:54671",
+      "type": "series",
+      "name": "Penny Dreadful",
+      "poster": "https://image.tmdb.org/t/p/w500/hQSdrXBYTbLGHYDIseHkBOPXTgL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3bViM60LioKQJwsExm5oyLRYagC.jpg",
+      "year": "2014",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "John Logan"
+      ],
+      "cast": [
+        "Eva Green",
+        "Josh Hartnett",
+        "Timothy Dalton",
+        "Harry Treadaway",
+        "Reeve Carney",
+        "Rory Kinnear"
+      ],
+      "description": "Londres, 1891, une menace quasi invisible massacre la population. Vanessa Ives, une jeune femme aux pouvoirs puissants et hypnotiques, rencontre et propose à Ethan Chandler, un homme rebelle et violent, de s'allier à elle ainsi qu'à Sir Malcolm Murray, un homme riche d'un certain âge aux ressources intarissables, pour combattre cette nouvelle menace.",
+      "logo": "https://image.tmdb.org/t/p/w500/4tp4K58Fv5MczJ8affiBhhcHhJq.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:110356",
+      "type": "series",
+      "name": "My Name",
+      "poster": "https://image.tmdb.org/t/p/w500/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg",
+      "background": "https://image.tmdb.org/t/p/original/x0eIZv8bJYjfTu7VkTOxHU8B91c.jpg",
+      "year": "2021",
+      "imdbRating": "4.3",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Kim Jin-min",
+        "Kim Ba-da"
+      ],
+      "cast": [
+        "Han So-hee",
+        "Park Hee-soon",
+        "Ahn Bo-hyun",
+        "Kim Sang-ho",
+        "Lee Hak-joo",
+        "Jang Yul"
+      ],
+      "description": "Jiwoo se rapproche d'un cartel de la drogue et intègre la police afin d'enquêter sur la mort de son père. Sa quête de vengeance sera jalonnée de douloureuses vérités.",
+      "logo": "https://image.tmdb.org/t/p/w500/ucmfnjg9eQ5rW0f6vcJfOvkroFz.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:124364",
+      "type": "series",
+      "name": "FROM",
+      "poster": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
+      "year": "2022",
+      "imdbRating": "4.2",
+      "genres": [
+        "Mystère",
+        "Drame"
+      ],
+      "director": [
+        "John Griffin"
+      ],
+      "cast": [
+        "Harold Perrineau",
+        "Catalina Sandino Moreno",
+        "Eion Bailey",
+        "David Alpay",
+        "Elizabeth Saunders",
+        "Scott McCord"
+      ],
+      "description": "Découvrez le mystère d'une ville cauchemardesque dans le centre des États-Unis qui piège tous ceux qui y entrent. Alors que les habitants réticents se battent pour garder un sentiment de normalité et cherchent une issue, ils doivent également survivre aux menaces de la forêt environnante, y compris les créatures terrifiantes qui sortent lorsque le soleil se couche.",
+      "logo": "https://image.tmdb.org/t/p/w500/kPQrUwdpoONe5jdOuHgQfRXyUf1.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:46786",
+      "type": "series",
+      "name": "Bates Motel",
+      "poster": "https://image.tmdb.org/t/p/w500/xXKcfZE7ulYxgjjYv51s0zDG69s.jpg",
+      "background": "https://image.tmdb.org/t/p/original/s3pypVJf05ELPCUA6jSW381nLwm.jpg",
+      "year": "2013",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "Anthony Cipriano",
+        "Carlton Cuse"
+      ],
+      "cast": [
+        "Vera Farmiga",
+        "Freddie Highmore",
+        "Max Thieriot",
+        "Olivia Cooke",
+        "Nestor Carbonell"
+      ],
+      "description": "Après la mort mystérieuse de son mari, Norma Bates décide de refaire sa vie loin de l'Arizona, dans la petite ville de White Pine Bay dans l'Oregon, et emmène avec elle son fils Norman, âgé de 17 ans. Elle rachète là-bas un vieux motel abandonné depuis de nombreuses années, ainsi que le manoir qui trône majestueusement quelques mètres plus loin. La mère et le fils partagent depuis toujours une relation complexe, presque incestueuse. Des événements tragiques vont les pousser à se rapprocher encore davantage. Ils partagent désormais ensemble un lourd secret…",
+      "logo": "https://image.tmdb.org/t/p/w500/sMT0wIu8Oc1vx5OKLmMJelyF0R2.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:65708",
+      "type": "series",
+      "name": "Taboo",
+      "poster": "https://image.tmdb.org/t/p/w500/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sf5CGuMhz1wGq9W0LX2MH3RkN3l.jpg",
+      "year": "2017",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Steven Knight",
+        "Tom Hardy"
+      ],
+      "cast": [
+        "Tom Hardy",
+        "David Hayman",
+        "Jonathan Pryce",
+        "Oona Chaplin",
+        "Richard Dixon",
+        "Leo Bill"
+      ],
+      "description": "Considéré comme mort depuis des années, James Keziah Delaney refait surface à Londres en 1814, après 10 ans passés en Afrique. De retour en possession de diamants acquis illégalement et bien décidé à venger la mort de son père, il va refuser de vendre ce qu'il reste de l'héritage familial à la Compagnie britannique des Indes orientales et se mettre en tête de bâtir son propre empire de négoce et de transport. Mais James, qui va rapidement comprendre qu'il a de nombreux ennemis, va devoir naviguer bien des eaux troubles pour rester en vie et parvenir à ses fins.",
+      "logo": "https://image.tmdb.org/t/p/w500/33mA6hcOxiiSZIC9DiNP9yPFJf0.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:61859",
+      "type": "series",
+      "name": "The Night Manager",
+      "poster": "https://image.tmdb.org/t/p/w500/hdCC5N42cXERbzIn6ED7oqTKtkq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/86Lac0EmcXyKM40MC9yjRHI62hk.jpg",
+      "year": "2016",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Mystère",
+        "Crime"
+      ],
+      "director": [
+        "David Farr"
+      ],
+      "cast": [
+        "Tom Hiddleston",
+        "Hugh Laurie",
+        "Olivia Colman",
+        "Tom Hollander",
+        "Elizabeth Debicki",
+        "David Harewood"
+      ],
+      "description": "Le soldat, Jonathan Pine, est devenu directeur de nuit dans un hôtel. Il croise la route de Sophie, une proche de Richard Onslow Roper, qui opère sur le marché noir des armes. Sophie fournit à Pine des documents incriminant Roper. Pine essaie d'infiltrer le cercle intime de Roper en devenant un criminel lui-même, tout en gardant secrète sa mission de ses collègues et de sa conjointe.",
+      "logo": "https://image.tmdb.org/t/p/w500/pGEgAOpfvKXT5LkQt78uNU77sng.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:123192",
+      "type": "series",
+      "name": "The Crowded Room",
+      "poster": "https://image.tmdb.org/t/p/w500/l0aPfCSZL1uQ3HCGfqbAEYLlAcd.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kv9KH67hsVJ8RLplUBoc1kZlAtY.jpg",
+      "year": "2023",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "Akiva Goldsman"
+      ],
+      "cast": [
+        "Tom Holland",
+        "Amanda Seyfried",
+        "Sasha Lane",
+        "Will Chase",
+        "ליאור רז",
+        "Emmy Rossum"
+      ],
+      "description": "Dans ce thriller psychologique qui se déroule à Manhattan pendant l’été 1979, un jeune homme est arrêté pour un crime choquant – et une enquêtrice improbable doit résoudre le mystère qui l’entoure.",
+      "logo": "https://image.tmdb.org/t/p/w500/40E8740175g6tvIy4Khlj4HFBTx.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:46952",
+      "type": "series",
+      "name": "Blacklist",
+      "poster": "https://image.tmdb.org/t/p/w500/dIR6njcRuUtX3ShXECil3a2W5U7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+      "year": "2013",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "Jon Bokenkamp"
+      ],
+      "cast": [
+        "James Spader",
+        "Diego Klattenhoff",
+        "Hisham Tawfiq",
+        "Anya Banerjee",
+        "Harry Lennix"
+      ],
+      "description": "Raymond « Red » Reddington, l’un des fugitifs les plus recherchés par le FBI, se rend en personne au quartier général du FBI à Washington. Il affirme avoir les mêmes intérêts que le FBI : faire tomber des criminels dangereux et des terroristes. Reddington coopérera, mais insiste pour ne parler qu’à Elizabeth Keen, une profileuse inexpérimentée du FBI. Keen s’interroge sur l’intérêt soudain que Reddington lui porte, bien qu’il soutienne que Keen est très spéciale. Après que le FBI a fait tomber un terroriste sur lequel il a fourni des informations, Reddington révèle que ce terroriste n’est que le premier de beaucoup d’autres à venir : durant les deux dernières décennies, il a fait une liste des criminels et terroristes qu'il croit introuvable par le FBI parce que ce dernier ignorait leur existence et que ce sont les plus importants. Reddington l’appelle « La Liste noire » (« The Blacklist »).",
+      "logo": "https://image.tmdb.org/t/p/w500/4fINnTs41puRMUONrAqjy769yVk.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:111803",
+      "type": "series",
+      "name": "The White Lotus",
+      "poster": "https://image.tmdb.org/t/p/w500/6iwKyU70ndvfHww0TphBg8LQzJ9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
+      "year": "2021",
+      "imdbRating": "4.1",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Mike White"
+      ],
+      "cast": [
+        "Leslie Bibb",
+        "Carrie Coon",
+        "Walton Goggins",
+        "Sarah Catherine Hook",
+        "Jason Isaacs",
+        "ลิซ่า"
+      ],
+      "description": "Dans une station balnéaire au paysage de carte postale, des clients profitent de leurs vacances dans un cadre idyllique, pris en charge par un personnel des plus agréables et serviables. Très vite, il devient clair que le bonheur apparent et les sourires de façade sont trompeurs.",
+      "logo": "https://image.tmdb.org/t/p/w500/8Ljv9GdwuOGtfw5Mhjh8L1lyiVN.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:75191",
+      "type": "series",
+      "name": "The Terror",
+      "poster": "https://image.tmdb.org/t/p/w500/bKkOcso0YuCBK7dixkn3VSd0dUr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ssyZgYScV9eClakZDwu4sPrgMmy.jpg",
+      "year": "2018",
+      "imdbRating": "4.1",
+      "genres": [
+        "Mystère",
+        "Drame"
+      ],
+      "director": [
+        "David Kajganich"
+      ],
+      "cast": [
+        "Derek Mio",
+        "Cristina Rodlo",
+        "Kiki Sukezane",
+        "Shingo Usami",
+        "Naoko Mori",
+        "Miki Ishikawa"
+      ],
+      "description": "\"The Terror\" est une série mêlant le fantastique et l'historique, en nous contant chaque saison des histoires plus terrifiantes les unes que les autres.",
+      "logo": "https://image.tmdb.org/t/p/w500/A0zSekpeo39bD1LTfzKFyJb3bBg.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:71769",
+      "type": "series",
+      "name": "L'Aliéniste",
+      "poster": "https://image.tmdb.org/t/p/w500/zUd4RPbfHuB1zIG2iNI5bdZcQo3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/oDTBlmFiHAslFwj4JU8jkBB6E6V.jpg",
+      "year": "2018",
+      "imdbRating": "4.1",
+      "genres": [
+        "Drame",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "Cary Joji Fukunaga"
+      ],
+      "cast": [
+        "Daniel Brühl",
+        "Luke Evans",
+        "Dakota Fanning",
+        "Matthew Shear",
+        "Douglas Smith",
+        "Robert Wisdom"
+      ],
+      "description": "Dans le New York de la fin du 19ème siècle sous la responsabilité du chef de police Theodore Roosevelt, le spécialiste des maladies mentales Laszlo Kreizler s'intéresse à un impitoyable tueur qui laisse derrière lui les corps mutilés d’enfants. Face à l'impassibilité des pouvoirs publics, Kreizler tente d’identifier le responsable de ces meurtres horribles, épaulé par l'illustrateur criminel John Moore et Sara Howard, la première femme à faire son entrée dans l'univers très masculin de la police.",
+      "logo": "https://image.tmdb.org/t/p/w500/yHKTZMAkPeSBZQb9kV2ZjnfzSPn.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:127865",
+      "type": "series",
+      "name": "Octobre",
+      "poster": "https://image.tmdb.org/t/p/w500/4d8dqel9Jtg6Po6fdCYKuvrvrMz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fIXTetAsXkPO6UUUw85IU4oactf.jpg",
+      "year": "2021",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Søren Sveistrup",
+        "David Sandreuter"
+      ],
+      "cast": [
+        "Danica Ćurčić",
+        "Mikkel Boe Følsgaard",
+        "David Dencik",
+        "Iben Dorner",
+        "Lars Ranthe",
+        "Esben Dalgaard"
+      ],
+      "description": "Une jeune femme assassinée gît sur une aire de jeux de Copenhague. Au-​dessus d'elle est suspendu un bonhomme fabriqué avec des marrons.",
+      "logo": "https://image.tmdb.org/t/p/w500/eSO1Xx6wz2z4W0aB20GfX6Mfpx7.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:81349",
+      "type": "series",
+      "name": "Devs",
+      "poster": "https://image.tmdb.org/t/p/w500/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5yf5yfogIxhHhDU7F2Nuk1BsTYQ.jpg",
+      "year": "2020",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Alex Garland"
+      ],
+      "cast": [
+        "Sonoya Mizuno",
+        "Nick Offerman",
+        "Jin Ha",
+        "Cailee Spaeny",
+        "Stephen McKinley Henderson",
+        "Alison Pill"
+      ],
+      "description": "Lily enquête sur les agissements de la compagnie technologique qui l'emploie, qu'elle soupçonne d'être à l'origine de la disparition de son petit-ami.",
+      "logo": "https://image.tmdb.org/t/p/w500/asr4KbXrXbYvFE8smlVRcsiAAKy.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:128095",
+      "type": "series",
+      "name": "Sur ordre de Dieu",
+      "poster": "https://image.tmdb.org/t/p/w500/6AEB4uiGgnSvgqgGxzBUmDAOJ6K.jpg",
+      "background": "https://image.tmdb.org/t/p/original/x9PFD8fWrFcWVCXLdrTy5oaO9YS.jpg",
+      "year": "2022",
+      "imdbRating": "4.0",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Dustin Lance Black"
+      ],
+      "cast": [
+        "Andrew Garfield",
+        "Sam Worthington",
+        "Daisy Edgar-Jones",
+        "Denise Gough",
+        "Wyatt Russell",
+        "Billy Howle"
+      ],
+      "description": "Juillet 1984. Les habitants d’une petite ville mormone de l’Utah découvrent avec horreur que Brenda Wright Lafferty et son bébé âgé de 15 mois - deux membres d’une influente famille de la communauté de l’Église de Jésus-Christ des Saints des Derniers Jours à laquelle quasi tous les concitoyens appartiennent - ont été sauvagement assassinés à leur domicile. Pour tenter de trouver le ou les responsables, l’inspecteur Jeb Pyre - un mormon pratiquant – et ses enquêteurs vont devoir pousser leurs investigations jusque dans les collines avoisinantes et démêler l’écheveau d’une bureaucratie mormone bien décidée à leur mettre des bâtons dans les roues. Bientôt, Jeb voit sa foi ébranlée en découvrant de sombres secrets sur l’origine de la théologie qu’il a embrassée et les conséquences funestes que peut entraîner le fondamentalisme religieux.",
+      "logo": "https://image.tmdb.org/t/p/w500/vLk0AWBjfUlZmmiz3SgltJJRsvv.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:203744",
+      "type": "series",
+      "name": "Sugar",
+      "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ipNCnwKaRqyddXRukTslsl3hiop.jpg",
+      "year": "2024",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Mark Protosevich"
+      ],
+      "cast": [
+        "Colin Farrell",
+        "Kirby Howell-Baptiste",
+        "Amy Ryan",
+        "Dennis Boutsikaris",
+        "Nate Corddry",
+        "Alex Hernandez"
+      ],
+      "description": "Un détective privé énigmatique se bat contre ses démons intérieurs pendant son enquête sur la disparition de la petite-fille chérie d’un producteur hollywoodien.",
+      "logo": "https://image.tmdb.org/t/p/w500/lTLRG3T04HUfTB6Z4Rkc99ebpvR.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:147050",
+      "type": "series",
+      "name": "Disclaimer",
+      "poster": "https://image.tmdb.org/t/p/w500/dLugBMfbBbLENzfIGzM9Jcu2w8L.jpg",
+      "background": "https://image.tmdb.org/t/p/original/j7HEQlQoWA2weOR7jS1h5YbsEvM.jpg",
+      "year": "2024",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Alfonso Cuarón"
+      ],
+      "cast": [
+        "Cate Blanchett",
+        "Kevin Kline",
+        "Sacha Baron Cohen",
+        "Lesley Manville",
+        "Louis Partridge",
+        "Leila George"
+      ],
+      "description": "Quand un intrigant roman apparaît au chevet d’une journaliste qui a construit sa carrière sur la révélation des transgressions, celle-ci réalise avec horreur qu’elle est un des personnages clés d’une histoire depuis longtemps enterrée, celle qui expose son plus sombre secret.",
+      "logo": "https://image.tmdb.org/t/p/w500/e3xH9F2QTghviaBloM1cDu3J4jz.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:84661",
+      "type": "series",
+      "name": "The Outsider",
+      "poster": "https://image.tmdb.org/t/p/w500/g2uOKfpQXb3y3eFTCyGmtcHRkVy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lmlsqpAfDZnZumcFhbsTrOy9uNZ.jpg",
+      "year": "2020",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Mystère",
+        "Crime"
+      ],
+      "director": [
+        "Richard Price"
+      ],
+      "cast": [
+        "Ben Mendelsohn",
+        "Cynthia Erivo",
+        "Bill Camp",
+        "Jeremy Bobb",
+        "Julianne Nicholson",
+        "Marc Menchaca"
+      ],
+      "description": "Le corps atrocement mutilé d'un garçon de onze ans est retrouvé dans une petite ville de l’Oklahoma. Les empreintes digitales et l’ADN présents sur les lieux du crime désignent aussitôt le coupable : Terry Maitland, l'un des habitants les plus respectés de la ville, entraîneur de l'équipe locale de baseball. L’affaire semble évidente à un détail près : Terry Maitland a un alibi en béton. Il était en effet à plusieurs centaines de kilomètres au moment où le meurtre a été commis. Le détective Ralph Anderson, proche de Maitland, est chargé de faire la lumière sur cette affaire pour le moins étrange. Et son explication pourrait bien dépasser l’entendement.",
+      "logo": "https://image.tmdb.org/t/p/w500/tm4LIOT1WPcXq02Ko31VjyRfBQa.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:109958",
+      "type": "series",
+      "name": "The Haunting of Bly Manor",
+      "poster": "https://image.tmdb.org/t/p/w500/aqu5OQmLJuOJf2DpgzuCeDXvRDM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg",
+      "year": "2020",
+      "imdbRating": "3.9",
+      "genres": [
+        "Mystère",
+        "Drame"
+      ],
+      "director": [
+        "Mike Flanagan"
+      ],
+      "cast": [
+        "Victoria Pedretti",
+        "Oliver Jackson-Cohen",
+        "Henry Thomas",
+        "Amelia Eve",
+        "T'Nia Miller",
+        "Rahul Kohli"
+      ],
+      "description": "Une jeune gouvernante plonge dans un abîme de terrifiants secrets au fil de cette romance gothique du créateur de \"The Haunting of Hill House\".",
+      "logo": "https://image.tmdb.org/t/p/w500/u2V1esxTA4iBqsJtQbzNHVyQzFc.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:108545",
+      "type": "series",
+      "name": "Le Problème à 3 corps",
+      "poster": "https://image.tmdb.org/t/p/w500/vnSDwnLpi8bxbkjOHMFdbRUySZ8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ciizJ9Okzt9tBBGK7Q3T14LFT2j.jpg",
+      "year": "2024",
+      "imdbRating": "3.9",
+      "genres": [
+        "Mystère",
+        "Drame"
+      ],
+      "director": [
+        "Alexander Woo",
+        "D. B. Weiss"
+      ],
+      "cast": [
+        "Jovan Adepo",
+        "Rosalind Chao",
+        "Liam Cunningham",
+        "Eiza González",
+        "Jess Hong",
+        "Marlo Kelly"
+      ],
+      "description": "Dans la Chine des années 60, une jeune femme prend une décision dont les répercussions à travers le temps et l'espace vont affecter le monde d'aujourd'hui. Lorsque les lois de la nature se délitent inexplicablement sous les yeux d'un groupe soudé de brillants scientifiques, ils unissent leurs forces à celles d'un inspecteur peu orthodoxe pour affronter la plus grande menace de l'histoire de l'humanité.",
+      "logo": "https://image.tmdb.org/t/p/w500/wauzJodbcC0RKNlWEw7RuqhMwgW.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:41670",
+      "type": "series",
+      "name": "Shokuzai - Celles qui voulaient se souvenir",
+      "poster": "https://image.tmdb.org/t/p/w500/igysptsTvU8boJhayCaAy2FijGz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5FVH6EZbxB36nac6ZZYpZFb53bw.jpg",
+      "year": "2012",
+      "imdbRating": "3.9",
+      "genres": [
+        "Drame",
+        "Mystère",
+        "Crime"
+      ],
+      "director": [
+        "Kiyoshi Kurosawa"
+      ],
+      "cast": [
+        "小泉今日子",
+        "蒼井優",
+        "小池栄子",
+        "安藤サクラ",
+        "池脇千鶴",
+        "木村葉月"
+      ],
+      "description": "L'obscurité du cœur après le meurtre d'un élève du primaire. \"Qu'est-ce que l'expiation ?\"  On suit les quatre étudiants qui ont été témoins du meurtre, mais qui ne se souviennent pas du visage du tueur. La peur des ténèbres dans le cœur est ce qui rend cette histoire si unique.",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:4087",
+      "type": "series",
+      "name": "X-Files : Aux frontières du réel",
+      "poster": "https://image.tmdb.org/t/p/w500/eP4OS57gbqiOIvVAnCs8T4rz5t4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+      "year": "1993",
+      "imdbRating": "3.8",
+      "genres": [
+        "Mystère",
+        "Crime"
+      ],
+      "director": [
+        "Chris Carter"
+      ],
+      "cast": [
+        "David Duchovny",
+        "Gillian Anderson",
+        "Mitch Pileggi",
+        "William B. Davis"
+      ],
+      "description": "Fox Mulder est un agent du FBI. Attiré par les phénomènes paranormaux et les croyances parfois irrationnelles, il s'intéresse aux affaires non classées, certaines relevant du paranormal. On lui adjoint une partenaire, Dana Scully, médecin et beaucoup plus adepte de la logique cartésienne. Mulder, obsédé par la disparition de sa sœur, est persuadé qu'elle a été enlevée par des aliens. Les deux agents vont ainsi entrevoir les grandes lignes de complots et autres théories de la conspiration...",
+      "logo": "https://image.tmdb.org/t/p/w500/jkAlwK1QLJfsfsXERzXM24dOPcE.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:47640",
+      "type": "series",
+      "name": "The Strain",
+      "poster": "https://image.tmdb.org/t/p/w500/2BWErT9QcADpf2G4BZ769eSnFTP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4YnAZ1KO9goeS4c06VO7HXiO3oO.jpg",
+      "year": "2014",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Guillermo del Toro",
+        "Carlton Cuse"
+      ],
+      "cast": [
+        "Corey Stoll",
+        "Kevin Durand",
+        "Miguel Gómez",
+        "David Bradley",
+        "Jonathan Hyde",
+        "Richard Sammel"
+      ],
+      "description": "Lorsqu'un Boeing 777 atterrit à l'aéroport new yorkais JFK sans qu'aucun signe de vie n'en émane, Eph Goodweather, un scientifique spécialisé dans les épidémies et les attaques biologiques, est dépêché sur les lieux. A l'intérieur de l'avion, il découvre que tous les passagers sont morts, probablement tués par un étrange virus ou... un monstre non identifié. L'homme fait alors équipe avec un ancien professeur, survivant de l'Holocauste, Abraham Setrakian. Ensemble, ils constituent un petit groupe qui devient rapidement le dernier espoir pour la survie de la race humaine. Des vampires transforment en effet petit à petit la civilisation en un gigantesque buffet. Le sang coule à flots et rien ne semble pouvoir les arrêter...",
+      "logo": "https://image.tmdb.org/t/p/w500/82jqK9Cq9UBzH5GL2vcZosqXFYO.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:117488",
+      "type": "series",
+      "name": "Yellowjackets",
+      "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+      "year": "2021",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Ashley Lyle",
+        "Bart Nickerson"
+      ],
+      "cast": [
+        "Melanie Lynskey",
+        "Tawny Cypress",
+        "Sophie Nélisse",
+        "Jasmin Savoy Brown",
+        "Sophie Thatcher",
+        "Sammi Hanratty"
+      ],
+      "description": "Après le crash de leur avion, des lycéennes d’une équipe de football luttent pour leur survie dans une région sauvage du Nord des États-Unis. Vingt-cinq ans plus tard, les survivantes se sont reconstruites… enfin presque. Car une question revient sans cesse, que s’est-il passé durant les dix-neuf mois qu’a duré leur calvaire ? Et combien de temps tiendra encore leur pacte de ne jamais rien révéler ?",
+      "logo": "https://image.tmdb.org/t/p/w500/rNTY34G4jfaT7YUiSRFw8vtSOjG.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:157065",
+      "type": "series",
+      "name": "La Chute de la maison Usher",
+      "poster": "https://image.tmdb.org/t/p/w500/xSTuT6GLOKEuvyVmpqdKRjAzyu2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4qDlkEAKFb4pgIUbeJMLyHX2Xym.jpg",
+      "year": "2023",
+      "imdbRating": "3.8",
+      "genres": [
+        "Mystère",
+        "Drame"
+      ],
+      "director": [
+        "Mike Flanagan"
+      ],
+      "cast": [
+        "Carla Gugino",
+        "Bruce Greenwood",
+        "Mary McDonnell",
+        "Henry Thomas",
+        "Kate Siegel",
+        "Rahul Kohli"
+      ],
+      "description": "Basée sur des œuvres d'Edgar Allan Poe, cette série malfaisante suit une dynastie familiale qui s'effondre lorsque ses héritiers commencent mystérieusement à mourir.",
+      "logo": "https://image.tmdb.org/t/p/w500/jKa9cLtSaVW7t98QIO2ZGZvdSHh.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:120998",
+      "type": "series",
+      "name": "Poker Face",
+      "poster": "https://image.tmdb.org/t/p/w500/sQxgo6z2nEzq1kfXdktRIWtje3B.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ccOzCmrglAjRGtqv5ClTaBEsWt8.jpg",
+      "year": "2023",
+      "imdbRating": "3.8",
+      "genres": [
+        "Mystère",
+        "Crime"
+      ],
+      "director": [
+        "Rian Johnson"
+      ],
+      "cast": [
+        "Natasha Lyonne"
+      ],
+      "description": "Engagée dans un long périple au volant de sa Plymouth Barracuda, Charlie Cale rencontre de nouvelles personnes à chaque arrêt et ne peut s’empêcher de résoudre des crimes grâce à une extraordinaire capacité à repérer lorsque quelqu’un ment.",
+      "logo": "https://image.tmdb.org/t/p/w500/uIfy2R8dfH7fTf7F2AyNigcn9C6.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:9343",
+      "type": "series",
+      "name": "Paranoia Agent",
+      "poster": "https://image.tmdb.org/t/p/w500/gVsTX3EJIsq3fHx2xLDFEeWMYDe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "year": "2004",
+      "imdbRating": "3.8",
+      "genres": [
+        "Animation",
+        "Mystère"
+      ],
+      "director": [
+        "Satoshi Kon"
+      ],
+      "cast": [
+        "Mamiko Noto",
+        "阪口大助",
+        "桃井はるこ",
+        "Shōzō Iizuka",
+        "Toshihiko Seki",
+        "京田尚子"
+      ],
+      "description": "Au milieu de la vie frénétique de Tokyo, la créatrice d'un personnage à la mode (le chien Maromi) est agressée devant chez elle par un jeune garçon portant une casquette, des rollers et une batte de base-ball dorés. \n\nDeux inspecteurs de police, l'un jeune et enthousiaste, son aîné plus blasé, mènent leur enquête pendant que de nouvelles agressions ont lieu, toujours par celui que l'on nomme \"le jeune homme à la batte\". Alors que les victimes ne semblent posséder aucun lien entre elles, la paranoïa s'installe au sein de la population de la capitale... ",
+      "logo": "https://image.tmdb.org/t/p/w500/aNh5IhfP6bg244MADQGQ3Yb6jBC.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:25760",
+      "type": "series",
+      "name": "Hinamizawa, le village maudit",
+      "poster": "https://image.tmdb.org/t/p/w500/oEHxQwmXvcfOYycgUanPB11uiB3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uVKUGxUSfdsGk9mvLt9mDkbATw5.jpg",
+      "year": "2006",
+      "imdbRating": "3.8",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Mystère"
+      ],
+      "cast": [
+        "保志総一朗",
+        "Mai Nakahara",
+        "Satsuki Yukino",
+        "Mika Kanai",
+        "Yukari Tamura",
+        "Yui Horie"
+      ],
+      "description": "Juin 1983. Hinamizawa est une petite ville d'apparence paisible de la campagne japonaise où le personnage principal, Keiichi Maebara, vient emménager avec sa famille. Il va très vite se lier avec quatre de ses camarades de classe, quatre jeunes filles nommées Rena Ryugū, Mion Sonozaki, Rika Furude, et Satoko Hōjō, qui l'acceptent dans leur club d'amateurs de jeux de société.\n\nLeur bonne entente commence toutefois à se détériorer quand Keiichi apprend petit à petit certains éléments de l'histoire récente du village. Tout débute apparemment par un meurtre horrible commis quatre ans auparavant suivi d'une série de mystérieuses disparitions, mais ces faits sont passés sous silence. Pire, il semblerait que les amies de Keiichi aient été mêlées à ces événements !\n\nAprès le festival de Watanagashi, célébrant une déité locale, Oyashiro, de nouvelles énigmes apparaissent...",
+      "logo": "https://image.tmdb.org/t/p/w500/tTvuMbaNKIKwsrw8zqrrUPKeCzI.svg",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:116612",
+      "type": "series",
+      "name": "Au-delà du mal",
+      "poster": "https://image.tmdb.org/t/p/w500/khgMdk2ctVdk5KWaSJjVHRa2Use.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qCKFi1v109vOEHlc02AJFpBcS79.jpg",
+      "year": "2021",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "Kim Soo-jin",
+        "Sim Na-yeon"
+      ],
+      "cast": [
+        "신하균",
+        "Yeo Jin-gu",
+        "최대훈",
+        "최성은",
+        "Kim Shin-Rok",
+        "Cheon Ho-Jin"
+      ],
+      "description": "Un meurtre est commis dans une petite ville. Et s'il était lié à une affaire non élucidée ? Deux policiers cachant de lourds secrets se mettent en quête de la vérité.",
+      "logo": "https://image.tmdb.org/t/p/w500/9y9KrsvQGn1pGl2v0oKHslYerwT.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:97400",
+      "type": "series",
+      "name": "Sermons de minuit",
+      "poster": "https://image.tmdb.org/t/p/w500/cfyqm65puSpcfoXYxudKGydEZUr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4XbQb5YoWK9oMrlQdKwtZ1ccpC8.jpg",
+      "year": "2021",
+      "imdbRating": "3.7",
+      "genres": [
+        "Mystère",
+        "Drame"
+      ],
+      "director": [
+        "Mike Flanagan"
+      ],
+      "cast": [
+        "Hamish Linklater",
+        "Zach Gilford",
+        "Kate Siegel",
+        "Henry Thomas",
+        "Kristin Lehman",
+        "Samantha Sloyan"
+      ],
+      "description": "L'arrivée d'un jeune prêtre charismatique suscite des miracles et des mystères, et un regain de ferveur religieuse dans une ville mourante qui ne demande qu'à croire.",
+      "logo": "https://image.tmdb.org/t/p/w500/qhUiIRrMkcZSjKxCh5lxdbAE5nV.svg",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:217667",
+      "type": "series",
+      "name": "Eric",
+      "poster": "https://image.tmdb.org/t/p/w500/jXB3F6osI3oYROy3FdAe6tx31cV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2eX8Lx5VAl7ZKhwd5WOuGYwa3PW.jpg",
+      "year": "2024",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Abi Morgan"
+      ],
+      "cast": [
+        "Benedict Cumberbatch",
+        "Gaby Hoffmann",
+        "McKinley Belcher III",
+        "Dan Fogler",
+        "Clarke Peters",
+        "Adepero Oduye"
+      ],
+      "description": "New York, années 80. Un homme désespéré recherche son fils de 9 ans au côté d'un flic obstiné, tout en affrontant ses propres démons.",
+      "logo": "https://image.tmdb.org/t/p/w500/qNj6L8eTP5bceRcnGFjajbxVIMx.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:130464",
+      "type": "series",
+      "name": "Tell Me Lies",
+      "poster": "https://image.tmdb.org/t/p/w500/89MdnqogXNUcwoGDmTDQ84aatf6.jpg",
+      "background": "https://image.tmdb.org/t/p/original/q4KlioU6RzoscePvsK9rGD4ioRw.jpg",
+      "year": "2022",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Meaghan Oppenheimer"
+      ],
+      "cast": [
+        "Grace Van Patten",
+        "Jackson White",
+        "Catherine Missal",
+        "Alicia Crowder",
+        "Tom Ellis",
+        "Sonia Mena"
+      ],
+      "description": "Lorsque Lucy et Stephen se rencontrent à l'université, ils sont à l'âge où des choix apparemment banals mènent à des conséquences irrévocables. Ils tombent dans un enchevêtrement addictif qui altérera leurs vies et celles de ceux qui les entourent.",
+      "logo": "https://image.tmdb.org/t/p/w500/6kBhF019Z371LLnwOPNEPmwauOp.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:117933",
+      "type": "series",
+      "name": "Summer Time Rendering",
+      "poster": "https://image.tmdb.org/t/p/w500/36RTVhPywiKnOToLsa692DIi3iS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
+      "year": "2022",
+      "imdbRating": "3.7",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Mystère"
+      ],
+      "cast": [
+        "Natsuki Hanae",
+        "永瀬アンナ",
+        "白砂沙帆",
+        "Yōko Hikasa",
+        "浦山迅",
+        "小野賢章"
+      ],
+      "description": "Lorsqu'il apprend que Ushio, son amie d'enfance, est décédée, Shimpei décide de retourner sur son île natale, Hitogashima. Là-bas, il se rend vite compte que quelque chose ne tourne pas rond...\n\nS'il s'agissait d'une mort accidentelle, pourquoi une autopsie a-t-elle été réalisée ? Qu'a bien pu voir Mio, la petite sœur d'Ushio ? Mais avant de pouvoir répondre à ses questions, Shimpei et Mio sont assassinés par un double de cette dernière...\n\nEt voilà que Shimpei se réveille à nouveau sur le bateau qui le conduit à Hitogashima pour assister à l'enterrement d'Ushio...",
+      "logo": "https://image.tmdb.org/t/p/w500/vFb7iWw6MUbLIAB4RMKDhsSlt8X.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:156484",
+      "type": "series",
+      "name": "The 8 Show",
+      "poster": "https://image.tmdb.org/t/p/w500/qhMjTKlssxPz3xchJ1DQkDCfy9n.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5BvjF6KH25BKSQcNYDdzVhtnPzJ.jpg",
+      "year": "2024",
+      "imdbRating": "3.6",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Han Jae-rim"
+      ],
+      "cast": [
+        "Ryu Jun-yeol",
+        "Chun Woo-hee",
+        "Park Jeong-min",
+        "Yul-Eum Lee",
+        "박해준",
+        "Lee Joo-young"
+      ],
+      "description": "Huit personnes piégées dans un mystérieux immeuble de huit étages participent à une émission tentante mais dangereuse dans laquelle leurs gains augmentent avec le temps.",
+      "logo": "https://image.tmdb.org/t/p/w500/cjWtOw2fQvL0g8oiAhdfPvdsG6a.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:210232",
+      "type": "series",
+      "name": "The Watcher",
+      "poster": "https://image.tmdb.org/t/p/w500/wk5j0NjaCHmM2zq3gcgae497pVF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bebZzFw1mBzF9UwCO3ocW0PIIby.jpg",
+      "year": "2022",
+      "imdbRating": "3.5",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Ian Brennan",
+        "Ryan Murphy"
+      ],
+      "cast": [
+        "Naomi Watts",
+        "Bobby Cannavale",
+        "Isabel Gravitt",
+        "Luke David Blumm",
+        "Jennifer Coolidge",
+        "Margo Martindale"
+      ],
+      "description": "Dean et Nora Brannock  viennent d'acheter la maison de leurs rêves au cœur du quartier résidentiel idyllique de Westfield, dans le New Jersey. Mais alors qu'ils ont engagé toutes leurs économies dans cet achat, ils s'aperçoivent bientôt que le voisinage est bien peu accueillant. Il y a d'abord cette vieille dame excentrique, Pearl, et son frère Jasper, qui s'introduisent chez eux et se cachent dans le monte-plats. Il y a aussi Karen, agente immobilière et vieille connaissance de Nora, qui ne manque pas une occasion de leur donner le sentiment qu'ils n'ont rien à faire là. Et il y a les voisins fouineurs, Mitch et Mo, qui ne respectent pas les limites de leur propriété. Cet accueil glacial se mue bientôt en véritable enfer quand les Brannock commencent à recevoir des lettres menaçantes d'une personne qui signe \"The Watcher\". Terrifiée, la famille est à bout quand les sinistres secrets du voisinage refont surface.",
+      "logo": "https://image.tmdb.org/t/p/w500/amxr42uSkXvzguu8mA4COLIvd5l.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:134095",
+      "type": "series",
+      "name": "Un meurtre au bout du monde",
+      "poster": "https://image.tmdb.org/t/p/w500/2DG6P6U6kqBHZtxSRsiFLWe6S72.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nX3mNxSNgtVbzDFaqLW9sroqSkc.jpg",
+      "year": "2023",
+      "imdbRating": "3.5",
+      "genres": [
+        "Mystère",
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Brit Marling",
+        "Zal Batmanglij"
+      ],
+      "cast": [
+        "Emma Corrin",
+        "Brit Marling",
+        "Harris Dickinson",
+        "Alice Braga",
+        "Joan Chen",
+        "Raúl Esparza"
+      ],
+      "description": "Darby Hart, pirate informatique de la génération Z. Dans cette minisérie, Darby et huit autres personnes sont invitées par un milliardaire solitaire à séjourner dans un lieu spectaculaire, mais isolé. Lorsque l'un des invités est retrouvé mort, Darby doit utiliser ses compétences pour prouver qu'il s'agit bien d'un meurtre, malgré une majorité d'avis contraires et avant que le tueur ne récidive.",
+      "logo": "https://image.tmdb.org/t/p/w500/paTJOcdUM5jqoGmYFHYt2mlk0xU.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:83659",
+      "type": "series",
+      "name": "Le Cabinet de curiosités de Guillermo del Toro",
+      "poster": "https://image.tmdb.org/t/p/w500/um2u0Vsz4GVFUV3N3EEUh9qCULO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gM1diqqPFu5oRpEVsx84SPBYvV3.jpg",
+      "year": "2022",
+      "imdbRating": "3.4",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Guillermo del Toro"
+      ],
+      "description": "Ces huit contes d'horreur proposés par Guillermo del Toro font surgir des cauchemars étranges dans une collection visuellement éblouissante qui donne la chair de poule.",
+      "logo": "https://image.tmdb.org/t/p/w500/81NhUFShUoXfhPsJcRBPVJXItQC.png",
+      "status": "Terminée"
+    },
+    {
+      "id": "tmdb:119955",
+      "type": "series",
+      "name": "Dr. Brain",
+      "poster": "https://image.tmdb.org/t/p/w500/mAc84IA2FS6syMEMnElGI1Ja23R.jpg",
+      "background": "https://image.tmdb.org/t/p/original/87IhSzFxzvZIFmLOzfl4HJPe4p2.jpg",
+      "year": "2021",
+      "imdbRating": "3.4",
+      "genres": [
+        "Mystère",
+        "Drame"
+      ],
+      "director": [
+        "Kim Jee-woon"
+      ],
+      "cast": [
+        "Sun-kyun Lee",
+        "Park Hee-soon",
+        "서지혜",
+        "이유영",
+        "이재원",
+        "유태오"
+      ],
+      "description": "Sewon, un brillant neuroscientifique, est victime d'une terrible tragédie. Déterminé à faire la lumière sur ce qui est arrivé à sa famille, il réalise des synchronisations cérébrales avec des morts pour accéder à leurs souvenirs et trouver des indices.",
+      "logo": "https://image.tmdb.org/t/p/w500/t7UxuP4mtUHXSv9pKPFRtR4Mfgh.png",
+      "status": "Annulée"
+    },
+    {
+      "id": "tmdb:113036",
+      "type": "series",
+      "name": "American Horror Stories",
+      "poster": "https://image.tmdb.org/t/p/w500/uQboYmWytclPlnDjlCcFL7WlM7a.jpg",
+      "background": "https://image.tmdb.org/t/p/original/r2ogqivZ9dwpU4ya7EKHA9kMcrL.jpg",
+      "year": "2021",
+      "imdbRating": "3.3",
+      "genres": [
+        "Drame",
+        "Mystère"
+      ],
+      "director": [
+        "Ryan Murphy",
+        "Brad Falchuk"
+      ],
+      "description": "Spin-off d'American Horror Story, American Horror Stories est constituée d'épisodes indépendants ayant pour thème un univers horrifique qui fait référence à de nombreux faits divers comme des légendes urbaines et des histoires paranormales.",
+      "logo": "https://image.tmdb.org/t/p/w500/5AniIgiaeJODaqwHNxP8tF6O33I.png",
+      "status": "En cours"
+    },
+    {
+      "id": "tmdb:75775",
+      "type": "series",
+      "name": "Junji Itô Collection",
+      "poster": "https://image.tmdb.org/t/p/w500/4tRv9ZSW4OqQG74NcGUjFPf1jtH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/33szknNsrRWiw8NPJZbVXOkfBfy.jpg",
+      "year": "2018",
+      "imdbRating": "3.1",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Mystère"
+      ],
+      "cast": [
+        "三ツ矢雄二",
+        "Mami Koyama",
+        "末柄里恵",
+        "Hiro Shimono",
+        "Hikaru Midorikawa"
+      ],
+      "description": "Une collection d’histoires courtes, toutes adaptées de célèbres mangas de Junji Itô, le maître de l’horreur japonais. Parmi celles-ci, Tomié, Spirale ou encore Le Journal de Soïchi.",
+      "logo": "https://image.tmdb.org/t/p/w500/8woLl7LdexI3WeiPegB2fauC9lD.png",
+      "status": "Terminée"
+    }
+  ]
+}

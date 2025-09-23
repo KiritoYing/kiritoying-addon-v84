@@ -1,0 +1,116 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:68718",
+      "type": "movie",
+      "name": "Django Unchained",
+      "poster": "https://image.tmdb.org/t/p/w500/vRXUnWrXUgXRoX0BaEcuNMfyeQt.jpg",
+      "background": "https://image.tmdb.org/t/p/original/n2eUT4zQA2yYcKOgAFidgOyiFoH.jpg",
+      "year": "2012",
+      "imdbRating": "4.5",
+      "genres": [
+        "Drame",
+        "Western"
+      ],
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio",
+        "Kerry Washington",
+        "Samuel L. Jackson",
+        "Walton Goggins"
+      ],
+      "description": "Dans le sud des États‐Unis, deux ans avant la guerre de Sécession, le Dr King Schultz, un chasseur de primes allemand, fait l’acquisition de Django, un esclave qui peut l’aider à traquer les frères Brittle, les meurtriers qu’il recherche. Schultz promet à Django de lui rendre sa liberté lorsqu’il aura capturé les Brittle – morts ou vifs. Alors que les deux hommes pistent les dangereux criminels, Django n’oublie pas que son seul but est de retrouver Broomhilda, sa femme, dont il fut séparé à cause du commerce des esclaves… Lorsque Django et Schultz arrivent dans l’immense plantation du puissant Calvin Candie, ils éveillent les soupçons de Stephen, un esclave qui sert Candie et a toute sa confiance. Le moindre de leurs mouvements est désormais épié par une dangereuse organisation de plus en plus proche… Si Django et Schultz veulent espérer s’enfuir avec Broomhilda, ils vont devoir choisir entre l’indépendance et la solidarité, entre le sacrifice et la survie…",
+      "runtime": "2h45",
+      "logo": "https://image.tmdb.org/t/p/w500/5bTWzFG9ND6eNTMw65HJN81ZuTK.png"
+    },
+    {
+      "id": "tmdb:281957",
+      "type": "movie",
+      "name": "The Revenant",
+      "poster": "https://image.tmdb.org/t/p/w500/AsDto68FNWNXD15Ov0yMXASJiSB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sGOw65ZmfgGfistCjuNsazjs6j9.jpg",
+      "year": "2015",
+      "imdbRating": "4.2",
+      "genres": [
+        "Western",
+        "Drame",
+        "Aventure"
+      ],
+      "director": [
+        "Alejandro González Iñárritu"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Tom Hardy",
+        "Domhnall Gleeson",
+        "Will Poulter",
+        "Forrest Goodluck",
+        "Duane Howard"
+      ],
+      "description": "Dans une Amérique profondément sauvage, le trappeur Hugh Glass est sévèrement blessé et laissé pour mort par un traître de son équipe, John Fitzgerald. Avec sa seule volonté pour unique arme, Glass doit affronter un environnement hostile, un hiver brutal et des tribus guerrières, dans une inexorable lutte pour sa survie, portée par un intense désir de vengeance.",
+      "runtime": "2h37",
+      "logo": "https://image.tmdb.org/t/p/w500/mEX6DxONWq0WAk3VnQMKV5OYjo2.png"
+    },
+    {
+      "id": "tmdb:6977",
+      "type": "movie",
+      "name": "No Country for Old Men",
+      "poster": "https://image.tmdb.org/t/p/w500/hxVT4KTmjVxVbsnvImm6WWgLMzg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mkXwF7FFWpf2dkOGCzQoeWX7M6R.jpg",
+      "year": "2007",
+      "imdbRating": "4.2",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Western"
+      ],
+      "director": [
+        "Joel Coen",
+        "Ethan Coen"
+      ],
+      "cast": [
+        "Javier Bardem",
+        "Tommy Lee Jones",
+        "Josh Brolin",
+        "Woody Harrelson",
+        "Kelly Macdonald",
+        "Garret Dillahunt"
+      ],
+      "description": "1980, États-Unis, à la frontière qui sépare le Texas du Mexique, les trafiquants mexicains de drogue ont depuis longtemps remplacé les voleurs de bétail. Lorsque Llewelyn Moss découvre dans une plaine des véhicules abandonnés, cernée de cadavres ensanglantés, il ne sait rien de ce qui a conduit à ce drame. Mais il comprend qu'un échange a mal tourné et qu'ils se sont entre-tués. Il recherche un éventuel survivant, le piste et le retrouve mort, au pied d'un arbre avec une valise contenant deux millions de dollars qu'il emporte. Il ne se doute pas de ce que cela va provoquer, mais il se doute que les trafiquants ne vont pas abandonner l'argent. Moss a déclenché une réaction en chaîne que le shérif Ed Tom Bell, un homme proche de la retraite, lucide et clairvoyant, va suivre à la trace...",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/a3Cfpm8yIHBc5e37QFopqQOdoTl.png"
+    },
+    {
+      "id": "tmdb:82633",
+      "type": "movie",
+      "name": "Des hommes sans loi",
+      "poster": "https://image.tmdb.org/t/p/w500/487JTmyO7RZvyCmLDr4bsQtY1XN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fEI7I233M9hkw1MRSBXEgauXhRl.jpg",
+      "year": "2012",
+      "imdbRating": "4.1",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Western"
+      ],
+      "director": [
+        "John Hillcoat"
+      ],
+      "cast": [
+        "Shia LaBeouf",
+        "Tom Hardy",
+        "Gary Oldman",
+        "Guy Pearce",
+        "Jason Clarke",
+        "Jessica Chastain"
+      ],
+      "description": "1931, Au cœur de l’Amérique en pleine Prohibition, dans le comté de Franklin en Virginie, état célèbre pour sa production d’alcool de contrebande, les trois frères Bondurant sont des trafiquants notoires : Jack, le plus jeune, ambitieux et impulsif, veut transformer la petite affaire familiale en trafic d’envergure. Il rêve de beaux costumes, d’armes, et espère impressionner la sublime Bertha… Howard, le cadet, est le bagarreur de la famille. Loyal, son bon sens se dissout régulièrement dans l’alcool qu’il ne sait pas refuser… Forrest, l’aîné, fait figure de chef et reste déterminé à protéger sa famille des nouvelles règles qu’impose un nouveau monde économique. Lorsque Maggie débarque fuyant Chicago, il la prend aussi sous sa protection. Seuls contre une police corrompue, une justice arbitraire et des gangsters rivaux, les trois frères écrivent leur légende : une lutte pour rester sur leur propre chemin, au cours de la première grande ruée vers l’or du crime.",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/1JQV3FXpwag99XHU09zX1gYnlLM.png"
+    }
+  ]
+}

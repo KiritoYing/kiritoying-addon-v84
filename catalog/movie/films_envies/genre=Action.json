@@ -1,0 +1,3627 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:101",
+      "type": "movie",
+      "name": "Léon",
+      "poster": "https://image.tmdb.org/t/p/w500/oBhmd3261OkJ4Yg2FdSiD2wnyfe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jynfI114q3kOAbIiVjVfFFmttU2.jpg",
+      "year": "1994",
+      "imdbRating": "4.3",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "Luc Besson"
+      ],
+      "cast": [
+        "Jean Reno",
+        "Natalie Portman",
+        "Gary Oldman",
+        "Danny Aiello",
+        "Peter Appel",
+        "Michael Badalucco"
+      ],
+      "description": "Léon est un tueur professionnel redoutable et insaisissable. Il vit seul à New York avec sa plante verte et ses habitudes jusqu'au jour où une petite Mathilda de douze ans sonne à sa porte et fait irruption dans sa vie.",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/2BHg0eOTo98nR8yQelAfNYFUSih.png"
+    },
+    {
+      "id": "tmdb:359724",
+      "type": "movie",
+      "name": "Le Mans 66",
+      "poster": "https://image.tmdb.org/t/p/w500/2KQI0x6AEdbiN6z4LWjKZHukMzZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+      "year": "2019",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Action",
+        "Histoire"
+      ],
+      "director": [
+        "James Mangold"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Christian Bale",
+        "Jon Bernthal",
+        "Caitríona Balfe",
+        "Josh Lucas",
+        "Noah Jupe"
+      ],
+      "description": "Relate l’histoire vraie qui a conduit l’ingénieur automobile visionnaire américain Caroll Shelby à faire équipe avec le pilote de course britannique surdoué Ken Miles. Bravant l’ordre établi, défiant les lois de la physique et luttant contre leurs propres démons, les deux hommes n’avaient qu’un seul but : construire pour le compte de Ford Motor Company un bolide révolutionnaire capable de renverser la suprématie de l’écurie d’Enzo Ferrari sur le mythique circuit des 24 heures du Mans en 1966…",
+      "runtime": "2h33",
+      "logo": "https://image.tmdb.org/t/p/w500/bH8b2sHYmoCO9GlJtzKTVpYWPqa.png"
+    },
+    {
+      "id": "tmdb:59440",
+      "type": "movie",
+      "name": "Warrior",
+      "poster": "https://image.tmdb.org/t/p/w500/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zb7b40ieuRGiIc9ebIEapneaCsl.jpg",
+      "year": "2011",
+      "imdbRating": "4.3",
+      "genres": [
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "Gavin O'Connor"
+      ],
+      "cast": [
+        "Joel Edgerton",
+        "Tom Hardy",
+        "Nick Nolte",
+        "Jennifer Morrison",
+        "Frank Grillo",
+        "Kevin Dunn"
+      ],
+      "description": "Ancien Marine brisé, Tommy Conlon rentre au pays et demande à son père de le préparer pour un tournoi d’arts martiaux mixtes qui lui permettrait de gagner une fortune. Personne ne sait ce qu’il espère faire de cet argent. Le propre frère de Tommy, Brendan, décide lui aussi de s’engager dans la compétition pour essayer de sauver sa famille. Entre les deux frères, les années n’ont pas adouci les rancœurs. Immanquablement, les routes de Tommy et de Brendan vont bientôt se croiser. Au‐delà de l’affrontement qui s’annonce, pour chacun, quelle que soit la cause qu’ils défendent, il n’est pas seulement question de remporter un prix, mais de mener le combat d’une vie…",
+      "runtime": "2h20",
+      "logo": "https://image.tmdb.org/t/p/w500/7RLPwKU6S5OkdnXudznvd9chLuA.png"
+    },
+    {
+      "id": "tmdb:315465",
+      "type": "movie",
+      "name": "Le Garçon et la Bête",
+      "poster": "https://image.tmdb.org/t/p/w500/ApHYRWgO8lTSDlHeOuOsskeHwHH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8yniaG7C4iCm0VVTSShAPUZYM3Y.jpg",
+      "year": "2015",
+      "imdbRating": "4.3",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Animation",
+        "Drame",
+        "Familial"
+      ],
+      "director": [
+        "Mamoru Hosoda"
+      ],
+      "cast": [
+        "役所広司",
+        "宮﨑あおい",
+        "Shōta Sometani",
+        "広瀬すず",
+        "Lily Franky",
+        "大泉洋"
+      ],
+      "description": "Après le décès de sa mère, Ren, 9 ans, refuse de vivre avec sa famille éloignée et prend la fuite. À la nuit tombée, alors qu’il arpente seul les rues du quartier de Shibuya, il est interpellé par un étrange personnage encapuchonné… Sous la cape se cache Kumatetsu, une bête au corps imposant et aux dents aiguisées venue d’un univers parallèle au nôtre. Transporté dans ce monde fantastique peuplé de bêtes étranges, le jeune garçon va se retrouver à son insu disciple de cet ours tumultueux ! Il devra désormais apprendre à composer avec son nouveau maître au tempérament… bestial !",
+      "runtime": "1h59",
+      "logo": "https://image.tmdb.org/t/p/w500/5sF1wsBHyiyT4RYCUmGWv6j9bAL.png"
+    },
+    {
+      "id": "tmdb:76341",
+      "type": "movie",
+      "name": "Mad Max : Fury Road",
+      "poster": "https://image.tmdb.org/t/p/w500/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+      "year": "2015",
+      "imdbRating": "4.2",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Science-Fiction"
+      ],
+      "director": [
+        "George Miller"
+      ],
+      "cast": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult",
+        "Hugh Keays-Byrne",
+        "Josh Helman",
+        "Nathan Jones"
+      ],
+      "description": "Hanté par un lourd passé, Mad Max estime que le meilleur moyen de survivre est de rester seul. Cependant, il se retrouve embarqué par une bande qui parcourt le désert à bord d’un véhicule militaire piloté par l’Impératrice Furiosa. Ils fuient la Citadelle où sévit le terrible Immortan Joe qui s’est fait voler un objet irremplaçable. Enragé, ce Seigneur de guerre envoie ses hommes pour traquer les rebelles impitoyablement…",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/dtf5ivoyuvZWB43D1DSISv6oiJE.png"
+    },
+    {
+      "id": "tmdb:24",
+      "type": "movie",
+      "name": "Kill Bill : Volume 1",
+      "poster": "https://image.tmdb.org/t/p/w500/udRaQKzT0LG4iQFxHLaYjno9uAT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/p3WiF8qYS7Qp17YRYgrFh7gf9P9.jpg",
+      "year": "2003",
+      "imdbRating": "4.2",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "director": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        "Uma Thurman",
+        "Lucy Liu",
+        "Vivica A. Fox",
+        "Daryl Hannah",
+        "David Carradine",
+        "Michael Madsen"
+      ],
+      "description": "Au cours d'un mariage, un commando armé massacre l'assistance, laissant pour morte la Mariée et l'enfant qu'elle porte. Après 4 ans de coma, la Mariée se lance à la poursuite des assassins, membres du clan de Bill, au sein duquel, sous le pseudonyme de Black Mamba, elle exerça elle-même autrefois ses talents de redoutable tueuse…",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/dvdglKNKGk43p4jiA3FnTQ3oB75.png"
+    },
+    {
+      "id": "tmdb:562",
+      "type": "movie",
+      "name": "Piège de cristal",
+      "poster": "https://image.tmdb.org/t/p/w500/1nOVVjbf8ucbeLmIlK5D2kCQQST.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rahJyvdMruvqUmSLWRQKYS57mx8.jpg",
+      "year": "1988",
+      "imdbRating": "4.2",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "John McTiernan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Alan Rickman",
+        "Александр Годунов",
+        "Bonnie Bedelia",
+        "Reginald VelJohnson",
+        "Paul Gleason"
+      ],
+      "description": "John McClane, un policier de New York, tente de sauver sa femme Holly Gennaro et un groupe d'autres personnes prises en otage par le terroriste allemand Hans Gruber lors d'une fête de Noël au Nakatomi Plaza de Los Angeles.",
+      "runtime": "2h12",
+      "logo": "https://image.tmdb.org/t/p/w500/taW4Bu1ndiqSdwRyDiN4wBaPQcZ.png"
+    },
+    {
+      "id": "tmdb:197",
+      "type": "movie",
+      "name": "Braveheart",
+      "poster": "https://image.tmdb.org/t/p/w500/cteCb7HgeNmx8aeu5drpTb7N8fB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+      "year": "1995",
+      "imdbRating": "4.2",
+      "genres": [
+        "Action",
+        "Drame",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Mel Gibson"
+      ],
+      "cast": [
+        "Mel Gibson",
+        "Catherine McCormack",
+        "Sophie Marceau",
+        "Patrick McGoohan",
+        "Angus Macfadyen",
+        "Brendan Gleeson"
+      ],
+      "description": "À la fin du XIIIe siècle, le roi Edward 1er d'Angleterre s'empare du trône d’Écosse, réduisant son peuple à la misère. William Wallace donne le signe de la révolte et, à la tête d'une armée de gueux, parvient à reconquérir plusieurs places fortes. Mais les nobles écossais sont lâchés et par deux fois trahissent le héros de leur peuple…",
+      "runtime": "2h58",
+      "logo": "https://image.tmdb.org/t/p/w500/pR5G2Uac1QcbTUY4zJa3NEexlYb.png"
+    },
+    {
+      "id": "tmdb:670",
+      "type": "movie",
+      "name": "Old Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/u0Ct3708zXaoJCkF65bLfenQmhM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
+      "year": "2003",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Mystère",
+        "Action"
+      ],
+      "director": [
+        "Park Chan-Wook"
+      ],
+      "cast": [
+        "Choi Min-sik",
+        "Yoo Ji-Tae",
+        "Kang Hye-Jung",
+        "김병옥",
+        "지대한",
+        "Oh Dal-su"
+      ],
+      "description": "À la fin des années 80, Oh Dae-Soo, père de famille sans histoire, est enlevé un jour devant chez lui. Séquestré pendant plusieurs années dans une cellule privée, son seul lien avec l'extérieur est une télévision. Par le biais de cette télévision, il apprend le meurtre de sa femme, meurtre dont il est le principal suspect. Au désespoir d'être séquestré sans raison apparente succède alors chez le héros une rage intérieure vengeresse qui lui permet de survivre. Il est relâché 15 ans plus tard, toujours sans explication. Oh Dae-Soo est alors contacté par celui qui semble être le responsable de ses malheurs, qui lui propose de découvrir qui l'a enlevé et pourquoi. Le cauchemar continue pour le héros.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/yuCU6rK9156dYaI4NuuosTdJ3tr.png"
+    },
+    {
+      "id": "tmdb:1572",
+      "type": "movie",
+      "name": "Une Journée en enfer",
+      "poster": "https://image.tmdb.org/t/p/w500/5AObtYoyodZluhmJVcidvzzKfiv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fBvSfLetWlAMevQVHa0nBDV1Fon.jpg",
+      "year": "1995",
+      "imdbRating": "4.2",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "John McTiernan"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Samuel L. Jackson",
+        "Jeremy Irons",
+        "Larry Bryggman",
+        "Graham Greene",
+        "Anthony Peck"
+      ],
+      "description": "Décidément, John McLane ne peut jamais avoir la paix ! Après avoir libéré un building des mains d’un terroriste, après avoir sauvé sa femme d’un avion en perdition, le voilà aux prises avec un psychopathe qui le fait jouer à un « Jacques a dit » meurtrier. Les règles sont simples, si il ne résout pas les énigmes posées, une bombe explose dans un lieu public.",
+      "runtime": "2h08",
+      "logo": "https://image.tmdb.org/t/p/w500/oN0h7gEHwpjdE7pYD1Ib5JyGxss.png"
+    },
+    {
+      "id": "tmdb:792",
+      "type": "movie",
+      "name": "Platoon",
+      "poster": "https://image.tmdb.org/t/p/w500/rehBWOx9AIkZRKVuiemWvAMH40.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wjt1dwtabVm9vujAteDTnXnpHfZ.jpg",
+      "year": "1986",
+      "imdbRating": "4.2",
+      "genres": [
+        "Drame",
+        "Guerre",
+        "Action"
+      ],
+      "director": [
+        "Oliver Stone"
+      ],
+      "cast": [
+        "Charlie Sheen",
+        "Willem Dafoe",
+        "Tom Berenger",
+        "Kevin Dillon",
+        "Forest Whitaker",
+        "Mark Moses"
+      ],
+      "description": "Septembre 1967 : Chris Taylor, dix‐neuf ans, rejoint la compagnie Bravo du 25ème régiment d’infanterie, près de la frontière cambodgienne. Chris, issu d’une famille bourgeoise s’est engagé volontairement et, plein d’idéal entend bien servir son pays. Mais la réalité est tout autre et ses illusions vont tomber les unes après les autres. Il sera également témoin de la rivalité sanglante qui oppose deux officiers qu’il admire.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/72IANM0v3DTzYel7Oc8pUSyAeau.png"
+    },
+    {
+      "id": "tmdb:193756",
+      "type": "movie",
+      "name": "Du Sang et des Larmes",
+      "poster": "https://image.tmdb.org/t/p/w500/uCW7HmDXijX4ML8CqDRT7E9anBj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/g6QPI70Kzt91Q0lGyLfsVqZAwlJ.jpg",
+      "year": "2013",
+      "imdbRating": "4.2",
+      "genres": [
+        "Guerre",
+        "Action",
+        "Drame"
+      ],
+      "director": [
+        "Peter Berg"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Taylor Kitsch",
+        "Emile Hirsch",
+        "Ben Foster",
+        "Eric Bana",
+        "Ali Suliman"
+      ],
+      "description": "Le 28 juin 2005, un commando de quatre Navy Seals prend part à l'opération «Red Wing», qui a pour but de localiser et éliminer le leader taliban Ahmad Shah. Mais rapidement repérés et encerclés, les quatre soldats vont se retrouver pris au piège.",
+      "runtime": "1h57",
+      "logo": "https://image.tmdb.org/t/p/w500/vMZ8s55hh5SKaFm8biSa0DqyZfH.png"
+    },
+    {
+      "id": "tmdb:637534",
+      "type": "movie",
+      "name": "BAC Nord",
+      "poster": "https://image.tmdb.org/t/p/w500/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vkIJ2QgcKMJRvi6pBW4Tr2kgLdy.jpg",
+      "year": "2021",
+      "imdbRating": "4.2",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Crime",
+        "Short"
+      ],
+      "director": [
+        "Cédric Jimenez"
+      ],
+      "cast": [
+        "Gilles Lellouche",
+        "François Civil",
+        "Karim Leklou",
+        "Adèle Exarchopoulos",
+        "Cyril Lecomte",
+        "Kenza Fortas"
+      ],
+      "description": "2012. Les quartiers Nord de Marseille détiennent un triste record : la zone au taux de criminalité le plus élevé de France. Poussée par sa hiérarchie, la BAC Nord, brigade de terrain, cherche sans cesse à améliorer ses résultats. Dans un secteur à haut risque, les flics adaptent leurs méthodes, franchissant parfois la ligne jaune. Jusqu'au jour où le système judiciaire se retourne contre eux…",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/mLS4PmwEEcMHiz73Ssnwdzimf0f.svg"
+    },
+    {
+      "id": "tmdb:961323",
+      "type": "movie",
+      "name": "Nimona",
+      "poster": "https://image.tmdb.org/t/p/w500/9n0Zahi1SJwaqMB4FyQ7nOE9uT0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4QpKxH614YFIsmiIBVUbsnG2H8w.jpg",
+      "year": "2023",
+      "imdbRating": "4.2",
+      "genres": [
+        "Animation",
+        "Familial",
+        "Action",
+        "Science-Fiction",
+        "Aventure",
+        "Drame"
+      ],
+      "director": [
+        "Troy Quane",
+        "Nick Bruno"
+      ],
+      "cast": [
+        "Chloë Grace Moretz",
+        "Riz Ahmed",
+        "Eugene Lee Yang",
+        "Frances Conroy",
+        "Lorraine Toussaint",
+        "Beck Bennett"
+      ],
+      "description": "Pour se disculper, un chevalier accusé d'un crime tragique fait équipe avec une adolescente bagarreuse et métamorphe qui pourrait bien être le monstre qu'il a juré de détruire.",
+      "runtime": "1h41",
+      "logo": "https://image.tmdb.org/t/p/w500/yMuiqdlSDyipYQDo6zGoGP6yPta.png"
+    },
+    {
+      "id": "tmdb:2440",
+      "type": "movie",
+      "name": "JSA (Joint Security Area)",
+      "poster": "https://image.tmdb.org/t/p/w500/rudBOKESMvmbN3SKd2Ta3l9GlrS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tAxFr4RkDcRzTqRgZ0pDNvrSTrN.jpg",
+      "year": "2000",
+      "imdbRating": "4.2",
+      "genres": [
+        "Guerre",
+        "Drame",
+        "Thriller",
+        "Mystère",
+        "Action"
+      ],
+      "director": [
+        "Park Chan-Wook"
+      ],
+      "cast": [
+        "이영애",
+        "Lee Byung-hun",
+        "Song Kang-ho",
+        "Tae-woo Kim",
+        "신하균",
+        "Herbert Ulrich"
+      ],
+      "description": "A la suite d'une fusillade dans la Zone Commune de Sécurité (Joint Security Area) séparant les deux Corée : deux soldats de l’armée nord-coréenne sont retrouvés morts. Cette affaire donne lieu a un incident diplomatique majeur entre les deux pays. Afin que la situation ne dégénère pas, une jeune enquêtrice suisse est chargée de mener les auditions des soldats qui étaient en poste... Elle se rend très vite compte que les divers témoignages rendent l’enquête complètement indémêlable… Que s’est-il vraiment passé, ce soir-là, entre les soldats des deux Corée, dans la Zone Commune de Sécurité ?",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/9ywLvpdildlqI9ZZXc56t0F3CvX.png"
+    },
+    {
+      "id": "tmdb:752",
+      "type": "movie",
+      "name": "V pour Vendetta",
+      "poster": "https://image.tmdb.org/t/p/w500/4HFt1jyjZD3MssiyNPJLToqGd1v.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+      "year": "2006",
+      "imdbRating": "4.1",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science-Fiction"
+      ],
+      "director": [
+        "James McTeigue"
+      ],
+      "cast": [
+        "Natalie Portman",
+        "Hugo Weaving",
+        "Stephen Rea",
+        "Stephen Fry",
+        "John Hurt",
+        "Tim Pigott-Smith"
+      ],
+      "description": "Londres, au 21ème siècle… Evey Hammond ne veut rien oublier de l’homme qui lui sauva la vie et lui permit de dominer ses peurs les plus lointaines. Mais il fut un temps où elle n’aspirait qu’à l’anonymat pour échapper à une police secrète omnipotente. Comme tous ses concitoyens, trop vite soumis, elle acceptait que son pays ait perdu son âme et se soit donné en masse au tyran Sutler et à ses partisans. Une nuit, alors que deux « gardiens de l’ordre » s’apprêtaient à la violer dans une rue déserte, Evey vit surgir son libérateur. Et rien ne fut plus comme avant. Son apprentissage commença quelques semaines plus tard sous la tutelle de « V ». Evey ne connaîtrait jamais son nom et son passé, ne verrait jamais son visage atrocement brûlé et défiguré, mais elle deviendrait à la fois son unique disciple, sa seule amie et le seul amour d’une vie sans amour…",
+      "runtime": "2h12",
+      "logo": "https://image.tmdb.org/t/p/w500/7AKeizlGlhGll1gbADwSvQ6fZD3.png"
+    },
+    {
+      "id": "tmdb:190859",
+      "type": "movie",
+      "name": "American Sniper",
+      "poster": "https://image.tmdb.org/t/p/w500/9BEN7zRpoLBaBU3t97kPJkHUgnv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rl95VDEP3nsUQmGzE0S1S7y6T0N.jpg",
+      "year": "2014",
+      "imdbRating": "4.1",
+      "genres": [
+        "Guerre",
+        "Action"
+      ],
+      "director": [
+        "Clint Eastwood"
+      ],
+      "cast": [
+        "Bradley Cooper",
+        "Sienna Miller",
+        "Kyle Gallner",
+        "Cole Konis",
+        "Ben Reed",
+        "Elise Robertson"
+      ],
+      "description": "Tireur d’élite des Navy SEAL, Chris Kyle est envoyé en Irak dans un seul but : protéger ses camarades. Sa précision chirurgicale sauve d’innombrables vies humaines sur le champ de bataille et, tandis que les récits de ses exploits se multiplient, il décroche le surnom de « La Légende ». Cependant, sa réputation se propage au-delà des lignes ennemies, si bien que sa tête est mise à prix et qu’il devient une cible privilégiée des insurgés. Malgré le danger, et l’angoisse dans laquelle vit sa famille, Chris participe à quatre batailles décisives parmi les plus terribles de la guerre en Irak, s’imposant ainsi comme l’incarnation vivante de la devise des SEAL : « Pas de quartier ! ». Mais en rentrant au pays, Chris prend conscience qu’il ne parvient pas à retrouver une vie normale.",
+      "runtime": "2h12",
+      "logo": "https://image.tmdb.org/t/p/w500/wnN9XK82o5LMp0Okh583lOV7HYk.png"
+    },
+    {
+      "id": "tmdb:228150",
+      "type": "movie",
+      "name": "Fury",
+      "poster": "https://image.tmdb.org/t/p/w500/7V05gBGiE5LCTKzylIva2nG3JVW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg",
+      "year": "2014",
+      "imdbRating": "4.1",
+      "genres": [
+        "Guerre",
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "David Ayer"
+      ],
+      "cast": [
+        "Brad Pitt",
+        "Shia LaBeouf",
+        "Logan Lerman",
+        "Michael Peña",
+        "Jon Bernthal",
+        "Jim Parrack"
+      ],
+      "description": "Avril 1945. Les Alliés mènent leur ultime offensive en Europe. À bord d’un tank Sherman, le sergent Wardaddy et ses 4 hommes s’engagent dans une mission à très haut risque bien au-delà des lignes ennemies. Face à un adversaire dont le nombre et la puissance de feu les dépassent, Wardaddy et son équipage vont devoir tout tenter pour frapper l’Allemagne nazie en plein cœur…",
+      "runtime": "2h14",
+      "logo": "https://image.tmdb.org/t/p/w500/v3ticRB3hl6Iw9aiJm5cYJn7qub.png"
+    },
+    {
+      "id": "tmdb:180",
+      "type": "movie",
+      "name": "Minority Report",
+      "poster": "https://image.tmdb.org/t/p/w500/hb0cri8EVIWbiKbumXOkrl1ethM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/r1gLQFbpkWWLrOEPmpqzzMIUxxj.jpg",
+      "year": "2002",
+      "imdbRating": "4.1",
+      "genres": [
+        "Science-Fiction",
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Samantha Morton",
+        "Colin Farrell",
+        "Max von Sydow",
+        "Kathryn Morris",
+        "Steve Harris"
+      ],
+      "description": "Washington, 2054. Plus aucun meurtre ne se produit grâce au « pré-crime », l’unité policière dirigée par John Anderton. Cette unité dispose d'un système lui permettant de visualiser les meurtres avant qu'ils ne se produisent. Mais quand John découvre qu'il est lui-même accusé d'un meurtre à venir, il n'a que 36 heures pour comprendre le véritable fonctionnement de ce système.",
+      "runtime": "2h25",
+      "logo": "https://image.tmdb.org/t/p/w500/xn3UbIliWqRXQH50RDSga47FvPs.png"
+    },
+    {
+      "id": "tmdb:149",
+      "type": "movie",
+      "name": "Akira",
+      "poster": "https://image.tmdb.org/t/p/w500/8fCn7TwTe0Z4fTugIiLssX6UcHe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+      "year": "1988",
+      "imdbRating": "4.1",
+      "genres": [
+        "Animation",
+        "Science-Fiction",
+        "Action"
+      ],
+      "director": [
+        "Katsuhiro Ōtomo"
+      ],
+      "cast": [
+        "岩田光央",
+        "佐々木望",
+        "Mami Koyama",
+        "石田太郎",
+        "鈴木瑞穂",
+        "Tesshô Genda"
+      ],
+      "description": "Tetsuo, un adolescent ayant vécu une enfance difficile, est la victime d'expériences visant à développer les capacités psychiques qui dorment en chacun de nous. Ainsi doté d'une puissance que lui-même ne peut imaginer, Tetsuo décide de partir en guerre contre le monde qui l'a opprimé. Dès lors, Il se retrouve au cœur d'une légende populaire qui annonce le retour prochain d'Akira, un enfant aux pouvoirs extra-ordinaires censé délivrer Tokyo du chaos...",
+      "runtime": "2h04",
+      "logo": "https://image.tmdb.org/t/p/w500/2vlA2qyJLbnSFQtw7pKeHu9FCsd.png"
+    },
+    {
+      "id": "tmdb:617653",
+      "type": "movie",
+      "name": "Le Dernier Duel",
+      "poster": "https://image.tmdb.org/t/p/w500/unyzsu5GEYOsNhsCTtynAmvm0mk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4BOgSGwEEHZuDhiHUOsrXaJBqoc.jpg",
+      "year": "2021",
+      "imdbRating": "4.1",
+      "genres": [
+        "Histoire",
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Adam Driver",
+        "Jodie Comer",
+        "Ben Affleck",
+        "Harriet Walter",
+        "Marton Csokas"
+      ],
+      "description": "Basé sur des événements réels, le film dévoile d’anciennes hypothèses sur le dernier duel judiciaire connu en France - également nommé « Jugement de Dieu » - entre Jean de Carrouges et Jacques Le Gris, deux amis devenus au fil du temps des rivaux acharnés. Carrouges est un chevalier respecté, connu pour sa bravoure et son habileté sur le champ de bataille. Le Gris est un écuyer normand dont l'intelligence et l'éloquence font de lui l'un des nobles les plus admirés de la cour. Lorsque Marguerite, la femme de Carrouges, est violemment agressée par Le Gris - une accusation que ce dernier récuse - elle refuse de garder le silence, n’hésitant pas à dénoncer son agresseur et à s’imposer dans un acte de bravoure et de défi qui met sa vie en danger. L'épreuve de combat qui s'ensuit - un éprouvant duel à mort - place la destinée de chacun d’eux entre les mains de Dieu.",
+      "runtime": "2h32",
+      "logo": "https://image.tmdb.org/t/p/w500/btXyn1yTCtc9iUdh6PyOLuGlPo9.png"
+    },
+    {
+      "id": "tmdb:882569",
+      "type": "movie",
+      "name": "The Covenant",
+      "poster": "https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+      "year": "2023",
+      "imdbRating": "4.1",
+      "genres": [
+        "Guerre",
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Dar Salim",
+        "Sean Sagar",
+        "Jason Wong",
+        "Rhys Yates",
+        "Christian Ochoa"
+      ],
+      "description": "Lors de sa dernière mission en Afghanistan, le sergent John Kinley fait équipe avec l'interprète Ahmed pour arpenter la région. Lorsque leur unité tombe dans une embuscade au cours d'une patrouille, Kinley et Ahmed sont les seuls survivants. Alors que des combattants ennemis les poursuivent, Ahmed risque sa vie pour transporter Kinley, blessé, en sécurité. De retour sur le sol américain, Kinley apprend qu'Ahmed et sa famille n'ont pas obtenu la possibilité d'entrer aux Etats-Unis comme promis. Déterminé à protéger son ami et à rembourser sa dette, Kinley retourne dans la zone de guerre pour récupérer Ahmed et les siens...",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/bG4HWmMwcTWHPnVde2YtnbW40QH.png"
+    },
+    {
+      "id": "tmdb:180299",
+      "type": "movie",
+      "name": "The Raid 2",
+      "poster": "https://image.tmdb.org/t/p/w500/mhHIzkPiPdHRwoik2ejYOZlr7U0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5dg3woJqG7kNBCEMZNGPUauHSnK.jpg",
+      "year": "2014",
+      "imdbRating": "4.1",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Gareth Evans"
+      ],
+      "cast": [
+        "Iko Uwais",
+        "Arifin Putra",
+        "Tio Pakusadewo",
+        "Oka Antara",
+        "Alex Abbad",
+        "Cecep Arif Rahman"
+      ],
+      "description": "Après un combat sans merci pour s’extirper d’un immeuble rempli de criminels et de fous furieux, laissant derrière lui des monceaux de cadavres de policiers et de dangereux truands, Rama, jeune flic de Jakarta, pensait retrouver une vie normale, avec sa femme et son tout jeune fils… Mais il se trompait. On lui impose en effet une nouvelle mission : Rama devra infiltrer le syndicat du crime, où coexistent dans une sorte de statu quo mafia indonésienne et yakusas. Sous l’identité de « Yuda », un tueur sans pitié, il se laisse jeter en prison afin d’y gagner la confiance d'Uco, le fils d'un magnat du crime indonésien - son ticket d’entrée pour intégrer l’organisation. Sur fond de guerre des gangs, il risquera sa vie dans un dangereux jeu de rôle destiné à porter un coup fatal à l’empire du crime.",
+      "runtime": "2h28",
+      "logo": "https://image.tmdb.org/t/p/w500/eAqQ3wvgsQD1zSYUNoC0e1SCdnO.png"
+    },
+    {
+      "id": "tmdb:839",
+      "type": "movie",
+      "name": "Duel",
+      "poster": "https://image.tmdb.org/t/p/w500/9xgFf6t4DlfgbyhgTiDhL9hXTVO.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nVl6SKKzuweWqDo56Iipov2tqm0.jpg",
+      "year": "1971",
+      "imdbRating": "4.1",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Téléfilm",
+        "Short"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Dennis Weaver",
+        "Jacqueline Scott",
+        "Eddie Firestone",
+        "Lou Frizzell",
+        "Gene Dynarski",
+        "Lucille Benson"
+      ],
+      "description": "Sur une route californienne, un modeste employé de commerce se voit pris en chasse par un énorme camion. Une course-poursuite effrénée s'engage…",
+      "runtime": "1h26",
+      "logo": "https://image.tmdb.org/t/p/w500/grTSw7AkJ7ihKx9rU7hPoMuLijy.png"
+    },
+    {
+      "id": "tmdb:197950",
+      "type": "movie",
+      "name": "La French",
+      "poster": "https://image.tmdb.org/t/p/w500/f1ZihdwexPoB49G8BGpvTtsqKNk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yJIRptBDdt92JS4decYj5HL3Q60.jpg",
+      "year": "2014",
+      "imdbRating": "4.1",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Cédric Jimenez"
+      ],
+      "cast": [
+        "Jean Dujardin",
+        "Gilles Lellouche",
+        "Céline Sallette",
+        "Mélanie Doutey",
+        "Benoît Magimel",
+        "Guillaume Gouix"
+      ],
+      "description": "Marseille. 1975. Pierre Michel, jeune magistrat venu de Metz avec femme et enfants, est nommé juge du grand banditisme. Il décide de s’attaquer à la French Connection, organisation mafieuse qui exporte l’héroïne dans le monde entier. N’écoutant aucune mise en garde, le juge Michel part seul en croisade contre Gaëtan Zampa, figure emblématique du milieu et parrain intouchable. Mais il va rapidement comprendre que, pour obtenir des résultats, il doit changer ses méthodes.",
+      "runtime": "2h15",
+      "logo": "https://image.tmdb.org/t/p/w500/h5cE4KD6vblKrc9yf76V1Rygaxw.png"
+    },
+    {
+      "id": "tmdb:273481",
+      "type": "movie",
+      "name": "Sicario",
+      "poster": "https://image.tmdb.org/t/p/w500/uYMvoFiatbs1G3ybN8Wd8VpJWxn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+      "year": "2015",
+      "imdbRating": "4.0",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "cast": [
+        "Emily Blunt",
+        "Benicio del Toro",
+        "Josh Brolin",
+        "Victor Garber",
+        "Jon Bernthal",
+        "Daniel Kaluuya"
+      ],
+      "description": "La zone frontalière entre les États‐Unis et le Mexique est devenue un territoire de non‐droit. Kate, une jeune recrue idéaliste du FBI, y est enrôlée pour aider un groupe d’intervention d’élite dirigé par un agent du gouvernement dans la lutte contre le trafic de drogues. Menée par un consultant énigmatique l’équipe se lance dans un périple clandestin, obligeant Kate à remettre en question ses convictions pour pouvoir survivre.",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/eLRCr2HctuoBum1e4vB0336wALT.png"
+    },
+    {
+      "id": "tmdb:187",
+      "type": "movie",
+      "name": "Sin City",
+      "poster": "https://image.tmdb.org/t/p/w500/rrS6R9Reqiev2BbyYWpGiZUpslk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+      "year": "2005",
+      "imdbRating": "4.0",
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Robert Rodriguez",
+        "Frank Miller"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Jessica Alba",
+        "Clive Owen",
+        "Mickey Rourke",
+        "Rutger Hauer",
+        "Benicio del Toro"
+      ],
+      "description": "Sin City est une ville infestée de criminels, de flics ripoux et de femmes fatales. Hartigan s’est juré de protéger Nancy, une strip‐teaseuse qui l’a fait craquer. Marv, un marginal brutal mais philosophe, part en mission pour venger la mort de son unique véritable amour, Goldie. Dwight est l’amant secret de Shellie. Il passe ses nuits à protéger Gail et les filles des bas quartiers de Jackie Boy, un flic pourri, violent et incontrôlable. Certains ont soif de vengeance, d’autres recherchent leur salut. Bienvenue à Sin City, la ville du vice et du péché.",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/aLGTGrHh4H25Au4Tj79cyL7y1UX.png"
+    },
+    {
+      "id": "tmdb:2503",
+      "type": "movie",
+      "name": "La Vengeance dans la peau",
+      "poster": "https://image.tmdb.org/t/p/w500/9b3pgWTwERTRYzaKgzgmcQBIEqS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qiBILuWhv7ipF0pxiEqIJdkQzj8.jpg",
+      "year": "2007",
+      "imdbRating": "4.0",
+      "genres": [
+        "Action",
+        "Drame",
+        "Mystère",
+        "Thriller"
+      ],
+      "director": [
+        "Paul Greengrass"
+      ],
+      "cast": [
+        "Matt Damon",
+        "Julia Stiles",
+        "David Strathairn",
+        "Scott Glenn",
+        "Paddy Considine",
+        "Edgar Ramírez"
+      ],
+      "description": "Jason Bourne vit tranquillement maintenant. Mais le département de la Défense lance en grand secret un second programme encore plus sophistiqué : Blackbriar, visant à fabriquer une nouvelle génération de tueurs supérieurement entraînés. Jason est, pour le directeur des opérations spéciales, une menace et une tache à effacer au plus vite. Ordre est donné de le supprimer. La traque recommence : Moscou, Paris, Madrid, Londres, Tanger et New York.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/bPZWGxm8WeUx5eygG12iZk8dVhZ.png"
+    },
+    {
+      "id": "tmdb:9693",
+      "type": "movie",
+      "name": "Les Fils de l'homme",
+      "poster": "https://image.tmdb.org/t/p/w500/zvABa9EuAK9XeqBojYyb3Yaahcf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/22yIGscWOOLRvwQb44ZboZmstIH.jpg",
+      "year": "2006",
+      "imdbRating": "4.0",
+      "genres": [
+        "Drame",
+        "Action",
+        "Thriller",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Alfonso Cuarón"
+      ],
+      "cast": [
+        "Clive Owen",
+        "Clare-Hope Ashitey",
+        "Chiwetel Ejiofor",
+        "Julianne Moore",
+        "Michael Caine",
+        "Pam Ferris"
+      ],
+      "description": "Dans une société futuriste où les êtres humains ne parviennent plus à se reproduire, l’annonce de la mort de la plus jeune personne, âgée de 18 ans, met la population en émoi. Au même moment, une femme tombe enceinte - un fait qui ne s'est pas produit depuis une vingtaine d'années - et devient par la même occasion la personne la plus enviée et la plus recherchée de la Terre. Un homme est chargé de sa protection…",
+      "runtime": "1h49",
+      "logo": "https://image.tmdb.org/t/p/w500/9nndnxaMY7F22tVjiAzPBCQ1yNe.png"
+    },
+    {
+      "id": "tmdb:1573",
+      "type": "movie",
+      "name": "58 minutes pour vivre",
+      "poster": "https://image.tmdb.org/t/p/w500/1gphGfZKKnxEVJRLYT9VyyDaOaV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+      "year": "1990",
+      "imdbRating": "4.0",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Renny Harlin"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Bonnie Bedelia",
+        "William Sadler",
+        "John Amos",
+        "Franco Nero",
+        "William Atherton"
+      ],
+      "description": "John McClane tente d'éviter le désastre alors que des agents secrets militaires dévoyés prennent le contrôle de l'Aéroport International de Dulles à Washington, D.C.",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/g079380NPzKOG9pnEv6hDNI1oWW.png"
+    },
+    {
+      "id": "tmdb:416144",
+      "type": "movie",
+      "name": "Attaque à Mumbai",
+      "poster": "https://image.tmdb.org/t/p/w500/7WTNW5lTPkQv9ZwrPdp8DPallie.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tdK6A1wJVOze1zuiCwFQMR228k5.jpg",
+      "year": "2019",
+      "imdbRating": "4.0",
+      "genres": [
+        "Thriller",
+        "Histoire",
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "Anthony Maras"
+      ],
+      "cast": [
+        "Dev Patel",
+        "Armie Hammer",
+        "نازنین بنیادی",
+        "Tilda Cobham-Hervey",
+        "Anupam Kher",
+        "Jason Isaacs"
+      ],
+      "description": "Inspiré de faits réels.  Novembre 2008, une série d’attaques terroristes a lieu dans la ville de Mumbai. Durant trois jours, des hommes armés prennent d’assaut le légendaire Taj Mahal Palace Hôtel en retenant les clients et les employés qui s’y trouvent. Au milieu de ce chaos, le Chef du restaurant et un serveur vont risquer leur vie pour protéger leurs clients. Parmi eux, un couple va tout faire pour protéger leur nouveau-né. Alors que le monde entier découvre ces évènements tragiques, ce qui se déroule à l’intérieur dépasse l’inimaginable. L'histoire vraie des attaques terroristes qui se sont déroulées à Bombay en novembre 2008.",
+      "runtime": "2h03",
+      "logo": "https://image.tmdb.org/t/p/w500/vFAwRAFukWr0UGj7RIywygQW93E.png"
+    },
+    {
+      "id": "tmdb:11344",
+      "type": "movie",
+      "name": "A Bittersweet Life",
+      "poster": "https://image.tmdb.org/t/p/w500/7l3PEvgelhqGSvvnnO9kwCOh5pM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/t8EDE4bkYZBaSCo7Gq8uIWtW4pV.jpg",
+      "year": "2005",
+      "imdbRating": "4.0",
+      "genres": [
+        "Action",
+        "Drame",
+        "Crime"
+      ],
+      "director": [
+        "Kim Jee-woon"
+      ],
+      "cast": [
+        "Lee Byung-hun",
+        "Kim Yeong-cheol",
+        "Shin Min-a",
+        "Kim Roi-ha",
+        "Lee Ki-young",
+        "Hwang Jung-Min"
+      ],
+      "description": "Un chef de gang suspecte sa petite amie Hee Su d'avoir une liaison avec un autre homme. Il demande à son bras droit, Sun Woo, de suivre Hee Su et de l'éliminer s'il la surprend en galante compagnie.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/sEEUzqBGTKmvqouDGVnlAWOnmmj.png"
+    },
+    {
+      "id": "tmdb:11782",
+      "type": "movie",
+      "name": "À toute épreuve",
+      "poster": "https://image.tmdb.org/t/p/w500/mai1O5tLfZO0uObW8ods0szMAjT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kxTWssqcwsHqH6Sj2ivu0FHP5QK.jpg",
+      "year": "1992",
+      "imdbRating": "4.0",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "John Woo"
+      ],
+      "cast": [
+        "Chow Yun-fat",
+        "Tony Leung Chiu-Wai",
+        "毛舜筠",
+        "陳欣健",
+        "郭追",
+        "Anthony Wong Chau-sang"
+      ],
+      "description": "En 1997, alors que les Britanniques sont sur le point de rendre à la Chine une Hong‐Kong gangrénée par le crime, et alors que bien des policiers ont baissé les bras, un groupe d’inspecteurs inflexibles mené par « Tequila » Yuen décide de mettre fin à la suprématie des gangs.",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/cMsFSfQGws1UT846mWUogZYmbMB.png"
+    },
+    {
+      "id": "tmdb:10528",
+      "type": "movie",
+      "name": "Sherlock Holmes",
+      "poster": "https://image.tmdb.org/t/p/w500/pfv5cjgE9HT2KTFv5JT4f7JHxKP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
+      "year": "2009",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Jude Law",
+        "Rachel McAdams",
+        "Mark Strong",
+        "Eddie Marsan",
+        "Robert Maillet"
+      ],
+      "description": "Aucune énigme ne résiste longtemps à Sherlock Holmes… Flanqué de son fidèle ami le Docteur John Watson, l’intrépide et légendaire détective traque sans relâche les criminels de tous poils. Ses armes : un sens aigu de l’observation et de la déduction, une érudition et une curiosité tous azimuts ; accessoirement, une droite redoutable… Mais une menace sans précédent plane aujourd’hui sur Londres – et c’est exactement le genre de défi dont notre homme a besoin pour ne pas sombrer dans l’ennui et la mélancolie. Après qu’une série de meurtres rituels a ensanglanté Londres, Holmes et Watson réussissent à intercepter le coupable : Lord Blackwood. À l’approche de son exécution, ce sinistre adepte de la magie noire annonce qu’il reviendra du royaume des morts pour exercer la plus terrible des vengeances.",
+      "runtime": "2h09",
+      "logo": "https://image.tmdb.org/t/p/w500/fuVkbIGbx8AMPnMxCPfSDMwXH8i.png"
+    },
+    {
+      "id": "tmdb:1271",
+      "type": "movie",
+      "name": "300",
+      "poster": "https://image.tmdb.org/t/p/w500/hGZ9sDGcekhJUFmu3NnOhRT8uQS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+      "year": "2007",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Guerre"
+      ],
+      "director": [
+        "Zack Snyder"
+      ],
+      "cast": [
+        "Gerard Butler",
+        "Lena Headey",
+        "Dominic West",
+        "David Wenham",
+        "Vincent Regan",
+        "Michael Fassbender"
+      ],
+      "description": "Adapté du roman graphique de Frank Miller, 300 est un récit épique de la Bataille des Thermopyles qui opposa en l’an –480 le roi Léonidas et 300 soldats spartiates à Xerxès et l’immense armée perse. Face à un invincible ennemi, les 300 déployèrent jusqu’à leur dernier souffle un courage surhumain ; leur vaillance et leur héroïque sacrifice inspirèrent toute la Grèce à se dresser contre la Perse, posant ainsi les premières pierres de la démocratie.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/nodzyMLZpqzh1U0FgUXamgjd7mZ.png"
+    },
+    {
+      "id": "tmdb:58574",
+      "type": "movie",
+      "name": "Sherlock Holmes : Jeu d'ombres",
+      "poster": "https://image.tmdb.org/t/p/w500/kbeSPWIRkWZYQgLCyPqxjj4G0kx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nVMalJRUsOeGP5xPx9ULmirZ4cJ.jpg",
+      "year": "2011",
+      "imdbRating": "3.9",
+      "genres": [
+        "Aventure",
+        "Action",
+        "Crime",
+        "Mystère"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Robert Downey Jr.",
+        "Jude Law",
+        "Noomi Rapace",
+        "Jared Harris",
+        "Rachel McAdams",
+        "Eddie Marsan"
+      ],
+      "description": "Sherlock Holmes a toujours été le plus brillant de sa classe… jusqu’à maintenant. Car un nouveau grand esprit criminel s’est fait remarquer en Europe : le professeur Moriarty. Non seulement il est l’égal intellectuel de Holmes, mais sa capacité pour le mal, couplée à une absence totale de conscience, pourrait effectivement lui donner l’avantage face au détective de renom. Lorsque le prince héritier d’Autriche est retrouvé mort, les preuves, telle qu’interprétées par l’inspecteur Lestrade, pointe le suicide. Sauf que Sherlock Holmes en a, lui, déduit un assassinat… qui ne pourrait être qu’une seule pièce d’un puzzle plus vaste et de beaucoup plus mauvais augure, conçu par le professeur Moriarty.",
+      "runtime": "2h09",
+      "logo": "https://image.tmdb.org/t/p/w500/fDn3wn7T552EsFqcQx97JFsTLnd.png"
+    },
+    {
+      "id": "tmdb:13183",
+      "type": "movie",
+      "name": "Watchmen : Les Gardiens",
+      "poster": "https://image.tmdb.org/t/p/w500/rkTlmmIwwNQtC789SrhGsZ2i1cd.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uOvNJMVy3VzEfS75hXroITSsdWY.jpg",
+      "year": "2009",
+      "imdbRating": "3.9",
+      "genres": [
+        "Mystère",
+        "Action",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Zack Snyder"
+      ],
+      "cast": [
+        "Malin Åkerman",
+        "Patrick Wilson",
+        "Billy Crudup",
+        "Matthew Goode",
+        "Jackie Earle Haley",
+        "Jeffrey Dean Morgan"
+      ],
+      "description": "Aventure à la fois complexe et mystérieuse sur plusieurs niveaux, \"Watchmen: Les Gardiens\" se passe dans une Amérique alternative de 1985 où les super-héros font partie du quotidien et où l'Horloge de l'Apocalypse - symbole de la tension entre les États-Unis et l'Union Soviétique - indique en permanence minuit moins cinq. Lorsque l'un de ses anciens collègues est assassiné, Rorschach, un justicier masqué un peu à plat mais non moins déterminé, va découvrir un complot qui menace de tuer et de discréditer tous les super-héros du passé et du présent. Alors qu'il reprend contact avec son ancienne légion de justiciers - un groupe hétéroclite de super-héros retraités, seul l'un d'entre-eux possède de véritables pouvoirs - Rorschach entrevoit un complot inquiétant et de grande envergure lié à leur passé commun et qui aura des conséquences catastrophiques pour le futur. Leur mission est de protéger l'humanité... Mais qui veille sur ces gardiens ?",
+      "runtime": "2h42",
+      "logo": "https://image.tmdb.org/t/p/w500/9xMVl59evwBW6RtLY4CQTPIqW5F.png"
+    },
+    {
+      "id": "tmdb:4638",
+      "type": "movie",
+      "name": "Hot Fuzz",
+      "poster": "https://image.tmdb.org/t/p/w500/tddbD3ETiKucVg15GKWkzveU7SI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "year": "2007",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Action",
+        "Comédie"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Simon Pegg",
+        "Nick Frost",
+        "Jim Broadbent",
+        "Paddy Considine",
+        "Rafe Spall",
+        "Kevin Eldon"
+      ],
+      "description": "À Londres, le policier Nicholas Angel est le meilleur de son équipe. Tellement bon qu'il fait passer ses collègues pour de simples gardiens de la paix. Le chef de la brigade décide donc de le « promouvoir » dans le petit village de Sandford, où il ne se passe rien. Aux côtés du policier local Danny Butterman qui rêve de devenir Mel Gibson, Nicholas règle quelques contraventions sans grand intérêt. Une série de crimes étranges va le remettre dans l'action…",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/m5Lxfq0buYJg53xR1neJ9yuvArF.png"
+    },
+    {
+      "id": "tmdb:203801",
+      "type": "movie",
+      "name": "Agents très spéciaux : Code U.N.C.L.E.",
+      "poster": "https://image.tmdb.org/t/p/w500/5FNGb0beZQBDMAVAe2Nyeb7ki6v.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bu0LiPEWKHWViRoaFwlTAzZ8wyS.jpg",
+      "year": "2015",
+      "imdbRating": "3.9",
+      "genres": [
+        "Comédie",
+        "Action",
+        "Aventure"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Henry Cavill",
+        "Armie Hammer",
+        "Alicia Vikander",
+        "Elizabeth Debicki",
+        "Luca Calvani",
+        "Sylvester Groth"
+      ],
+      "description": "Au début des années 60, en pleine guerre froide, l'agent de la CIA Solo et de l'agent du KGB Kuryakin sont contraints de laisser de côté leur antagonisme ancestral. Les deux hommes s'engagent alors dans une mission conjointe: mettre hors d'état de nuire une organisation criminelle internationale déterminée à ébranler le fragile équilibre mondial, en favorisant la prolifération des armes et de la technologie nucléaires. Pour l'heure, Solo et Kuryakin n'ont qu'une piste: le contact de la fille d'un scientifique allemand porté disparu, le seul à même d'infiltrer l'organisation criminelle. Ils se lancent dans une course contre la montre pour retrouver sa trace et empêcher un cataclysme planétaire.",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/sssqkQTLspz38ZFFfqguxhIWNQF.png"
+    },
+    {
+      "id": "tmdb:2034",
+      "type": "movie",
+      "name": "Training Day",
+      "poster": "https://image.tmdb.org/t/p/w500/pDctIlugIuDZivzihCAEs7Ofymx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+      "year": "2001",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame"
+      ],
+      "director": [
+        "Antoine Fuqua"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Ethan Hawke",
+        "Scott Glenn",
+        "Tom Berenger",
+        "Harris Yulin",
+        "Raymond J. Barry"
+      ],
+      "description": "Jake Hoyt est une nouvelle recrue de la police de Los Angeles. Décidé à devenir inspecteur, il sollicite une mise à l'essai de 24 heures auprès du sergent chef Alonzo Harris, un vétéran de la lutte antidrogue qui opère depuis douze ans dans les quartiers les plus chauds de la ville. D'emblée, Harris fait monter la pression, considérant Jake comme un gamin, raillant sa candeur et son inexpérience. Commencent alors une longue et périlleuse tournée à travers les bas-quartiers, les premiers contacts rudes avec les dealers et les informateurs, la découverte d'un monde trouble où Harris se meut en grand seigneur. Peu à peu, Jake apprend à connaître le policier : son cynisme et son jusqu'au-boutisme fanatique, qui les entraîneront dans des situations de plus en plus dangereuses.",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/nKFdvaX9SV2haYGs2jyjrbyieiE.png"
+    },
+    {
+      "id": "tmdb:861",
+      "type": "movie",
+      "name": "Total Recall",
+      "poster": "https://image.tmdb.org/t/p/w500/5hHXAjyM2vSBL5n92eJXdG9j8WR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+      "year": "1990",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Paul Verhoeven"
+      ],
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Rachel Ticotin",
+        "Sharon Stone",
+        "Ronny Cox",
+        "Michael Ironside",
+        "Marshall Bell"
+      ],
+      "description": "2048, Doug Quaid rêve chaque nuit qu’il est sur la planète Mars à la recherche de la belle Melina. Sa femme, Lori, s’efforce de dissiper ce fantasme. Doug va bientôt s’apercevoir que son rêve était artificiel et que sa femme est une espionne chargée de veiller à son reconditionnement mental. Il se souvient d’un séjour réel sur Mars, à l’époque où il était l’agent le plus redouté du cruel Coohagen. Il décide de s’envoler sur Mars à la recherche de son énigmatique passé.",
+      "runtime": "1h53",
+      "logo": "https://image.tmdb.org/t/p/w500/sbCQdhHEXY57dP6kqKnlHvP6rfL.png"
+    },
+    {
+      "id": "tmdb:855",
+      "type": "movie",
+      "name": "La Chute du faucon noir",
+      "poster": "https://image.tmdb.org/t/p/w500/8PbLgvdfcdBad3sie9cfIBHq2Xz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+      "year": "2001",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Guerre",
+        "Histoire"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Josh Hartnett",
+        "Eric Bana",
+        "Ewan McGregor",
+        "Tom Sizemore",
+        "William Fichtner",
+        "Sam Shepard"
+      ],
+      "description": "Le 3 octobre 1993, avec l'appui des Nations Unies, une centaine de marines américains de la Task Force Ranger est envoyée en mission à Mogadiscio, en Somalie, pour assurer le maintien de la paix et capturer les deux principaux lieutenants et quelques autres associés de Mohamed Farrah Aidïd, un chef de guerre local. Cette opération de routine vire rapidement au cauchemar lorsque les militaires sont pris pour cibles par les factions armées rebelles et la population, résolument hostiles à toute présence étrangère sur leur territoire.",
+      "runtime": "2h23",
+      "logo": "https://image.tmdb.org/t/p/w500/tny6YcKWXWUHbFkr9aYzYE761HB.png"
+    },
+    {
+      "id": "tmdb:754",
+      "type": "movie",
+      "name": "Volte/Face",
+      "poster": "https://image.tmdb.org/t/p/w500/kEluKUjEKFwCJWrxv2XPC1VTJT4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+      "year": "1997",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Crime",
+        "Science-Fiction"
+      ],
+      "director": [
+        "John Woo"
+      ],
+      "cast": [
+        "John Travolta",
+        "Nicolas Cage",
+        "Joan Allen",
+        "Alessandro Nivola",
+        "Gina Gershon",
+        "Dominique Swain"
+      ],
+      "description": "Castor Troy, dangereux terroriste, est tombé dans le coma à la suite d’un affrontement avec Sean Archer, agent de la CIA. Grâce à une intervention chirurgicale, Archer prend le visage de Troy pour faire avouer au frère de ce dernier l’emplacement d’une bombe. Mais Troy sort du coma et prend à son tour le visage d’Archer.",
+      "runtime": "2h19",
+      "logo": "https://image.tmdb.org/t/p/w500/uHzsz1k9LadTlSSvd2XRUzojBwQ.png"
+    },
+    {
+      "id": "tmdb:9509",
+      "type": "movie",
+      "name": "Man on Fire",
+      "poster": "https://image.tmdb.org/t/p/w500/26UmzwXW7z5nPR1LHX0hc13DSY4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lITyO4KDUIg7AujFKC3uCZMMskz.jpg",
+      "year": "2004",
+      "imdbRating": "3.9",
+      "genres": [
+        "Action",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Tony Scott"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Dakota Fanning",
+        "Christopher Walken",
+        "Radha Mitchell",
+        "Marc Anthony",
+        "Giancarlo Giannini"
+      ],
+      "description": "Le Mexique est en proie à une vague d'enlèvements sans précédent. Face au danger, certaines familles aisées engagent des gardes du corps pour assurer la protection rapprochée de leurs enfants. C'est dans ce contexte lourd de menaces que débarque à Mexico l'ancien agent de la CIA John Creasy. Appelé par son vieil ami Rayburn, ce dernier se voit proposer un job inattendu : bodyguard de la petite Pita Ramos, fille de l'industriel Samuel Ramos. La fillette, précoce, pleine de curiosité et de vitalité, insupporte John par ses questions personnelles. Pourtant, au fil des jours, Pita parvient à percer ses défenses. Après bien des années, celui-ci retrouve le goût de vivre. C'est alors que Pita est kidnappée. Bien que grièvement blessé, Creasy se lance à la poursuite des ravisseurs. Inflexible, il remonte la piste, se jurant de retrouver sa protégée.",
+      "runtime": "2h26",
+      "logo": "https://image.tmdb.org/t/p/w500/17KxnDfj1YG35mvm6BK0Rt0SKWO.png"
+    },
+    {
+      "id": "tmdb:9846",
+      "type": "movie",
+      "name": "Police Fédérale - Los Angeles",
+      "poster": "https://image.tmdb.org/t/p/w500/7ByJJMxg9WbkyldhXBggJJy7aT1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1fI06RK90Vp7ybQxs84ep1iQrqD.jpg",
+      "year": "1985",
+      "imdbRating": "3.9",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action"
+      ],
+      "director": [
+        "William Friedkin"
+      ],
+      "cast": [
+        "William Petersen",
+        "Willem Dafoe",
+        "John Pankow",
+        "Debra Feuer",
+        "John Turturro",
+        "Dean Stockwell"
+      ],
+      "description": "Véritable tête brûlée, Richard Chance travaille pour les services secrets américains. Le jour où son coéquipier Jimmy Hart est abattu alors qu'il menait une opération en solo pour coincer le faussaire Rick Masters, Chance, obsédé à l'idée de se venger, décide de monter un coup tordu des plus illégaux avant l'arrivée de son nouveau coéquipier, John Vukovich, en braquant un convoyeur de fonds... qui s'avère être un agent du FBI infiltré et qui est abattu accidentellement. Obstiné, Chance continue à tendre son piège autour de Masters, malgré le déluge de violence qui s'abat autour de lui.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/6hMO0R6P6gnFLEOKj2ACcPf25Hu.png"
+    },
+    {
+      "id": "tmdb:290250",
+      "type": "movie",
+      "name": "The Nice Guys",
+      "poster": "https://image.tmdb.org/t/p/w500/p94BXHeJQagD3M8p4LuAB87RMQv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vTNzXPvFRn8Z4vn2myhkNpq26J6.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Shane Black"
+      ],
+      "cast": [
+        "Russell Crowe",
+        "Ryan Gosling",
+        "Angourie Rice",
+        "Matt Bomer",
+        "Margaret Qualley",
+        "Yaya DaCosta"
+      ],
+      "description": "Los Angeles. Années 70. Deux détectives privés enquêtent sur le prétendu suicide d’une starlette. Malgré des méthodes pour le moins « originales », leurs investigations vont mettre à jour une conspiration impliquant des personnalités très haut placées…",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/xRMh55XQrPCP1gAdQyQ6MpHz46M.png"
+    },
+    {
+      "id": "tmdb:22538",
+      "type": "movie",
+      "name": "Scott Pilgrim",
+      "poster": "https://image.tmdb.org/t/p/w500/wDBkpNmt7yeMRsBENN4VOdc0usx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rUAZnGMgISkZYJU8o7kuSNj3mPl.jpg",
+      "year": "2010",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Michael Cera",
+        "Mary Elizabeth Winstead",
+        "Ellen Wong",
+        "Kieran Culkin",
+        "Alison Pill",
+        "Mark Webber"
+      ],
+      "description": "Scott Pilgrim n’a jamais eu de problème à trouver une petite amie, mais s’en débarrasser s’avère plus compliqué. Entre celle qui lui a brisé le cœur – et qui est de retour en ville – et l’adolescente qui lui sert de distraction au moment où Ramona entre dans sa vie - en rollers - l’amour n’a jamais été chose facile. Il va cependant vite réaliser que le nouvel objet de son affection traîne les plus singulières casseroles jamais rencontrées : une infâme ligue d’ex qui contrôlent sa vie amoureuse et sont prêts à tout pour éliminer son nouveau prétendant. À mesure que Scott se rapproche de Ramona, il est confronté à une palette grandissante d’individus patibulaires qui peuplent le passé de sa dulcinée : du mesquin skateur à la rock star végétarienne en passant par une affreuse paire de jumeaux. Et s’il espère séduire l’amour de sa vie, il doit triompher de chacun d’eux avant que la partie soit bel et bien « over ».",
+      "runtime": "1h52",
+      "logo": "https://image.tmdb.org/t/p/w500/yDgC7RbMgXeBTIBalKowWQ1RWlJ.png"
+    },
+    {
+      "id": "tmdb:406990",
+      "type": "movie",
+      "name": "Seven Sisters",
+      "poster": "https://image.tmdb.org/t/p/w500/FHzvvIW4od8q8eU4zNer2JdGcS.jpg",
+      "background": "https://image.tmdb.org/t/p/original/j7ij93mtHXAF8D3PjRSEaKPHpIE.jpg",
+      "year": "2017",
+      "imdbRating": "3.8",
+      "genres": [
+        "Science-Fiction",
+        "Thriller",
+        "Mystère",
+        "Action"
+      ],
+      "director": [
+        "Tommy Wirkola"
+      ],
+      "cast": [
+        "Noomi Rapace",
+        "Glenn Close",
+        "Willem Dafoe",
+        "Marwan Kenzari",
+        "Christian Rubeck",
+        "Pål Sverre Hagen"
+      ],
+      "description": "2073. La Terre est surpeuplée. Le gouvernement décide d’instaurer une politique d’enfant unique, appliquée de main de fer par le Bureau d’Allocation des Naissances, sous l’égide de Nicolette Cayman. Confronté à la naissance de septuplées, Terrence Settman décide de garder secrète l’existence de ses 7 petites-filles. Confinées dans leur appartement, prénommées d’un jour de la semaine, elles devront, chacune à leur tour, partager une identité unique à l’extérieur, simulant l’existence d’une seule personne : Karen Settman. Si le secret demeure intact des années durant, tout s’effondre le jour où Lundi disparaît mystérieusement...",
+      "runtime": "2h04",
+      "logo": "https://image.tmdb.org/t/p/w500/RdP4eYwmUlnj9OxQZrbLiXZLzk.png"
+    },
+    {
+      "id": "tmdb:1579",
+      "type": "movie",
+      "name": "Apocalypto",
+      "poster": "https://image.tmdb.org/t/p/w500/5xR5OjvGQfaRZNL7GTuPAZy8tdr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/l7XRMURNroPYajcqLlWxyzUlucW.jpg",
+      "year": "2006",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Drame",
+        "Histoire"
+      ],
+      "director": [
+        "Mel Gibson"
+      ],
+      "cast": [
+        "Rudy Youngblood",
+        "Raoul Max Trujillo",
+        "Gerardo Taracena",
+        "Iazua Larios",
+        "Antonio Monroy",
+        "María Isabel Díaz Lago"
+      ],
+      "description": "Dans les temps turbulents précédant la chute de la légendaire civilisation Maya. Jeune père porteur de grandes espérances, chef de son petit village, Patte de Jaguar vit une existence idyllique brusquement perturbée par une violente invasion. Capturé et emmené lors d'un périlleux voyage à travers la jungle pour être offert en sacrifice aux Dieux de la Cité Maya, il découvre un monde régi par la peur et l'oppression, dans lequel une fin déchirante l'attend inéluctablement. Poussé par l'amour qu'il porte à sa femme, à sa famille et à son peuple, il devra affronter ses plus grandes peurs en une tentative désespérée pour retourner chez lui et tenter de sauver ce qui lui tient le plus à cœur.",
+      "runtime": "2h12",
+      "logo": "https://image.tmdb.org/t/p/w500/7m2ZkIViPzc7U4WAKsB4XqyVFqn.png"
+    },
+    {
+      "id": "tmdb:296524",
+      "type": "movie",
+      "name": "Deepwater",
+      "poster": "https://image.tmdb.org/t/p/w500/o973p0MbbsXNU3r4YQd8tAaxeJA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fRT76SSQzAuZljogpsWyKphUxYX.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "Peter Berg"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Kurt Russell",
+        "John Malkovich",
+        "Gina Rodriguez",
+        "Dylan O'Brien",
+        "Kate Hudson"
+      ],
+      "description": "La plateforme Deepwater Horizon tourne non-stop pour tirer profit des 800 millions de litres de pétrole présents dans les profondeurs du golfe du Mexique. Mike Williams, électricien sur la plateforme et père de famille, connaît les risques de son métier mais fait confiance au professionnalisme de son patron Jimmy Harrell. En revanche, tous se méfient de la société locataire de la plateforme dirigée par Donald Vidrine, qui ne pense qu’à son bénéfice. Lorsque cette société décide contre l’avis des techniciens de la déplacer trop rapidement, il sont loin de se douter que les 5 millions de barils sous leurs pieds sont prêts à exploser...",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/kKeXUy1AqzxsZK8xJx0kWh5zuLI.png"
+    },
+    {
+      "id": "tmdb:94329",
+      "type": "movie",
+      "name": "The Raid",
+      "poster": "https://image.tmdb.org/t/p/w500/e0EeE8Rc5weReJNpwOP78DuCxdH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4zzWj2pVmkjN9yjsQesEEnNtlZ4.jpg",
+      "year": "2012",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime",
+        "Short"
+      ],
+      "director": [
+        "Gareth Evans"
+      ],
+      "cast": [
+        "Iko Uwais",
+        "Joe Taslim",
+        "Donny Alamsyah",
+        "Yayan Ruhian",
+        "Pierre Gruno",
+        "Ray Sahetapy"
+      ],
+      "description": "Au cœur des quartiers pauvres de Jakarta, se trouve une citadelle imprenable dans laquelle se cache le plus dangereux trafiquant du pays. Une équipe de policiers d’élite est envoyée donner l’assaut lors d’un raid secret mené aux premières lueurs du jour. Mais grâce à ses indics, le baron de la drogue est déjà au courant et a eu amplement le temps de se préparer. À l’instant où le groupe d’intervention pénètre dans l’immeuble, le piège se referme : les portes sont condamnées, l’électricité est coupée et une armée d’hommes surentrainés débarque. Piégés dans cet immeuble étouffant, les policiers vont devoir se battre étage après étage pour avoir une chance de survivre.",
+      "runtime": "1h41",
+      "logo": "https://image.tmdb.org/t/p/w500/oDHFH3yIIi1WZvJkjPETNKRWrPL.png"
+    },
+    {
+      "id": "tmdb:388399",
+      "type": "movie",
+      "name": "Traque à Boston",
+      "poster": "https://image.tmdb.org/t/p/w500/3HSCwieOOCsw4294NbbLNCU7zF5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lWcNlDMmZ6xJVoCZjhFxqVl0TIa.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame",
+        "Histoire",
+        "Thriller"
+      ],
+      "director": [
+        "Peter Berg"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "John Goodman",
+        "J.K. Simmons",
+        "Kevin Bacon",
+        "Michelle Monaghan",
+        "Alex Wolff"
+      ],
+      "description": "Alors que la ville de Boston est sous le choc de multiples explosions, le sergent de police Tommy Saunders rejoint les enquêteurs sur le terrain dans une course contre la montre pour traquer et arrêter les auteurs avant qu'ils ne frappent à nouveau. Croisant les parcours de l'agent spécial Richard Deslauriers, du commissaire Ed Davis, du sergent Jeffrey Pugliese et de l'infirmière Carol Saunders, ce récit sans concession évoque la chasse à l'homme la plus complexe jamais mise en œuvre par la police américaine – et rend un vibrant hommage aux héros du quotidien.",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/5mWkitK7fzY3Bsq8X1TF9FwUCAj.png"
+    },
+    {
+      "id": "tmdb:560057",
+      "type": "movie",
+      "name": "Le Monstre des mers",
+      "poster": "https://image.tmdb.org/t/p/w500/wWehjjuY02MlyWM9GvLBsGl5mj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
+      "year": "2022",
+      "imdbRating": "3.8",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Action",
+        "Familial"
+      ],
+      "director": [
+        "Chris Williams"
+      ],
+      "cast": [
+        "Karl Urban",
+        "Zaris-Angel Hator",
+        "Jared Harris",
+        "Marianne Jean-Baptiste",
+        "Benjamin Plessala",
+        "Somali Rose"
+      ],
+      "description": "Une petite passagère clandestine et un légendaire chasseur de monstres marins naviguant en eaux inconnues vont vivre une aventure épique... et entrer dans l'histoire.",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/6xZkiMp4IFez3yHbX5D26nHkB0F.png"
+    },
+    {
+      "id": "tmdb:10835",
+      "type": "movie",
+      "name": "The Killer",
+      "poster": "https://image.tmdb.org/t/p/w500/8b1BQvYlyNTbCt5JsjdWcscg8mK.jpg",
+      "background": "https://image.tmdb.org/t/p/original/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
+      "year": "1989",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "John Woo"
+      ],
+      "cast": [
+        "Chow Yun-fat",
+        "Danny Lee",
+        "Sally Yeh",
+        "Paul Chu Kong",
+        "Kenneth Tsang",
+        "成奎安"
+      ],
+      "description": "Jeff est un tueur à gages. Lors d’une commande, il rend accidentellement aveugle une chanteuse de bar, Jennie. Hanté par le remords, il décide d’aider Jennie… et tombe progressivement amoureux d’elle. Alors qu’il décide d’accepter une dernière commande, dont l’argent doit servir à opérer Jennie, il se fait repérer par l’inspecteur Li. Les commanditaires de Jeff décident alors de se retourner contre lui et tentent de l’assassiner. Coincé entre l’inspecteur Li, flic acharné prêt à tout pour l’arrêter, et son ancien boss, Jeff n’a pas d’autre choix que de reprendre les armes. Alors que les amitiés sont trahies, aucun personnage n’apparaît ni tout blanc ni tout noir.",
+      "runtime": "1h51",
+      "logo": "https://image.tmdb.org/t/p/w500/yvdIg7MYA1dHQUBPjOAJiYxfSlm.png"
+    },
+    {
+      "id": "tmdb:363579",
+      "type": "movie",
+      "name": "The Age of Shadows",
+      "poster": "https://image.tmdb.org/t/p/w500/tMKXdERwqecDWp7Xch2F9R3Ippw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5IkEziMnignLFxbxuYqrQGBxdWY.jpg",
+      "year": "2016",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Kim Jee-woon"
+      ],
+      "cast": [
+        "Song Kang-ho",
+        "Gong Yoo",
+        "한지민",
+        "Shingo Tsurumi",
+        "엄태구",
+        "신성록"
+      ],
+      "description": "Le film suit les activités des « Heroic Corps », une organisation indépendante anti japonaise qui a existé lors de la colonisation japonaise de la Corée du Sud. Ce groupe employait des moyens violents afin d'obtenir l'indépendance de la Corée.",
+      "runtime": "2h20",
+      "logo": "https://image.tmdb.org/t/p/w500/3JIEHyrN0rlMA5y0ioRtoItWZnG.png"
+    },
+    {
+      "id": "tmdb:1139817",
+      "type": "movie",
+      "name": "Profession ceinture noire",
+      "poster": "https://image.tmdb.org/t/p/w500/waHsrnw6cYtOtOySrfKmyOnGYW8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wSZbtiFIK1fkKZdSRtn2kz2Ttfd.jpg",
+      "year": "2024",
+      "imdbRating": "3.8",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Jason Kim"
+      ],
+      "cast": [
+        "Kim Woo-bin",
+        "김성균",
+        "이현걸",
+        "박지열",
+        "Lee Jung-ok",
+        "김요한"
+      ],
+      "description": "Un prodige des arts martiaux toujours prêt à aider son prochain fait équipe avec un agent de probation pour combattre et prévenir le crime en tant qu'officier spécialisé.",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/sorEHt2wvldJ5cSddiD2526IRyX.png"
+    },
+    {
+      "id": "tmdb:464768",
+      "type": "movie",
+      "name": "Junk Head",
+      "poster": "https://image.tmdb.org/t/p/w500/aiYbg2FPbz2mBxeAQxXFE3Aporl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aAdTgf8fAc8P0o6wLD51o2oYoRP.jpg",
+      "year": "2022",
+      "imdbRating": "3.8",
+      "genres": [
+        "Animation",
+        "Science-Fiction",
+        "Action",
+        "Aventure",
+        "Short"
+      ],
+      "director": [
+        "堀貴秀"
+      ],
+      "cast": [
+        "堀貴秀",
+        "Atsuko Miyake",
+        "Yuji Sugiyama"
+      ],
+      "description": "Un humanoïde high-tech, chargé de ramener des informations nécessaires à la survie de l’espèce humaine, est plongé dans les angoissants sous-sols d’un monde post-apocalyptique, peuplé de créatures répugnantes et agressives.",
+      "runtime": "1h40",
+      "logo": "https://image.tmdb.org/t/p/w500/z3gvB5Bjb4YyNsOXgA4yLryjhqq.png"
+    },
+    {
+      "id": "tmdb:198184",
+      "type": "movie",
+      "name": "Chappie",
+      "poster": "https://image.tmdb.org/t/p/w500/bcgg5H3ORynoJmsnqoNdIPfJNWL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
+      "year": "2015",
+      "imdbRating": "3.7",
+      "genres": [
+        "Crime",
+        "Action",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Neill Blomkamp"
+      ],
+      "cast": [
+        "Sharlto Copley",
+        "Dev Patel",
+        "Hugh Jackman",
+        "Ninja",
+        "Yo-Landi Visser",
+        "Sigourney Weaver"
+      ],
+      "description": "Dans un futur proche, la population, opprimée par une police entièrement robotisée, commence à se rebeller. Chappie, l’un de ces droïdes policiers, est kidnappé. Reprogrammé, il devient le premier robot capable de penser et ressentir par lui-même. Mais des forces puissantes, destructrices, considèrent Chappie comme un danger pour l’humanité et l’ordre établi. Elles vont tout faire pour maintenir le statu quo et s’assurer qu’il soit le premier, et le dernier, de son espèce.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/f9jEQr6YSatPrULo6gBpXDiHKdJ.png"
+    },
+    {
+      "id": "tmdb:390043",
+      "type": "movie",
+      "name": "Hitman & Bodyguard",
+      "poster": "https://image.tmdb.org/t/p/w500/miVyaIUEfG9q8VxMeSdhHTl9B9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+      "year": "2017",
+      "imdbRating": "3.7",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime",
+        "Thriller"
+      ],
+      "director": [
+        "Patrick Hughes"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Samuel L. Jackson",
+        "Gary Oldman",
+        "Salma Hayek Pinault",
+        "Elodie Yung",
+        "Richard E. Grant"
+      ],
+      "description": "Un redoutable tueur à gages est contraint de témoigner contre son ancien employeur devant la Cour internationale de justice de La Haye. Interpol est alors chargée de l’escorter jusqu’aux Pays-Bas et engage le meilleur garde du corps du métier pour mener à bien cette mission. Mais c’était sans savoir que depuis des années, les deux hommes s’opposent : les voilà désormais obligés de s’associer pour tenter de survivre aux pires épreuves… De l’Angleterre à La Haye, ils vont vivre une aventure délirante, une succession infernale de tentatives de meurtre, de courses-poursuites pour échapper à un dictateur d’Europe de l’Est prêt à tout pour les éliminer.",
+      "runtime": "1h51",
+      "logo": "https://image.tmdb.org/t/p/w500/r0IKaC9zbEVjyAFF7xxfuCk7qvV.png"
+    },
+    {
+      "id": "tmdb:5548",
+      "type": "movie",
+      "name": "RoboCop",
+      "poster": "https://image.tmdb.org/t/p/w500/mkBofafkQeP2QIDtSB6jFXcssS8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+      "year": "1987",
+      "imdbRating": "3.7",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science-Fiction",
+        "Short"
+      ],
+      "director": [
+        "Paul Verhoeven"
+      ],
+      "cast": [
+        "Peter Weller",
+        "Nancy Allen",
+        "Dan O'Herlihy",
+        "Ronny Cox",
+        "Kurtwood Smith",
+        "Miguel Ferrer"
+      ],
+      "description": "À l'aube de l'an 2000, Détroit est, comme toujours dans cette sorte d'histoire, la proie du crime et de la corruption. Pour pallier ce terrible état, les services de police inventent une nouvelle arme infaillible, Robocop, mi-homme, mi-robot, policier électronique de chair et d'acier qui a pour mission de sauvegarder la tranquillité de la ville. Mais comme souvent, ce cyborg a aussi une âme.",
+      "runtime": "1h42",
+      "logo": "https://image.tmdb.org/t/p/w500/AvYbrVeIu3W5aSjpkqZ4eLMae0l.png"
+    },
+    {
+      "id": "tmdb:9495",
+      "type": "movie",
+      "name": "The Crow",
+      "poster": "https://image.tmdb.org/t/p/w500/cMy05QAP5BEhlrEZ0Ylr66zj0P3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
+      "year": "1994",
+      "imdbRating": "3.7",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Short"
+      ],
+      "director": [
+        "Alex Proyas"
+      ],
+      "cast": [
+        "Brandon Lee",
+        "Rochelle Davis",
+        "Ernie Hudson",
+        "Michael Wincott",
+        "Bai Ling",
+        "Sofia Shinas"
+      ],
+      "description": "Eric Draven et sa fiancée sont brutalement assassinés chez eux par un gang de criminels notoires. Un an plus tard, un mystérieux corbeau sort Eric de sa tombe et le ramène sur les lieux de l'assassinat. Désormais doté d'une vision exceptionnelle et de pouvoirs surnaturels, Eric va se venger de ses agresseurs qui mettent la ville à feu et à sang.",
+      "runtime": "1h42",
+      "logo": "https://image.tmdb.org/t/p/w500/jaxI1BSnAzPHtM0tJYFd2Y3eYZi.png"
+    },
+    {
+      "id": "tmdb:146",
+      "type": "movie",
+      "name": "Tigre & Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/ldUsOVdypZ5X4CbucXjMgtrTXp.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+      "year": "2000",
+      "imdbRating": "3.7",
+      "genres": [
+        "Aventure",
+        "Drame",
+        "Action",
+        "Romance"
+      ],
+      "director": [
+        "Ang Lee"
+      ],
+      "cast": [
+        "Chow Yun-fat",
+        "Michelle Yeoh",
+        "章子怡",
+        "張震",
+        "郎雄",
+        "Cheng Pei-Pei"
+      ],
+      "description": "Dans la Chine ancienne, Li Mu Bai est un virtuose des arts martiaux. Las des combats, il décide de confier « Destinée », son épée rapide et magique à Yu Shu Lien, à qui il n’ose pas avouer son amour. Celle‐ci doit remettre la fameuse épée au seigneur Té, à la résidence duquel elle fait la connaissance de Jiao Long, la fille du gouverneur Yu, qui a été promise à un homme qu’elle n’aime pas et ferait tout pour mener une vie aussi libre que Shu Lien. Mais une fois la nuit tombée, un habile voleur parvient à la lui dérober. Li et Shu Lien partent récupérer l’épée aux vertus magiques.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/nrlTQLK1RMP9XP3lewMo7pmU1nF.png"
+    },
+    {
+      "id": "tmdb:612",
+      "type": "movie",
+      "name": "Munich",
+      "poster": "https://image.tmdb.org/t/p/w500/2CBk6HS95QGPauf1ht0F9zcJfxh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
+      "year": "2005",
+      "imdbRating": "3.7",
+      "genres": [
+        "Drame",
+        "Action",
+        "Histoire",
+        "Thriller"
+      ],
+      "director": [
+        "Steven Spielberg"
+      ],
+      "cast": [
+        "Eric Bana",
+        "Daniel Craig",
+        "Ciarán Hinds",
+        "Mathieu Kassovitz",
+        "Hanns Zischler",
+        "Ayelet Zurer"
+      ],
+      "description": "Jeux Olympiques de Munich, 5 septembre 1972. Un commando de terroristes palestiniens prend en otages puis exécute 11 membres de l'équipe sportive israélienne, sous l'œil des téléspectateurs du monde entier. Inspiré de faits réels, Munich retrace le parcours de 5 agents israéliens chargés de traquer les 11 palestiniens considérés comme les commanditaires de l'attentat. Pour mener à bien cette mission, les 5 hommes devront renoncer du jour au lendemain à leur identité, et s’exposer à tout moment à la vengeance de leurs cibles.",
+      "runtime": "2h43",
+      "logo": "https://image.tmdb.org/t/p/w500/6Rzuck3vBuxWJINLzSx3ACngQlj.png"
+    },
+    {
+      "id": "tmdb:9322",
+      "type": "movie",
+      "name": "Nikita",
+      "poster": "https://image.tmdb.org/t/p/w500/jLqvVdR1gucaMF5wtCAOS9nsolY.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rk56vslwBXUCcNlQ74s6gmpJqxa.jpg",
+      "year": "1990",
+      "imdbRating": "3.7",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Luc Besson"
+      ],
+      "cast": [
+        "Anne Parillaud",
+        "Jean-Hugues Anglade",
+        "Tchéky Karyo",
+        "Jean Reno",
+        "Marc Duret",
+        "Jeanne Moreau"
+      ],
+      "description": "Le braquage d'une pharmacie par une bande de junkies en manque de drogue tourne mal : une fusillade cause la mort de plusieurs personnes dont un policier, abattu par la jeune Nikita. Condamnée à la prison à perpétuité, celle-ci fait bientôt la rencontre de Bob, un homme mystérieux qui contraint la jeune femme à travailler secrètement pour le gouvernement. Après quelques rébellions lors d'un entraînement intensif de plusieurs années, Nikita devient un agent hautement qualifié des services secrets, capable désormais selon Bob d'évoluer seule à l'extérieur. Celui-ci espère d'ailleurs s'en assurer lors d'une terrible mise à l'épreuve au cours de laquelle Nikita doit éliminer un pilier de la mafia asiatique au beau milieu d'un restaurant bondé...",
+      "runtime": "1h57",
+      "logo": "https://image.tmdb.org/t/p/w500/se0mPuHqlkxiFX0nxWcktbPKSeh.png"
+    },
+    {
+      "id": "tmdb:454227",
+      "type": "movie",
+      "name": "Outlaw King : Le Roi hors-la-loi",
+      "poster": "https://image.tmdb.org/t/p/w500/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9uIyOsywwi7bDvHxv3QdiimUtd5.jpg",
+      "year": "2018",
+      "imdbRating": "3.7",
+      "genres": [
+        "Action",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "David Mackenzie"
+      ],
+      "cast": [
+        "Chris Pine",
+        "Aaron Taylor-Johnson",
+        "Florence Pugh",
+        "Billy Howle",
+        "Sam Spruell",
+        "Tony Curran"
+      ],
+      "description": "Dans l'Écosse médiévale, Robert Bruce revendique la couronne et mène une révolte féroce pour remporter l'indépendance de son pays contre le joug de l'Angleterre.\r L'histoire vraie et inédite de Robert Bruce, noble vaincu de l'Écosse médiévale devenu roi contre son gré puis héros hors-la-loi en l'espace d'une année. Contraint à se battre pour sauver sa famille, son peuple et son pays de l'envahisseur anglais, Robert Bruce s'empare de la couronne écossaise et rassemble une troupe de soldats hétéroclites. Avec eux, il devra affronter la colère de l'armée la plus puissante au monde, menée par le féroce roi Édouard 1er et son imprévisible fils, le prince de Galles.",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/91K2RrPcygScvsoTCIeaU2wHpaM.png"
+    },
+    {
+      "id": "tmdb:663558",
+      "type": "movie",
+      "name": "New Gods : Nezha Reborn",
+      "poster": "https://image.tmdb.org/t/p/w500/iyOgNaaDX67AUMWlzsGZVO1luoh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4PKfa0zltSrp1BJoLl8zfvYXaac.jpg",
+      "year": "2021",
+      "imdbRating": "3.7",
+      "genres": [
+        "Animation",
+        "Action"
+      ],
+      "director": [
+        "Zhao Ji"
+      ],
+      "cast": [
+        "杨天翔",
+        "张赫",
+        "宣晓鸣",
+        "李詩萌",
+        "Keer Zhu",
+        "凌振赫"
+      ],
+      "description": "Fan de course automobile, Nezha est un livreur banal... jusqu'à ce qu'il recroise de vieux ennemis et doive redécouvrir ses propres pouvoirs afin de protéger ses proches.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/vLGW4PbYKWVH9y1k7LkxVhXG22z.png"
+    },
+    {
+      "id": "tmdb:75612",
+      "type": "movie",
+      "name": "Oblivion",
+      "poster": "https://image.tmdb.org/t/p/w500/zCzFlGkaLKP70fE3tr8MEvfAt5X.jpg",
+      "background": "https://image.tmdb.org/t/p/original/efeVuu4rltB6b59GI2ZtuU4xidf.jpg",
+      "year": "2013",
+      "imdbRating": "3.6",
+      "genres": [
+        "Action",
+        "Science-Fiction",
+        "Aventure",
+        "Mystère"
+      ],
+      "director": [
+        "Joseph Kosinski"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Morgan Freeman",
+        "Olga Kurylenko",
+        "Andrea Riseborough",
+        "Nikolaj Coster-Waldau",
+        "Melissa Leo"
+      ],
+      "description": "2077, Jack Harper, en station sur la planète Terre dont toute la population a été évacuée, est en charge de la sécurité et de la réparation des drones. Suite à des décennies de guerre contre une force extra-terrestre terrifiante qui a ravagé la Terre, Jack fait partie d’une gigantesque opération d’extraction des dernières ressources nécessaires à la survie des siens. Sa mission touche à sa fin. Dans à peine deux semaines, il rejoindra le reste des survivants dans une colonie spatiale à des milliers de kilomètres de cette planète dévastée qu’il considère néanmoins comme son chez-lui. Vivant et patrouillant à très haute altitude de ce qu’il reste de la Terre, la vie \"céleste\" de Jack est bouleversée quand il assiste au crash d’un vaisseau spatial et décide de porter secours à la belle inconnue qu’il renferme...",
+      "runtime": "2h06",
+      "logo": "https://image.tmdb.org/t/p/w500/tkqBd5WhsL8a2xGpWfdEpvflWQ6.png"
+    },
+    {
+      "id": "tmdb:577922",
+      "type": "movie",
+      "name": "Tenet",
+      "poster": "https://image.tmdb.org/t/p/w500/72SOtZnFhCumLRZhoXlX8g2IkgF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+      "year": "2020",
+      "imdbRating": "3.6",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "John David Washington",
+        "Robert Pattinson",
+        "Elizabeth Debicki",
+        "Kenneth Branagh",
+        "Dimple Kapadia",
+        "Michael Caine"
+      ],
+      "description": "Muni d'un seul mot : \"Tenet\", et décidé à se battre pour sauver le monde, notre protagoniste sillonne l'univers crépusculaire de l'espionnage international. Sa mission le projettera dans une dimension qui dépasse le temps. Pourtant, il ne s'agit pas d'un voyage dans le temps, mais d'un renversement temporel…",
+      "runtime": "2h30",
+      "logo": "https://image.tmdb.org/t/p/w500/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
+    },
+    {
+      "id": "tmdb:75780",
+      "type": "movie",
+      "name": "Jack Reacher",
+      "poster": "https://image.tmdb.org/t/p/w500/yx9jmcMWMfO0gJfpmmKR0u016VQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2v3pC01rf0uXnECOM94pjfqk1TY.jpg",
+      "year": "2012",
+      "imdbRating": "3.6",
+      "genres": [
+        "Crime",
+        "Drame",
+        "Thriller",
+        "Action"
+      ],
+      "director": [
+        "Christopher McQuarrie"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Rosamund Pike",
+        "Richard Jenkins",
+        "David Oyelowo",
+        "Werner Herzog",
+        "Jai Courtney"
+      ],
+      "description": "Lentement, méticuleusement, un sniper armé d’un fusil à lunettes repère ses victimes au sein de la foule affairée d’une grande ville. Il tire six fois, abat cinq personnes. Arrêté, interrogé, apparemment clairement responsable du carnage, l’homme n’avoue pas. Il ne prononce qu’une seule phrase lors de son interrogatoire: «Trouvez Jack Reacher». Et Reacher, justement, est perturbé par cette affaire dont la résolution lui semble trop simple. Il connaît le tireur, un militaire surentraîné, et sait que jamais, il n’aurait raté une de ses cibles. Avec l’aide d’une avocate, Helen Rodin, Reacher va mettre le nez dans un imbroglio aux allures de complot explosif…",
+      "runtime": "2h11",
+      "logo": "https://image.tmdb.org/t/p/w500/tJIcPoFv8J7g7gVOQIW0uC6B2h7.png"
+    },
+    {
+      "id": "tmdb:1571",
+      "type": "movie",
+      "name": "Die Hard 4 : Retour en enfer",
+      "poster": "https://image.tmdb.org/t/p/w500/mn8bwgfQgNV8bqKnazHAW6C6e0D.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aRqTPOPt8BOHE0ngppM9jnuuaeS.jpg",
+      "year": "2007",
+      "imdbRating": "3.6",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Len Wiseman"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Timothy Olyphant",
+        "Justin Long",
+        "Cliff Curtis",
+        "Mary Elizabeth Winstead",
+        "Jonathan Sadowski"
+      ],
+      "description": "Pour sa quatrième aventure, l’inspecteur John McClane se trouve confronté à un nouveau genre de terrorisme. Le réseau informatique national qui contrôle absolument toutes les communications, les transports et l’énergie des États‐Unis, est détruit de façon systématique, plongeant le pays dans le chaos. Le cerveau qui est derrière le complot a tout calculé à la perfection. Ou presque… Il n’avait pas prévu McClane, un flic de la vieille école qui connaît deux ou trois trucs efficaces pour déjouer les attaques terroristes.",
+      "runtime": "2h08",
+      "logo": "https://image.tmdb.org/t/p/w500/uDPxIb8l0pSRzx7AutBmqIelLjZ.png"
+    },
+    {
+      "id": "tmdb:1635",
+      "type": "movie",
+      "name": "The Island",
+      "poster": "https://image.tmdb.org/t/p/w500/4bbNaOX0H878ZuXnDGgVBKVmeFF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zZZ1FDl5FPClZ9OnMrlaPA4Iuxv.jpg",
+      "year": "2005",
+      "imdbRating": "3.6",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science-Fiction",
+        "Aventure"
+      ],
+      "director": [
+        "Michael Bay"
+      ],
+      "cast": [
+        "Ewan McGregor",
+        "Scarlett Johansson",
+        "Djimon Hounsou",
+        "Sean Bean",
+        "Steve Buscemi",
+        "Michael Clarke Duncan"
+      ],
+      "description": "Au milieu du XXIe siècle. Lincoln Six Echo et Jordan Two Delta vivent dans une colonie humaine préservée de la mystérieuse catastrophe qui a ravagé la planète. Comme tous les autres colons, Lincoln souhaite échapper à cet univers stérile et surveillé pour gagner « l'Île », lieu mythique où règne la liberté.",
+      "runtime": "2h12",
+      "logo": "https://image.tmdb.org/t/p/w500/g5XZSpL6PdouwMVA8wTeXRI4Gsc.png"
+    },
+    {
+      "id": "tmdb:90",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills",
+      "poster": "https://image.tmdb.org/t/p/w500/wL8sSSJy4fYlIODtEmVgsx8qYOA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+      "year": "1984",
+      "imdbRating": "3.6",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Action",
+        "Short"
+      ],
+      "director": [
+        "Martin Brest"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "John Ashton",
+        "Lisa Eilbacher",
+        "Ronny Cox",
+        "Steven Berkoff"
+      ],
+      "description": "Axel Foley, ancien voyou, est maintenant un des flics les plus efficaces de Detroit. Et même si ses méthodes sont loin d'être traditionnelles, ses supérieurs sont bien obligés de reconnaître ses qualités. Axel retrouve un ami d’enfance, mais celui-ci est assassiné le jour de leurs retrouvailles. L'enquête lui étant refusée, Axel prend ses congés et se lance à la poursuite du meurtrier. Le petit flic de Detroit se retrouve à Beverly Hills, entraîné dans le milieu des dealers et des truands…",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/aHhSSurjIT7F2c4T1Z87JuGjRpE.png"
+    },
+    {
+      "id": "tmdb:4689",
+      "type": "movie",
+      "name": "Sympathy for Mister Vengeance",
+      "poster": "https://image.tmdb.org/t/p/w500/v5BdcarFjDzhpkvvKqH7ItaaBvW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/b6elu2cz2Be9PqgX0MzggMCH4fk.jpg",
+      "year": "2002",
+      "imdbRating": "3.6",
+      "genres": [
+        "Action",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Park Chan-Wook"
+      ],
+      "cast": [
+        "Song Kang-ho",
+        "신하균",
+        "Bae Doo-na",
+        "임지은",
+        "한보배",
+        "이대연"
+      ],
+      "description": "Ryu est un ouvrier sourd et muet, dont la sœur est en attente d'une opération chirurgicale. Son patron, Dongjin, est divorcé et père d'une petite fille. Young-Mi, la fiancée de Ryu, est une activiste gauchiste. Lorsque Ryu perd son emploi et voit diminuer les chances d'opération de sa sœur, elle lui propose de kidnapper la fille de Dongjin. La rançon obtenue servirait à pouvoir soigner la sœur de Ryu. Mais le plan parfait tourne à la catastrophe…",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/k3RDrABC7TnL46Uqnytq0UiSe7c.png"
+    },
+    {
+      "id": "tmdb:460059",
+      "type": "movie",
+      "name": "Burn Out",
+      "poster": "https://image.tmdb.org/t/p/w500/fVWcI3ZwHgBjbz24jZerJjRALYN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/JYyQPEd22hldQLIaNLZI5oFvmM.jpg",
+      "year": "2018",
+      "imdbRating": "3.6",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime",
+        "Short"
+      ],
+      "director": [
+        "Yann Gozlan"
+      ],
+      "cast": [
+        "François Civil",
+        "Olivier Rabourdin",
+        "Manon Azem",
+        "Samuel Jouy",
+        "Narcisse Mame",
+        "Sam Louwyck"
+      ],
+      "description": "Tête brûlée, accro aux sensations fortes, Tony ne vit que pour une seule chose: devenir pilote professionnel de moto superbike. Jusqu'au jour où il découvre que la mère de son fils est liée à la pègre manouche. Seule issue pour la sortir de cet engrenage: mettre ses talents au service des truands. Pilote de circuit le jour, go faster la nuit, Tony est plongé dans une spirale infernale qui le mène au bord de la rupture…",
+      "runtime": "1h43",
+      "logo": "https://image.tmdb.org/t/p/w500/8491y74XoXI9PFXLOr5icXrpsPl.png"
+    },
+    {
+      "id": "tmdb:959092",
+      "type": "movie",
+      "name": "Farang",
+      "poster": "https://image.tmdb.org/t/p/w500/asUBBPvil6L6A2uXpwdKmA7f21r.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dSbHiA9m62FhQxiSZoJmhzKlmZD.jpg",
+      "year": "2023",
+      "imdbRating": "3.6",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame",
+        "Thriller",
+        "Short"
+      ],
+      "director": [
+        "Xavier Gens"
+      ],
+      "cast": [
+        "Nassim Lyes",
+        "Loryn Nounay",
+        "Olivier Gourmet",
+        "วิทยา ปานศรีงาม",
+        "Mehdi Hadim",
+        "Kenneth Won"
+      ],
+      "description": "Sam, un détenu sans problème, se retrouve malgré lui mêlé à une rixe qui se termine mal lors de sa première sortie conditionnelle : son seul salut : la fuite ! 5 ans plus tard, il cherche à acheter un terrain pour finaliser sa nouvelle vie : femme, enfant, travail, tout lui sourit, mais lors de l'achat, à la dernière minute, il apprend que le terrain n'est plus disponible. Il finit par rencontrer le mystérieux acheteur, qui n'est autre que Narong, le parrain local, qui lui fait une offre...",
+      "runtime": "1h39",
+      "logo": "https://image.tmdb.org/t/p/w500/6dNyCQ3kVO5PSgQAm3sPmKFrqfg.png"
+    },
+    {
+      "id": "tmdb:68726",
+      "type": "movie",
+      "name": "Pacific Rim",
+      "poster": "https://image.tmdb.org/t/p/w500/g1vCUUxa9MJw2kEEgaTAW5b23xh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ig7qUy7drkEFZNCK7gi0hMn1WMN.jpg",
+      "year": "2013",
+      "imdbRating": "3.5",
+      "genres": [
+        "Action",
+        "Science-Fiction",
+        "Aventure"
+      ],
+      "director": [
+        "Guillermo del Toro"
+      ],
+      "cast": [
+        "Charlie Hunnam",
+        "菊地凛子",
+        "Idris Elba",
+        "Max Martini",
+        "Clifton Collins Jr.",
+        "Ron Perlman"
+      ],
+      "description": "Surgies des flots, des hordes de créatures monstrueuses, les \"Kaiju\", ont déclenché une guerre qui a fait des millions de victimes et épuisé les ressources naturelles de l'humanité pendant des années. Pour les combattre, une arme d'un genre nouveau a été mise au point : de gigantesques robots, les \"Jaegers\", contrôlés simultanément par deux pilotes qui communiquent par télépathie. Mais même les Jaegers semblent impuissants face aux redoutables Kaiju. Alors que la défaite paraît inéluctable, les forces armées qui protègent l'humanité n'ont d'autre choix que d'avoir recours à deux héros hors normes : un ancien pilote au bout du rouleau et une jeune femme en cours d'entraînement qui font équipe pour manœuvrer un Jaeger légendaire, quoique d'apparence obsolète. Ensemble, ils incarnent désormais le dernier rempart de l'humanité contre une apocalypse de plus en plus imminente…",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/vEJKowxLkU1DpGXfhRRNkzbVGix.png"
+    },
+    {
+      "id": "tmdb:59859",
+      "type": "movie",
+      "name": "Kick-Ass 2",
+      "poster": "https://image.tmdb.org/t/p/w500/mhL6H8td9dsT5LMS2koyTqcn94H.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dHBYguQvCDa00GMoidNYa7IOD8y.jpg",
+      "year": "2013",
+      "imdbRating": "3.5",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Crime",
+        "Short"
+      ],
+      "director": [
+        "Jeff Wadlow"
+      ],
+      "cast": [
+        "Aaron Taylor-Johnson",
+        "Chloë Grace Moretz",
+        "Christopher Mintz-Plasse",
+        "Lyndsy Fonseca",
+        "Jim Carrey",
+        "Iain Glen"
+      ],
+      "description": "L’audace insensée de Kick‐Ass a inspiré une pléthore de vengeurs masqués autodidactes, le Colonel Stars & Stripes en tête, auxquels notre héros va s’allier pour patrouiller les rues de la ville et assurer la sécurité générale. Mais quand Red Mist, réincarné en Motherfucker, décide de s’attaquer à ces super‐héros amateurs, seuls les sabres acérés de Hit Girl sauront les sauver de la destruction.",
+      "runtime": "1h43",
+      "logo": "https://image.tmdb.org/t/p/w500/jpAo8Xro29KhSKThundneOjUoWQ.png"
+    },
+    {
+      "id": "tmdb:9654",
+      "type": "movie",
+      "name": "Braquage à l'italienne",
+      "poster": "https://image.tmdb.org/t/p/w500/cLkVnUWFwt39ikAojwdFuOwNTwH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/haIHcieOlTlyAUr9cWukqyK5SaU.jpg",
+      "year": "2003",
+      "imdbRating": "3.5",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "director": [
+        "F. Gary Gray"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Charlize Theron",
+        "Edward Norton",
+        "Jason Statham",
+        "Seth Green",
+        "Yasiin Bey"
+      ],
+      "description": "Le plan audacieux et sans défaut, le braquage exécuté de main de maître, la fuite à travers les canaux de Venise nette et sans bavure... Charlie Croker, son mentor John Bridger et leurs hommes n'auraient pas assez d'une vie pour savourer les fruits amplement mérités de ce casse historique. Mais la bande hébergeait à son insu un traître, qui ruina d'un coup tout ses espoirs: tombant le masque, Steve Frezelli abattit froidement Bridger et s'enfuit avec les lingots tout juste extraits d'un coffre vénitien. Le hold-up du siècle s'achevait dans le sang. Quelques mois plus tard, Charlie retrouve la piste de Frezelli en Californie et persuade Stella, la fille de Bridger experte en coffres-forts, de venger avec lui la mort de son père. La bande se recompose alors pour se réapproprier l'or de Venise et faire de Los Angeles le théâtre du plus gigantesque embouteillage de son histoire...",
+      "runtime": "1h51",
+      "logo": "https://image.tmdb.org/t/p/w500/d5iKIcztkVX9LQQVeJ5Isau0sLx.png"
+    },
+    {
+      "id": "tmdb:1495",
+      "type": "movie",
+      "name": "Kingdom of Heaven",
+      "poster": "https://image.tmdb.org/t/p/w500/wJDtVqtj6PVjxGYd6dhIED7PS4U.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+      "year": "2005",
+      "imdbRating": "3.5",
+      "genres": [
+        "Drame",
+        "Action",
+        "Aventure",
+        "Histoire",
+        "Guerre"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Orlando Bloom",
+        "Eva Green",
+        "Jeremy Irons",
+        "David Thewlis",
+        "غسان مسعود",
+        "Liam Neeson"
+      ],
+      "description": "Balian le forgeron découvre que son père est un seigneur Croisé, peu avant que celui-ci ne meure et que ses terres à Jérusalem ne lui reviennent. Parti sur place, il se range au côté des fidèles du roi Baudoin, qui tentent de maintenir un équilibre fragile entre les Croisés et les troupes de Saladin. Mais le roi est mourant et puissants sont ceux qui s'opposent à lui et à la paix.",
+      "runtime": "2h24",
+      "logo": "https://image.tmdb.org/t/p/w500/q6AAUGkAQWHwmraSKBC0EiGxUKq.png"
+    },
+    {
+      "id": "tmdb:12113",
+      "type": "movie",
+      "name": "Mensonges d'état",
+      "poster": "https://image.tmdb.org/t/p/w500/7lBQYIZRG3CHxLks7n5S1FcwnGY.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6ghc2ySuEnTW8h3YgZZufk2SOTv.jpg",
+      "year": "2008",
+      "imdbRating": "3.5",
+      "genres": [
+        "Action",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Leonardo DiCaprio",
+        "Russell Crowe",
+        "Mark Strong",
+        "Ali Suliman",
+        "Simon McBurney",
+        "Michael Gaston"
+      ],
+      "description": "La CIA traque le chef d'une organisation terroriste à l'origine d'une vague d'attentats. Roger Ferris, le meilleur agent sur le terrain, circule de pays en pays afin d'essayer d'avoir une longueur d'avance sur des événements imprévisibles. Via une connexion satellite, un œil dans le ciel surveille Ferris en permanence. À l'autre bout du fil et en temps réel se trouve l'agent de la CIA Ed Hoffman qui dirige et coordonne à distance les opérations. À mesure que Ferris s'approche du but, il apprend que la confiance peut être aussi dangereuse qu'elle est nécessaire à la survie.",
+      "runtime": "2h08",
+      "logo": "https://image.tmdb.org/t/p/w500/gRi5k5MgvfamFXu5JARbXjTNZhh.png"
+    },
+    {
+      "id": "tmdb:799583",
+      "type": "movie",
+      "name": "Le Ministère de la Sale Guerre",
+      "poster": "https://image.tmdb.org/t/p/w500/cEsfWlqC89pec6402kGUaw3J48L.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jLRtQNOwA0ul2gnRoZ0QjNwMUN1.jpg",
+      "year": "2024",
+      "imdbRating": "3.5",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Guerre"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "cast": [
+        "Henry Cavill",
+        "Eiza González",
+        "Alan Ritchson",
+        "Henry Golding",
+        "Cary Elwes",
+        "Alex Pettyfer"
+      ],
+      "description": "L'histoire de la toute première organisation de forces spéciales créée pendant la Seconde Guerre mondiale par le Premier ministre britannique Winston Churchill et un petit groupe de responsables militaires, dont l'auteur Ian Fleming. Cette unité de combat ultrasecrète, composée d'une équipe hétéroclite de voyous et de francs-tireurs, entreprend une mission audacieuse contre les nazis en utilisant des techniques de combat tout à fait non conventionnelles et tout à fait \"non gentleman\". En fin de compte, leur approche audacieuse a changé le cours de la guerre et a jeté les bases du SAS britannique et de la guerre moderne des opérations secrètes.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/iECwcOwnqhBytE7jcuhCZwqatr8.png"
+    },
+    {
+      "id": "tmdb:1242372",
+      "type": "movie",
+      "name": "Escape from the 21st Century",
+      "poster": "https://image.tmdb.org/t/p/w500/nmGrdIikw7VG3OwtaP4vXNX3fuW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/d7seFwkDmc6xQxMzu1vG2ZSOJGK.jpg",
+      "year": "2024",
+      "imdbRating": "3.5",
+      "genres": [
+        "Science-Fiction",
+        "Comédie",
+        "Action",
+        "Short"
+      ],
+      "director": [
+        "Li Yang"
+      ],
+      "cast": [
+        "张若昀",
+        "钟楚曦",
+        "宋洋",
+        "吴晓亮",
+        "朱顏曼滋",
+        "李晨浩"
+      ],
+      "description": "En 1999, trois adolescents découvrent qu’un simple éternuement leur permet de voyager dans le temps. Propulsés dans une aventure hors du temps, ils se retrouvent chargés d’une mission capitale : sauver le monde.",
+      "runtime": "1h38",
+      "logo": "https://image.tmdb.org/t/p/w500/uPfZ184XUMmTB4E9TviP68QAglN.png"
+    },
+    {
+      "id": "tmdb:107985",
+      "type": "movie",
+      "name": "Le Dernier Pub avant la fin du monde",
+      "poster": "https://image.tmdb.org/t/p/w500/udgMaHco4W8pfUMmIxmX3hjPR4R.jpg",
+      "background": "https://image.tmdb.org/t/p/original/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
+      "year": "2013",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Action",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Edgar Wright"
+      ],
+      "cast": [
+        "Simon Pegg",
+        "Nick Frost",
+        "Paddy Considine",
+        "Martin Freeman",
+        "Eddie Marsan",
+        "Rosamund Pike"
+      ],
+      "description": "Il y a vingt ans, Gary, Andrew, Oliver, Steven et Peter étaient jeunes et fous et aimaient faire la tournée des bars. Les cinq amis d'enfance se souviennent avec nostalgie, enfin surtout Gary, d'une soirée épique, où ils avaient écumé les douze pubs de la ville. Ce temps là est loin derrière sauf pour Gary, qui refuse obstinément de mener une vie rangée. Celui-ci décide de réunir ses amis pour un nouveau marathon de la boisson. D'abords réticents, ces derniers finissent par céder et ensemble, ils se rendent donc dans leur ville natale, pour aller dans le seul pub où ils n'ont jamais mis les pieds, le mystérieux « LA FIN DU MONDE », désormais peuplé de robots extraterrestres…",
+      "runtime": "1h49",
+      "logo": "https://image.tmdb.org/t/p/w500/enDpPalEnZi2hxn6J3RXA0vUaJi.png"
+    },
+    {
+      "id": "tmdb:59961",
+      "type": "movie",
+      "name": "Sécurité Rapprochée",
+      "poster": "https://image.tmdb.org/t/p/w500/yyl2AXjLfpyYHY7b0SQPYULu42.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kXRskNzFiTxi5xwsM6hDmOTGae7.jpg",
+      "year": "2012",
+      "imdbRating": "3.4",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Daniel Espinosa"
+      ],
+      "cast": [
+        "Denzel Washington",
+        "Ryan Reynolds",
+        "Vera Farmiga",
+        "Brendan Gleeson",
+        "Sam Shepard",
+        "Rubén Blades"
+      ],
+      "description": "Tobin Frost est le traître le plus haï et le plus redouté de la CIA. Après avoir échappé au contre-espionnage pendant près de 10 ans, il refait surface en Afrique du Sud. Lorsque sa cachette d’un faubourg du Cap est attaquée par un mystérieux commando, un jeune «bleu», Matt Weston, est obligé d’assurer seul sa fuite et de le conduire dans une nouvelle résidence sécurisée. «Ange gardien» malgré lui, Matt voit dans cette mission une chance inespérée de faire ses preuves aux yeux de l’Agence. Une relation précaire s’établit entre le débutant et le renégat endurci. Mais Frost, manipulateur né, réserve quelques surprises à son candide protecteur…",
+      "runtime": "1h55",
+      "logo": "https://image.tmdb.org/t/p/w500/r1aTlh10Byo2crFU37dOgN8dkRi.png"
+    },
+    {
+      "id": "tmdb:238615",
+      "type": "movie",
+      "name": "Renaissances",
+      "poster": "https://image.tmdb.org/t/p/w500/u8b989G5rcPzNOWeeWoufu6tfFL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vzbsqeoG7xH8EVOBiYBSIjU8wt1.jpg",
+      "year": "2015",
+      "imdbRating": "3.4",
+      "genres": [
+        "Science-Fiction",
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Tarsem Singh"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Ben Kingsley",
+        "Natalie Martinez",
+        "Matthew Goode",
+        "Michelle Dockery",
+        "Melora Hardin"
+      ],
+      "description": "Que feriez-vous si on vous proposait de vivre éternellement ? Damian Hale, un richissime homme d’affaire new yorkais atteint d’une maladie incurable, se voit proposer une opération révolutionnaire par le mystérieux groupe Phénix : transférer son esprit dans un corps de substitution, « une enveloppe vide », un nouveau corps jeune et athlétique pour prolonger sa vie. Comment résister à une telle proposition ? Damian Hale procède au transfert et redécouvre les joies de la jeunesse, du luxe et des femmes dans son nouveau corps. Jusqu’au jour où Damian découvre un terrible secret sur l’opération. Un secret pour lequel Phénix est prêt à tuer.",
+      "runtime": "1h57",
+      "logo": "https://image.tmdb.org/t/p/w500/lM5vB2W9FmOEIguxExtUZjsZSQT.png"
+    },
+    {
+      "id": "tmdb:18533",
+      "type": "movie",
+      "name": "Bronson",
+      "poster": "https://image.tmdb.org/t/p/w500/6NF2do8CeQzaNQVpJ993Ek9EP8X.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uc8FwdCQi3eD7JIbyiZuzo5n6Jv.jpg",
+      "year": "2009",
+      "imdbRating": "3.4",
+      "genres": [
+        "Drame",
+        "Action",
+        "Crime",
+        "Short"
+      ],
+      "director": [
+        "Nicolas Winding Refn"
+      ],
+      "cast": [
+        "Tom Hardy",
+        "Matt King",
+        "James Lance",
+        "Kelly Adams",
+        "Katy Barker",
+        "Amanda Burton"
+      ],
+      "description": "1974. Livré à lui-même, Michael Peterson, 19 ans, cherche à faire la Une des journaux: rêvant de devenir célèbre, il tente de braquer un bureau de poste avec un fusil à canon scié qu'il a lui-même bricolé. Rapidement interpelé, il est d'abord condamné à 7 ans de prison. À ce jour, il a passé 34 années en prison, dont 30 en isolement cellulaire. La métamorphose de Mickey Peterson en Charles Bronson, devenu le détenu le plus dangereux d'Angleterre.",
+      "runtime": "1h22",
+      "logo": "https://image.tmdb.org/t/p/w500/9OnwqKmn6iTcq4MXUlowXvBF1lI.png"
+    },
+    {
+      "id": "tmdb:45132",
+      "type": "movie",
+      "name": "Super",
+      "poster": "https://image.tmdb.org/t/p/w500/pjk007kzsiKMiAhQeJuD4v0WVQk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5OGrBmi0fWAE6b1R6uv5EnuWOaL.jpg",
+      "year": "2010",
+      "imdbRating": "3.4",
+      "genres": [
+        "Comédie",
+        "Action",
+        "Drame",
+        "Short"
+      ],
+      "director": [
+        "James Gunn"
+      ],
+      "cast": [
+        "Rainn Wilson",
+        "Elliot Page",
+        "Liv Tyler",
+        "Kevin Bacon",
+        "Gregg Henry",
+        "Michael Rooker"
+      ],
+      "description": "Un homme décide de devenir un super-héros après avoir vu sa femme succomber aux charmes d'un dealer. Mais il n'a pas de super-pouvoirs...",
+      "runtime": "1h36",
+      "logo": "https://image.tmdb.org/t/p/w500/lmRYwVoN243KNEayYEJPqQOlNRn.png"
+    },
+    {
+      "id": "tmdb:646097",
+      "type": "movie",
+      "name": "Rebel Ridge",
+      "poster": "https://image.tmdb.org/t/p/w500/8fQFQRgkF3wDw2L2uVakSOlvvwj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cyKH7pDFlxIXluqRyNoHHEpxSDX.jpg",
+      "year": "2024",
+      "imdbRating": "3.4",
+      "genres": [
+        "Crime",
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Jeremy Saulnier"
+      ],
+      "cast": [
+        "Aaron Pierre",
+        "Don Johnson",
+        "AnnaSophia Robb",
+        "Emory Cohen",
+        "David Denman",
+        "Oscar Gale"
+      ],
+      "description": "Un ex-Marine s'attaque à la corruption dans une petite ville des États-Unis quand la police saisit injustement le sac contenant l'argent prévu pour payer la caution de son cousin.",
+      "runtime": "2h12",
+      "logo": "https://image.tmdb.org/t/p/w500/hkaOa76w0S5zsgjPiomUWzwjyYC.png"
+    },
+    {
+      "id": "tmdb:315837",
+      "type": "movie",
+      "name": "Ghost in the Shell",
+      "poster": "https://image.tmdb.org/t/p/w500/hqZFvDYiCKOXbfSZuIEJUuQW29n.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dDVqfmCzSy3TKSmiS2pJ9QB5E3P.jpg",
+      "year": "2017",
+      "imdbRating": "3.3",
+      "genres": [
+        "Science-Fiction",
+        "Drame",
+        "Action"
+      ],
+      "director": [
+        "Rupert Sanders"
+      ],
+      "cast": [
+        "Scarlett Johansson",
+        "Takeshi Kitano",
+        "Pilou Asbæk",
+        "Michael Pitt",
+        "Chin Han",
+        "Juliette Binoche"
+      ],
+      "description": "Dans un futur proche, le Major est unique en son genre : humaine sauvée d’un terrible accident, son corps aux capacités cybernétiques lui permet de lutter contre les plus dangereux criminels. Face à une menace d’un nouveau genre qui permet de pirater et de contrôler les esprits, le Major est la seule à pouvoir la combattre. Alors qu’elle s’apprête à affronter ce nouvel ennemi, elle découvre qu’on lui a menti : sa vie n’a pas été sauvée, on la lui a volée. Rien ne l’arrêtera pour comprendre son passé, trouver les responsables et les empêcher de recommencer avec d’autres.",
+      "runtime": "1h47",
+      "logo": "https://image.tmdb.org/t/p/w500/gXvwRzOB2emUNtLBFTT8EJnUux1.png"
+    },
+    {
+      "id": "tmdb:561",
+      "type": "movie",
+      "name": "Constantine",
+      "poster": "https://image.tmdb.org/t/p/w500/wtkbdBdscJqZws61NFuqJmVS0m3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/26OvB15pqk3eiKJG8LrXDVzO7Mw.jpg",
+      "year": "2005",
+      "imdbRating": "3.3",
+      "genres": [
+        "Action",
+        "Horreur"
+      ],
+      "director": [
+        "Francis Lawrence"
+      ],
+      "cast": [
+        "Keanu Reeves",
+        "Rachel Weisz",
+        "Shia LaBeouf",
+        "Djimon Hounsou",
+        "Max Baker",
+        "Pruitt Taylor Vince"
+      ],
+      "description": "John Constantine, extralucide anticonformiste, qui a littéralement fait un aller-retour aux enfers, doit aider Katelin Dodson, une policière incrédule, à lever le voile sur le suicide mystérieux de sa sœur jumelle. Cette enquête leur fera découvrir l'univers d'anges et de démons qui hantent les sous-sols de Los Angeles d'aujourd'hui.",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/sPRIMmlTCqc4vloDkSffVY3beW.png"
+    },
+    {
+      "id": "tmdb:7191",
+      "type": "movie",
+      "name": "Cloverfield",
+      "poster": "https://image.tmdb.org/t/p/w500/zyzGgP5IIkO9d3PQz7me0pPl2vm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6ms6RdNcQUAnjBY26aM85xC2wV0.jpg",
+      "year": "2008",
+      "imdbRating": "3.3",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science-Fiction",
+        "Short"
+      ],
+      "director": [
+        "Matt Reeves"
+      ],
+      "cast": [
+        "Lizzy Caplan",
+        "Jessica Lucas",
+        "T.J. Miller",
+        "Michael Stahl-David",
+        "Mike Vogel",
+        "Odette Annable"
+      ],
+      "description": "New York - Ses amis et relations ont organisé chez Rob une fête en l'honneur de son départ pour le Japon. Parmi eux, Hud, vidéaste d'un soir, chargé d'immortaliser l'événement. Soudain une violente secousse ébranle l'immeuble. Les invités se précipitent dans la rue où une foule inquiète s'est rassemblée en quelques instants. Une ombre immense se profile dans le ciel, un grondement sourd se fait entendre... et la tête de la Statue de la Liberté s'effondre brutalement sur la chaussée. L'attaque du siècle vient de commencer...",
+      "runtime": "1h25",
+      "logo": "https://image.tmdb.org/t/p/w500/x0VAIqEwC3EeJ83RstYOCCz50CR.png"
+    },
+    {
+      "id": "tmdb:534",
+      "type": "movie",
+      "name": "Terminator Renaissance",
+      "poster": "https://image.tmdb.org/t/p/w500/4MD4ZP0fNpm3UyKyMYgPwOy8Mgv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/m9yHpYz4GcEtmHJW4rvQIrF891h.jpg",
+      "year": "2009",
+      "imdbRating": "3.3",
+      "genres": [
+        "Action",
+        "Science-Fiction",
+        "Thriller"
+      ],
+      "director": [
+        "McG"
+      ],
+      "cast": [
+        "Christian Bale",
+        "Sam Worthington",
+        "Moon Bloodgood",
+        "Helena Bonham Carter",
+        "Anton Yelchin",
+        "Common"
+      ],
+      "description": "En 2018, après l'apocalypse qui a vu s'affronter les hommes et les robots, John Connor est devenu le chef de la résistance humaine contre Skynet et son armée de Terminators. Sa vision du monde est pourtant remise en cause par l'apparition de Marcus Wright, un inconnu qui se souvient seulement de s'être trouvé dans le quartier des condamnés à mort. Connor doit découvrir si Marcus a été envoyé du futur ou s'il est un rescapé du passé. Alors que Skynet prépare l'assaut final, Connor et Marcus s'engagent dans une odyssée qui va les mener au cœur même des opérations de Skynet. Ils y perceront le terrible secret qui se cache derrière l'annihilation programmée de l'humanité tout entière…",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/vylWOwn6kePOtmOiVLrrlmmkI7h.png"
+    },
+    {
+      "id": "tmdb:134374",
+      "type": "movie",
+      "name": "No Pain No Gain",
+      "poster": "https://image.tmdb.org/t/p/w500/dQ3rccFoj2asMRyOYJE3wUduxfv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/86rDAqR5oDu29qZTGyk88VdB2lI.jpg",
+      "year": "2013",
+      "imdbRating": "3.3",
+      "genres": [
+        "Comédie",
+        "Crime",
+        "Action"
+      ],
+      "director": [
+        "Michael Bay"
+      ],
+      "cast": [
+        "Mark Wahlberg",
+        "Dwayne Johnson",
+        "Anthony Mackie",
+        "Tony Shalhoub",
+        "Ed Harris",
+        "Rob Corddry"
+      ],
+      "description": "Basé sur une histoire vraie et inspiré d'articles de presse parus dans le Miami New Times, Pain and gain suit les aventures criminelles du \"Sun Gym gang\". Composé de bodybuilders dopés aux anabolisants, le gang s'est rendu célèbre au milieu des années 90 par ses multiples vols, enlèvements et meurtres.",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/98OP8DUkr4gQiKG0QmmLa32WVFl.png"
+    },
+    {
+      "id": "tmdb:1005331",
+      "type": "movie",
+      "name": "Carry-On",
+      "poster": "https://image.tmdb.org/t/p/w500/tqudmLEboBKhAIpusqZKio58VE0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6RcBQkC2PZJwwbFugqzgvN3moYL.jpg",
+      "year": "2024",
+      "imdbRating": "3.3",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "director": [
+        "Jaume Collet-Serra"
+      ],
+      "cast": [
+        "Taron Egerton",
+        "Jason Bateman",
+        "Sofia Carson",
+        "Danielle Deadwyler",
+        "Theo Rossi",
+        "Logan Marshall-Green"
+      ],
+      "description": "La veille de Noël, un agent de sécurité fonce pour déjouer les plans d'un mystérieux voyageur qui le force à laisser passer un objet dangereux.",
+      "runtime": "2h00",
+      "logo": "https://image.tmdb.org/t/p/w500/7A6O7b4XOxJyUrGzu6UDdsxedi7.png"
+    },
+    {
+      "id": "tmdb:9319",
+      "type": "movie",
+      "name": "Le Dernier Samaritain",
+      "poster": "https://image.tmdb.org/t/p/w500/8sDptUoj33ap7kccHFnw6TgNvMs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8AZ8Hjcr4Jr1eR93OW70g9jjUr9.jpg",
+      "year": "1991",
+      "imdbRating": "3.3",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Tony Scott"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Damon Wayans",
+        "Chelsea Field",
+        "Noble Willingham",
+        "Taylor Negron",
+        "Danielle Harris"
+      ],
+      "description": "Détective privé alcoolique et cynique, Joe Hallenbeck fut autrefois un héros des services secrets. Sa carrière a tourné court, tout comme celle du footballeur noir Jimmy Dix, qu’il rencontre dans une boîte de nuit où se produit Cory. L’assassinat de cette dernière va lancer les deux hommes dans une enquête difficile et musclée…",
+      "runtime": "1h46",
+      "logo": "https://image.tmdb.org/t/p/w500/hfDZIM2IQRS9plSdivRq9fVz5sB.png"
+    },
+    {
+      "id": "tmdb:280180",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills : Axel F.",
+      "poster": "https://image.tmdb.org/t/p/w500/yr9vkWlXuysDeb5A7i82E6sPaab.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rrwt0u1rW685u9bJ9ougg5HJEHC.jpg",
+      "year": "2024",
+      "imdbRating": "3.3",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime"
+      ],
+      "director": [
+        "Mark Molloy"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Joseph Gordon-Levitt",
+        "Taylour Paige",
+        "Judge Reinhold",
+        "John Ashton",
+        "Paul Reiser"
+      ],
+      "description": "Quarante ans après sa première enquête mémorable à Beverly Hills, le flic de Détroit Axel Foley revient faire ce qu'il fait le mieux : résoudre les crimes et semer le chaos.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/gM0WvcLCcYW20GZnmvAERfrttag.png"
+    },
+    {
+      "id": "tmdb:4105",
+      "type": "movie",
+      "name": "Black Rain",
+      "poster": "https://image.tmdb.org/t/p/w500/qNtzC4qQBoSVf81lNZ5xDkNMCqL.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4xAxAvrcnelGOBA5mQsW0aEHpqW.jpg",
+      "year": "1989",
+      "imdbRating": "3.3",
+      "genres": [
+        "Drame",
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Ridley Scott"
+      ],
+      "cast": [
+        "Michael Douglas",
+        "Andy García",
+        "Ken Takakura",
+        "Kate Capshaw",
+        "松田優作",
+        "神山繁"
+      ],
+      "description": "Un policier new-yorkais est chargé d'escorter à Osaka un criminel japonais. Rapidement, ce dernier s'échappe. Le représentant de l'ordre va alors avoir beaucoup de mal à le retrouver dans un pays dont il ignore les us et coutumes.",
+      "runtime": "2h05",
+      "logo": "https://image.tmdb.org/t/p/w500/8jQVdqwVw8ORJ2jL9htn5S0RdS5.png"
+    },
+    {
+      "id": "tmdb:81005",
+      "type": "movie",
+      "name": "Jack le chasseur de géants",
+      "poster": "https://image.tmdb.org/t/p/w500/yHTPIpDydusmahilkR6MV4YxzgR.jpg",
+      "background": "https://image.tmdb.org/t/p/original/djSAd6HUm66eVNC3PiZbYwOpD5A.jpg",
+      "year": "2013",
+      "imdbRating": "3.2",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame"
+      ],
+      "director": [
+        "Bryan Singer"
+      ],
+      "cast": [
+        "Nicholas Hoult",
+        "Eleanor Tomlinson",
+        "Ewan McGregor",
+        "Stanley Tucci",
+        "Ian McShane",
+        "Bill Nighy"
+      ],
+      "description": "Un jeune ouvrier agricole du nom de Jack ouvre involontairement un passage entre notre monde et celui d’une terrifiante race de géants. Débarquant sur la Terre pour la première fois depuis des siècles et des siècles, les géants n’ont qu’un objectif : reprendre le territoire qu’ils ont jadis perdu. Jack doit tout mettre en œuvre pour les arrêter. Il va devenir malgré lui un guerrier valeureux. Le salut de l’humanité repose sur ses épaules…",
+      "runtime": "1h50",
+      "logo": "https://image.tmdb.org/t/p/w500/mrjn4J4RmFubeu3PmWgisKzOQRJ.png"
+    },
+    {
+      "id": "tmdb:136797",
+      "type": "movie",
+      "name": "Need for Speed",
+      "poster": "https://image.tmdb.org/t/p/w500/kOaszlaotCGOu9BhFeeATnGkVMV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yII2mcnxUEPNAC9Urz0FvfS0P9f.jpg",
+      "year": "2014",
+      "imdbRating": "3.1",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drame",
+        "Thriller"
+      ],
+      "director": [
+        "Scott Waugh"
+      ],
+      "cast": [
+        "Aaron Paul",
+        "Dominic Cooper",
+        "Imogen Poots",
+        "Kid Cudi",
+        "Rami Malek",
+        "Ramón Rodríguez"
+      ],
+      "description": "À sa sortie de prison, un pilote clandestin trahi par son riche associé participe à une course à travers le pays et prépare sa revanche. Ayant eu vent de ce projet, le traître promet, dès le début de la course, une prime énorme à qui l'empêchera d'aller plus loin.",
+      "runtime": "2h05",
+      "logo": "https://image.tmdb.org/t/p/w500/vD7Bf5xF32b8DL83JnGZ82l8zc2.svg"
+    },
+    {
+      "id": "tmdb:96",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills 2",
+      "poster": "https://image.tmdb.org/t/p/w500/A4yhgMSb0TuyWhUxbW2SvFXzrC4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bIA65PCRtIQfBvIoKohJbtOPl3M.jpg",
+      "year": "1987",
+      "imdbRating": "3.1",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime",
+        "Short"
+      ],
+      "director": [
+        "Tony Scott"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "John Ashton",
+        "Jürgen Prochnow",
+        "Ronny Cox",
+        "Brigitte Nielsen"
+      ],
+      "description": "Axel Foley est de retour à Beverly Hills. Cette fois, il vient prêter main forte à ses collègues et amis pour résoudre une affaire de vol de bijoux.",
+      "runtime": "1h43",
+      "logo": "https://image.tmdb.org/t/p/w500/bxHr3Q0ajkiRMjeq47tSw7IQRtF.png"
+    },
+    {
+      "id": "tmdb:725201",
+      "type": "movie",
+      "name": "The Gray Man",
+      "poster": "https://image.tmdb.org/t/p/w500/cxHQB6LJz6EUEnnYfBv9o3XWdPe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/27Mj3rFYP3xqFy7lnz17vEd8Ms.jpg",
+      "year": "2022",
+      "imdbRating": "3.0",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Joe Russo",
+        "Anthony Russo"
+      ],
+      "cast": [
+        "Ryan Gosling",
+        "Chris Evans",
+        "Ana de Armas",
+        "Billy Bob Thornton",
+        "Jessica Henwick",
+        "Dhanush"
+      ],
+      "description": "\"Gray Man\" est le nom de code de l’agent de la CIA Court Gentry, alias Sierra Six. Recruté dans une prison fédérale par son officier traitant, Donald Fitzroy, Gentry était autrefois un redoutable tueur à gages à la solde de la CIA. Mais la situation a radicalement changé : Gentry est désormais la cible de Lloyd Hansen, ancien comparse de la CIA, totalement déterminé à le traquer à travers le monde pour l’éliminer. L’agent Dani Miranda le couvre – et il en aura besoin.",
+      "runtime": "2h02",
+      "logo": "https://image.tmdb.org/t/p/w500/xoVawJ6i0qDQ8xQ21AjGVYsnSbC.png"
+    },
+    {
+      "id": "tmdb:877817",
+      "type": "movie",
+      "name": "Wolfs",
+      "poster": "https://image.tmdb.org/t/p/w500/rpcXVgPne8vJzgJnbEguQlycHUj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uXDwP5qPhuRyPpQ7WkLbE6t2z5W.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Crime",
+        "Comédie",
+        "Action"
+      ],
+      "director": [
+        "Jon Watts"
+      ],
+      "cast": [
+        "George Clooney",
+        "Brad Pitt",
+        "Austin Abrams",
+        "Amy Ryan",
+        "Poorna Jagannathan",
+        "Zlatko Burić"
+      ],
+      "description": "Les chemins de deux fixeurs rivaux se croisent quand ils sont chargés de couvrir le faux pas d'une haute fonctionnaire new-yorkaise. Au cours d'une nuit explosive, ils doivent mettre de côté leurs griefs (et leur ego) pour accomplir leur mission.",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/qQtmGtqfl3k7UrRGldOyvztcndO.png"
+    },
+    {
+      "id": "tmdb:1160018",
+      "type": "movie",
+      "name": "Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/xj4kJej7Bdfw6EjhEMESU3XY7JI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/m7gOuspedLcIZyQ5b40S7XMRChK.jpg",
+      "year": "2024",
+      "imdbRating": "3.0",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Drame",
+        "Short"
+      ],
+      "director": [
+        "Nikhil Nagesh Bhat"
+      ],
+      "cast": [
+        "Lakshya Lalwani",
+        "Raghav Juyal",
+        "Tanya Maniktala",
+        "Ashish Vidhyarthi",
+        "Abhishek Chauhan",
+        "Harsh Chhaya"
+      ],
+      "description": "Dans un train pour New Delhi, une bande de voleurs prend en otage les passagers, sans savoir qu’un homme bien plus redoutable qu’eux est à bord. Quand ils s’en prennent à la femme qu’il aime, Amrit, membre des forces spéciales, répond par une vengeance sans merci.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/kdry2LAkDhiGMKdfXZGwM9figRj.png"
+    },
+    {
+      "id": "tmdb:240832",
+      "type": "movie",
+      "name": "Lucy",
+      "poster": "https://image.tmdb.org/t/p/w500/hLKoSzjOPC8tQaA2AmFvDjBbKTw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ozVwXlfxqNsariipatGwa5px3Pm.jpg",
+      "year": "2014",
+      "imdbRating": "2.9",
+      "genres": [
+        "Action",
+        "Science-Fiction",
+        "Short"
+      ],
+      "director": [
+        "Luc Besson"
+      ],
+      "cast": [
+        "Scarlett Johansson",
+        "Morgan Freeman",
+        "Choi Min-sik",
+        "Amr Waked",
+        "Julian Rhind-Tutt",
+        "Pilou Asbæk"
+      ],
+      "description": "Lucy, une jeune étudiante ordinaire, se fait kidnapper. À son réveil, elle découvre que les membres d’une organisation criminelle lui ont inséré un paquet de drogue dans l’estomac dans le but de lui faire passer la frontière. Mais lorsqu’à la suite d’un coup porté à son ventre le produit se déverse dans son corps et s’implante dans son système, la jeune femme en subit les étonnants effets. Cette substance synthétique lui permet de décupler ses capacités intellectuelles et physiques. Devenue un génie autant qu’une véritable machine de guerre, Lucy dispose désormais de pouvoirs illimités et surhumains…",
+      "runtime": "1h29",
+      "logo": "https://image.tmdb.org/t/p/w500/ax3ZZ1zY19ChEkZ45Ie7OxjTabt.png"
+    },
+    {
+      "id": "tmdb:343611",
+      "type": "movie",
+      "name": "Jack Reacher : Never Go Back",
+      "poster": "https://image.tmdb.org/t/p/w500/yxvVAiTSfwDROzLEH8twDyWCmvb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
+      "year": "2016",
+      "imdbRating": "2.9",
+      "genres": [
+        "Action",
+        "Drame",
+        "Thriller",
+        "Crime"
+      ],
+      "director": [
+        "Edward Zwick"
+      ],
+      "cast": [
+        "Tom Cruise",
+        "Cobie Smulders",
+        "Danika Yarosh",
+        "Aldis Hodge",
+        "Patrick Heusinger",
+        "Madalyn Horcher"
+      ],
+      "description": "Jack Reacher est de retour, prêt à tout pour obtenir justice. Susan Turner, qui dirige son ancienne unité, est arrêtée pour trahison : Jack Reacher ne reculera devant rien pour prouver l’innocence de la jeune femme. Ensemble, ils sont décidés à faire éclater la vérité sur ce complot d’État.",
+      "runtime": "1h58",
+      "logo": "https://image.tmdb.org/t/p/w500/dfygxEwEk35MvzShA1amuFREssH.png"
+    },
+    {
+      "id": "tmdb:13811",
+      "type": "movie",
+      "name": "Prédictions",
+      "poster": "https://image.tmdb.org/t/p/w500/uvd0fOK5dZsZDMICflMxotedsmC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/s6h8MemlWFshLmPfd08syBpaTTK.jpg",
+      "year": "2009",
+      "imdbRating": "2.8",
+      "genres": [
+        "Action",
+        "Mystère",
+        "Science-Fiction",
+        "Thriller"
+      ],
+      "director": [
+        "Alex Proyas"
+      ],
+      "cast": [
+        "Nicolas Cage",
+        "Rose Byrne",
+        "Chandler Canterbury",
+        "Ben Mendelsohn",
+        "Nadia Townsend",
+        "Terry Camilleri"
+      ],
+      "description": "Pour fêter l'anniversaire d'une école, une cérémonie est organisée au cours de laquelle une capsule temporelle contenant des messages écrits par des enfants 50 ans auparavant est déterrée et ouverte. Chaque enfant emporte chez lui un message, mais celui du petit Caleb est illisible, car il s'agit d'une suite incohérente de chiffres. D'abord amusé, son père, statisticien, essaye de trouver une signification. Horrifié, il découvre peu à peu que chaque séquence de chiffres correspond à la date exacte d'une catastrophe récente. Lorsqu'il comprend que les 3 dernières séquences prophétisent des cataclysmes à venir, une course contre la montre commence.",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/xaYT8SERzq9PqPjUgg45U6qRP6m.png"
+    },
+    {
+      "id": "tmdb:567189",
+      "type": "movie",
+      "name": "Sans aucun remords",
+      "poster": "https://image.tmdb.org/t/p/w500/mqFZul2C3xWP1IFoXvuiHU69GmN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+      "year": "2021",
+      "imdbRating": "2.8",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Guerre"
+      ],
+      "director": [
+        "Stefano Sollima"
+      ],
+      "cast": [
+        "Michael B. Jordan",
+        "Jamie Bell",
+        "Guy Pearce",
+        "Jodie Turner-Smith",
+        "Lauren London",
+        "Brett Gelman"
+      ],
+      "description": "Un Marine des forces spéciales découvre une conspiration internationale alors qu’il cherche à obtenir justice pour le meurtre de sa femme enceinte. Lorsque des soldats russes tuent sa famille en représailles de son implication dans une opération secrète, le chef John Kelly poursuit les assassins à tout prix. En rejoignant les forces de la marine de guerre américaine aux côtés d’un confrère et d’un mystérieux agent de la CIA, la mission de Kelly révèle involontairement un complot secret qui menace d'entraîner les États-Unis et la Russie dans une guerre totale. Tiraillé entre honneur et loyauté envers son pays, Kelly doit combattre ses ennemis sans aucun remords s’il souhaite éviter le désastre et révéler les puissants derrière le complot.",
+      "runtime": "1h49",
+      "logo": "https://image.tmdb.org/t/p/w500/jci0FQsJTe2gjKXtEQBvFufDA3H.png"
+    },
+    {
+      "id": "tmdb:467938",
+      "type": "movie",
+      "name": "Revenge",
+      "poster": "https://image.tmdb.org/t/p/w500/a1wuUTjXvWhBYuVT21BPZ31YAB2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/31HKH7MpovHT4bTvMpnwbWl1d1G.jpg",
+      "year": "2018",
+      "imdbRating": "2.8",
+      "genres": [
+        "Action",
+        "Horreur",
+        "Thriller"
+      ],
+      "director": [
+        "Coralie Fargeat"
+      ],
+      "cast": [
+        "Matilda Lutz",
+        "Kevin Janssens",
+        "Vincent Colombe",
+        "Guillaume Bouchède",
+        "Jean-Louis Tribes",
+        "Barbara Gateau"
+      ],
+      "description": "Trois riches chefs d’entreprise quarantenaires, mariés et bons pères de famille se retrouvent pour leur partie de chasse annuelle dans une zone désertique de canyons. Un moyen pour eux d’évacuer leur stress et d’affirmer leur virilité armes à la main. Mais cette fois, l’un d’eux est venu avec sa jeune maîtresse, une lolita ultra sexy qui attise rapidement la convoitise des deux autres... Les choses dérapent... Dans l'enfer du désert, la jeune femme laissée pour morte reprend vie... Et la partie de chasse se transforme en une impitoyable chasse à l'homme...",
+      "runtime": "1h48",
+      "logo": "https://image.tmdb.org/t/p/w500/dt6XfKIRxK722Vfw6rIxySagUaj.png"
+    },
+    {
+      "id": "tmdb:522931",
+      "type": "movie",
+      "name": "Hitman & Bodyguard 2",
+      "poster": "https://image.tmdb.org/t/p/w500/dFMu4ZfJf0tfgJkR0x3sRpeG0Rj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bjIPzixuWnOzxDG25WaXKuy9lYZ.jpg",
+      "year": "2021",
+      "imdbRating": "2.7",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime",
+        "Thriller",
+        "Short"
+      ],
+      "director": [
+        "Patrick Hughes"
+      ],
+      "cast": [
+        "Ryan Reynolds",
+        "Samuel L. Jackson",
+        "Salma Hayek Pinault",
+        "Antonio Banderas",
+        "Morgan Freeman",
+        "Frank Grillo"
+      ],
+      "description": "Michael Bryce, le célèbre garde du corps, a besoin de repos. Il décide d’entamer un \" voyage spirituel \" en Italie, loin des armes et de la violence. C’est à Capri que Sonia, la femme de Darius Kincaid, vient le chercher pour qu’il l’aide à libérer son mari des griffes de Carlo, un caïd mafieux. Michael accepte – à condition de ne toucher à aucune arme à feu… Ils infiltrent le QG de l’organisation criminelle, faisant échouer au passage une opération de surveillance des autorités, ce qui va leur attirer un autre genre d’ennuis… Le trio va vite se retrouver au cœur d’un chassé-croisé rempli de criminels et d’officiels qui ont tous d’excellentes raisons de leur en vouloir. Est-il vraiment possible de sauver sa peau et le monde sans tirer un seul coup de feu ?",
+      "runtime": "1h40",
+      "logo": "https://image.tmdb.org/t/p/w500/zAgXLOZiCTkmXahbzh3kxrCanzD.png"
+    },
+    {
+      "id": "tmdb:443791",
+      "type": "movie",
+      "name": "Underwater",
+      "poster": "https://image.tmdb.org/t/p/w500/5a1WZ8qgcxw9gLJD7JQVfHeY0NN.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tya34K7D4jtDrVbvExyvTx97Aen.jpg",
+      "year": "2020",
+      "imdbRating": "2.6",
+      "genres": [
+        "Horreur",
+        "Science-Fiction",
+        "Action",
+        "Aventure",
+        "Short"
+      ],
+      "director": [
+        "William Eubank"
+      ],
+      "cast": [
+        "Kristen Stewart",
+        "Vincent Cassel",
+        "Mamoudou Athie",
+        "T.J. Miller",
+        "John Gallagher Jr.",
+        "Jessica Henwick"
+      ],
+      "description": "Une équipe scientifique sous-marine fait face à un tremblement de terre. Sous l'eau, ils vont devoir essayer de survivre.",
+      "runtime": "1h35",
+      "logo": "https://image.tmdb.org/t/p/w500/9Qd6S3JeKtYuoEqS22hyKfzVInK.png"
+    },
+    {
+      "id": "tmdb:868759",
+      "type": "movie",
+      "name": "Ghosted",
+      "poster": "https://image.tmdb.org/t/p/w500/tds2CSzH5tPAc9CbeUDRtSVzFhs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pp3QUzMXfP7q0ocmE1b15FH6PQ6.jpg",
+      "year": "2023",
+      "imdbRating": "2.6",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Romance"
+      ],
+      "director": [
+        "Dexter Fletcher"
+      ],
+      "cast": [
+        "Chris Evans",
+        "Ana de Armas",
+        "Adrien Brody",
+        "Mike Moh",
+        "Amy Sedaris",
+        "Tate Donovan"
+      ],
+      "description": "Cole, un agriculteur sans histoire, tombe éperdument amoureux de la mystérieuse Sadie, mais découvre avec stupeur qu'elle est agent secret. Avant même un second rencard, Cole et Sadie vont être embarqués dans une aventure au-delà des frontières lors de laquelle ils vont devoir sauver le monde.",
+      "runtime": "1h56",
+      "logo": "https://image.tmdb.org/t/p/w500/80qAhzlfQiYdcy1cjn0hsD3a0sM.png"
+    },
+    {
+      "id": "tmdb:306",
+      "type": "movie",
+      "name": "Le Flic de Beverly Hills 3",
+      "poster": "https://image.tmdb.org/t/p/w500/hnBhVTb8xwxNFA02GwI43yQ4sVw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wnxg3DsHRlSyJNHpVwwqWdOedGN.jpg",
+      "year": "1994",
+      "imdbRating": "2.6",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Crime",
+        "Short"
+      ],
+      "director": [
+        "John Landis"
+      ],
+      "cast": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "Héctor Elizondo",
+        "Timothy Carhart",
+        "John Saxon",
+        "Jon Tenney"
+      ],
+      "description": "Dans cette nouvelle aventure Axel Foley va mener l'enquête dans le célèbre parc d'attractions de Wonderworld à Beverly Hills. Il recherche le dangereux commanditaire d'une bande de voleurs de voitures responsable de la mort de son ami Todd.",
+      "runtime": "1h45",
+      "logo": "https://image.tmdb.org/t/p/w500/nBybdbzcWUJbXU8nwDLZ2kRrnlZ.png"
+    },
+    {
+      "id": "tmdb:777443",
+      "type": "movie",
+      "name": "The Electric State",
+      "poster": "https://image.tmdb.org/t/p/w500/gKukfmDFwpXVazrzq0vQaRHv6zh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
+      "year": "2025",
+      "imdbRating": "2.6",
+      "genres": [
+        "Science-Fiction",
+        "Aventure",
+        "Action"
+      ],
+      "director": [
+        "Joe Russo",
+        "Anthony Russo"
+      ],
+      "cast": [
+        "Millie Bobby Brown",
+        "Chris Pratt",
+        "Ke Huy Quan",
+        "Jason Alexander",
+        "Woody Norman",
+        "Giancarlo Esposito"
+      ],
+      "description": "Une adolescente orpheline prend la route avec un mystérieux robot pour retrouver son frère disparu et ne tarde pas à faire équipe avec un contrebandier et son malicieux acolyte.",
+      "runtime": "2h05",
+      "logo": "https://image.tmdb.org/t/p/w500/3ytYkpRKXPdUO90Jom4QOkVTRLY.png"
+    },
+    {
+      "id": "tmdb:18360",
+      "type": "movie",
+      "name": "La Nuit au musée 2",
+      "poster": "https://image.tmdb.org/t/p/w500/2rBu8GuaDag4AzDi5x9lbLB89Y7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kwTfPnP9f8ZyXmSniDcwonJWixY.jpg",
+      "year": "2009",
+      "imdbRating": "2.5",
+      "genres": [
+        "Aventure",
+        "Action",
+        "Comédie",
+        "Familial"
+      ],
+      "director": [
+        "Shawn Levy"
+      ],
+      "cast": [
+        "Ben Stiller",
+        "Amy Adams",
+        "Owen Wilson",
+        "Hank Azaria",
+        "Robin Williams",
+        "Christopher Guest"
+      ],
+      "description": "Le plus grand musée du monde vient d'accueillir de nouvelles expositions, et parmi elles, l'ancestrale tablette des pharaons aux pouvoirs magiques. Désormais la nuit, toutes les animations du musée prennent vie, y compris le maléfique pharaon Kahmunrah et ses acolytes Al Capone, Ivan le Terrible et Napoléon. Le gardien de musée Larry et ses vieux amis le Président Roosevelt, Attila, T-Rex, le romain Octavius et Jedediah le cowboy vont devoir livrer une bataille acharnée et délirante contre ces animations malintentionnées.",
+      "runtime": "1h47",
+      "logo": "https://image.tmdb.org/t/p/w500/uVqG1t2WieVwcH5zqQDJtLC1wxP.png"
+    },
+    {
+      "id": "tmdb:359410",
+      "type": "movie",
+      "name": "Road House",
+      "poster": "https://image.tmdb.org/t/p/w500/xAHthaVYtwADKYORPkLzd6MgX0P.jpg",
+      "background": "https://image.tmdb.org/t/p/original/clFFCapyGpE7KD4Jsu5pUbFBZF4.jpg",
+      "year": "2024",
+      "imdbRating": "2.5",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Doug Liman"
+      ],
+      "cast": [
+        "Jake Gyllenhaal",
+        "Billy Magnussen",
+        "Daniela Melchior",
+        "Jessica Williams",
+        "Conor McGregor",
+        "Joaquim de Almeida"
+      ],
+      "description": "Dalton, un ancien combattant de l'UFC tente d'échapper à son sombre passé et à son penchant pour la violence. Il est repéré par Frankie, propriétaire d'un relais routier dans les Keys de Floride. Elle l'engage comme nouveau videur dans l'espoir d'empêcher un gang violent, travaillant pour le patron du crime Brandt, de détruire son bar bien-aimé.",
+      "runtime": "2h01",
+      "logo": "https://image.tmdb.org/t/p/w500/ttCXZlXfWU6whvpNXmhS4aRVg6A.png"
+    },
+    {
+      "id": "tmdb:848326",
+      "type": "movie",
+      "name": "Rebel Moon - Partie 1 : Enfant du feu",
+      "poster": "https://image.tmdb.org/t/p/w500/4MsQK22Tj0NVJxXkL0XZCT9iGna.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sRLC052ieEzkQs9dEtPMfFxYkej.jpg",
+      "year": "2023",
+      "imdbRating": "2.5",
+      "genres": [
+        "Science-Fiction",
+        "Action",
+        "Aventure"
+      ],
+      "director": [
+        "Zack Snyder"
+      ],
+      "cast": [
+        "Sofia Boutella",
+        "Michiel Huisman",
+        "Ed Skrein",
+        "Djimon Hounsou",
+        "Bae Doo-na",
+        "Staz Nair"
+      ],
+      "description": "Menacé par les forces impitoyables du Monde-Mère, un paisible village d'une lune lointaine place tous ses espoirs de survie entre les mains d'une mystérieuse étrangère.",
+      "runtime": "2h14",
+      "logo": "https://image.tmdb.org/t/p/w500/ntAVBqacZLGRcKaDMj7h8Elph3p.png"
+    },
+    {
+      "id": "tmdb:34851",
+      "type": "movie",
+      "name": "Predators",
+      "poster": "https://image.tmdb.org/t/p/w500/qrW8Y3FyxtntpZBi7RmL5NSvf2j.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yVSgw4UyXWg0Edl7KMehdhhgIwL.jpg",
+      "year": "2010",
+      "imdbRating": "2.4",
+      "genres": [
+        "Science-Fiction",
+        "Action",
+        "Thriller"
+      ],
+      "director": [
+        "Nimród Antal"
+      ],
+      "cast": [
+        "Adrien Brody",
+        "Topher Grace",
+        "Alice Braga",
+        "Walton Goggins",
+        "Oleg Taktarov",
+        "Laurence Fishburne"
+      ],
+      "description": "Royce, un mercenaire, se retrouve obligé de mener un groupe de combattants d’élite sur une planète étrangère. Ils vont vite comprendre qu’ils ont été rassemblés pour servir de gibier. A une exception près, tous sont des tueurs implacables – des mercenaires, des yakuzas, des condamnés, des membres d’escadrons de la mort ; des « prédateurs » humains qui sont à présent systématiquement traqués et éliminés par une nouvelle génération de Predators extraterrestres. Voici l’affrontement sans pitié de tueurs absolus…",
+      "runtime": "1h47",
+      "logo": "https://image.tmdb.org/t/p/w500/hTBtaqHzt96YJacgGZyy7LCJpdI.png"
+    },
+    {
+      "id": "tmdb:2110",
+      "type": "movie",
+      "name": "Wasabi",
+      "poster": "https://image.tmdb.org/t/p/w500/7TbnpjIKzq5OKUyF72rcwNDyI5f.jpg",
+      "background": "https://image.tmdb.org/t/p/original/kSpfkuIykUsXr6XSU8NdyqiVcR4.jpg",
+      "year": "2001",
+      "imdbRating": "2.3",
+      "genres": [
+        "Drame",
+        "Action",
+        "Comédie",
+        "Short"
+      ],
+      "director": [
+        "Gérard Krawczyk"
+      ],
+      "cast": [
+        "Jean Reno",
+        "Ryôko Hirosue",
+        "Michel Muller",
+        "Carole Bouquet",
+        "Yoshi Oida",
+        "Christian Sinniger"
+      ],
+      "description": "Flic solitaire au grand cœur mais aux méthodes parfois musclées, l'inspecteur Hubert se retrouve en vacances forcées après avoir rossé le fils du préfet. Un jour, il reçoit le coup de fil d'un notaire qui lui annonce que Miko, la femme de sa vie disparue vingt ans auparavant, vient de mourir dans d'étranges circonstances. Seul légataire testamentaire, Hubert débarque au Japon, accueilli par son ancien équipier, pour découvrir ce dont il a hérité.",
+      "runtime": "1h35",
+      "logo": "https://image.tmdb.org/t/p/w500/oqoK4O6r6Jq5XKUi5ES3MP4t5dw.png"
+    },
+    {
+      "id": "tmdb:957452",
+      "type": "movie",
+      "name": "The Crow",
+      "poster": "https://image.tmdb.org/t/p/w500/gEeLJ1F8SnLZk6q8PEAZ3qjWVdP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
+      "year": "2024",
+      "imdbRating": "2.2",
+      "genres": [
+        "Action",
+        "Horreur"
+      ],
+      "director": [
+        "Rupert Sanders"
+      ],
+      "cast": [
+        "Bill Skarsgård",
+        "FKA twigs",
+        "Danny Huston",
+        "Josette Simon",
+        "Laura Birn",
+        "Sami Bouajila"
+      ],
+      "description": "La veille de leur mariage, Eric Draven et Shelly Webster sont sauvagement assassinés. Un an plus tard, un corbeau ramène Eric à la vie au coeur d'une ville plongée dans les ténèbres. Eric va se laisser conduire là où sa vengeance l'appelle. Pour que justice soit faite. Pour l'amour de Shelly.",
+      "runtime": "1h51",
+      "logo": "https://image.tmdb.org/t/p/w500/w5eIIzP5eovhWrbFUjH0FSevcpU.png"
+    },
+    {
+      "id": "tmdb:47964",
+      "type": "movie",
+      "name": "Die Hard : Belle journée pour mourir",
+      "poster": "https://image.tmdb.org/t/p/w500/aBo2EsfKCdcZelx1uFoTg6l0fA2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wFUkS5cnMf3I8ysIPWzIXpTsuR7.jpg",
+      "year": "2013",
+      "imdbRating": "2.1",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Short"
+      ],
+      "director": [
+        "John Moore"
+      ],
+      "cast": [
+        "Bruce Willis",
+        "Jai Courtney",
+        "Sebastian Koch",
+        "Юлия Снигирь",
+        "Radivoje Bukvić",
+        "Cole Hauser"
+      ],
+      "description": "John McClane, le flic sans état d’âme, est vraiment au mauvais endroit au mauvais moment, à Moscou, pour aider son fils Jack qu’il ne voit plus. Entre la mafia russe qui veut leur faire la peau et leur combat pour éviter le déclenchement d’une guerre, les McClane découvrent que leurs méthodes pourtant bien différentes font d’eux des héros que rien ne peut arrêter.",
+      "runtime": "1h36",
+      "logo": "https://image.tmdb.org/t/p/w500/gtBlZCGVrac48aQdBRnNsUoFFyf.png"
+    },
+    {
+      "id": "tmdb:395",
+      "type": "movie",
+      "name": "Alien vs. Predator",
+      "poster": "https://image.tmdb.org/t/p/w500/eFAnRsEb4vCW3TZDjLgYz5jPeJ0.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ngZbISZ0ArJjekZeipIzWVTe47X.jpg",
+      "year": "2004",
+      "imdbRating": "2.0",
+      "genres": [
+        "Aventure",
+        "Science-Fiction",
+        "Action",
+        "Horreur",
+        "Short"
+      ],
+      "director": [
+        "Paul W. S. Anderson"
+      ],
+      "cast": [
+        "Sanaa Lathan",
+        "Lance Henriksen",
+        "Ian Whyte",
+        "Raoul Bova",
+        "Ewen Bremner",
+        "Colin Salmon"
+      ],
+      "description": "Une mystérieuse onde de chaleur, émanant du cœur de la banquise, se propage à travers l'Antarctique. Pour étudier ce phénomène, Charles Bishop Weyland finance une expédition scientifique pilotée par Alexa Woods. L'équipe découvre une pyramide renfermant des vestiges de civilisations aztèque, égyptienne et cambodgienne. Constituées d'un labyrinthe de « chambres », les issues se referment brutalement sur plusieurs membres de l'expédition. Des Predators retiennent captive une reine Alien dont ils livrent les descendants aux jeunes Predators lors de rituels.",
+      "runtime": "1h40",
+      "logo": "https://image.tmdb.org/t/p/w500/8yZaGV8MjovoOtPeQgnMFXX6GcV.png"
+    },
+    {
+      "id": "tmdb:406759",
+      "type": "movie",
+      "name": "Moonfall",
+      "poster": "https://image.tmdb.org/t/p/w500/9EAwKjI9KcJuOLChFtNwg2EBoRA.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8QpzqK3nPGxpqpKqhe6QasTGBWQ.jpg",
+      "year": "2022",
+      "imdbRating": "2.0",
+      "genres": [
+        "Science-Fiction",
+        "Aventure",
+        "Action"
+      ],
+      "director": [
+        "Roland Emmerich"
+      ],
+      "cast": [
+        "Halle Berry",
+        "Patrick Wilson",
+        "John Bradley",
+        "Charlie Plummer",
+        "于文文",
+        "Michael Peña"
+      ],
+      "description": "Un astéroïde percute la Lune. L'orbite de cette dernière est déviée et se dirige vers la Terre. Une équipe d'astronautes, composée entre autres de l'administratrice de la NASA et d'un génie scientifique, se rend sur l'astre afin de sauver la planète. Mais sur place, ils devront faire face à une force inconnue qui pourrait bien changer notre vision de l'Univers.",
+      "runtime": "2h10",
+      "logo": "https://image.tmdb.org/t/p/w500/bnpIcl9eTeB1R4jZ25m9PVNaMhv.png"
+    },
+    {
+      "id": "tmdb:365177",
+      "type": "movie",
+      "name": "Borderlands",
+      "poster": "https://image.tmdb.org/t/p/w500/tmg3ilwFTxU0V8Kcm2No1rmHf3W.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+      "year": "2024",
+      "imdbRating": "2.0",
+      "genres": [
+        "Action",
+        "Science-Fiction",
+        "Comédie",
+        "Short"
+      ],
+      "director": [
+        "Eli Roth"
+      ],
+      "cast": [
+        "Cate Blanchett",
+        "Kevin Hart",
+        "Edgar Ramírez",
+        "Jamie Lee Curtis",
+        "Ariana Greenblatt",
+        "Florian Munteanu"
+      ],
+      "description": "Lilith, une chasseuse de primes au passé trouble, revient à contrecœur sur sa planète natale, Pandore, la planète la plus chaotique de la galaxie… Sa mission est de retrouver la fille disparue d'Atlas, l'homme le plus puissant (et le plus méprisable) de l’univers. Pour y arriver Lilith va devoir former une alliance inattendue avec une joyeuse équipe de marginaux : Roland, un mercenaire chevronné ; Tiny Tina, une pré-ado avec un gros penchant pour la démolition ; Krieg, le protecteur musclé de Tina ; Tannis, une scientifique fantasque ; et Claptrap, un robot très bavard.",
+      "runtime": "1h41",
+      "logo": "https://image.tmdb.org/t/p/w500/cHYEhYhMLzyUr87WOFyDwyLhvfc.png"
+    },
+    {
+      "id": "tmdb:346910",
+      "type": "movie",
+      "name": "The Predator",
+      "poster": "https://image.tmdb.org/t/p/w500/iXLCqDuKDlezUHAYtCB6wM2D0YG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zGHdS1eLaU5wdYCJ6vY9QfQGCTo.jpg",
+      "year": "2018",
+      "imdbRating": "1.9",
+      "genres": [
+        "Science-Fiction",
+        "Action",
+        "Thriller",
+        "Short"
+      ],
+      "director": [
+        "Shane Black"
+      ],
+      "cast": [
+        "Boyd Holbrook",
+        "Trevante Rhodes",
+        "Sterling K. Brown",
+        "Jacob Tremblay",
+        "Keegan-Michael Key",
+        "Olivia Munn"
+      ],
+      "description": "Les pires prédateurs de l'univers sont maintenant plus forts et plus intelligents que jamais, ils se sont génétiquement perfectionnés grâce à l'ADN d'autres espèces. Quand un jeune garçon déclenche accidentellement leur retour sur Terre, seul un équipage hétéroclite d'anciens soldats et un professeur de science contestataire peuvent empêcher l’extinction de la race humaine.",
+      "runtime": "1h41",
+      "logo": "https://image.tmdb.org/t/p/w500/6GlUWiNfq04aWmVKsYKVNp7kWzt.png"
+    },
+    {
+      "id": "tmdb:11918",
+      "type": "movie",
+      "name": "Super-Héros Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/b6n2SJjWJNBwkZ06PSdTF2LFTYT.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iA5yYNAclwXWGe46T7gatzGYcRu.jpg",
+      "year": "2008",
+      "imdbRating": "1.8",
+      "genres": [
+        "Comédie",
+        "Action",
+        "Science-Fiction",
+        "Short"
+      ],
+      "director": [
+        "Craig Mazin"
+      ],
+      "cast": [
+        "Drake Bell",
+        "Sara Paxton",
+        "Christopher McDonald",
+        "Leslie Nielsen",
+        "Kevin Hart",
+        "Marion Ross"
+      ],
+      "description": "Lycéen timide et mal dans sa peau, Rick Ricker vit avec son oncle et sa tante depuis que ses parents ont été tués. Il est secrètement amoureux de la ravissante Jill Johnson qui, pour son malheur, a déjà un petit copain. Pendant la visite scolaire d'un laboratoire de recherche, Rick est piqué par une libellule génétiquement modifiée. Peu à peu, alors qu'il voit ses forces décuplées, il comprend qu'il est désormais pourvu de super-pouvoirs. Après s'être fabriqué un costume, il adopte sa nouvelle identité : La Libellule. Mais il lui faudra affronter un redoutable ennemi, Le Sablier, déterminé à anéantir tous ceux qui l'approchent…",
+      "runtime": "1h25",
+      "logo": "https://image.tmdb.org/t/p/w500/iBZFdNAzH6EPX2T5Ya4OEHFpUkV.png"
+    },
+    {
+      "id": "tmdb:440",
+      "type": "movie",
+      "name": "Aliens vs. Predator : Requiem",
+      "poster": "https://image.tmdb.org/t/p/w500/9IWkkaQu1Mn7Lakxm7nExdbdTyn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jXntuh47VtKLeoyBQ268rv24Igw.jpg",
+      "year": "2007",
+      "imdbRating": "1.6",
+      "genres": [
+        "Action",
+        "Science-Fiction",
+        "Thriller",
+        "Horreur",
+        "Short"
+      ],
+      "director": [
+        "Colin Strause",
+        "Greg Strause"
+      ],
+      "cast": [
+        "Steven Pasquale",
+        "Reiko Aylesworth",
+        "John Ortiz",
+        "Johnny Lewis",
+        "Ariel Gade",
+        "Kristen Hager"
+      ],
+      "description": "Un Alien issu d'un Predator, appelé Predalien, décime un vaisseau Predator, mettant hors d'état de fonctionnement ce dernier, qui s'écrase sur Terre, non loin de Gunnison, une ville américaine. Rapidement, les face-huggers retenus en captivité dans le vaisseau s'échappent, ainsi que le Predalien, contaminant peu à peu les habitants de la ville. En réponse à ce grave incident, un ancien Prédator expérimenté, surnommé Wolf, est envoyé sur Terre afin d'éliminer la menace Xénomorphe, effacer toutes les preuves concernant l'existence des Aliens et des Predators, mais surtout, éliminer le terrible danger que représente le Predalien.",
+      "runtime": "1h34",
+      "logo": "https://image.tmdb.org/t/p/w500/si9PMkpWziCCQYkhNSIrFUfKnl3.png"
+    },
+    {
+      "id": "tmdb:1242898",
+      "type": "movie",
+      "name": "Predator: Badlands",
+      "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jqmcJHbIzCDuSclT31H8sttQiaM.jpg",
+      "year": "2025",
+      "imdbRating": "N/A",
+      "genres": [
+        "Action",
+        "Science-Fiction"
+      ],
+      "director": [
+        "Dan Trachtenberg"
+      ],
+      "cast": [
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Michael Homick"
+      ],
+      "description": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
+      "logo": "https://image.tmdb.org/t/p/w500/sf4J0F4tK6RcLpTbiXdW7rPC8BU.png"
+    },
+    {
+      "id": "tmdb:533533",
+      "type": "movie",
+      "name": "Tron: Ares",
+      "poster": "https://image.tmdb.org/t/p/w500/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fg1PmKyd6kB0iAbXc7pPY7KqVaK.jpg",
+      "year": "2025",
+      "imdbRating": "N/A",
+      "genres": [
+        "Science-Fiction",
+        "Aventure",
+        "Action"
+      ],
+      "director": [
+        "Joachim Rønning"
+      ],
+      "cast": [
+        "Jared Leto",
+        "Greta Lee",
+        "Evan Peters",
+        "Gillian Anderson",
+        "Jodie Turner-Smith",
+        "Jeff Bridges"
+      ],
+      "description": "L'étonnante aventure d’un Programme hautement sophistiqué du nom de Ares, envoyé du monde numérique au monde réel pour une mission dangereuse qui marquera la première rencontre de l'humanité avec des êtres dotés d'une intelligence artificielle…",
+      "runtime": "1h59",
+      "logo": "https://image.tmdb.org/t/p/w500/tneg67lSfoeucnBoujJIHdo8Y7M.png"
+    }
+  ]
+}
