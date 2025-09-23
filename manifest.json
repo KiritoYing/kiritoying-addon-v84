@@ -1,19 +1,12 @@
 {
-  "id": "com.kiritoying.v86.mega.ultimate.working.fixed",
-  "version": "8.6.2",
-  "name": "🇫🇷 KiritoYing V86 WORKING FIXED (Genres Stremio)",
-  "description": "🎬 Films + 📺 Séries | ✅ STRUCTURE URLS CORRECTE | ✅ Format Stremio natif",
+  "id": "allocine-stremio-addon-v87",
+  "version": "8.7",
+  "name": "🇫🇷 AlloCiné Stremio",
+  "description": "Ajoute vos listes d’envies de films et séries Allociné à Stremio. Navigation par genres, tri automatique par note spectateur.",
+  "logo": "https://www.allocine.fr/favicon.ico",
   "resources": [
-    {
-      "name": "catalog",
-      "types": [
-        "movie",
-        "series"
-      ],
-      "idPrefixes": [
-        "tmdb:"
-      ]
-    }
+    "catalog",
+    "meta"
   ],
   "types": [
     "movie",
@@ -21,56 +14,49 @@
   ],
   "catalogs": [
     {
-      "id": "films_envies",
       "type": "movie",
-      "name": "🎬 FILMS ENVIES (V86 Working)",
+      "id": "films_envies",
+      "name": "🎬 Films - Envies Allociné",
       "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Action",
-            "Animation",
-            "Aventure",
-            "Comédie",
-            "Crime",
-            "Documentaire",
-            "Drame",
-            "Familial",
-            "Guerre",
-            "Histoire",
-            "Horreur",
-            "Musique",
-            "Mystère",
-            "Romance",
-            "Science-Fiction",
-            "Short",
-            "Thriller",
-            "Téléfilm",
-            "Western"
-          ],
-          "isRequired": false
-        }
+        { "name": "genre", "isRequired": false }
+      ],
+      "genres": [
+        "Aucun",
+        "Action",
+        "Comédie",
+        "Drame",
+        "Thriller",
+        "Animation",
+        "Science-fiction",
+        "Policier",
+        "Epouvante-horreur",
+        "Aventure",
+        "Romance",
+        "Famille",
+        "Documentaire",
+        "Historique",
+        "Biopic",
+        "Films Courts"    // Remplacement de "Short"
       ]
     },
     {
-      "id": "series_envies",
       "type": "series",
-      "name": "📺 SÉRIES ENVIES (V86 Working)",
+      "id": "series_envies",
+      "name": "📺 Séries - Envies Allociné",
       "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Animation",
-            "Comédie",
-            "Crime",
-            "Documentaire",
-            "Drame",
-            "Familial",
-            "Mystère",
-            "Western"
-          ],
-          "isRequired": false
-        }
+        { "name": "genre", "isRequired": false }
+      ],
+      "genres": [
+        "Aucun",
+        "Comédie",
+        "Drame",
+        "Thriller",
+        "Animation",
+        "Science-fiction",
+        "Policier",
+        "Epouvante-horreur",
+        "Romance",
+        "Historique"
       ]
     }
   ]
