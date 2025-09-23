@@ -1,6 +1,6 @@
 {
-  "id": "allocine-stremio-addon-v87",
-  "version": "8.7.0",
+  "id": "allocine-stremio-addon",
+  "version": "8.8.0",
   "name": "🇫🇷 AlloCiné Stremio",
   "description": "Ajoute vos listes d'envies de films et séries Allociné à Stremio. Navigation par genres, tri automatique par note spectateur.",
   "logo": "https://www.allocine.fr/favicon.ico",
